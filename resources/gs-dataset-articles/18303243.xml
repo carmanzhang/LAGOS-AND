@@ -1,0 +1,135 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">18303243</PMID>
+        <DateCompleted>
+            <Year>2008</Year>
+            <Month>09</Month>
+            <Day>19</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2008</Year>
+            <Month>07</Month>
+            <Day>09</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1422-6421</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>188</Volume>
+                    <Issue>1-2</Issue>
+                    <PubDate>
+                        <Year>2008</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cells, tissues, organs</Title>
+                <ISOAbbreviation>Cells Tissues Organs (Print)</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Mathematical modeling of genesis and treatment of chronic myeloid leukemia.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>236-47</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1159/000118786</ELocationID>
+            <Abstract>
+                <AbstractText>Chronic myeloid leukemia (CML) is a clonal hematopoietic disorder induced by translocation of chromosomes 9 and 22, resulting in an overproduction of myeloid blood cells. CML-specific characteristics include a latency time of several years, a period of coexistence of malignant and normal cells and an eventual dominance of the malignant clone. Different drug therapies are available, most notably imatinib, which inhibits the oncogenic BCR-ABL1 tyrosine kinase. Although the chromosomal aberration causing CML is well known, the resulting dynamic effects on the system behavior are not sufficiently understood yet. Here, we apply an already established mathematical model of hematopoietic stem cell organization. Based on parameter estimates for normal hematopoiesis, we systematically explore the changes in these parameters necessary to reproduce CML-specific characteristics regarding emergence and course of disease as well as a variety of qualitative and quantitative clinical data on CML treatment. Our results indicate that 1 or more of the following mechanisms are compatible with the induction of a dominant clone in the proposed model: a retarded differentiation process, a reduced turnover time or a defective cell-microenvironment interaction of the neoplastic cells. However, in order to explain the massive overproduction of malignant cells, an unregulated and abnormal activation of leukemia stem cells into cycle has to be assumed additionally. Based on our simulation results we conclude that CML dynamics can most appropriately be explained by a modulation of the cell-microenvironment interactions of leukemia stem cells, including both the process of stem cell silencing and activation into cycle.</AbstractText>
+                <CopyrightInformation>(c) 2008 S. Karger AG, Basel.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Horn</LastName>
+                    <ForeName>Matthias</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Medical Informatics, Statistics and Epidemiology, University of Leipzig, Leipzig, Germany. matthias.horn@imise.uni-leipzig.de</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Loeffler</LastName>
+                    <ForeName>Markus</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Roeder</LastName>
+                    <ForeName>Ingo</ForeName>
+                    <Initials>I</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2008</Year>
+                <Month>02</Month>
+                <Day>27</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>Cells Tissues Organs</MedlineTA>
+            <NlmUniqueID>100883360</NlmUniqueID>
+            <ISSNLinking>1422-6405</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002999" MajorTopicYN="N">Clone Cells</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003198" MajorTopicYN="N">Computer Simulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006410" MajorTopicYN="N">Hematopoiesis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015464" MajorTopicYN="N">Leukemia, Myelogenous, Chronic, BCR-ABL Positive</DescriptorName>
+                <QualifierName UI="Q000473" MajorTopicYN="Y">pathology</QualifierName>
+                <QualifierName UI="Q000628" MajorTopicYN="Y">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008954" MajorTopicYN="Y">Models, Biological</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2008</Year>
+                <Month>2</Month>
+                <Day>28</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2008</Year>
+                <Month>9</Month>
+                <Day>20</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2008</Year>
+                <Month>2</Month>
+                <Day>28</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">18303243</ArticleId>
+            <ArticleId IdType="pii">000118786</ArticleId>
+            <ArticleId IdType="doi">10.1159/000118786</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,332 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">19930663</PMID>
+        <DateCompleted>
+            <Year>2010</Year>
+            <Month>01</Month>
+            <Day>27</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1471-2229</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>9</Volume>
+                    <PubDate>
+                        <Year>2009</Year>
+                        <Month>Nov</Month>
+                        <Day>23</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>BMC plant biology</Title>
+                <ISOAbbreviation>BMC Plant Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Proteins with an Euonymus lectin-like domain are ubiquitous in Embryophyta.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>136</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/1471-2229-9-136</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Cloning of the Euonymus lectin led to the discovery of a novel domain that also occurs in some stress-induced plant proteins. The distribution and the diversity of proteins with an Euonymus lectin (EUL) domain were investigated using detailed analysis of sequences in publicly accessible genome and transcriptome databases.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Comprehensive in silico analyses indicate that the recently identified Euonymus europaeus lectin domain represents a conserved structural unit of a novel family of putative carbohydrate-binding proteins, which will further be referred to as the Euonymus lectin (EUL) family. The EUL domain is widespread among plants. Analysis of retrieved sequences revealed that some sequences consist of a single EUL domain linked to an unrelated N-terminal domain whereas others comprise two in tandem arrayed EUL domains. A new classification system for these lectins is proposed based on the overall domain architecture. Evolutionary relationships among the sequences with EUL domains are discussed.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The identification of the EUL family provides the first evidence for the occurrence in terrestrial plants of a highly conserved plant specific domain. The widespread distribution of the EUL domain strikingly contrasts the more limited or even narrow distribution of most other lectin domains found in plants. The apparent omnipresence of the EUL domain is indicative for a universal role of this lectin domain in plants. Although there is unambiguous evidence that several EUL domains possess carbohydrate-binding activity further research is required to corroborate the carbohydrate-binding properties of different members of the EUL family.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Fouquaert</LastName>
+                    <ForeName>Elke</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Biochemistry and Glycobiology, Department of Molecular Biotechnology, Ghent University, Coupure Links 653, 9000 Ghent, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Peumans</LastName>
+                    <ForeName>Willy J</ForeName>
+                    <Initials>WJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vandekerckhove</LastName>
+                    <ForeName>Tom Tm</ForeName>
+                    <Initials>TT</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ongenaert</LastName>
+                    <ForeName>Maté</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Van Damme</LastName>
+                    <ForeName>Els Jm</ForeName>
+                    <Initials>EJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2009</Year>
+                <Month>11</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>BMC Plant Biol</MedlineTA>
+            <NlmUniqueID>100967807</NlmUniqueID>
+            <ISSNLinking>1471-2229</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D023181">Antimicrobial Cationic Peptides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C047161">Evonymous europa lectin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D037121">Plant Lectins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010940">Plant Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D023181" MajorTopicYN="N">Antimicrobial Cationic Peptides</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019295" MajorTopicYN="N">Computational Biology</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019143" MajorTopicYN="Y">Evolution, Molecular</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020869" MajorTopicYN="N">Gene Expression Profiling</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010802" MajorTopicYN="N">Phylogeny</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D037121" MajorTopicYN="N">Plant Lectins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010940" MajorTopicYN="N">Plant Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010944" MajorTopicYN="N">Plants</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017434" MajorTopicYN="N">Protein Structure, Tertiary</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020539" MajorTopicYN="N">Sequence Analysis, Protein</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2009</Year>
+                <Month>05</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2009</Year>
+                <Month>11</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2009</Year>
+                <Month>11</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2009</Year>
+                <Month>11</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2010</Year>
+                <Month>1</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">19930663</ArticleId>
+            <ArticleId IdType="pii">1471-2229-9-136</ArticleId>
+            <ArticleId IdType="doi">10.1186/1471-2229-9-136</ArticleId>
+            <ArticleId IdType="pmc">PMC2788552</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Biochim Biophys Acta. 2002 Sep 19;1572(2-3):187-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12223269</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochim Biophys Acta. 2010 Feb;1800(2):190-201</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19647040</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Cell. 2004 Mar;16(3):596-615</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14973164</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Glycoconj J. 2004;20(7-8):449-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15316278</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Glycobiology. 2004 Nov;14(11):53R-62R</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15229195</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Plant Sci. 2004 Oct;9(10):484-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15465683</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Biochem. 1986 Sep 1;159(2):239-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3758061</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 1994 Nov 11;22(22):4673-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7984417</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Physiol. 1995 Jan;107(1):177-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7870812</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Physiol. 1995 Oct;109(2):347-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7480335</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Protein Eng. 1997 Jan;10(1):1-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9051728</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 1997 Sep 1;25(17):3389-402</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9254694</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Planta. 1997;202(4):443-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9265787</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Physiol Biochem. 2004 Dec;42(12):1003-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15707837</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2005 May;37(5):501-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15806101</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2005 Oct 1;21(19):3801-2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16030069</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEBS Lett. 2006 Nov 27;580(27):6329-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17084390</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proteomics. 2007 Jan;7(1):92-105</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17149779</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2007;2(8):e718</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17684564</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Bioinformatics. 2007;8:460</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18034891</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Physiol. 2008 Jul;147(3):1316-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18451263</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochim Biophys Acta. 2010 Feb;1800(2):181-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19616076</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2003 Aug 12;19(12):1572-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12912839</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

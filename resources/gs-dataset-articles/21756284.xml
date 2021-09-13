@@ -1,0 +1,168 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21756284</PMID>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>01</Month>
+            <Day>05</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1747-0285</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>78</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Chemical biology &amp; drug design</Title>
+                <ISOAbbreviation>Chem Biol Drug Des</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A new approach to obtaining Nα -t-Boc-amino acid aldehydes from asparagine and glutamine for reduced amide pseudopeptide solid-phase synthesis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>603-11</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1747-0285.2011.01182.x</ELocationID>
+            <Abstract>
+                <AbstractText>Reduced amide pseudopeptides have been proposed as structural probes that could be useful as potential malarial vaccine components. However, designing determined pseudopeptide sequences containing isoster peptide bonds, either on an asparagine (Asn) or on a glutamine (Gln) residues, can become difficult because these precursor amino acid aldehydes are obtained in yields lower than 0.5%. This work presents a new strategy for obtaining both Asn and Gln aldehydes based on a controlled side-chain protection approach as well as a suitable solvent partition procedure. FT-IR, (1) H-NMR and (13) C-NMR were used for molecule characterization and identification. Amino acid aldehydes were successfully incorporated into a 20-mer peptide from a malarial-relevant sequence, and their impact on the molecule's conformational properties was assessed.</AbstractText>
+                <CopyrightInformation>© 2011 John Wiley &amp; Sons A/S.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Carreño</LastName>
+                    <ForeName>Luisa F</ForeName>
+                    <Initials>LF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Fundación Instituto de Inmunología de Colombia (FIDIC), Universidad del Rosario, Bogotá, Colombia Universidad Nacional de Colombia, Bogotá, Colombia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Alba</LastName>
+                    <ForeName>Martha P</ForeName>
+                    <Initials>MP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Varela</LastName>
+                    <ForeName>Yahson</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Patarroyo</LastName>
+                    <ForeName>Manuel E</ForeName>
+                    <Initials>ME</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lozano</LastName>
+                    <ForeName>José Manuel</ForeName>
+                    <Initials>JM</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>08</Month>
+                <Day>25</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Chem Biol Drug Des</MedlineTA>
+            <NlmUniqueID>101262549</NlmUniqueID>
+            <ISSNLinking>1747-0277</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000447">Aldehydes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000577">Amides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0RH81L854J</RegistryNumber>
+                <NameOfSubstance UI="D005973">Glutamine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>7006-34-0</RegistryNumber>
+                <NameOfSubstance UI="D001216">Asparagine</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000447" MajorTopicYN="N">Aldehydes</DescriptorName>
+                <QualifierName UI="Q000138" MajorTopicYN="Y">chemical synthesis</QualifierName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000577" MajorTopicYN="N">Amides</DescriptorName>
+                <QualifierName UI="Q000138" MajorTopicYN="N">chemical synthesis</QualifierName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001216" MajorTopicYN="N">Asparagine</DescriptorName>
+                <QualifierName UI="Q000138" MajorTopicYN="Y">chemical synthesis</QualifierName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005973" MajorTopicYN="N">Glutamine</DescriptorName>
+                <QualifierName UI="Q000138" MajorTopicYN="Y">chemical synthesis</QualifierName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010084" MajorTopicYN="N">Oxidation-Reduction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D060327" MajorTopicYN="N">Solid-Phase Synthesis Techniques</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>7</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>7</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21756284</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1747-0285.2011.01182.x</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,262 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+        <PMID Version="1">24297463</PMID>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>06</Month>
+            <Day>06</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>12</Month>
+            <Day>02</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1614-7499</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>21</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Environmental science and pollution research international</Title>
+                <ISOAbbreviation>Environ Sci Pollut Res Int</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>H-binding of size- and polarity-fractionated soil and lignite humic acids after removal of metal and ash components.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>3963-71</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s11356-013-2302-9</ELocationID>
+            <Abstract>
+                <AbstractText>A fractionation technique, combining dialysis removal of metal and ash components with hydrofluoric acid and pH 10 citrate buffer followed by chromatography of dialysis permeate on XAD-8 resin at decreasing pH values, has been applied to lignite humic acid (lignite-HA) and soil humic acid (soil-HA). H-binding data and non ideal competitive adsorption-Donnan model parameters were obtained for the HA fractions by theoretical analysis of H-binding data which reveal a significant increase of the carboxyl and the phenolic charge for the lignite-HA fractions vs. the parental lignite humic acid (LParentalHA). The fractionated lignite-HA material consisted mainly of permeate fractions, some of which were fulvic acid-like. The fractionated soil-HA material consisted mainly of large macromolecular structures that did not permeate the dialysis membrane during deashing. Chargeable groups had comparable concentrations in soil-HA fractions and parental soil humic acid (SParentalHA), indicating minimal interference of ash components with carboxyl and phenolic (and/or enolic) groups. Fractionation of HA, combined with theoretical analysis of H-binding, can distinguish the supramolecular vs. macromolecular nature of fractions within the same parental HA.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Drosos</LastName>
+                    <ForeName>Marios</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Physical Chemistry, Department of Environmental and Natural Resources Management, University of Patras, Seferi 2, 30100, Agrinio, Greece, drosos.marios@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Leenheer</LastName>
+                    <ForeName>Jerry A</ForeName>
+                    <Initials>JA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Avgeropoulos</LastName>
+                    <ForeName>Apostolos</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Deligiannakis</LastName>
+                    <ForeName>Yiannis</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>12</Month>
+                <Day>03</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Environ Sci Pollut Res Int</MedlineTA>
+            <NlmUniqueID>9441769</NlmUniqueID>
+            <ISSNLinking>0944-1344</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D003031">Coal</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D006812">Humic Substances</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D008670">Metals</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D012987">Soil</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>7YNJ3PO35Z</RegistryNumber>
+                <NameOfSubstance UI="D006859">Hydrogen</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D005591" MajorTopicYN="N">Chemical Fractionation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003031" MajorTopicYN="Y">Coal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006812" MajorTopicYN="Y">Humic Substances</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006859" MajorTopicYN="N">Hydrogen</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008670" MajorTopicYN="N">Metals</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012987" MajorTopicYN="N">Soil</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>07</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>12</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>12</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>6</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24297463</ArticleId>
+            <ArticleId IdType="doi">10.1007/s11356-013-2302-9</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Environ Sci Technol. 2001 May 15;35(10):2049-59</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11393987</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anal Bioanal Chem. 2006 Sep;386(2):382-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16896626</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Chemosphere. 2010 Jan;78(4):457-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19910019</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Chemosphere. 2007 Oct;69(7):1032-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17532364</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Environ Sci Technol. 2001 Jun 15;35(12):2505-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11432555</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Environ Sci Technol. 2001 Dec 15;35(24):4805-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11775156</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Colloid Interface Sci. 2009 Apr 1;332(1):78-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19144349</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anal Chem. 2003 Feb 15;75(4):761-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12622364</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1999 Nov 12;286(5443):1335-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10558983</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1978 Feb 24;199(4331):906-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17757593</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biomacromolecules. 2011 Apr 11;12(4):1187-99</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21361272</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Environ Sci Technol. 2002 Jan 1;36(1):76-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11811494</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Environ Sci Technol. 2005 Dec 1;39(23):9009-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16382919</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Chemosphere. 2009 Nov;77(10):1419-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19782385</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anal Chim Acta. 2012 Mar 30;720:77-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22365124</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

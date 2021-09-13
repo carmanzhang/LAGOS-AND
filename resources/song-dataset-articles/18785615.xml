@@ -1,0 +1,158 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">18785615</PMID>
+        <DateCompleted>
+            <Year>2009</Year>
+            <Month>04</Month>
+            <Day>20</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>11</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1522-7243</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>24</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <MedlineDate>2009 Jan-Feb</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Luminescence : the journal of biological and chemical luminescence</Title>
+                <ISOAbbreviation>Luminescence</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A novel biosensor for bovine serum albumin based on fluorescent self-assembled sandwich bilayers.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>62-6</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/bio.1066</ELocationID>
+            <Abstract>
+                <AbstractText>Fluorescent dyes butyl rhodamine B were assembled via a DL-cystenine intermediate onto quartz wafers whose surface had first adsorbed gold nanoparticles. Hence self-assembled sandwich bilayers with nanocomposite structure were constructed which can be used as a biosensor for bovine serum albumin. The biosensor-based self-assembled monolayers (SAMs) are regenerable and have high sensitivity, five orders of magnitude higher than that of bulk solution phase sensing. The effects of existing forms of dyes on the fluorescence spectra of bilayers in the presence of bovine serum albumin were investigated.</AbstractText>
+                <CopyrightInformation>2008 John Wiley &amp; Sons, Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sun</LastName>
+                    <ForeName>Xiangying</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Materials Science and Engineering, Huaqiao University, Quanzhou 362021, People's Republic of China. liumy@hqu.edu.cn</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Bin</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>He</LastName>
+                    <ForeName>Fei</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Luminescence</MedlineTA>
+            <NlmUniqueID>100889025</NlmUniqueID>
+            <ISSNLinking>1522-7235</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D012235">Rhodamines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D012996">Solutions</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>27432CM55Q</RegistryNumber>
+                <NameOfSubstance UI="D012710">Serum Albumin, Bovine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>K7G5SCF8IL</RegistryNumber>
+                <NameOfSubstance UI="C029773">rhodamine B</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015374" MajorTopicYN="N">Biosensing Techniques</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002417" MajorTopicYN="N">Cattle</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D053768" MajorTopicYN="N">Metal Nanoparticles</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015394" MajorTopicYN="N">Molecular Structure</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012235" MajorTopicYN="N">Rhodamines</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012710" MajorTopicYN="N">Serum Albumin, Bovine</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="Y">analysis</QualifierName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012996" MajorTopicYN="N">Solutions</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013050" MajorTopicYN="N">Spectrometry, Fluorescence</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2008</Year>
+                <Month>9</Month>
+                <Day>13</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2009</Year>
+                <Month>4</Month>
+                <Day>21</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2008</Year>
+                <Month>9</Month>
+                <Day>13</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">18785615</ArticleId>
+            <ArticleId IdType="doi">10.1002/bio.1066</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

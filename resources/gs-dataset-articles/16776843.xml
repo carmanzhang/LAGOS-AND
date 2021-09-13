@@ -1,0 +1,184 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">16776843</PMID>
+        <DateCompleted>
+            <Year>2006</Year>
+            <Month>08</Month>
+            <Day>16</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1471-2156</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>7</Volume>
+                    <PubDate>
+                        <Year>2006</Year>
+                        <Month>Jun</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>BMC genetics</Title>
+                <ISOAbbreviation>BMC Genet.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Optimal two-stage strategy for detecting interacting genes in complex diseases.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>39</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The mapping of complex diseases is one of the most important problems in human genetics today. The rapid development of technology for genetic research has led to the discovery of millions of polymorphisms across the human genome, making it possible to conduct genome-wide association studies with hundreds of thousands of markers. Given the large number of markers to be tested in such studies, a two-stage strategy may be a reasonable and powerful approach: in the first stage, a small subset of promising loci is identified using single-locus testing, and, in the second stage, multi-locus methods are used while taking into account the loci selected in the first stage. In this report, we investigate and compare two possible two-stage strategies for genome-wide association studies: a conditional approach and a simultaneous approach.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">We investigate the power of both the conditional and the simultaneous approach to detect the disease loci for a range of two-locus disease models in a case-control study design. Our results suggest that, overall, the conditional approach is more robust and more powerful than the simultaneous approach; the conditional approach can greatly outperform the simultaneous approach when one of the two disease loci has weak marginal effect, but interacts strongly with the other, stronger locus (easily detectable using single-locus methods in the first stage).</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Genome-wide association studies hold the promise of finding new genes implicated in complex diseases. Two-stage strategies are likely to be employed in these large-scale studies. Therefore we compared two natural two-stage approaches: the conditional approach and the simultaneous approach. Our power studies suggest that, when doing genome-wide association studies, a two-stage conditional approach is likely to be more powerful than a two-stage simultaneous approach.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ionita</LastName>
+                    <ForeName>Iuliana</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Courant Institute of Mathematical Sciences, New York University, 251 Mercer Street, New York, NY 10012, USA. ionita@cs.nyu.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Man</LastName>
+                    <ForeName>Michael</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2006</Year>
+                <Month>06</Month>
+                <Day>15</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>BMC Genet</MedlineTA>
+            <NlmUniqueID>100966978</NlmUniqueID>
+            <ISSNLinking>1471-2156</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D005819">Genetic Markers</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000483" MajorTopicYN="N">Alleles</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002874" MajorTopicYN="Y">Chromosome Mapping</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005787" MajorTopicYN="N">Gene Frequency</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008040" MajorTopicYN="N">Genetic Linkage</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005819" MajorTopicYN="Y">Genetic Markers</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020022" MajorTopicYN="Y">Genetic Predisposition to Disease</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008957" MajorTopicYN="Y">Models, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D040641" MajorTopicYN="Y">Quantitative Trait Loci</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2005</Year>
+                <Month>11</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2006</Year>
+                <Month>06</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2006</Year>
+                <Month>6</Month>
+                <Day>17</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2006</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2006</Year>
+                <Month>6</Month>
+                <Day>17</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">16776843</ArticleId>
+            <ArticleId IdType="pii">1471-2156-7-39</ArticleId>
+            <ArticleId IdType="doi">10.1186/1471-2156-7-39</ArticleId>
+            <ArticleId IdType="pmc">PMC1523196</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Nat Rev Genet. 2003 Sep;4(9):701-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12951571</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2005 Apr;37(4):413-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15793588</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Hum Genet. 2001 May;68(5):1229-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11294658</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2005 Jul;37(7):683-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15937480</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2005 Apr;37(4):337-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15800643</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

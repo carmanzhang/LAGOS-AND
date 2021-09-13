@@ -1,0 +1,233 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">26106897</PMID>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>03</Month>
+            <Day>23</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>10</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Will Passive Protection Save Congo Forests?</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e0128473</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0128473</ELocationID>
+            <Abstract>
+                <AbstractText>Central Africa's tropical forests are among the world's largest carbon reserves. Historically, they have experienced low rates of deforestation. Pressures to clear land are increasing due to development of infrastructure and livelihoods, foreign investment in agriculture, and shifting land use management, particularly in the Democratic Republic of Congo (DRC). The DRC contains the greatest area of intact African forests. These store approximately 22 billion tons of carbon in aboveground live biomass, yet only 10% are protected. Can the status quo of passive protection - forest management that is low or nonexistent - ensure the preservation of this forest and its carbon? We have developed the SimCongo model to simulate changes in land cover and land use based on theorized policy scenarios from 2010 to 2050. Three scenarios were examined: the first (Historical Trends) assumes passive forest protection; the next (Conservation) posits active protection of forests and activation of the national REDD+ action plan, and the last (Agricultural Development) assumes increased agricultural activities in forested land with concomitant increased deforestation. SimCongo is a cellular automata model based on Bayesian statistical methods tailored for the DRC, built with the Dinamica-EGO platform. The model is parameterized and validated with deforestation observations from the past and runs the scenarios from 2010 through 2050 with a yearly time step. We estimate the Historical Trends trajectory will result in average emissions of 139 million t CO2 year-1 by the 2040s, a 15% increase over current emissions. The Conservation scenario would result in 58% less clearing than Historical Trends and would conserve carbon-dense forest and woodland savanna areas. The Agricultural Development scenario leads to emissions of 212 million t CO2 year-1 by the 2040s. These scenarios are heuristic examples of policy's influence on forest conservation and carbon storage. Our results suggest that 1) passive protection of the DRC's forest and woodland savanna is insufficient to reduce deforestation; and 2): enactment of a REDD+ plan or similar conservation measure is needed to actively protect Congo forests, their unique ecology, and their important role in the global carbon cycle. </AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Galford</LastName>
+                    <ForeName>Gillian L</ForeName>
+                    <Initials>GL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Gund Institute for Ecological Economics, University of Vermont, 617 Main Street, Burlington, Vermont, 05405, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Soares-Filho</LastName>
+                    <ForeName>Britaldo S</ForeName>
+                    <Initials>BS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centro de Sensoriamento Remoto, Universidade Federal de Minas Gerais, Av. Antônio Carlos 6627, Belo Horizonte, 31270-901, Minas Gerais, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sonter</LastName>
+                    <ForeName>Laura J</ForeName>
+                    <Initials>LJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Gund Institute for Ecological Economics, University of Vermont, 617 Main Street, Burlington, Vermont, 05405, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Laporte</LastName>
+                    <ForeName>Nadine</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Woods Hole Research Center, 149 Woods Hole Road, Falmouth, Massachusetts, 02540, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>06</Month>
+                <Day>24</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>142M471B3J</RegistryNumber>
+                <NameOfSubstance UI="D002245">Carbon Dioxide</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000383" MajorTopicYN="N">Agriculture</DescriptorName>
+                <QualifierName UI="Q000639" MajorTopicYN="N">trends</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001499" MajorTopicYN="N">Bayes Theorem</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018533" MajorTopicYN="N">Biomass</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D057486" MajorTopicYN="Y">Carbon Cycle</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002245" MajorTopicYN="N">Carbon Dioxide</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003247" MajorTopicYN="N">Conservation of Natural Resources</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+                <QualifierName UI="Q000639" MajorTopicYN="Y">trends</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015023" MajorTopicYN="N" Type="Geographic">Democratic Republic of the Congo</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D065928" MajorTopicYN="Y">Forests</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015233" MajorTopicYN="Y">Models, Statistical</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>07</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>04</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>3</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26106897</ArticleId>
+            <ArticleId IdType="doi">10.1371/journal.pone.0128473</ArticleId>
+            <ArticleId IdType="pii">PONE-D-13-31664</ArticleId>
+            <ArticleId IdType="pmc">PMC4481311</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Science. 2009 Dec 4;326(5958):1397-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19933101</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2010 Jun 15;107(24):10821-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20505122</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Philos Trans A Math Phys Eng Sci. 2011 May 28;369(1943):2038-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21502175</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2013 Jan 15;110(3):892-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23284174</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2008 Jul 15;105(28):9495-500</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18621701</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2000 Jan 20;403(6767):301-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10659847</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2007 Jun 8;316(5830):1451</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17556578</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2006 Mar 23;440(7083):520-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16554817</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2011 Jun 2;474(7349):36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21637242</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

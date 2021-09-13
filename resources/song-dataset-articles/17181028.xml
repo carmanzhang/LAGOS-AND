@@ -1,0 +1,154 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">17181028</PMID>
+        <DateCompleted>
+            <Year>2007</Year>
+            <Month>01</Month>
+            <Day>17</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>11</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1536-1241</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>5</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2006</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>IEEE transactions on nanobioscience</Title>
+                <ISOAbbreviation>IEEE Trans Nanobioscience</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>All-optical switching in plant blue light photoreceptor phototropin.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>281-7</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>We theoretically analyze all-optical switching in the recently characterized LOV2 domain from Avena sativa (oat) phot1 phototropin, a blue-light plant photoreceptor, based on nonlinear intensity-induced excited-state absorption. The transmission of a cw probe laser beam at 660 nm corresponding to the peak absorption of the first excited L-state, through the LOV2 sample, is switched by a pulsed pump laser beam at 442 nm that corresponds to the maximum initial D state absorption. The switching characteristics have been analyzed using the rate equation approach, considering all the three intermediate states and transitions in the LOV2 photocycle. It is shown that for a given pump pulse intensity, there is an optimum pump pulsewidth for which the switching contrast is maximum. It is shown that the probe laser beam can be completely switched off (100% modulation) by the pump laser beam at 50 kW/cm2 for a concentration of 1 mM with sample thickness of 5.5 mm. The switching characteristics are sensitive to various parameters such as concentration, rate constant of L-state, peak pump intensity and pump pulse width. At typical values, the switch-off and switch-on time is 1.6 and 22.3 micros, respectively. The switching characteristics have also been used to design all-optical NOT and the universal NOR and NAND logic gates.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Roy</LastName>
+                    <ForeName>Sukhdev</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physics and Computer Science, Dayalbagh Educational Institute, Deemed University, Agra 282 005, India. sukhdevr@hotmail.com</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kulshrestha</LastName>
+                    <ForeName>Kapil</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>IEEE Trans Nanobioscience</MedlineTA>
+            <NlmUniqueID>101152869</NlmUniqueID>
+            <ISSNLinking>1536-1241</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D056931">Cryptochromes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D005420">Flavoproteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D018554" MajorTopicYN="N">Avena</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+                <QualifierName UI="Q000528" MajorTopicYN="N">radiation effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003198" MajorTopicYN="N">Computer Simulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D056931" MajorTopicYN="N">Cryptochromes</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004307" MajorTopicYN="N">Dose-Response Relationship, Radiation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005420" MajorTopicYN="N">Flavoproteins</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000528" MajorTopicYN="Y">radiation effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008027" MajorTopicYN="N">Light</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008954" MajorTopicYN="Y">Models, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008956" MajorTopicYN="Y">Models, Chemical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008958" MajorTopicYN="Y">Models, Molecular</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010786" MajorTopicYN="N">Photoreceptor Cells</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+                <QualifierName UI="Q000528" MajorTopicYN="N">radiation effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011487" MajorTopicYN="N">Protein Conformation</DescriptorName>
+                <QualifierName UI="Q000528" MajorTopicYN="N">radiation effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011829" MajorTopicYN="N">Radiation Dosage</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2006</Year>
+                <Month>12</Month>
+                <Day>22</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2007</Year>
+                <Month>1</Month>
+                <Day>18</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2006</Year>
+                <Month>12</Month>
+                <Day>22</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">17181028</ArticleId>
+            <ArticleId IdType="doi">10.1109/tnb.2006.886549</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

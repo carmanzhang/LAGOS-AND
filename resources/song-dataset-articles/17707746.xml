@@ -1,0 +1,161 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">17707746</PMID>
+        <DateCompleted>
+            <Year>2007</Year>
+            <Month>09</Month>
+            <Day>04</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>19</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1474-547X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>370</Volume>
+                    <Issue>9587</Issue>
+                    <PubDate>
+                        <Year>2007</Year>
+                        <Month>Aug</Month>
+                        <Day>18</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Lancet (London, England)</Title>
+                <ISOAbbreviation>Lancet</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Disseminated tuberculosis after anti-TNFalpha treatment.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>564; author reply 565</MedlinePgn>
+            </Pagination>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Agarwal</LastName>
+                    <ForeName>Ritesh</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Srinivas</LastName>
+                    <ForeName>Rajagopala</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gupta</LastName>
+                    <ForeName>Dheeraj</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016420">Comment</PublicationType>
+                <PublicationType UI="D016422">Letter</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Lancet</MedlineTA>
+            <NlmUniqueID>2985213R</NlmUniqueID>
+            <ISSNLinking>0140-6736</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000911">Antibodies, Monoclonal</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D061067">Antibodies, Monoclonal, Humanized</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D018501">Antirheumatic Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>FYS6T7F842</RegistryNumber>
+                <NameOfSubstance UI="D000068879">Adalimumab</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentOn">
+                <RefSource>Lancet. 2007 Jan 13;369(9556):162</RefSource>
+                <PMID Version="1">17223480</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000068879" MajorTopicYN="N">Adalimumab</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000911" MajorTopicYN="N">Antibodies, Monoclonal</DescriptorName>
+                <QualifierName UI="Q000009" MajorTopicYN="Y">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D061067" MajorTopicYN="N">Antibodies, Monoclonal, Humanized</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018501" MajorTopicYN="N">Antirheumatic Agents</DescriptorName>
+                <QualifierName UI="Q000009" MajorTopicYN="Y">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001172" MajorTopicYN="N">Arthritis, Rheumatoid</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003937" MajorTopicYN="N">Diagnosis, Differential</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009894" MajorTopicYN="N">Opportunistic Infections</DescriptorName>
+                <QualifierName UI="Q000139" MajorTopicYN="N">chemically induced</QualifierName>
+                <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014391" MajorTopicYN="N">Tuberculosis, Miliary</DescriptorName>
+                <QualifierName UI="Q000139" MajorTopicYN="N">chemically induced</QualifierName>
+                <QualifierName UI="Q000175" MajorTopicYN="Y">diagnosis</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2007</Year>
+                <Month>8</Month>
+                <Day>21</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2007</Year>
+                <Month>9</Month>
+                <Day>5</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2007</Year>
+                <Month>8</Month>
+                <Day>21</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">17707746</ArticleId>
+            <ArticleId IdType="pii">S0140-6736(07)61288-4</ArticleId>
+            <ArticleId IdType="doi">10.1016/S0140-6736(07)61288-4</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

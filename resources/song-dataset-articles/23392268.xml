@@ -1,0 +1,159 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">23392268</PMID>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>05</Month>
+            <Day>02</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1423-0232</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>84</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Oncology</Title>
+                <ISOAbbreviation>Oncology</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Chemoradiation in the management of cervix cancer: current status and future directions.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>246-50</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1159/000346804</ELocationID>
+            <Abstract>
+                <AbstractText>Cytotoxic chemotherapy has been shown to have only a very modest impact on outcome in recurrent, persistent, or metastatic cervix cancer. Despite this fact, when cisplatin is administered concurrently with external beam radiation as a 'chemosensitizing' strategy, both progression-free and overall survival have been shown in multiple evidence-based randomized trials to be improved compared to the delivery of radiation alone. Ongoing research in this area has focused on improving the drug component of this strategy and on following the concurrent chemoradiation with systemic ('adjuvant') therapy.</AbstractText>
+                <CopyrightInformation>Copyright © 2013 S. Karger AG, Basel.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Markman</LastName>
+                    <ForeName>Maurie</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cancer Treatment Centers of America, Eastern Regional Medical Center, Philadelphia, PA 19124, USA. maurie.markman@ctca-hope.com</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>02</Month>
+                <Day>07</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>Oncology</MedlineTA>
+            <NlmUniqueID>0135054</NlmUniqueID>
+            <ISSNLinking>0030-2414</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0W860991D6</RegistryNumber>
+                <NameOfSubstance UI="D003841">Deoxycytidine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>B76N6SBZ8R</RegistryNumber>
+                <NameOfSubstance UI="C056507">gemcitabine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>Q20Q21Q62J</RegistryNumber>
+                <NameOfSubstance UI="D002945">Cisplatin</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000971" MajorTopicYN="N">Antineoplastic Combined Chemotherapy Protocols</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D059248" MajorTopicYN="N">Chemoradiotherapy</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002945" MajorTopicYN="N">Cisplatin</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+                <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003131" MajorTopicYN="N">Combined Modality Therapy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003841" MajorTopicYN="N">Deoxycytidine</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+                <QualifierName UI="Q000031" MajorTopicYN="N">analogs &amp; derivatives</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002583" MajorTopicYN="N">Uterine Cervical Neoplasms</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName UI="Q000532" MajorTopicYN="Y">radiotherapy</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>01</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>01</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>2</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>2</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">23392268</ArticleId>
+            <ArticleId IdType="pii">000346804</ArticleId>
+            <ArticleId IdType="doi">10.1159/000346804</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

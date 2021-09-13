@@ -1,0 +1,644 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20064464</PMID>
+        <DateCompleted>
+            <Year>2010</Year>
+            <Month>02</Month>
+            <Day>05</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1097-4164</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>36</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2009</Year>
+                        <Month>Dec</Month>
+                        <Day>25</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Molecular cell</Title>
+                <ISOAbbreviation>Mol Cell</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Controlling hematopoiesis through sumoylation-dependent regulation of a GATA factor.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>984-95</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.molcel.2009.11.005</ELocationID>
+            <Abstract>
+                <AbstractText>GATA factors establish transcriptional networks that control fundamental developmental processes. Whereas the regulator of hematopoiesis GATA-1 is subject to multiple posttranslational modifications, how these modifications influence GATA-1 function at endogenous loci is unknown. We demonstrate that sumoylation of GATA-1 K137 promotes transcriptional activation only at target genes requiring the coregulator Friend of GATA-1 (FOG-1). A mutation of GATA-1 V205G that disrupts FOG-1 binding and K137 mutations yielded similar phenotypes, although sumoylation was FOG-1 independent, and FOG-1 binding did not require sumoylation. Both mutations dysregulated GATA-1 chromatin occupancy at select sites, FOG-1-dependent gene expression, and were rescued by tethering SUMO-1. While FOG-1- and SUMO-1-dependent genes migrated away from the nuclear periphery upon erythroid maturation, FOG-1- and SUMO-1-independent genes persisted at the periphery. These results illustrate a mechanism that controls trans-acting factor function in a locus-specific manner, and differentially regulated members of the target gene ensemble reside in distinct subnuclear compartments.</AbstractText>
+                <CopyrightInformation>2009 Elsevier Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Hsiang-Ying</ForeName>
+                    <Initials>HY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Wisconsin School of Medicine and Public Health, Wisconsin Institutes for Medical Research, Madison, 53705, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Johnson</LastName>
+                    <ForeName>Kirby D</ForeName>
+                    <Initials>KD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fujiwara</LastName>
+                    <ForeName>Tohru</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Boyer</LastName>
+                    <ForeName>Meghan E</ForeName>
+                    <Initials>ME</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Shin-Il</ForeName>
+                    <Initials>SI</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bresnick</LastName>
+                    <ForeName>Emery H</ForeName>
+                    <Initials>EH</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 DK068634-04</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>DK68634</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 DK050107</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 DK050107-13</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>DK50107</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 DK068634</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R37 DK050107</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R56 DK068634</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Mol Cell</MedlineTA>
+            <NlmUniqueID>9802571</NlmUniqueID>
+            <ISSNLinking>1097-2765</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D002843">Chromatin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D050982">GATA1 Transcription Factor</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C494689">Gata1 protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009687">Nuclear Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D025841">Small Ubiquitin-Related Modifier Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014157">Transcription Factors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C107310">Zfpm1 protein, mouse</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002460" MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002843" MajorTopicYN="N">Chromatin</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D050982" MajorTopicYN="N">GATA1 Transcription Factor</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005786" MajorTopicYN="N">Gene Expression Regulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006410" MajorTopicYN="N">Hematopoiesis</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009154" MajorTopicYN="N">Mutation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009687" MajorTopicYN="N">Nuclear Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011485" MajorTopicYN="N">Protein Binding</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011499" MajorTopicYN="Y">Protein Processing, Post-Translational</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D025841" MajorTopicYN="N">Small Ubiquitin-Related Modifier Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014157" MajorTopicYN="N">Transcription Factors</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014158" MajorTopicYN="N">Transcription, Genetic</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2009</Year>
+                <Month>02</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2009</Year>
+                <Month>06</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2009</Year>
+                <Month>09</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>1</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>1</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2010</Year>
+                <Month>2</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20064464</ArticleId>
+            <ArticleId IdType="pii">S1097-2765(09)00818-1</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.molcel.2009.11.005</ArticleId>
+            <ArticleId IdType="pmc">PMC2807411</ArticleId>
+            <ArticleId IdType="mid">NIHMS159451</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Blood. 2004 Nov 15;104(10):3136-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15297311</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell. 2008 Aug 22;31(4):449-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18722172</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell. 2005 Apr 1;18(1):1-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15808504</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 2005 Jul 6;24(13):2367-78</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15920470</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 2005 Jul 6;24(13):2354-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15920471</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Genet Dev. 2005 Oct;15(5):536-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16095902</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2005 Nov 22;102(47):17065-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16286657</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood. 2006 Feb 1;107(3):907-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16204311</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2006 Apr 4;103(14):5308-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16567619</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood. 2006 May 1;107(9):3527-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16391009</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 2006 Jun;26(11):4368-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16705186</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Dev. 2006 Jun 1;20(11):1447-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16705039</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Prog Nucleic Acid Res Mol Biol. 2006;81:435-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16891178</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Cell Dev Biol. 2006;22:159-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16753028</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2006 Oct 24;103(43):15939-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17043224</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2006 Dec 5;103(49):18504-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17132730</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 2007 Jun;27(12):4551-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17438135</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood. 2007 Jun 15;109(12):5230-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17339418</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncogene. 2007 Oct 15;26(47):6777-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17934485</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Soc Trans. 2007 Dec;35(Pt 6):1389-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18031228</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Mol Cell Biol. 2007 Dec;8(12):947-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18000527</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Dev. 2000 Jul 1;14(13):1553-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10887150</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2000 Dec 19;97(26):14494-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11121052</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Mol Cell Biol. 2001 Aug;2(8):599-609</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11483993</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell. 2001 Aug;8(2):465-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11545748</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 2002 May;22(9):3121-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11940669</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 2002 Jun;22(12):4268-79</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12024038</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Med. 2002 Jun 3;195(11):1379-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12045236</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2002 Sep;32(1):148-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12172547</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2002 Sep 3;99(18):11760-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12193659</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood. 2002 Nov 15;100(10):3450-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12393394</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell. 2002 Oct;10(4):831-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12419227</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 2003 Feb;23(4):1334-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12556492</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Med. 2003 Feb 3;197(3):281-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12566412</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 2003 Aug;23(15):5234-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12861010</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2003 Jul 22;100(15):8811-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12857954</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 2003 Sep;23(18):6484-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12944475</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Dev. 2003 Dec 15;17(24):3048-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14701874</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2004 Jan 13;101(2):476-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14695898</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2004 Jan 27;101(4):980-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14715908</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2004 May 28;279(22):23597-605</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15037632</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Methods Mol Biol. 2004;284:129-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15173613</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2004 Jun 15;101(24):8870-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15173587</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 2004 Jul 21;23(14):2841-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15215894</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Dev. 2004 Sep 1;18(17):2046-59</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15342487</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2004 Sep 17;279(38):39789-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15234987</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1989 Jun 8;339(6224):446-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2725678</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 1989 Sep 8;58(5):877-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2776214</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1991 Jan 17;349(6306):257-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1987478</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 1992 May;1(2):92-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1302015</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1994 Jun 17;269(24):16589-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8206977</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 1996 Jan 15;15(2):319-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8617207</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biol. 1996 Dec;135(6 Pt 1):1457-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8978815</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 1997 Jan 10;88(1):97-107</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9019411</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 1997 Mar;17(3):1642-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9032291</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 1997 Jul 11;90(1):109-19</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9230307</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 1997 Jul 1;16(13):3965-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9233806</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1998 Mar 3;95(5):2061-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9482838</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell. 1999 Feb;3(2):219-28</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10078204</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 1999 May 17;18(10):2812-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10329627</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2005 Jan 18;102(3):583-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15644435</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

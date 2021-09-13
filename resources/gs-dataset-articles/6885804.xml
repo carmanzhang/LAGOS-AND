@@ -1,0 +1,168 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">6885804</PMID>
+        <DateCompleted>
+            <Year>1983</Year>
+            <Month>10</Month>
+            <Day>28</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0021-9258</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>258</Volume>
+                    <Issue>18</Issue>
+                    <PubDate>
+                        <Year>1983</Year>
+                        <Month>Sep</Month>
+                        <Day>25</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of biological chemistry</Title>
+                <ISOAbbreviation>J. Biol. Chem.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>beta-Oxidation in Candida tropicalis. Partial purification and biological function of an inducible 2,4-dienoyl coenzyme A reductase.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>10846-52</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Evidence is presented that Candida tropicalis grown on oleic acid as sole carbon and energy source possesses the ability to degrade saturated as well as unsaturated fatty acids. Inducible activities of the four enzymes required for beta-oxidation of saturated fatty acids are demonstrated in this organism. Furthermore, it is shown that 2,3-enoyl-CoA isomerase and 2,4-dienoyl-CoA reductase are induced simultaneously with the other beta-oxidation enzymes. A partial purification of 2,4-dienoyl-CoA reductase is described. This reductase has a specific requirement for NADPH, is unable to utilize NADH, and catalyzes the conversion of 2-trans, 4-cis-decadienoyl-CoA to 3-trans-decenoyl-CoA. It also reduces 2-trans, 4-trans-dienoyl-CoA esters. In vitro studies with extracts from oleate-grown cells of C. tropicalis containing the beta-oxidation enzymes showed that 4-cis-decenoyl-CoA, a metabolite of linoleic acid, was only degraded when the 2,4-dienoyl-CoA reductase step was not blocked by lack of NADPH. Based on the properties of the partially purified 2,4-dienoyl-CoA reductase and the results of the in vitro degradation studies, we conclude that in C. tropicalis the reductase together with the 2,3-dienoyl-CoA isomerase is necessary to link the degradation of unsaturated fatty acids to the beta-oxidation cycle. The implication of this conclusion for degradation of unsaturated fatty acids in general is discussed.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Dommes</LastName>
+                    <ForeName>P</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dommes</LastName>
+                    <ForeName>V</ForeName>
+                    <Initials>V</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kunau</LastName>
+                    <ForeName>W H</ForeName>
+                    <Initials>WH</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Biol Chem</MedlineTA>
+            <NlmUniqueID>2985121R</NlmUniqueID>
+            <ISSNLinking>0021-9258</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009227">Myristic Acids</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009829">Oleic Acids</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0I3V7S25AW</RegistryNumber>
+                <NameOfSubstance UI="D019814">Myristic Acid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>2UMI9U37CP</RegistryNumber>
+                <NameOfSubstance UI="D019301">Oleic Acid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>53-59-8</RegistryNumber>
+                <NameOfSubstance UI="D009249">NADP</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.14.19.-</RegistryNumber>
+                <NameOfSubstance UI="D044943">Fatty Acid Desaturases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>IY9XDZ35W2</RegistryNumber>
+                <NameOfSubstance UI="D005947">Glucose</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D002175" MajorTopicYN="N">Candida</DescriptorName>
+                <QualifierName UI="Q000201" MajorTopicYN="Y">enzymology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002849" MajorTopicYN="N">Chromatography, Gas</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004790" MajorTopicYN="N">Enzyme Induction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D044943" MajorTopicYN="N">Fatty Acid Desaturases</DescriptorName>
+                <QualifierName UI="Q000096" MajorTopicYN="N">biosynthesis</QualifierName>
+                <QualifierName UI="Q000302" MajorTopicYN="Y">isolation &amp; purification</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005947" MajorTopicYN="N">Glucose</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019814" MajorTopicYN="N">Myristic Acid</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009227" MajorTopicYN="N">Myristic Acids</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009249" MajorTopicYN="N">NADP</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019301" MajorTopicYN="N">Oleic Acid</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009829" MajorTopicYN="N">Oleic Acids</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1983</Year>
+                <Month>9</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1983</Year>
+                <Month>9</Month>
+                <Day>25</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1983</Year>
+                <Month>9</Month>
+                <Day>25</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">6885804</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

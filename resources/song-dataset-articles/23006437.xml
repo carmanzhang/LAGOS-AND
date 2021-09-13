@@ -1,0 +1,573 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">23006437</PMID>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>06</Month>
+            <Day>06</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1477-7827</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>10</Volume>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Sep</Month>
+                        <Day>24</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Reproductive biology and endocrinology : RB&amp;E</Title>
+                <ISOAbbreviation>Reprod Biol Endocrinol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Genome-wide expressions in autologous eutopic and ectopic endometrium of fertile women with endometriosis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>84</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/1477-7827-10-84</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">In order to obtain a lead of the pathophysiology of endometriosis, genome-wide expressional analyses of eutopic and ectopic endometrium have earlier been reported, however, the effects of stages of severity and phases of menstrual cycle on expressional profiles have not been examined. The effect of genetic heterogeneity and fertility history on transcriptional activity was also not considered. In the present study, a genome-wide expression analysis of autologous, paired eutopic and ectopic endometrial samples obtained from fertile women (n=18) suffering from moderate (stage 3; n=8) or severe (stage 4; n=10) ovarian endometriosis during proliferative (n=13) and secretory (n=5) phases of menstrual cycle was performed.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Individual pure RNA samples were subjected to Agilent's Whole Human Genome 44K microarray experiments. Microarray data were validated (P&lt;0.01) by estimating transcript copy numbers by performing real time RT-PCR of seven (7) arbitrarily selected genes in all samples. The data obtained were subjected to differential expression (DE) and differential co-expression (DC) analyses followed by networks and enrichment analysis, and gene set enrichment analysis (GSEA). The reproducibility of prediction based on GSEA implementation of DC results was assessed by examining the relative expressions of twenty eight (28) selected genes in RNA samples obtained from fresh pool of eutopic and ectopic samples from confirmed ovarian endometriosis patients with stages 3 and 4 (n=4/each) during proliferative and secretory (n=4/each) phases.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Higher clustering effect of pairing (cluster distance, cd=0.1) in samples from same individuals on expressional arrays among eutopic and ectopic samples was observed as compared to that of clinical stages of severity (cd=0.5) and phases of menstrual cycle (cd=0.6). Post hoc analysis revealed anomaly in the expressional profiles of several genes associated with immunological, neuracrine and endocrine functions and gynecological cancers however with no overt oncogenic potential in endometriotic tissue. Dys-regulation of three (CLOCK, ESR1, and MYC) major transcription factors appeared to be significant causative factors in the pathogenesis of ovarian endometriosis. A novel cohort of twenty-eight (28) genes representing potential marker for ovarian endometriosis in fertile women was discovered.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Dysfunctional expression of immuno-neuro-endocrine behaviour in endometrium appeared critical to endometriosis. Although no overt oncogenic potential was evident, several genes associated with gynecological cancers were observed to be high in the expressional profiles in endometriotic tissue.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Khan</LastName>
+                    <ForeName>Meraj A</ForeName>
+                    <Initials>MA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physiology, All India Institute of Medical Sciences, New Delhi, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sengupta</LastName>
+                    <ForeName>Jayasree</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mittal</LastName>
+                    <ForeName>Suneeta</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ghosh</LastName>
+                    <ForeName>Debabrata</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D003160">Comparative Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2012</Year>
+                <Month>09</Month>
+                <Day>24</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Reprod Biol Endocrinol</MedlineTA>
+            <NlmUniqueID>101153627</NlmUniqueID>
+            <ISSNLinking>1477-7827</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D047628">Estrogen Receptor alpha</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C489427">MYC protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016271">Proto-Oncogene Proteins c-myc</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D012333">RNA, Messenger</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C506487">estrogen receptor alpha, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.3.1.48</RegistryNumber>
+                <NameOfSubstance UI="D056926">CLOCK Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.3.1.48</RegistryNumber>
+                <NameOfSubstance UI="C538943">CLOCK protein, human</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D056926" MajorTopicYN="N">CLOCK Proteins</DescriptorName>
+                <QualifierName UI="Q000096" MajorTopicYN="N">biosynthesis</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016000" MajorTopicYN="N">Cluster Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004715" MajorTopicYN="N">Endometriosis</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004717" MajorTopicYN="N">Endometrium</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D047628" MajorTopicYN="N">Estrogen Receptor alpha</DescriptorName>
+                <QualifierName UI="Q000096" MajorTopicYN="N">biosynthesis</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005298" MajorTopicYN="N">Fertility</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005498" MajorTopicYN="N">Follicular Phase</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020869" MajorTopicYN="N">Gene Expression Profiling</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D052138" MajorTopicYN="N">Genes, Neoplasm</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016259" MajorTopicYN="N">Genes, myc</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055106" MajorTopicYN="Y">Genome-Wide Association Study</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008183" MajorTopicYN="N">Luteal Phase</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010049" MajorTopicYN="N">Ovarian Diseases</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016271" MajorTopicYN="N">Proto-Oncogene Proteins c-myc</DescriptorName>
+                <QualifierName UI="Q000096" MajorTopicYN="N">biosynthesis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012333" MajorTopicYN="N">RNA, Messenger</DescriptorName>
+                <QualifierName UI="Q000096" MajorTopicYN="N">biosynthesis</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055815" MajorTopicYN="N">Young Adult</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2012</Year>
+                <Month>07</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2012</Year>
+                <Month>08</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>9</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>9</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">23006437</ArticleId>
+            <ArticleId IdType="pii">1477-7827-10-84</ArticleId>
+            <ArticleId IdType="doi">10.1186/1477-7827-10-84</ArticleId>
+            <ArticleId IdType="pmc">PMC3533745</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Am Assoc Gynecol Laparosc. 2004 May;11(2):153-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15200766</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Physiol. 2001;63:193-213</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11181954</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Fertil Steril. 2007 Dec;88(6):1505-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17462640</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2005 Oct 25;102(43):15545-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16199517</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hum Reprod. 2010 Feb;25(2):387-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19910323</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hum Reprod. 2007 Aug;22(8):2093-102</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17562676</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2007 Jul 24;104(30):12451-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17640886</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2002 Feb 19;99 Suppl 1:2538-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11875207</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Cancer. 2006 Aug 1;119(3):556-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16506222</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEBS Lett. 2010 Jun 18;584(12):2618-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20227409</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hum Pathol. 2011 Jul;42(7):918-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21683865</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hum Reprod. 2009 Sep;24(9):2133-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19493871</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Endocrinol. 2009 Mar 5;300(1-2):104-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19150483</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Med (Berl). 2010 Mar;88(3):267-78</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19898767</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hum Reprod Update. 2008 Sep-Oct;14(5):447-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18535005</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Endocrinol. 2009 Mar 25;301(1-2):59-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18762229</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucl Recept. 2003 Sep 18;1(1):8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14594453</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Histol. 2004 Mar;35(3):277-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15339047</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Reprod Sci. 2011 Mar;18(3):229-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21063030</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Reproduction. 2009 Aug;138(2):357-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19439560</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Endocrinol. 2008 Nov;22(11):2557-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18818281</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gynecol Oncol. 2003 Apr;89(1):9-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12694648</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Front Biosci. 2006;11:1414-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16368525</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Breast Cancer Res. 2004;6(3):137-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15084235</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Fertil Steril. 2010 Feb;93(3):706-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19022426</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Steroid Biochem Mol Biol. 2005 May;95(1-5):57-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16024248</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2002 Apr;18(4):546-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12016052</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Histol Histopathol. 2009 Sep;24(9):1181-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19609865</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Endocrinol. 2008 Apr;22(4):904-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18165439</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gynecol Oncol. 2010 Sep;118(3):220-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20722101</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochim Biophys Acta. 2010 Mar;1801(3):327-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19796705</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Reprod Biol Endocrinol. 2009;7:94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19735579</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Proteome Res. 2010 May 7;9(5):2438-49</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20199104</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Fertil Steril. 2002 Jan;77(1):38-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11779588</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hum Reprod Update. 2003 May-Jun;9(3):223-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12859044</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 2009 Mar;94(3):876-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19088158</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gynecol Endocrinol. 2010 Mar;26(3):213-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19718562</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Epidemiol. 2009 Aug;38(4):1143-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19351698</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hum Reprod. 2007 Dec;22(12):3148-58</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17921479</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2002 May 1;30(9):e36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11972351</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Mol Med. 2008 Mar;21(3):335-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18288381</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Fertil Steril. 1997 May;67(5):817-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9130884</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Int Med Res. 2009 Sep-Oct;37(5):1389-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19930843</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Semin Immunopathol. 2007 Jun;29(2):193-210</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17621704</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Sci. 2010 Nov 15;123(Pt 22):3837-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21048160</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2009 Jan 15;360(3):268-79</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19144942</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Reproduction. 2004 Mar;127(3):293-304</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15016949</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Semin Reprod Med. 2010 Jan;28(1):36-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20104427</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Endocrinology. 2006 Jan;147(1):232-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16195411</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Obstet Gynecol Reprod Biol. 2011 Mar;155(1):85-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21112686</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Cancer. 2011 Aug 15;129(4):948-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20949560</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Endocrinol. 2002 Aug;29(1):23-39</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12200227</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Physiol. 2011;73:163-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21054165</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2002 Feb 19;99(4):2049-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11842230</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Reprod Sci. 2009 Apr;16(4):335-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19196878</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Fertil Steril. 1990 Jun;53(6):978-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2140994</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

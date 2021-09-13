@@ -1,0 +1,355 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">27929028</PMID>
+        <DateCompleted>
+            <Year>2018</Year>
+            <Month>05</Month>
+            <Day>23</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2045-2322</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>6</Volume>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>12</Month>
+                        <Day>08</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Scientific reports</Title>
+                <ISOAbbreviation>Sci Rep</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Concordance between somatic copy number loss and down-regulated expression: A pan-cancer study of cancer predisposition genes.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>37358</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1038/srep37358</ELocationID>
+            <Abstract>
+                <AbstractText>Cancer predisposition genes (CPGs) are a class of cancer genes in which germline variants lead to increased risk of cancer. Research has revealed that copy number variation (CNV) may be linked to cancer susceptibility in CPGs. In this pan-cancer analysis, we explored the relationship between somatic CNV and gene expression changes in CPGs. Based on curated 827 human CPGs from literature, we firstly identified 729 CPGs with precise CNV information from 5067 tumor samples using TCGA CNV data. Among them, 128 CPGs tended to have more frequent copy number losses (CNLs) compared with copy number gains (CNGs). Then by correlating these CNV data with TCGA gene expression data, we obtained 49 CPGs with concordant CNLs and gene down-regulation. Intriguingly, five CPGs showed concordance between CNL and down-regulation in 50 or more tumor samples: MTAP (216 samples), PTEN (143), MCPH1 (86), SMAD4 (63), and MINPP1 (51), which may represent the recurrent driving force for gene expression change during oncogenesis. Moreover, network analysis revealed that these 49 CPGs were tightly connected. In summary, this study provides the first observation of concordance between CNLs and down-regulation of CPGs in pan-cancer, which may help better understand the CPG biology in tumorigenesis and cancer progression.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wei</LastName>
+                    <ForeName>Ran</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Health Sciences, School of Computer Science and Technology, Anhui University, Hefei, Anhui 230601, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhao</LastName>
+                    <ForeName>Ming</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Health Sciences, School of Computer Science and Technology, Anhui University, Hefei, Anhui 230601, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zheng</LastName>
+                    <ForeName>Chun-Hou</ForeName>
+                    <Initials>CH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Health Sciences, School of Computer Science and Technology, Anhui University, Hefei, Anhui 230601, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhao</LastName>
+                    <ForeName>Min</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Engineering, Faculty of Science, Health, Education and Engineering, University of Sunshine Coast, Maroochydore DC, Queensland, 4558, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xia</LastName>
+                    <ForeName>Junfeng</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Health Sciences, School of Computer Science and Technology, Anhui University, Hefei, Anhui 230601, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>12</Month>
+                <Day>08</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Sci Rep</MedlineTA>
+            <NlmUniqueID>101563288</NlmUniqueID>
+            <ISSNLinking>2045-2322</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D056915" MajorTopicYN="Y">DNA Copy Number Variations</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D030541" MajorTopicYN="N">Databases, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015536" MajorTopicYN="Y">Down-Regulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020869" MajorTopicYN="N">Gene Expression Profiling</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015972" MajorTopicYN="N">Gene Expression Regulation, Neoplastic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D063990" MajorTopicYN="N">Gene Ontology</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D053263" MajorTopicYN="N">Gene Regulatory Networks</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020022" MajorTopicYN="N">Genetic Predisposition to Disease</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009369" MajorTopicYN="N">Neoplasms</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>07</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>10</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>12</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>12</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>5</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">27929028</ArticleId>
+            <ArticleId IdType="pii">srep37358</ArticleId>
+            <ArticleId IdType="doi">10.1038/srep37358</ArticleId>
+            <ArticleId IdType="pmc">PMC5144096</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2011 Jan;39(Database issue):D876-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20959295</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1971 Apr;68(4):820-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">5279523</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genomics. 2012 Mar;99(3):183-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22227021</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Commun. 2014;5:3156</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24448499</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Cancer Res. 2004 Jul 15;10(14):4799-805</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15269155</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2011 Feb 1;27(3):431-2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21149340</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncotarget. 2016 Jun 21;7(25):37803-37811</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27192119</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2011 Jan;39(Database issue):D685-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21071392</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2011 Jan;39(Database issue):D945-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20952405</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1991 Jul 5;253(5015):49-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1905840</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Front Biosci (Landmark Ed). 2011 Jan 01;16:1536-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21196246</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Cancer. 2006 Feb 27;94(4):532-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16450001</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sci Signal. 2013 Apr 02;6(269):pl1</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23550210</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2008 Jan;36(Database issue):D480-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18077471</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Biol. 2015 Sep 15;16:193</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26374197</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2004 Jun 4;304(5676):1497-500</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15118125</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Genet. 2010 Sep 02;6(9):e1001086</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20824129</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2010 Mar 15;26(6):841-2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20110278</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2007 Jul;35(Web Server issue):W169-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17576678</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2013 Dec 18;8(12):e82241</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24367507</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Future Med Chem. 2014 Jun;6(10):1167-78</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25078136</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2013;8(3):e58134</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23526967</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncogene. 1999 May 20;18(20):3098-103</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10340381</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2009 Jul;37(Web Server issue):W23-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19420058</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Commun. 2015 Dec 22;6:10086</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26689913</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2006 Jun 6;103(23):8577-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16723398</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2011;6(7):e21800</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21789182</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2014 Jan 16;505(7483):302-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24429628</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>APMIS. 2005 Apr;113(4):264-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15865607</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

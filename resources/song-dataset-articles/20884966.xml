@@ -1,0 +1,151 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20884966</PMID>
+        <DateCompleted>
+            <Year>2010</Year>
+            <Month>11</Month>
+            <Day>29</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2011</Year>
+            <Month>12</Month>
+            <Day>09</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">2044-5377</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>92</Volume>
+                    <Issue>10</Issue>
+                    <PubDate>
+                        <Year>2010</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of bone and joint surgery. British volume</Title>
+                <ISOAbbreviation>J Bone Joint Surg Br</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The use of fibrin glue in surgery of the knee.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1325-31</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1302/0301-620X.92B10.24828</ELocationID>
+            <Abstract>
+                <AbstractText>Fibrin glue, also known as fibrin sealant, is now established as a haemostatic agent in surgery, but its role in orthopaedic surgery is neither well known nor clearly defined. Although it was originally used over 100 years ago, concerns about transmission of disease meant that it fell from favour. It is also available as a slow-release drug delivery system and as a substrate for cellular growth and tissue engineering. Consequently, it has the potential to be used in a number of ways in orthopaedic surgery. The purpose of this review is to address its use in surgery of the knee in which it appears to offer great promise.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Patel</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Orthopaedics, University College Hospital, 235 Euston Road, London NW1 2BU, UK. shelain.patel@doctors.org.uk</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rodriguez-Merchan</LastName>
+                    <ForeName>E C</ForeName>
+                    <Initials>EC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Haddad</LastName>
+                    <ForeName>F S</ForeName>
+                    <Initials>FS</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Bone Joint Surg Br</MedlineTA>
+            <NlmUniqueID>0375355</NlmUniqueID>
+            <ISSNLinking>0301-620X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D015718">Fibrin Tissue Adhesive</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014014">Tissue Adhesives</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019645" MajorTopicYN="N">Arthroplasty, Replacement, Knee</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015718" MajorTopicYN="N">Fibrin Tissue Adhesive</DescriptorName>
+                <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006488" MajorTopicYN="N">Hemostasis, Surgical</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007718" MajorTopicYN="N">Knee Injuries</DescriptorName>
+                <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007719" MajorTopicYN="N">Knee Joint</DescriptorName>
+                <QualifierName UI="Q000601" MajorTopicYN="Y">surgery</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014014" MajorTopicYN="N">Tissue Adhesives</DescriptorName>
+                <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20884966</ArticleId>
+            <ArticleId IdType="pii">92-B/10/1325</ArticleId>
+            <ArticleId IdType="doi">10.1302/0301-620X.92B10.24828</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

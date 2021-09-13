@@ -1,0 +1,197 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">19855429</PMID>
+        <DateCompleted>
+            <Year>2010</Year>
+            <Month>02</Month>
+            <Day>05</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>19</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1476-5594</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>29</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2010</Year>
+                        <Month>Jan</Month>
+                        <Day>28</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Oncogene</Title>
+                <ISOAbbreviation>Oncogene</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Serum protein signature may improve detection of ductal carcinoma in situ of the breast.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>550-60</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1038/onc.2009.341</ELocationID>
+            <Abstract>
+                <AbstractText>Ductal carcinoma in situ (DCIS) of the breast is part of a spectrum of preinvasive lesions that originate within normal breast tissue and progress to invasive breast cancer. The detection of DCIS is important for the reduction of mortality from breast cancer, but the diagnosis of preinvasive breast tumors is hampered by the lack of an adequate detection method. To identify the changes in protein expression during the initial stage of tumorigenesis and to identify the presence of new DCIS markers, we analysed serum from 60 patients with breast cancer and 60 normal controls using mass spectrometry. A 23-protein index was generated that correctly distinguishes the DCIS and control groups with sensitivities and specificities in excess of 80% in two independent cohorts. Two candidate peptides were purified and identified as platelet factor 4 (PF-4) and complement C3a(desArg) anaphylatoxin (C3a(desArg)) using liquid chromatography-tandem mass spectrometry (LC-MS/MS). In an independent serum set of 165 patients, PF-4 and C3a(desArg) were significantly upregulated in DCIS compared with non-cancerous controls, as validated using western blot and enzyme-linked immunosorbent assay. We conclude that our serum protein-based test, used in conjunction with image-based screening practices, could improve the sensitivity and specificity of breast cancer detection.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Solassol</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Montpellier I, Montpellier, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rouanet</LastName>
+                    <ForeName>P</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lamy</LastName>
+                    <ForeName>P J</ForeName>
+                    <Initials>PJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Allal</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Favre</LastName>
+                    <ForeName>G</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Maudelonde</LastName>
+                    <ForeName>T</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mangé</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2009</Year>
+                <Month>10</Month>
+                <Day>26</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Oncogene</MedlineTA>
+            <NlmUniqueID>8711562</NlmUniqueID>
+            <ISSNLinking>0950-9232</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014408">Biomarkers, Tumor</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C038245">C3 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D003176">Complement C3</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>37270-94-3</RegistryNumber>
+                <NameOfSubstance UI="D010978">Platelet Factor 4</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000595" MajorTopicYN="N">Amino Acid Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014408" MajorTopicYN="N">Biomarkers, Tumor</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001943" MajorTopicYN="N">Breast Neoplasms</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018270" MajorTopicYN="N">Carcinoma, Ductal, Breast</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003176" MajorTopicYN="N">Complement C3</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="Y">analysis</QualifierName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008969" MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010978" MajorTopicYN="N">Platelet Factor 4</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D040081" MajorTopicYN="N">Protein Array Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D053719" MajorTopicYN="N">Tandem Mass Spectrometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015854" MajorTopicYN="N">Up-Regulation</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2009</Year>
+                <Month>10</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2009</Year>
+                <Month>10</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2010</Year>
+                <Month>2</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">19855429</ArticleId>
+            <ArticleId IdType="pii">onc2009341</ArticleId>
+            <ArticleId IdType="doi">10.1038/onc.2009.341</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

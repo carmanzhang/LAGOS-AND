@@ -1,0 +1,208 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">23503753</PMID>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>24</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>19</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1432-0843</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>72</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cancer chemotherapy and pharmacology</Title>
+                <ISOAbbreviation>Cancer Chemother Pharmacol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Long-term efficacy of imatinib for treatment of metastatic GIST.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>277-86</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s00280-013-2135-8</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">Imatinib is an effective and approved treatment for advanced gastrointestinal stromal tumor (GIST). Continuous imatinib treatment is recommended by current guidelines. This review summarizes the long-term efficacy and safety of imatinib for patients with metastatic GIST.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Key clinical studies were reviewed-including B2222, S0033, and BFR14-with particular emphasis on recently reported results of the long-term clinical outcome of imatinib for metastatic GIST.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The B2222 and S0033 studies recently reported 10-year follow-up results that demonstrate the long-term efficacy of imatinib. Furthermore, results from the BFR14 study demonstrate that imatinib treatment should not be interrupted and that the efficacy of imatinib following reintroduction is inferior compared with the continuous administration group. The S0033 study also supports the importance of dose optimization and dose escalation of imatinib in patients with KIT exon 9 mutations or progressive disease. These studies demonstrate that individual patient characteristics should be evaluated for optimal patient management. Managing adverse events proactively is very important to maintain compliance.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The results from these studies demonstrate that long-term imatinib extends survival in patients with advanced GIST. Furthermore, these studies support the safety of long-term imatinib therapy in this patient population.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Patel</LastName>
+                    <ForeName>Shreyaskumar</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Sarcoma Medical Oncology, The University of Texas MD Anderson Cancer Center, 1515 Holcombe Blvd, Houston, TX 77030, USA. spatel@mdanderson.org</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>03</Month>
+                <Day>17</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Cancer Chemother Pharmacol</MedlineTA>
+            <NlmUniqueID>7806519</NlmUniqueID>
+            <ISSNLinking>0344-5704</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000970">Antineoplastic Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D001549">Benzamides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010879">Piperazines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011743">Pyrimidines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>8A1O1M485B</RegistryNumber>
+                <NameOfSubstance UI="D000068877">Imatinib Mesylate</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000970" MajorTopicYN="N">Antineoplastic Agents</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+                <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001549" MajorTopicYN="N">Benzamides</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+                <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017322" MajorTopicYN="N">Clinical Trials, Phase II as Topic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017326" MajorTopicYN="N">Clinical Trials, Phase III as Topic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004252" MajorTopicYN="N">DNA Mutational Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018450" MajorTopicYN="N">Disease Progression</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004305" MajorTopicYN="N">Dose-Response Relationship, Drug</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005500" MajorTopicYN="N">Follow-Up Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005770" MajorTopicYN="N">Gastrointestinal Neoplasms</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="Y">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D046152" MajorTopicYN="N">Gastrointestinal Stromal Tumors</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="Y">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000068877" MajorTopicYN="N">Imatinib Mesylate</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009362" MajorTopicYN="N">Neoplasm Metastasis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010349" MajorTopicYN="N">Patient Compliance</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010879" MajorTopicYN="N">Piperazines</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+                <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011743" MajorTopicYN="N">Pyrimidines</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+                <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016019" MajorTopicYN="N">Survival Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2012</Year>
+                <Month>12</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>03</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>3</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>3</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">23503753</ArticleId>
+            <ArticleId IdType="doi">10.1007/s00280-013-2135-8</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

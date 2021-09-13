@@ -1,0 +1,481 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">23456297</PMID>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>20</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>12</Month>
+            <Day>02</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">0219-1032</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>35</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Molecules and cells</Title>
+                <ISOAbbreviation>Mol Cells</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Regulatory effects of resveratrol on antioxidant enzymes: a mechanism of growth inhibition and apoptosis induction in cancer cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>219-25</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s10059-013-2259-z</ELocationID>
+            <Abstract>
+                <AbstractText>Resveratrol (RSV) is a natural polyphenol that is known as a powerful chemopreventive and chemotherapeutic anticancer molecule. This study focused on the effects of RSV on the activities and expression levels of antioxidant enzymes in the cancer cells. Prostate cancer PC-3 cells, hepatic cancer HepG2 cells, breast cancer MCF-7 cells and the non-cancerous HEK293T kidney epithelial cells were treated with a wide range of RSV concentrations (10-100 μM) for 24-72 h. Cell growth was estimated by trypan blue staining, activities of the antioxidant enzymes were measured spectrophotometrically, expression levels of the antioxidant enzymes were quantified by digitalizing the protein band intensities on Western blots, and the percentage of apoptotic cells was determined by flow cytometry. Treatment with a low concentration of RSV (25 μM) significantly increased superoxide dismutase (SOD) activity in PC-3, HepG2 and MCF-7 cells, but not in HEK293T cells. Catalase (CAT) activity was increased in HepG2 cells, but no effect was found on glutathione peroxidase (GPX) upon RSV treatment. RSV-induced SOD2 expression was observed in cancer cells, although the expression of SOD1, CAT and GPX1 was unaffected. Apoptosis increased upon RSV treatment of cancer cells, especially in PC-3 and HepG2 cells. Together, our data demonstrated that RSV inhibits cancer cell growth with minimal effects on non-cancerous cells. We postulate that the disproportional up-regulation of SOD, CAT and GPX expression and enzymatic activity in cancer cells results in the mitochondrial accumulation of H2O2, which in turn induces cancer cell apoptosis.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Khan</LastName>
+                    <ForeName>Md Asaduzzaman</ForeName>
+                    <Initials>MA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry, School of Biological Science and Technology, Central South University, Changsha, Hunan 410013, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Han-Chun</ForeName>
+                    <Initials>HC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wan</LastName>
+                    <ForeName>Xin-Xing</ForeName>
+                    <Initials>XX</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tania</LastName>
+                    <ForeName>Mousumi</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xu</LastName>
+                    <ForeName>Ai-Hua</ForeName>
+                    <Initials>AH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Fang-Zhi</ForeName>
+                    <Initials>FZ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Dian-Zheng</ForeName>
+                    <Initials>DZ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>02</Month>
+                <Day>26</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Korea (South)</Country>
+            <MedlineTA>Mol Cells</MedlineTA>
+            <NlmUniqueID>9610936</NlmUniqueID>
+            <ISSNLinking>1016-8478</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016588">Anticarcinogenic Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D013267">Stilbenes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>BBX060AN9V</RegistryNumber>
+                <NameOfSubstance UI="D006861">Hydrogen Peroxide</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.11.1.6</RegistryNumber>
+                <NameOfSubstance UI="D002374">Catalase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.11.1.9</RegistryNumber>
+                <NameOfSubstance UI="D005979">Glutathione Peroxidase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.15.1.1</RegistryNumber>
+                <NameOfSubstance UI="D013482">Superoxide Dismutase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>Q369O8926L</RegistryNumber>
+                <NameOfSubstance UI="D000077185">Resveratrol</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="ErratumIn">
+                <RefSource>Mol Cells. 2013 Apr;35(4):355</RefSource>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D016588" MajorTopicYN="N">Anticarcinogenic Agents</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017209" MajorTopicYN="N">Apoptosis</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002374" MajorTopicYN="N">Catalase</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D049109" MajorTopicYN="N">Cell Proliferation</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015870" MajorTopicYN="N">Gene Expression</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015972" MajorTopicYN="N">Gene Expression Regulation, Neoplastic</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005979" MajorTopicYN="N">Glutathione Peroxidase</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D057809" MajorTopicYN="N">HEK293 Cells</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D056945" MajorTopicYN="N">Hep G2 Cells</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006861" MajorTopicYN="N">Hydrogen Peroxide</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D061986" MajorTopicYN="N">MCF-7 Cells</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000077185" MajorTopicYN="N">Resveratrol</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013267" MajorTopicYN="N">Stilbenes</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013482" MajorTopicYN="N">Superoxide Dismutase</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015854" MajorTopicYN="N">Up-Regulation</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2012</Year>
+                <Month>10</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>01</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2013</Year>
+                <Month>01</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>3</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>3</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">23456297</ArticleId>
+            <ArticleId IdType="doi">10.1007/s10059-013-2259-z</ArticleId>
+            <ArticleId IdType="pmc">PMC3887918</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>FEBS Lett. 2001 Apr 20;495(1-2):12-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11322939</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1973 Feb 9;179(4073):588-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4686466</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2001 Dec 1;61(23):8578-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11731445</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Pharmacol Toxicol. 2004;44:239-67</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14744246</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Surgery. 2004 Jul;136(1):57-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15232540</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anal Biochem. 1976 May 7;72:248-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">942051</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Chem. 1980 Apr;26(5):658-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7261316</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Chem. 1988 Mar;34(3):497-500</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3349599</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Chim Acta. 1991 Feb 15;196(2-3):143-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2029780</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer. 1993 Jun 15;71(12):3851-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7685235</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Chem. 1995 Dec;41(12 Pt 1):1789</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7497631</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1997 Jan 10;275(5297):218-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8985016</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Biophys Res Commun. 1999 Jan 27;254(3):739-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9920811</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Life Sci. 1999;64(26):2511-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10403511</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>World J Gastroenterol. 2005 Jan 14;11(2):280-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15633232</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncogene. 2005 Jan 13;24(3):367-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15531919</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2005 Jul 29;122(2):221-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16051147</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Androl. 2007 Mar-Apr;28(2):282-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17050787</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Mol Cell Biol. 2007 Sep;8(9):722-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17700625</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Biophys Res Commun. 2008 Mar 7;367(2):406-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18167310</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Cycle. 2008 Apr 15;7(8):1020-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18414053</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Death Differ. 2008 Aug;15(8):1318-29</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18421301</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Biochem Funct. 2008 Aug;26(6):723-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18636415</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Adv Exp Med Biol. 2009;643:491-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19239181</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Prev Res (Phila). 2009 May;2(5):409-18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19401532</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Leuk Lymphoma. 2009 May;50(5):809-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19452319</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Steroid Biochem Mol Biol. 2009 Jul;115(3-5):153-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19383545</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Biochem. 2009 Aug;42(12):1228-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19465015</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Chem Biol Interact. 2009 Oct 7;181(2):193-201</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19523937</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Med Food. 2010 Aug;13(4):815-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20673057</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oxid Med Cell Longev. 2010 Mar-Apr;3(2):86-100</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20716933</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann N Y Acad Sci. 2011 Jan;1215:161-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21261655</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anticancer Agents Med Chem. 2011 Jun;11(5):479-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21524243</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cells. 2011 Sep;32(3):243-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21887509</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Nutr Food Res. 2012 Jan;56(1):7-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22218912</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2012 Feb 3;148(3):421-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22304913</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pancreatology. 2011;11(6):601-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22301921</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biol Pharm Bull. 2012;35(3):273-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22382311</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Pharm Des. 2012;18(12):1645-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22288443</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

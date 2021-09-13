@@ -1,0 +1,427 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">12384343</PMID>
+        <DateCompleted>
+            <Year>2003</Year>
+            <Month>03</Month>
+            <Day>24</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>05</Month>
+            <Day>08</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0066-4804</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>46</Volume>
+                    <Issue>11</Issue>
+                    <PubDate>
+                        <Year>2002</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Antimicrobial agents and chemotherapy</Title>
+                <ISOAbbreviation>Antimicrob. Agents Chemother.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Constitutive high expression of chromosomal beta-lactamase in Pseudomonas aeruginosa caused by a new insertion sequence (IS1669) located in ampD.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>3406-11</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The expression of chromosomal AmpC beta-lactamase in Pseudomonas aeruginosa is negatively regulated by the activity of an amidase, AmpD. In the present study we examined resistant clinical P. aeruginosa strains and several resistant variants isolated from in vivo and in vitro biofilms for mutations in ampD to find evidence for the genetic changes leading to high-level expression of chromosomal beta-lactamase. A new insertion sequence, IS1669, was found located in the ampD genes of two clinical P. aeruginosa isolates and several biofilm-isolated variants. The presence of IS1669 in ampD resulted in the expression of high levels of AmpC beta-lactamase. Complementation of these isolates with ampD from the reference P. aeruginosa strain PAO1 caused a dramatic decrease in the expression of AmpC beta-lactamase and a parallel decrease of the MIC of ceftazidime to a level comparable to that of PAO1. One highly resistant, constitutive beta-lactamase-producing variant contained no mutations in ampD, but a point mutation was observed in ampR, resulting in an Asp-135--&gt;Asn change. An identical mutation of AmpR in Enterobacter cloacae has been reported to cause a 450-fold higher AmpC expression. However, in many of the isolates expressing high levels of chromosomal beta-lactamase, no changes were found in either ampD, ampR, or in the promoter region of ampD, ampR, or ampC. Our results suggest that multiple pathways may exist leading to increased antimicrobial resistance due to chromosomal beta-lactamase.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Bagge</LastName>
+                    <ForeName>Niels</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Medical Microbiology and Immunology, Panum Institute, University of Copenhagen, Denmark. niels_bagge@hotmail.com</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ciofu</LastName>
+                    <ForeName>Oana</ForeName>
+                    <Initials>O</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hentzer</LastName>
+                    <ForeName>Morten</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Campbell</LastName>
+                    <ForeName>Joan I A</ForeName>
+                    <Initials>JI</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Givskov</LastName>
+                    <ForeName>Michael</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Høiby</LastName>
+                    <ForeName>Niels</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Antimicrob Agents Chemother</MedlineTA>
+            <NlmUniqueID>0315061</NlmUniqueID>
+            <ISSNLinking>0066-4804</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D001426">Bacterial Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004251">DNA Transposable Elements</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.5.1.28</RegistryNumber>
+                <NameOfSubstance UI="C062460">AmpD protein, Bacteria</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.5.1.28</RegistryNumber>
+                <NameOfSubstance UI="D009238">N-Acetylmuramoyl-L-alanine Amidase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.5.2.6</RegistryNumber>
+                <NameOfSubstance UI="D001618">beta-Lactamases</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000595" MajorTopicYN="N">Amino Acid Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001426" MajorTopicYN="N">Bacterial Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001483" MajorTopicYN="N">Base Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002875" MajorTopicYN="N">Chromosomes</DescriptorName>
+                <QualifierName UI="Q000201" MajorTopicYN="Y">enzymology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003550" MajorTopicYN="N">Cystic Fibrosis</DescriptorName>
+                <QualifierName UI="Q000382" MajorTopicYN="N">microbiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004251" MajorTopicYN="N">DNA Transposable Elements</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015964" MajorTopicYN="N">Gene Expression Regulation, Bacterial</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015971" MajorTopicYN="N">Gene Expression Regulation, Enzymologic</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005816" MajorTopicYN="N">Genetic Complementation Test</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008826" MajorTopicYN="N">Microbial Sensitivity Tests</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008969" MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009238" MajorTopicYN="N">N-Acetylmuramoyl-L-alanine Amidase</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010957" MajorTopicYN="N">Plasmids</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011550" MajorTopicYN="N">Pseudomonas aeruginosa</DescriptorName>
+                <QualifierName UI="Q000201" MajorTopicYN="Y">enzymology</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020133" MajorTopicYN="N">Reverse Transcriptase Polymerase Chain Reaction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014169" MajorTopicYN="N">Transformation, Bacterial</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001618" MajorTopicYN="N">beta-Lactamases</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2002</Year>
+                <Month>10</Month>
+                <Day>18</Day>
+                <Hour>4</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2003</Year>
+                <Month>3</Month>
+                <Day>26</Day>
+                <Hour>4</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2002</Year>
+                <Month>10</Month>
+                <Day>18</Day>
+                <Hour>4</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">12384343</ArticleId>
+            <ArticleId IdType="pmc">PMC128714</ArticleId>
+            <ArticleId IdType="doi">10.1128/aac.46.11.3406-3411.2002</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Methods Enzymol. 1999;310:207-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10547794</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microb Drug Resist. 1995 Summer;1(2):111-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9158742</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antimicrob Agents Chemother. 2000 Mar;44(3):583-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10681322</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Antimicrob Chemother. 2000 Jun;45(6):783-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10837430</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>APMIS. 2000 Sep;108(9):589-600</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11110047</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antimicrob Agents Chemother. 1972 Apr;1(4):283-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4208895</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1987 May;169(5):1923-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3032901</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Rev Infect Dis. 1988 Jul-Aug;10(4):800-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3263688</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1989 Jul;171(7):3746-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2786868</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 1989 Aug;3(8):1091-102</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2691840</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antimicrob Agents Chemother. 1989 Nov;33(11):1946-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2692514</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>APMIS. 1990 Mar;98(3):203-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2107827</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem J. 1990 Dec 15;272(3):627-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2125210</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Antimicrob Chemother. 1990 Aug;26(2):247-59</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2170321</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antimicrob Agents Chemother. 1991 Feb;35(2):358-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2024967</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Antimicrob Chemother. 1991 Aug;28(2):167-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1778849</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antimicrob Agents Chemother. 1993 Feb;37(2):224-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8383940</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>APMIS. 1993 Mar;101(3):207-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8507458</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Antimicrob Chemother. 1993 Jun;31(6):919-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8360129</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEMS Microbiol Lett. 1993 Aug 1;111(2-3):315-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8405939</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 1994 Oct 3;13(19):4684-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7925310</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>APMIS. 1994 Sep;102(9):674-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7946270</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antimicrob Agents Chemother. 1997 Jun;41(6):1380-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9174204</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antimicrob Agents Chemother. 1997 Oct;41(10):2113-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9333034</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antimicrob Agents Chemother. 1998 Dec;42(12):3296-300</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9835532</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEMS Microbiol Lett. 1994 Sep 15;122(1-2):159-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7958768</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 1994 Oct;32(10):2564-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7814499</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 1995 Feb;15(3):553-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7783625</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antimicrob Agents Chemother. 1995 Jun;39(6):1211-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7574506</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antimicrob Agents Chemother. 1995 Nov;39(11):2494-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8585732</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antimicrob Agents Chemother. 1996 Aug;40(8):1953-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8843314</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antimicrob Agents Chemother. 1996 Sep;40(9):2173-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8878601</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Infect Dis. 1997 Jan;24 Suppl 1:S19-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8994778</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 1997 Mar 21;88(6):823-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9118225</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microb Drug Resist. 1996 Spring;2(1):105-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9158731</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antimicrob Agents Chemother. 2000 Mar;44(3):561-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10681318</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

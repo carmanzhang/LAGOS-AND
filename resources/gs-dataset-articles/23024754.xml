@@ -1,0 +1,390 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">23024754</PMID>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>02</Month>
+            <Day>15</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>7</Volume>
+                    <Issue>9</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>ROD1 is a seedless target gene of hypoxia-induced miR-210.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e44651</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Most metazoan microRNA (miRNA) target sites have perfect pairing to the &quot;seed&quot; sequence, a highly conserved region centering on miRNA nucleotides 2-7. Thus, complementarity to this region is a necessary requirement for target prediction algorithms. However, also non-canonical miRNA binding can confer target regulation. Here, we identified a seedless target of miR-210, a master miRNA of the hypoxic response. We analyzed 20 genes that were inversely correlated to miR-210 expression and did not display any complementarity with miR-210 seed sequence. We validated ROD1 (Regulator of Differentiation 1, also named PTBP3, Polypyrimidine Tract Binding protein 3) as a miR-210 seedless transcript enriched in miR-210-containing RNA-induced silencing complexes. ROD1 was not indirectly targeted by a miR-210-induced miRNA. Conversely, we identified a &quot;centered&quot; miR-210 binding site in ROD1 involving 10 consecutive bases in the central portion of miR-210. Reporter assays showed that miR-210 inhibited ROD1 by the direct binding to this sequence, demonstrating that ROD1 is a bona fide seedless target of miR-210. As expected, both ROD1 mRNA and protein were down-modulated upon hypoxia in a miR-210 dependent manner. ROD1 targeting by miR-210 was biologically significant: the rescue of ROD1 inhibition significantly increased hypoxia-induced cell death. These data highlight the importance of ROD1 regulation by miR-210 for cell homeostasis.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Fasanaro</LastName>
+                    <ForeName>Pasquale</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Istituto Dermopatico dell'Immacolata IRCCS, Roma, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Romani</LastName>
+                    <ForeName>Sveva</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Voellenkle</LastName>
+                    <ForeName>Christine</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Maimone</LastName>
+                    <ForeName>Biagina</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Capogrossi</LastName>
+                    <ForeName>Maurizio C</ForeName>
+                    <Initials>MC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Martelli</LastName>
+                    <ForeName>Fabio</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2012</Year>
+                <Month>09</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C543800">MIRN210 microRNA, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D035683">MicroRNAs</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C118823">PTBP3 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>139076-35-0</RegistryNumber>
+                <NameOfSubstance UI="D038941">Polypyrimidine Tract-Binding Protein</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D017209" MajorTopicYN="N">Apoptosis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020029" MajorTopicYN="N">Base Pairing</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001483" MajorTopicYN="N">Base Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001665" MajorTopicYN="N">Binding Sites</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002470" MajorTopicYN="N">Cell Survival</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005786" MajorTopicYN="Y">Gene Expression Regulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D057809" MajorTopicYN="N">HEK293 Cells</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000860" MajorTopicYN="Y">Hypoxia</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D035683" MajorTopicYN="N">MicroRNAs</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D038941" MajorTopicYN="N">Polypyrimidine Tract-Binding Protein</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D034622" MajorTopicYN="N">RNA Interference</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015203" MajorTopicYN="N">Reproducibility of Results</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014158" MajorTopicYN="N">Transcription, Genetic</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2012</Year>
+                <Month>05</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2012</Year>
+                <Month>08</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>10</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>10</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>2</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">23024754</ArticleId>
+            <ArticleId IdType="doi">10.1371/journal.pone.0044651</ArticleId>
+            <ArticleId IdType="pii">PONE-D-12-15360</ArticleId>
+            <ArticleId IdType="pmc">PMC3443109</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Mol Cell Biol. 1999 May;19(5):3829-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10207106</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microcirculation. 2012 Apr;19(3):215-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22171547</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 2007 Jul 17;116(3):258-67</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17606841</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell. 2007 Aug 3;27(3):420-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17679092</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Stroke. 2008 Mar;39(3):959-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18258830</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2008 Jun 6;283(23):15878-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18417479</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2009 Jan 23;136(2):215-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19167326</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2009 Feb 1;69(3):1221-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19141645</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Physiol. 2009 Sep;220(3):672-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19441079</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2009 Jul 23;460(7254):479-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19536157</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMB Rep. 2009 Aug 31;42(8):493-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19712585</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Cycle. 2009 Sep 1;8(17):2756-68</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19652553</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell. 2009 Sep 11;35(5):610-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19748357</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Haematol. 2008 Jun;142(2):293-300</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18492109</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2009 Dec 11;284(50):35134-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19826008</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>RNA. 2010 Feb;16(2):394-404</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20042474</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pharmacol Ther. 2010 Jan;125(1):92-104</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19896977</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arterioscler Thromb Vasc Biol. 2010 Jul;30(7):1389-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20431067</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell. 2010 Jun 25;38(6):789-802</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20620952</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circ Res. 2011 Jan 7;108(1):18-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21030712</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IUBMB Life. 2011 Feb;63(2):94-100</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21360638</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 2011 Mar 29;123(12):1287-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21403094</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Cycle. 2010 Apr 15;9(8):1533-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20372064</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin J Am Soc Nephrol. 2011 Jul;6(7):1540-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21700819</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2011 Sep 1;39(16):6845-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21652644</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Death Differ. 2011 Oct;18(10):1628-39</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21527937</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol Heart Circ Physiol. 2011 Oct;301(4):H1519-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21841015</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2011 Nov 15;27(22):3093-101</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21953484</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>RNA. 2012 Mar;18(3):472-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22282338</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Struct Mol Biol. 2012 Mar;19(3):321-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22343717</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FASEB J. 2006 Jun;20(8):1242-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16603604</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

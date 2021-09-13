@@ -1,0 +1,136 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">10962473</PMID>
+        <DateCompleted>
+            <Year>2000</Year>
+            <Month>10</Month>
+            <Day>18</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2010</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0741-0395</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>19</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2000</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Genetic epidemiology</Title>
+                <ISOAbbreviation>Genet Epidemiol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Mapping a quantitative trait locus via the EM algorithm and Bayesian classification.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>97-126</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Mapping a locus controlling a quantitative genetic trait (e.g., blood pressure) to a specific genomic region is of considerable interest. Data on the quantitative trait under consideration and several codominant genetic markers with known genomic locations are collected from members of families and statistically analyzed to draw inferences on the genomic position of the trait locus. The vector of parameters of interest comprises the pairwise recombination fractions, theta, between the putative quantitative trait locus and the marker loci. One of the major complications in estimating theta for a quantitative trait in humans is the lack of haplotype information on members of families. The purpose of this study was to devise a computationally simple and efficient method of estimation of theta in the absence of haplotype information. We have proposed a two-stage estimation procedure using the expectation-maximization (EM) algorithm. In the first stage, parameters of the QTL are estimated based on data of a sample of unrelated individuals. From estimates thus obtained, we have used a Bayes' rule to infer QTL genotypes of parents in families. Finally, in the second stage of the procedure, we have proposed an EM algorithm for obtaining the maximum likelihood estimate of theta based on data of informative families (which are identified upon inferring parental QTL genotypes performed in the first stage). We have shown, using simulated data, that the proposed procedure is cost-effective, computationally simple, and statistically efficient. As expected, analysis of data on multiple markers jointly is more efficient than the analysis based on single markers.</AbstractText>
+                <CopyrightInformation>Copyright 2000 Wiley-Liss, Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ghosh</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Anthropology and Human Genetics Unit, Indian Statistical Institute, Calcutta.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Majumder</LastName>
+                    <ForeName>P P</ForeName>
+                    <Initials>PP</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Genet Epidemiol</MedlineTA>
+            <NlmUniqueID>8411723</NlmUniqueID>
+            <ISSNLinking>0741-0395</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000465" MajorTopicYN="Y">Algorithms</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001499" MajorTopicYN="Y">Bayes Theorem</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002874" MajorTopicYN="N">Chromosome Mapping</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008040" MajorTopicYN="N">Genetic Linkage</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005838" MajorTopicYN="N">Genotype</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016013" MajorTopicYN="N">Likelihood Functions</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008957" MajorTopicYN="N">Models, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015233" MajorTopicYN="N">Models, Statistical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009679" MajorTopicYN="N">Nuclear Family</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019655" MajorTopicYN="Y">Quantitative Trait, Heritable</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2000</Year>
+                <Month>8</Month>
+                <Day>30</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2000</Year>
+                <Month>10</Month>
+                <Day>21</Day>
+                <Hour>11</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2000</Year>
+                <Month>8</Month>
+                <Day>30</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10962473</ArticleId>
+            <ArticleId IdType="pii">10.1002/1098-2272(200009)19:2&lt;97::AID-GEPI1&gt;3.0.CO;2-9</ArticleId>
+            <ArticleId IdType="doi">10.1002/1098-2272(200009)19:2&lt;97::AID-GEPI1&gt;3.0.CO;2-9</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

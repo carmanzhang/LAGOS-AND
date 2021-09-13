@@ -1,0 +1,597 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">25174402</PMID>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>10</Month>
+            <Day>01</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>12</Month>
+            <Day>03</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1476-5594</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>34</Volume>
+                    <Issue>27</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Oncogene</Title>
+                <ISOAbbreviation>Oncogene</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Th17-type cytokines, IL-6 and TNF-α synergistically activate STAT3 and NF-kB to promote colorectal cancer cell growth.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>3493-503</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1038/onc.2014.286</ELocationID>
+            <Abstract>
+                <AbstractText>Colorectal cancers (CRCs) often show a dense infiltrate of cytokine-producing immune/inflammatory cells. The exact contribution of each immune cell subset and cytokine in the activation of the intracellular pathways sustaining CRC cell growth is not understood. Herein, we isolate tumor-infiltrating leukocytes (TILs) and lamina propria mononuclear cells (LPMCs) from the tumor area and the macroscopically unaffected, adjacent, colonic mucosa of patients who underwent resection for sporadic CRC and show that the culture supernatants of TILs, but not of LPMCs, potently enhance the growth of human CRC cell lines through the activation of the oncogenic transcription factors signal transducer and activator of transcription 3 (STAT3) and nuclear factor-kappa B (NF-kB). Characterization of immune cell complexity of TILs and LPMCs reveals no differences in the percentages of T cells, natural killer T cells, natural killer (NK) cells, macrophages and B cells. However, T cells from TILs show a functional switch compared with those from LPMCs to produce large amounts of T helper type 17 (Th17)-related cytokines (that is, interleukin-17A (IL-17A), IL-17F, IL-21 and IL-22), tumor necrosis factor-α (TNF-α) and IL-6. Individual neutralization of IL-17A, IL-17F, IL-21, IL-22, TNF-α or IL-6 does not change TIL-derived supernatant-driven STAT3 and NF-kB activation, as well as their proproliferative effect in CRC cells. In contrast, simultaneous neutralization of both IL-17A and TNF-α, which abrogates NF-kB signaling, and IL-22 and IL-6, which abrogates STAT3 signaling, reduces the mitogenic effect of supernatants in CRC cells. IL-17A, IL-21, IL-22, TNF-α and IL-6 are also produced in excess in the early colonic lesions in a mouse model of sporadic CRC, associated with enhanced STAT3/NF-kB activation. Mice therapeutically given BP-1-102, an orally bioavailable compound targeting STAT3/NF-kB activation and cross-talk, exhibit reduced colon tumorigenesis and diminished expression of STAT3/NF-kB-activating cytokines in the neoplastic areas. These data suggest that strategies aimed at the cotargeting of STAT3/NF-kB activation and interaction between them might represent an attractive and novel approach to combat CRC.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>De Simone</LastName>
+                    <ForeName>V</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Systems Medicine, University of Rome 'Tor Vergata', Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Franzè</LastName>
+                    <ForeName>E</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Systems Medicine, University of Rome 'Tor Vergata', Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ronchetti</LastName>
+                    <ForeName>G</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Systems Medicine, University of Rome 'Tor Vergata', Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Colantoni</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Systems Medicine, University of Rome 'Tor Vergata', Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fantini</LastName>
+                    <ForeName>M C</ForeName>
+                    <Initials>MC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Systems Medicine, University of Rome 'Tor Vergata', Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Di Fusco</LastName>
+                    <ForeName>D</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Systems Medicine, University of Rome 'Tor Vergata', Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sica</LastName>
+                    <ForeName>G S</ForeName>
+                    <Initials>GS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Surgery, University of Rome 'Tor Vergata', Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sileri</LastName>
+                    <ForeName>P</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Surgery, University of Rome 'Tor Vergata', Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>MacDonald</LastName>
+                    <ForeName>T T</ForeName>
+                    <Initials>TT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Immunology and Infectious Disease, Blizard Institute of Cell and Molecular Science, Barts and the London School of Medicine and Dentistry, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pallone</LastName>
+                    <ForeName>F</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Systems Medicine, University of Rome 'Tor Vergata', Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Monteleone</LastName>
+                    <ForeName>G</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Systems Medicine, University of Rome 'Tor Vergata', Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stolfi</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Systems Medicine, University of Rome 'Tor Vergata', Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2014</Year>
+                <Month>09</Month>
+                <Day>01</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Oncogene</MedlineTA>
+            <NlmUniqueID>8711562</NlmUniqueID>
+            <ISSNLinking>0950-9232</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016207">Cytokines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D020381">Interleukin-17</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D015850">Interleukin-6</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007378">Interleukins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016328">NF-kappa B</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D050796">STAT3 Transcription Factor</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C494087">Stat3 protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014409">Tumor Necrosis Factor-alpha</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>XEO71E2E45</RegistryNumber>
+                <NameOfSubstance UI="C415368">interleukin-22</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D049109" MajorTopicYN="N">Cell Proliferation</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002478" MajorTopicYN="N">Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015179" MajorTopicYN="N">Colorectal Neoplasms</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="Y">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016207" MajorTopicYN="N">Cytokines</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015972" MajorTopicYN="N">Gene Expression Regulation, Neoplastic</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019073" MajorTopicYN="N">HT29 Cells</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020381" MajorTopicYN="N">Interleukin-17</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015850" MajorTopicYN="N">Interleukin-6</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007378" MajorTopicYN="N">Interleukins</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008822" MajorTopicYN="N">Mice, Transgenic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016328" MajorTopicYN="N">NF-kappa B</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D050796" MajorTopicYN="N">STAT3 Transcription Factor</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D058504" MajorTopicYN="N">Th17 Cells</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014409" MajorTopicYN="N">Tumor Necrosis Factor-alpha</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2014</Year>
+                <Month>05</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2014</Year>
+                <Month>07</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2014</Year>
+                <Month>07</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>9</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>9</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">25174402</ArticleId>
+            <ArticleId IdType="pii">onc2014286</ArticleId>
+            <ArticleId IdType="doi">10.1038/onc.2014.286</ArticleId>
+            <ArticleId IdType="pmc">PMC4493653</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2012 Jun 12;109(24):9623-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22623533</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gut. 2001 Apr;48(4):526-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11247898</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Immunol (Paris). 1980 May-Jun;131C(3):349-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6157349</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gut. 2005 Jul;54(7):950-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15951540</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Rheum Dis. 2013 Apr;72 Suppl 2:ii100-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23253923</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 2008 Feb;118(2):560-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18219394</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gut. 2011 Dec;60(12):1678-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21948944</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Cell. 2009 Feb 3;15(2):103-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19185845</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncoimmunology. 2012 Aug 1;1(5):717-725</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22934263</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2010 Mar 23;107(12):5540-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20212110</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Cell. 2013 Aug 12;24(2):257-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23948300</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2008 Feb 1;180(3):1800-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18209077</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2006 Sep 22;126(6):1121-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16990136</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Mol Sci. 2012;13(9):11071-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23109839</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Med. 2011 Oct 24;208(11):2279-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21987656</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Immunity. 2014 Jan 16;40(1):140-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24412611</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Immunol. 2009;27:485-517</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19132915</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 1998 Jul 1;58(13):2832-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9661898</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Immunity. 2014 May 15;40(5):772-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24816405</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancers (Basel). 2014 Apr 16;6(2):897-925</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24743777</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Immunol. 2007 Jan;7(1):41-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17186030</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Carcinogenesis. 2012 Apr;33(4):931-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22354874</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2012 Nov 8;491(7423):254-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23034650</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2004 Aug 6;118(3):285-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15294155</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cytokine Growth Factor Rev. 2010 Feb;21(1):11-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20018552</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2012 Nov 8;491(7423):259-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23075849</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>CA Cancer J Clin. 2009 Nov-Dec;59(6):366-78</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19897840</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 1990 Jun 1;61(5):759-67</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2188735</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncogene. 2006 Oct 30;25(51):6758-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17072327</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2009 Dec 1;183(11):7161-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19917680</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2006 Sep 29;313(5795):1960-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17008531</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2011 Feb 15;71(4):1263-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21303976</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Cell. 2009 Apr 7;15(4):283-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19345327</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gastroenterology. 1997 Apr;112(4):1169-78</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9098000</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2011 Sep 1;71(17):5601-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21846822</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2000 Mar 17;100(6):655-69</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10761931</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Commun. 2014;5:3753</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24796415</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Semin Cancer Biol. 2000 Apr;10(2):113-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10936062</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Cell. 2009 Feb 3;15(2):91-102</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19185844</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Cancer. 2012 Apr;12(4):298-306</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22419253</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Carcinogenesis. 2007 Sep;28(9):1978-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17638923</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Pharmacol. 2008 Feb 1;75(3):668-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17981262</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Med. 2013 May 6;210(5):917-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23589566</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Med. 2002 Jul 1;196(1):129-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12093877</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Immunity. 2014 May 15;40(5):785-800</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24816404</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Immunol Rev. 2013 Mar;252(1):12-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23405892</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

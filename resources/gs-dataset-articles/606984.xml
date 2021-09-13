@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">606984</PMID>
+        <DateCompleted>
+            <Year>1978</Year>
+            <Month>04</Month>
+            <Day>26</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0023-2149</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>55</Volume>
+                    <Issue>11</Issue>
+                    <PubDate>
+                        <Year>1977</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Klinicheskaia meditsina</Title>
+                <ISOAbbreviation>Klin Med (Mosk)</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Indications for antibacterial therapy in toxic intestinal infections].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>132-4</MedlinePgn>
+            </Pagination>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Tumanov</LastName>
+                    <ForeName>F A</ForeName>
+                    <Initials>FA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Iushchik</LastName>
+                    <ForeName>N D</ForeName>
+                    <Initials>ND</Initials>
+                </Author>
+            </AuthorList>
+            <Language>rus</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D004740">English Abstract</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <VernacularTitle>Dopustima li antibakterial'naia terapiia pri pishchevykh toksikoinfektsiiakh.</VernacularTitle>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Russia (Federation)</Country>
+            <MedlineTA>Klin Med (Mosk)</MedlineTA>
+            <NlmUniqueID>2985204R</NlmUniqueID>
+            <ISSNLinking>0023-2149</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000900">Anti-Bacterial Agents</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000900" MajorTopicYN="N">Anti-Bacterial Agents</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012478" MajorTopicYN="N">Salmonella Food Poisoning</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1977</Year>
+                <Month>11</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1977</Year>
+                <Month>11</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1977</Year>
+                <Month>11</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">606984</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

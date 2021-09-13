@@ -1,0 +1,131 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">17330854</PMID>
+        <DateCompleted>
+            <Year>2007</Year>
+            <Month>06</Month>
+            <Day>13</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>12</Month>
+            <Day>01</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0008-543X</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>109</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>2007</Year>
+                        <Month>Apr</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cancer</Title>
+                <ISOAbbreviation>Cancer</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A review of hypofractionated palliative radiotherapy.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1462-70</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Radiotherapy commonly is employed to address symptoms in patients with symptoms caused by cancer. For this article, the authors reviewed data supporting the use of hypofractionated palliative radiotherapy. In addition to single-fraction treatment for painful bony metastasis, the available literature suggested that courses of 2 to 14 external-beam fractions may provide equivalent relief to longer course treatment in patients with a poor prognosis who have primary cancers of the lung, rectum, bladder, prostate, head and neck, spleen, and gynecologic system. Hypofractionated treatment delivers palliation that is time efficient, cost effective, and minimally toxic. Evidence suggests that the reluctance of radiation oncologists to provide single-fraction treatment acts as a barrier to referrals from palliative care professionals. Collaboration in education, research, and patient advocacy will advance the common objectives of the 2 specialties and lead to an appropriate increase in the use of palliative hypofractionated radiotherapy.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lutz</LastName>
+                    <ForeName>Stephen T</ForeName>
+                    <Initials>ST</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, Blanchard Valley Regional Cancer Center, Findlay, Ohio 45840, USA. slutz@bvha.org</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chow</LastName>
+                    <ForeName>Edward L</ForeName>
+                    <Initials>EL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hartsell</LastName>
+                    <ForeName>William F</ForeName>
+                    <Initials>WF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Konski</LastName>
+                    <ForeName>Andre A</ForeName>
+                    <Initials>AA</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Cancer</MedlineTA>
+            <NlmUniqueID>0374236</NlmUniqueID>
+            <ISSNLinking>0008-543X</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D019583" MajorTopicYN="Y">Dose Fractionation, Radiation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009369" MajorTopicYN="N">Neoplasms</DescriptorName>
+                <QualifierName UI="Q000532" MajorTopicYN="Y">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010166" MajorTopicYN="Y">Palliative Care</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018787" MajorTopicYN="N">Radiation Oncology</DescriptorName>
+                <QualifierName UI="Q000639" MajorTopicYN="Y">trends</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>65</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2007</Year>
+                <Month>3</Month>
+                <Day>3</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2007</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2007</Year>
+                <Month>3</Month>
+                <Day>3</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">17330854</ArticleId>
+            <ArticleId IdType="doi">10.1002/cncr.22555</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

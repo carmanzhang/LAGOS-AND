@@ -1,0 +1,389 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21212807</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>05</Month>
+            <Day>23</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1469-3178</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>12</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>EMBO reports</Title>
+                <ISOAbbreviation>EMBO Rep.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Inducible SUMO modification of TANK alleviates its repression of TLR7 signalling.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>129-35</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1038/embor.2010.207</ELocationID>
+            <Abstract>
+                <AbstractText>Adaptor proteins allow temporal and spatial coordination of signalling. In this study, we show SUMOylation of the adaptor protein TANK and its interacting kinase TANK-binding kinase 1 (TBK1). Modification of TANK by the small ubiquitin-related modifier (SUMO) at the evolutionarily conserved Lys 282 is triggered by the kinase activities of IκB kinase ɛ (IKKɛ) and TBK1. Stimulation of TLR7 leads to inducible SUMOylation of TANK, which in turn weakens the interaction with IKKɛ and thus relieves the negative function of TANK on signal propagation. Reconstitution experiments show that an absence of TANK SUMOylation impairs inducible expression of distinct TLR7-dependent target genes, providing a molecular mechanism that allows the control of TANK function.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Renner</LastName>
+                    <ForeName>Florian</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Biochemistry, Medical Faculty, Justus-Liebig-University, Friedrichstrasse 24, Giessen 35392, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Saul</LastName>
+                    <ForeName>Vera V</ForeName>
+                    <Initials>VV</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pagenstecher</LastName>
+                    <ForeName>Axel</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wittwer</LastName>
+                    <ForeName>Tobias</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schmitz</LastName>
+                    <ForeName>Michael Lienhard</ForeName>
+                    <Initials>ML</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>01</Month>
+                <Day>07</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>EMBO Rep</MedlineTA>
+            <NlmUniqueID>100963049</NlmUniqueID>
+            <ISSNLinking>1469-221X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D048868">Adaptor Proteins, Signal Transducing</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C491731">IKBKG protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C485891">PIAS4 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000075223">Poly-ADP-Ribose Binding Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D050828">Protein Inhibitors of Activated STAT</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011993">Recombinant Fusion Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D025842">SUMO-1 Protein</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C484406">TANK protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C495348">TLR7 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D051199">Toll-Like Receptor 7</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.11.10</RegistryNumber>
+                <NameOfSubstance UI="D051550">I-kappa B Kinase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.-</RegistryNumber>
+                <NameOfSubstance UI="D010450">Endopeptidases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.-</RegistryNumber>
+                <NameOfSubstance UI="C404512">SENP1 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.22.-</RegistryNumber>
+                <NameOfSubstance UI="D003546">Cysteine Endopeptidases</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D048868" MajorTopicYN="N">Adaptor Proteins, Signal Transducing</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003546" MajorTopicYN="N">Cysteine Endopeptidases</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010450" MajorTopicYN="N">Endopeptidases</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D057809" MajorTopicYN="N">HEK293 Cells</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051550" MajorTopicYN="N">I-kappa B Kinase</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010766" MajorTopicYN="N">Phosphorylation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000075223" MajorTopicYN="N">Poly-ADP-Ribose Binding Proteins</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D050828" MajorTopicYN="N">Protein Inhibitors of Activated STAT</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011993" MajorTopicYN="N">Recombinant Fusion Proteins</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D025842" MajorTopicYN="N">SUMO-1 Protein</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015398" MajorTopicYN="N">Signal Transduction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051199" MajorTopicYN="N">Toll-Like Receptor 7</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2010</Year>
+                <Month>06</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>5</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21212807</ArticleId>
+            <ArticleId IdType="pii">embor2010207</ArticleId>
+            <ArticleId IdType="doi">10.1038/embor.2010.207</ArticleId>
+            <ArticleId IdType="pmc">PMC3049432</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Genes Cells. 2000 Mar;5(3):191-202</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10759890</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Mol Cell Biol. 2007 Dec;8(12):947-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18000527</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Dev. 1996 Apr 15;10(8):963-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8608943</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1996 Aug 6;93(16):8241-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8710854</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Biochem Sci. 2008 Apr;33(4):171-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18353649</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Immunol. 2009 Jan;9(1):47-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19104498</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Immunol. 2009;27:693-733</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19302050</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2009 Mar 20;136(6):1098-109</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19303852</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Biochem Sci. 2009 Mar;34(3):128-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19233657</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sci Signal. 2009;2(72):ra24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19471022</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell. 2009 May 14;34(4):461-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19481526</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Immunol. 2009 Sep;10(9):965-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19668221</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cold Spring Harb Perspect Biol. 2009 Oct;1(4):a000034</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20066092</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell. 2010 Feb 26;37(4):503-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20188669</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cold Spring Harb Perspect Biol. 2010 Mar;2(3):a000158</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20300203</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem J. 2010 Jun 1;428(2):133-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20462400</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Mol Cell Biol. 2010 Jun;11(6):414-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20495582</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2006 Jan 3;103(1):45-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16371476</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem J. 2006 Mar 15;394(Pt 3):593-603</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16336209</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Cell Biol. 2006 Sep;8(9):986-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16906147</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell. 2006 Oct 6;24(1):77-89</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17018294</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Cell Biol. 2007 Aug;17(8):370-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17768054</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2007 Oct 26;282(43):31131-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17823124</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2002 Oct 4;277(40):37029-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12133833</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,111 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">19966819</PMID>
+        <DateCompleted>
+            <Year>2010</Year>
+            <Month>05</Month>
+            <Day>18</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1748-3395</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>4</Volume>
+                    <Issue>12</Issue>
+                    <PubDate>
+                        <Year>2009</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Nature nanotechnology</Title>
+                <ISOAbbreviation>Nat Nanotechnol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Feynman's unfinished business.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>785</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1038/nnano.2009.358</ELocationID>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Jones</LastName>
+                    <ForeName>Richard</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physics and Astronomy, University of Sheffield, UK. r.a.l.jones@sheffield.ac.uk</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Nat Nanotechnol</MedlineTA>
+            <NlmUniqueID>101283273</NlmUniqueID>
+            <ISSNLinking>1748-3387</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2009</Year>
+                <Month>12</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2009</Year>
+                <Month>12</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2009</Year>
+                <Month>12</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">19966819</ArticleId>
+            <ArticleId IdType="pii">nnano.2009.358</ArticleId>
+            <ArticleId IdType="doi">10.1038/nnano.2009.358</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Annu Rev Phys Chem. 2003;54:307-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12626735</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2007 Sep 21;317(5845):1698-702</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17885123</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Nanotechnol. 2007 May;2(5):259-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18654274</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

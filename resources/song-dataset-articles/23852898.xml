@@ -1,0 +1,195 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">23852898</PMID>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>17</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>19</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1128-3602</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>17</Volume>
+                    <Issue>13</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>European review for medical and pharmacological sciences</Title>
+                <ISOAbbreviation>Eur Rev Med Pharmacol Sci</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Naloxone blocks the beneficial effects of aqueous extract of Murraya koenigii (L.) Spreng leaves in models of pain.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1748-51</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">4549</ELocationID>
+            <Abstract>
+                <AbstractText Label="AIM" NlmCategory="OBJECTIVE">This study investigated the antinociceptive effects of aqueous extract of Murraya koenigii (AEMK) leaves (200, 400 and 800 mg/kg, orally) on animal models of acute and persistent pain and its modulation by naloxone.</AbstractText>
+                <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">Antinociceptive effects were assessed using tail-flick, hot plate and formalin tests in mice. To differentiate between central and peripheral antinociceptive effect of AEMK, naloxone (2 mg/kg) was administered along with the 800 mg/kg dose of extract. Morphine was used as a standard drug.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">AEMK and morphine significantly increased the tail-flick latency (tfl) and paw licking/jumping latency in tail-flick and hot plate tests, respectively, in comparison to control. Also, in both the tests AEMK and morphine significantly increased the AUC0-120 min. In formalin test, AEMK (400 mg/kg and 800 mg/kg) and morphine significantly reduced licking time in both early and late phases in comparison to control.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Thus, in all three pain models AEMK showed antinociceptive effect, which was blocked by naloxone suggesting the involvement of opioidergic central mechanism.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gupta</LastName>
+                    <ForeName>R</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacology, University College of Medical Sciences, New Delhi, India. drrachna1@rediffmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gupta</LastName>
+                    <ForeName>L K</ForeName>
+                    <Initials>LK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bhattacharya</LastName>
+                    <ForeName>S K</ForeName>
+                    <Initials>SK</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Italy</Country>
+            <MedlineTA>Eur Rev Med Pharmacol Sci</MedlineTA>
+            <NlmUniqueID>9717360</NlmUniqueID>
+            <ISSNLinking>1128-3602</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000700">Analgesics</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000701">Analgesics, Opioid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009292">Narcotic Antagonists</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010936">Plant Extracts</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>1HG84L3525</RegistryNumber>
+                <NameOfSubstance UI="D005557">Formaldehyde</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>36B82AMQ7N</RegistryNumber>
+                <NameOfSubstance UI="D009270">Naloxone</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>76I7G6D29C</RegistryNumber>
+                <NameOfSubstance UI="D009020">Morphine</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000700" MajorTopicYN="N">Analgesics</DescriptorName>
+                <QualifierName UI="Q000037" MajorTopicYN="Y">antagonists &amp; inhibitors</QualifierName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000701" MajorTopicYN="N">Analgesics, Opioid</DescriptorName>
+                <QualifierName UI="Q000037" MajorTopicYN="N">antagonists &amp; inhibitors</QualifierName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005557" MajorTopicYN="N">Formaldehyde</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006358" MajorTopicYN="N">Hot Temperature</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009020" MajorTopicYN="N">Morphine</DescriptorName>
+                <QualifierName UI="Q000037" MajorTopicYN="N">antagonists &amp; inhibitors</QualifierName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D032101" MajorTopicYN="N">Murraya</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009270" MajorTopicYN="N">Naloxone</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009292" MajorTopicYN="N">Narcotic Antagonists</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010147" MajorTopicYN="N">Pain Measurement</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010936" MajorTopicYN="N">Plant Extracts</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018515" MajorTopicYN="N">Plant Leaves</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011930" MajorTopicYN="N">Reaction Time</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">23852898</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,260 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">19596158</PMID>
+        <DateCompleted>
+            <Year>2010</Year>
+            <Month>01</Month>
+            <Day>12</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>11</Month>
+            <Day>25</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-0887</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>93</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2009</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Radiotherapy and oncology : journal of the European Society for Therapeutic Radiology and Oncology</Title>
+                <ISOAbbreviation>Radiother Oncol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Dosimetry audit for a multi-centre IMRT head and neck trial.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>102-8</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.radonc.2009.04.025</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND AND PURPOSE" NlmCategory="OBJECTIVE">PARSPORT was a multi-centre randomised trial in the UK which compared Intensity-Modulated Radiotherapy (IMRT) and conventional radiotherapy (CRT) for patients with head and neck cancer. The dosimetry audit goals were to verify the plan delivery in participating centres, ascertain what tolerances were suitable for head and neck IMRT trials and develop an IMRT credentialing program.</AbstractText>
+                <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">Centres enrolling patients underwent rigorous quality assurance before joining the trial. Following this each centre was visited for a dosimetry audit, which consisted of treatment planning system tests, fluence verification films, combined field films and dose point measurements.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Mean dose point measurements were made at six centres. For the primary planning target volume (PTV) the differences with the planned values for the IMRT and CRT arms were -0.6% (1.8% to -2.4%) and 0.7% (2.0% to -0.9%), respectively. Ninety-four percent of the IMRT fluence films for individual fields passed gamma criterion of 3%/3mm and 75% of the films for combined fields passed gamma criterion 4%/3mm (no significant difference between dynamic delivery and step and shoot delivery).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">This audit suggests that a 3% tolerance could be applied for PTV point doses. For dose distributions tolerances of 3%/3mm on individual fields and 4%/3mm for combined fields are proposed for multi-centre head and neck IMRT trials.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Clark</LastName>
+                    <ForeName>Catharine H</ForeName>
+                    <Initials>CH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physics, Royal Marsden NHS Foundation Trust, London, UK. catharine.clark@rmh.nhs.uk</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hansen</LastName>
+                    <ForeName>Vibeke Nordmark</ForeName>
+                    <Initials>VN</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chantler</LastName>
+                    <ForeName>Hannah</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Edwards</LastName>
+                    <ForeName>Craig</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>James</LastName>
+                    <ForeName>Hayley V</ForeName>
+                    <Initials>HV</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Webster</LastName>
+                    <ForeName>Gareth</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Miles</LastName>
+                    <ForeName>Elizabeth A</ForeName>
+                    <Initials>EA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Guerrero Urbano</LastName>
+                    <ForeName>M Teresa</ForeName>
+                    <Initials>MT</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bhide</LastName>
+                    <ForeName>Shree A</ForeName>
+                    <Initials>SA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bidmead</LastName>
+                    <ForeName>A Margaret</ForeName>
+                    <Initials>AM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nutting</LastName>
+                    <ForeName>Christoper M</ForeName>
+                    <Initials>CM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <CollectiveName>PARSPORT Trial Management Group</CollectiveName>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>ISRCTN</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>ISRCTN48243537</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <Agency>Cancer Research UK</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D003160">Comparative Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016448">Multicenter Study</PublicationType>
+                <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Ireland</Country>
+            <MedlineTA>Radiother Oncol</MedlineTA>
+            <NlmUniqueID>8407192</NlmUniqueID>
+            <ISSNLinking>0167-8140</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002294" MajorTopicYN="N">Carcinoma, Squamous Cell</DescriptorName>
+                <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+                <QualifierName UI="Q000532" MajorTopicYN="Y">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004307" MajorTopicYN="N">Dose-Response Relationship, Radiation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005500" MajorTopicYN="N">Follow-Up Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006258" MajorTopicYN="N">Head and Neck Neoplasms</DescriptorName>
+                <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+                <QualifierName UI="Q000532" MajorTopicYN="Y">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008485" MajorTopicYN="Y">Medical Audit</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009367" MajorTopicYN="N">Neoplasm Staging</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011786" MajorTopicYN="N">Quality Control</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011836" MajorTopicYN="N">Radiation Tolerance</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011859" MajorTopicYN="N">Radiography</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011874" MajorTopicYN="N">Radiometry</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011879" MajorTopicYN="N">Radiotherapy Dosage</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011880" MajorTopicYN="N">Radiotherapy Planning, Computer-Assisted</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011881" MajorTopicYN="N">Radiotherapy, Computer-Assisted</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D050397" MajorTopicYN="N">Radiotherapy, Intensity-Modulated</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012307" MajorTopicYN="N">Risk Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2008</Year>
+                <Month>11</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2009</Year>
+                <Month>04</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2009</Year>
+                <Month>04</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2009</Year>
+                <Month>7</Month>
+                <Day>15</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2009</Year>
+                <Month>7</Month>
+                <Day>15</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2010</Year>
+                <Month>1</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">19596158</ArticleId>
+            <ArticleId IdType="pii">S0167-8140(09)00200-X</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.radonc.2009.04.025</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

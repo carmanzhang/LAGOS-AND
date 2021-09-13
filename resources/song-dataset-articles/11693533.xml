@@ -1,0 +1,159 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">11693533</PMID>
+        <DateCompleted>
+            <Year>2002</Year>
+            <Month>04</Month>
+            <Day>05</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>09</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0253-6269</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>24</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2001</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Archives of pharmacal research</Title>
+                <ISOAbbreviation>Arch Pharm Res</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Noble 2-[3-(cyclopentyloxy)-4-methoxyphenyl]-1-isoindolinone derivatives. part I: synthesis and SAR studies for the inhibition of TNF-alpha production.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>367-70</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>This study describes the synthesis and in vitro evaluation of noble 2-[3-(cyclopentyloxy)-4-methoxyphenyl]-1-isoindolinone derivatives for the inhibition of TNF-alpha production. Among these compounds, 2-[3-(cyclopentyloxy)-4-methoxyphenyll-3-methyl-1-isoindolinone (5) was the most potent in inhibitory activity of TNF-alpha production in LPS-stimulated RAW264.7 cells.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Park</LastName>
+                    <ForeName>J S</ForeName>
+                    <Initials>JS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Biosciences &amp; Biotechnology, Daewoong Pharm Co. Ltd., Yongin, Kyunggi-do 449-814, Korea. joonchem@daewoong.co.kr</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Baik</LastName>
+                    <ForeName>K U</ForeName>
+                    <Initials>KU</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cho</LastName>
+                    <ForeName>J Y</ForeName>
+                    <Initials>JY</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yoo</LastName>
+                    <ForeName>E S</ForeName>
+                    <Initials>ES</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Byun</LastName>
+                    <ForeName>Y S</ForeName>
+                    <Initials>YS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Park</LastName>
+                    <ForeName>M H</ForeName>
+                    <Initials>MH</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Korea (South)</Country>
+            <MedlineTA>Arch Pharm Res</MedlineTA>
+            <NlmUniqueID>8000036</NlmUniqueID>
+            <ISSNLinking>0253-6269</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007202">Indicators and Reagents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007211">Indoles</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014409">Tumor Necrosis Factor-alpha</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002460" MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007202" MajorTopicYN="N">Indicators and Reagents</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007211" MajorTopicYN="N">Indoles</DescriptorName>
+                <QualifierName UI="Q000138" MajorTopicYN="N">chemical synthesis</QualifierName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013329" MajorTopicYN="N">Structure-Activity Relationship</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014409" MajorTopicYN="N">Tumor Necrosis Factor-alpha</DescriptorName>
+                <QualifierName UI="Q000037" MajorTopicYN="Y">antagonists &amp; inhibitors</QualifierName>
+                <QualifierName UI="Q000096" MajorTopicYN="N">biosynthesis</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2001</Year>
+                <Month>11</Month>
+                <Day>6</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2002</Year>
+                <Month>4</Month>
+                <Day>6</Day>
+                <Hour>10</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2001</Year>
+                <Month>11</Month>
+                <Day>6</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">11693533</ArticleId>
+            <ArticleId IdType="doi">10.1007/BF02975177</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

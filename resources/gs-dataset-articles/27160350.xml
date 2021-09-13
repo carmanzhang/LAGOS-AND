@@ -1,0 +1,305 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">27160350</PMID>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>11</Month>
+            <Day>09</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>01</Month>
+            <Day>26</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1097-4172</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>165</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>May</Month>
+                        <Day>19</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cell</Title>
+                <ISOAbbreviation>Cell</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Rapid, Low-Cost Detection of Zika Virus Using Programmable Biomolecular Components.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1255-1266</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0092-8674(16)30505-0</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.cell.2016.04.059</ELocationID>
+            <Abstract>
+                <AbstractText>The recent Zika virus outbreak highlights the need for low-cost diagnostics that can be rapidly developed for distribution and use in pandemic regions. Here, we report a pipeline for the rapid design, assembly, and validation of cell-free, paper-based sensors for the detection of the Zika virus RNA genome. By linking isothermal RNA amplification to toehold switch RNA sensors, we detect clinically relevant concentrations of Zika virus sequences and demonstrate specificity against closely related Dengue virus sequences. When coupled with a novel CRISPR/Cas9-based module, our sensors can discriminate between viral strains with single-base resolution. We successfully demonstrate a simple, field-ready sample-processing workflow and detect Zika virus from the plasma of a viremic macaque. Our freeze-dried biomolecular platform resolves important practical limitations to the deployment of molecular diagnostics in the field and demonstrates how synthetic biology can be used to develop diagnostic tools for confronting global health crises. PAPERCLIP. </AbstractText>
+                <CopyrightInformation>Copyright © 2016 Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Pardee</LastName>
+                    <ForeName>Keith</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Leslie Dan Faculty of Pharmacy, University of Toronto, Toronto, ON M5S 3M2, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Green</LastName>
+                    <ForeName>Alexander A</ForeName>
+                    <Initials>AA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biodesign Center for Molecular Design and Biomimetics, The Biodesign Institute and the School of Molecular Sciences, Arizona State University, AZ 85287, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Takahashi</LastName>
+                    <ForeName>Melissa K</ForeName>
+                    <Initials>MK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Medical Engineering &amp; Science, Massachusetts Institute of Technology, Cambridge, MA 02139, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Braff</LastName>
+                    <ForeName>Dana</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Medical Engineering &amp; Science, Massachusetts Institute of Technology, Cambridge, MA 02139, USA; Department of Biomedical Engineering, Boston University, Boston, MA 02215, USA; Wyss Institute for Biologically Inspired Engineering, Harvard University, Boston, MA 02115, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lambert</LastName>
+                    <ForeName>Guillaume</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Wyss Institute for Biologically Inspired Engineering, Harvard University, Boston, MA 02115, USA; School of Applied and Engineering Physics, Cornell University, Ithaca, NY 14853, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Jeong Wook</ForeName>
+                    <Initials>JW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Wyss Institute for Biologically Inspired Engineering, Harvard University, Boston, MA 02115, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ferrante</LastName>
+                    <ForeName>Tom</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Wyss Institute for Biologically Inspired Engineering, Harvard University, Boston, MA 02115, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ma</LastName>
+                    <ForeName>Duo</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biodesign Center for Molecular Design and Biomimetics, The Biodesign Institute and the School of Molecular Sciences, Arizona State University, AZ 85287, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Donghia</LastName>
+                    <ForeName>Nina</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Wyss Institute for Biologically Inspired Engineering, Harvard University, Boston, MA 02115, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fan</LastName>
+                    <ForeName>Melina</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Addgene, Cambridge, MA 02139, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Daringer</LastName>
+                    <ForeName>Nichole M</ForeName>
+                    <Initials>NM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Medical Engineering &amp; Science, Massachusetts Institute of Technology, Cambridge, MA 02139, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bosch</LastName>
+                    <ForeName>Irene</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Medical Engineering &amp; Science, Massachusetts Institute of Technology, Cambridge, MA 02139, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dudley</LastName>
+                    <ForeName>Dawn M</ForeName>
+                    <Initials>DM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Wisconsin National Primate Research Center and Department of Pathology and Laboratory Medicine, UW-Madison, Madison, WI 53706, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>O'Connor</LastName>
+                    <ForeName>David H</ForeName>
+                    <Initials>DH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Wisconsin National Primate Research Center and Department of Pathology and Laboratory Medicine, UW-Madison, Madison, WI 53706, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gehrke</LastName>
+                    <ForeName>Lee</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Medical Engineering &amp; Science, Massachusetts Institute of Technology, Cambridge, MA 02139, USA; Department of Microbiology and Immunobiology, Harvard Medical School, Boston, MA 02115, USA; Harvard-MIT Program in Health Sciences and Technology, Cambridge, MA 02139, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Collins</LastName>
+                    <ForeName>James J</ForeName>
+                    <Initials>JJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Medical Engineering &amp; Science, Massachusetts Institute of Technology, Cambridge, MA 02139, USA; Wyss Institute for Biologically Inspired Engineering, Harvard University, Boston, MA 02115, USA; Harvard-MIT Program in Health Sciences and Technology, Cambridge, MA 02139, USA; Department of Biological Engineering, Massachusetts Institute of Technology, Cambridge, MA 02139, USA; Synthetic Biology Center, Massachusetts Institute of Technology, Cambridge, MA 02139, USA; Broad Institute of MIT and Harvard, Cambridge, MA 02142, USA. Electronic address: jimjc@mit.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R33 AI100190</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>05</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Cell</MedlineTA>
+            <NlmUniqueID>0413066</NlmUniqueID>
+            <ISSNLinking>0092-8674</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D012367">RNA, Viral</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Trends Mol Med. 2016 Jul;22(7):529-30</RefSource>
+                <PMID Version="1">27255410</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001769" MajorTopicYN="N">Blood</DescriptorName>
+                <QualifierName UI="Q000821" MajorTopicYN="N">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D064112" MajorTopicYN="N">Clustered Regularly Interspaced Short Palindromic Repeats</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003198" MajorTopicYN="N">Computer Simulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003715" MajorTopicYN="N">Dengue</DescriptorName>
+                <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName UI="Q000821" MajorTopicYN="N">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005821" MajorTopicYN="N">Genetic Techniques</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008253" MajorTopicYN="N">Macaca mulatta</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D025202" MajorTopicYN="N">Molecular Diagnostic Techniques</DescriptorName>
+                <QualifierName UI="Q000191" MajorTopicYN="N">economics</QualifierName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012367" MajorTopicYN="N">RNA, Viral</DescriptorName>
+                <QualifierName UI="Q000302" MajorTopicYN="N">isolation &amp; purification</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000071244" MajorTopicYN="N">Zika Virus</DescriptorName>
+                <QualifierName UI="Q000145" MajorTopicYN="N">classification</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000302" MajorTopicYN="Y">isolation &amp; purification</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000071243" MajorTopicYN="N">Zika Virus Infection</DescriptorName>
+                <QualifierName UI="Q000175" MajorTopicYN="Y">diagnosis</QualifierName>
+                <QualifierName UI="Q000821" MajorTopicYN="N">virology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>03</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2016</Year>
+                <Month>04</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>04</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>5</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>5</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>11</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">27160350</ArticleId>
+            <ArticleId IdType="pii">S0092-8674(16)30505-0</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.cell.2016.04.059</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

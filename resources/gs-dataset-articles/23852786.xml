@@ -1,0 +1,190 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">23852786</PMID>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>01</Month>
+            <Day>30</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>11</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-2825</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>27</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of clinical laboratory analysis</Title>
+                <ISOAbbreviation>J. Clin. Lab. Anal.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Mathematical equations to calculate true mycophenolic acid concentration in human plasma by using two immunoassays with different cross-reactivities with acyl glucuronide metabolite: comparison of calculated values with values obtained by using an HPLC-UV method.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>290-3</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/jcla.21599</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Both immunoassays and chromatographic methods are available for therapeutic drug monitoring of mycophenolic acid (MPA). Although chromatographic methods are more precise, immunoassays are widely used in clinical laboratories due to ease of adopting such assays on automated analyzers. We studied the possibility of using mathematical equations to calculate true MPA concentration by accounting for acyl glucuronide cross-reactivities with immunoassays by using two immunoassays with widely different cross-reactivities with the metabolite.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We determined MPA concentrations in 20 specimens obtained from transplant recipients using cloned enzyme donor immunoassay (CEDIA) assay and a new particle enhanced turbidimetric inhibition immunoassay (PETINIA) assay. Then we developed mathematical equations to calculate true MPA concentration using values obtained by both immunoassays and reported cross-reactivity of acyl glucuronide with respective immunoassays. Calculated concentrations were compared with values obtained by using a high-performance liquid chromatography combined with ultraviolet detection (HPLC-UV) method.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">We obtained good correlation between calculated MPA concentrations and corresponding MPA level obtained by using HPLC-UV method. Using x-axis as the MPA concentrations determined by the HPLC-UV method and y-axis as the calculated MPA level, we observed the following regression equation: y = 1.083x - 0.0995 (r = 0.99, n = 20).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Mathematical equations can be used to calculate true MPA concentrations using two immunoassays with different cross-reactivities with acyl glucuronide metabolite.</AbstractText>
+                <CopyrightInformation>© 2013 Wiley Periodicals, Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Dasgupta</LastName>
+                    <ForeName>Amitava</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, University of Texas-Houston Medical School, Houston, TX 77030, USA. Amitava.Dasgupta@uth.tmc.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Johnson</LastName>
+                    <ForeName>Myrtle</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tso</LastName>
+                    <ForeName>Gertie</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Clin Lab Anal</MedlineTA>
+            <NlmUniqueID>8801384</NlmUniqueID>
+            <ISSNLinking>0887-8013</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000911">Antibodies, Monoclonal</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D020719">Glucuronides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>54TS5J9T0K</RegistryNumber>
+                <NameOfSubstance UI="C113145">mycophenolic acid glucuronide</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>HU9DX48N0T</RegistryNumber>
+                <NameOfSubstance UI="D009173">Mycophenolic Acid</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000911" MajorTopicYN="N">Antibodies, Monoclonal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002851" MajorTopicYN="N">Chromatography, High Pressure Liquid</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003429" MajorTopicYN="N">Cross Reactions</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016903" MajorTopicYN="N">Drug Monitoring</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020719" MajorTopicYN="N">Glucuronides</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055641" MajorTopicYN="Y">Mathematical Concepts</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009173" MajorTopicYN="N">Mycophenolic Acid</DescriptorName>
+                <QualifierName UI="Q000031" MajorTopicYN="Y">analogs &amp; derivatives</QualifierName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009391" MajorTopicYN="N">Nephelometry and Turbidimetry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012044" MajorTopicYN="N">Regression Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015203" MajorTopicYN="N">Reproducibility of Results</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013056" MajorTopicYN="N">Spectrophotometry, Ultraviolet</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014180" MajorTopicYN="N">Transplantation</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">CEDIA</Keyword>
+            <Keyword MajorTopicYN="N">HPLC-UV</Keyword>
+            <Keyword MajorTopicYN="N">PETINIA</Keyword>
+            <Keyword MajorTopicYN="N">mathematical equations</Keyword>
+            <Keyword MajorTopicYN="N">mycophenolic acid</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2012</Year>
+                <Month>11</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>02</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>1</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">23852786</ArticleId>
+            <ArticleId IdType="doi">10.1002/jcla.21599</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

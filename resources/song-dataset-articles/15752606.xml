@@ -1,0 +1,161 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">15752606</PMID>
+        <DateCompleted>
+            <Year>2005</Year>
+            <Month>07</Month>
+            <Day>07</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">0301-4622</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>115</Volume>
+                    <Issue>2-3</Issue>
+                    <PubDate>
+                        <Year>2005</Year>
+                        <Month>Apr</Month>
+                        <Day>01</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biophysical chemistry</Title>
+                <ISOAbbreviation>Biophys Chem</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Protein structure prediction based on fragment assembly and parameter optimization.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>209-14</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>We propose a novel method for ab-initio prediction of protein tertiary structures based on the fragment assembly and global optimization. Fifteen residue long fragment libraries are constructed using the secondary structure prediction method PREDICT, and fragments in these libraries are assembled to generate full-length chains of a query protein. Tertiary structures of 50 to 100 conformations are obtained by minimizing an energy function for proteins, using the conformational space annealing method that enables one to sample diverse low-lying local minima of the energy. Then in order to enhance the performance of the prediction method, we optimize the linear parameters of the energy function, so that the native-like conformations become energetically more favorable than the non-native ones for proteins with known structures. We test the feasibility of the parameter optimization procedure by applying it to the training set consisting of three proteins: the 10-55 residue fragment of staphylococcal protein A (PDB ID 1bdd), a designed protein betanova, and 1fsd.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Julian</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Bioinformatics and Life Science, Computer Aided Molecular Design Research Center, Bioinformatics and Molecular Design Technology Innovation Center, Soongsil University, Seoul 156-743, South Korea. jlee@kias.re.kr</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Seung-Yeon</ForeName>
+                    <Initials>SY</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Jooyoung</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>PDB</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>1BDD</AccessionNumber>
+                        <AccessionNumber>1FSD</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2005</Year>
+                <Month>01</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Biophys Chem</MedlineTA>
+            <NlmUniqueID>0403171</NlmUniqueID>
+            <ISSNLinking>0301-4622</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010446">Peptide Fragments</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011506">Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D008958" MajorTopicYN="N">Models, Molecular</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010446" MajorTopicYN="N">Peptide Fragments</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017434" MajorTopicYN="N">Protein Structure, Tertiary</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011506" MajorTopicYN="N">Proteins</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2004</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2004</Year>
+                <Month>11</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2004</Year>
+                <Month>12</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2005</Year>
+                <Month>3</Month>
+                <Day>9</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2005</Year>
+                <Month>7</Month>
+                <Day>8</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2005</Year>
+                <Month>3</Month>
+                <Day>9</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">15752606</ArticleId>
+            <ArticleId IdType="pii">S0301-4622(04)00380-1</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.bpc.2004.12.046</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,178 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">17352787</PMID>
+        <DateCompleted>
+            <Year>2007</Year>
+            <Month>05</Month>
+            <Day>31</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2007</Year>
+            <Month>03</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0140-7775</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>30</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2007</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of fish diseases</Title>
+                <ISOAbbreviation>J. Fish Dis.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>RT-PCR amplification and sequence analysis of extra small virus associated with white tail disease of Macrobrachium rosenbergii (de Man) cultured in Taiwan.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>127-32</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Post-larvae of Macrobrachium rosenbergii infected with white tail disease (WTD) have been reported in Taiwan. The causative agents have been identified as M. rosenbergii nodavirus (MrNV) associated with extra small virus (XSV). The present study is the first report confirming the presence of XSV virus in M. rosenbergii displaying WTD symptoms in Taiwan by reverse transcription polymerase chain reaction (RT-PCR). A 772 bp amplified product was obtained by RT-PCR, cloned and sequenced. The nucleotide sequence analysis of the 772 bp DNA fragment revealed 98% and 97% identity with XSV isolated from China and India, respectively. Comparison of the deduced amino acid sequences of the XSV partial genome showed strong homology (99% and 97%) with isolates from China and India. Phylogenetic analysis revealed the XSV-Taiwan isolate was more closely related to the Chinese rather than the Indian isolates. The results demonstrated the presence of XSV virus co-infection in M. rosenbergii cultured in Taiwan suffering from WTD.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>C S</ForeName>
+                    <Initials>CS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Life Science, National University of Kaohsiung, Kaohsiung, Taiwan. cswang@nuk.edu.tw</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chang</LastName>
+                    <ForeName>J S</ForeName>
+                    <Initials>JS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shih</LastName>
+                    <ForeName>H H</ForeName>
+                    <Initials>HH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>S N</ForeName>
+                    <Initials>SN</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>GENBANK</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>DQ521573</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Fish Dis</MedlineTA>
+            <NlmUniqueID>9881188</NlmUniqueID>
+            <ISSNLinking>0140-7775</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D017931">DNA Primers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D012367">RNA, Viral</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000595" MajorTopicYN="N">Amino Acid Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001483" MajorTopicYN="N">Base Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017931" MajorTopicYN="N">DNA Primers</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005398" MajorTopicYN="N">Fisheries</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008969" MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D030381" MajorTopicYN="N">Nodaviridae</DescriptorName>
+                <QualifierName UI="Q000145" MajorTopicYN="N">classification</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000302" MajorTopicYN="N">isolation &amp; purification</QualifierName>
+                <QualifierName UI="Q000472" MajorTopicYN="N">pathogenicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D033541" MajorTopicYN="N">Palaemonidae</DescriptorName>
+                <QualifierName UI="Q000821" MajorTopicYN="Y">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010802" MajorTopicYN="N">Phylogeny</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012367" MajorTopicYN="N">RNA, Viral</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020133" MajorTopicYN="N">Reverse Transcriptase Polymerase Chain Reaction</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+                <QualifierName UI="Q000662" MajorTopicYN="Y">veterinary</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016415" MajorTopicYN="N">Sequence Alignment</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013624" MajorTopicYN="N" Type="Geographic">Taiwan</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2007</Year>
+                <Month>3</Month>
+                <Day>14</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2007</Year>
+                <Month>6</Month>
+                <Day>1</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2007</Year>
+                <Month>3</Month>
+                <Day>14</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">17352787</ArticleId>
+            <ArticleId IdType="pii">JFD793</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1365-2761.2007.00793.x</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

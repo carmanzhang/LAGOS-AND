@@ -1,0 +1,159 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">11380314</PMID>
+        <DateCompleted>
+            <Year>2001</Year>
+            <Month>12</Month>
+            <Day>04</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>09</Month>
+            <Day>01</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0269-2813</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>15</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2001</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Alimentary pharmacology &amp; therapeutics</Title>
+                <ISOAbbreviation>Aliment Pharmacol Ther</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Review article: acid suppression in the management of gastro-oesophageal reflux disease--an appraisal of treatment options in primary care.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>765-72</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Gastro-oesophageal reflux disease (GERD) is one of the most common conditions presenting to the primary care physician. Despite progress in understanding and treatment of the disease, strategies for capitalizing on these advances are less well developed. In many practices, H2-receptor antagonists still remain the most widely prescribed treatment for GERD, despite the availability of the more effective acid-suppressant proton pump inhibitors. This review examines the relative efficacies of acid-suppressant drugs in minimizing oesophageal acid exposure and outlines the evidence for the superiority of proton pump inhibitors over standard-dose H(2)-antagonists in symptom relief, erosion healing and prevention of relapse in GERD. Current prescribing patterns and considerations for the general practitioner are also examined. The availability and impact of over-the-counter H(2)-antagonists on the treatment of GERD and their relative cost-effectiveness vs. proton pump inhibitors are also addressed. A hierarchy of drug efficacy (full-dose proton pump inhibitor &gt; half-dose proton pump inhibitor &gt; high-dose H(2)-antagonist &gt; standard-dose H(2)-antagonist or prokinetic) applies in principle to all GERD patients, (with or without oesophagitis). The most effective initial therapy for GERD is also likely to be the most cost-effective one, if treatment failure leads to higher utilization of medical resources. The application of these recommendations to the management of non-endoscoped GERD, endoscopy-negative GERD and low-grade oesophagitis as well as higher grade oesophagitis is also reviewed.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Jones</LastName>
+                    <ForeName>R</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of General Practice and Primary Care, Guy's, King's and St Thomas' School of Medicine, London, UK. roger.jones@kcl.ac.uk</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bytzer</LastName>
+                    <ForeName>P</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Aliment Pharmacol Ther</MedlineTA>
+            <NlmUniqueID>8707234</NlmUniqueID>
+            <ISSNLinking>0269-2813</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D006635">Histamine H2 Antagonists</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D054328">Proton Pump Inhibitors</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D003362" MajorTopicYN="N">Cost-Benefit Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004724" MajorTopicYN="N">Endoscopy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004941" MajorTopicYN="N">Esophagitis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005744" MajorTopicYN="N">Gastric Acid</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005764" MajorTopicYN="N">Gastroesophageal Reflux</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006296" MajorTopicYN="N">Health Services</DescriptorName>
+                <QualifierName UI="Q000706" MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006635" MajorTopicYN="N">Histamine H2 Antagonists</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010347" MajorTopicYN="Y">Patient Care Planning</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010818" MajorTopicYN="N">Practice Patterns, Physicians'</DescriptorName>
+                <QualifierName UI="Q000706" MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011320" MajorTopicYN="Y">Primary Health Care</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D054328" MajorTopicYN="Y">Proton Pump Inhibitors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012008" MajorTopicYN="N">Recurrence</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>46</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2001</Year>
+                <Month>5</Month>
+                <Day>31</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2002</Year>
+                <Month>1</Month>
+                <Day>5</Day>
+                <Hour>10</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2001</Year>
+                <Month>5</Month>
+                <Day>31</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">11380314</ArticleId>
+            <ArticleId IdType="pii">apt985</ArticleId>
+            <ArticleId IdType="doi">10.1046/j.1365-2036.2001.00985.x</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

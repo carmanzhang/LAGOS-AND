@@ -1,0 +1,349 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">26831873</PMID>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>12</Month>
+            <Day>19</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1432-1416</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>72</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of mathematical biology</Title>
+                <ISOAbbreviation>J Math Biol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Frequency dependence 3.0: an attempt at codifying the evolutionary ecology perspective.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1011-37</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s00285-015-0956-2</ELocationID>
+            <Abstract>
+                <AbstractText>The fitness concept and perforce the definition of frequency independent fitnesses from population genetics is closely tied to discrete time population models with non-overlapping generations. Evolutionary ecologists generally focus on trait evolution through repeated mutant substitutions in populations with complicated life histories. This goes with using the per capita invasion speed of mutants as their fitness. In this paper we develop a concept of frequency independence that attempts to capture the practical use of the term by ecologists, which although inspired by population genetics rarely fits its strict definition. We propose to call the invasion fitnesses of an eco-evolutionary model frequency independent when the phenotypes can be ranked by competitive strength, measured by who can invade whom. This is equivalent to the absence of weak priority effects, protected dimorphisms and rock-scissor-paper configurations. Our concept differs from that of Heino et al. (TREE 13:367-370, 1998) in that it is based only on the signs of the invasion fitnesses, whereas Heino et al. based their definitions on the structure of the feedback environment, summarising the effect of all direct and indirect interactions between individuals on fitness. As it turns out, according to our new definition an eco-evolutionary model has frequency independent fitnesses if and only if the effect of the feedback environment on the fitness signs can be summarised by a single scalar with monotonic effect. This may be compared with Heino et al.'s concept of trivial frequency dependence defined by the environmental feedback influencing fitness, and not just its sign, in a scalar manner, without any monotonicity restriction. As it turns out, absence of the latter restriction leaves room for rock-scissor-paper configurations. Since in 'realistic' (as opposed to toy) models frequency independence is exceedingly rare, we also define a concept of weak frequency dependence, which can be interpreted intuitively as almost frequency independence, and analyse in which sense and to what extent the restrictions on the potential model outcomes of the frequency independent case stay intact for models with weak frequency dependence. </AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Metz</LastName>
+                    <ForeName>Johan A J</ForeName>
+                    <Initials>JA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Mathematical Institute and Institute of Biology, Leiden University, 2333 CA, Leiden, The Netherlands. j.a.j.metz@biology.leidenuniv.nl.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Evolution and Ecology Program, International Institute for Applied Systems Analysis, 2361, Laxenburg, Austria. j.a.j.metz@biology.leidenuniv.nl.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Naturalis Biodiversity Center, 2333 CR, Leiden, The Netherlands. j.a.j.metz@biology.leidenuniv.nl.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Geritz</LastName>
+                    <ForeName>Stefan A H</ForeName>
+                    <Initials>SA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Mathematics and Statistics, University of Helsinki, PO Box 68, 00014, Helsinki, Finland. stefan.geritz@helsinki.fi.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>02</Month>
+                <Day>01</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>J Math Biol</MedlineTA>
+            <NlmUniqueID>7502105</NlmUniqueID>
+            <ISSNLinking>0303-6812</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017753" MajorTopicYN="N">Ecosystem</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004777" MajorTopicYN="N">Environment</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019143" MajorTopicYN="Y">Evolution, Molecular</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D056084" MajorTopicYN="N">Genetic Fitness</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005828" MajorTopicYN="N">Genetics, Population</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055641" MajorTopicYN="N">Mathematical Concepts</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008957" MajorTopicYN="Y">Models, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009154" MajorTopicYN="N">Mutation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010641" MajorTopicYN="N">Phenotype</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Adaptive dynamics</Keyword>
+            <Keyword MajorTopicYN="N">ESS theory</Keyword>
+            <Keyword MajorTopicYN="N">Feedback environment</Keyword>
+            <Keyword MajorTopicYN="N">Frequency dependence</Keyword>
+            <Keyword MajorTopicYN="N">Frequency independence</Keyword>
+            <Keyword MajorTopicYN="N">Invasion fitness</Keyword>
+            <Keyword MajorTopicYN="N">Meso-evolutionary statics</Keyword>
+            <Keyword MajorTopicYN="N">Optimisation principle</Keyword>
+            <Keyword MajorTopicYN="N">Pessimisation principle</Keyword>
+            <Keyword MajorTopicYN="N">Weak frequency dependence</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2014</Year>
+                <Month>12</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2015</Year>
+                <Month>12</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>2</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>2</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>12</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26831873</ArticleId>
+            <ArticleId IdType="doi">10.1007/s00285-015-0956-2</ArticleId>
+            <ArticleId IdType="pii">10.1007/s00285-015-0956-2</ArticleId>
+            <ArticleId IdType="pmc">PMC4751200</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Math Biol. 1990;28(4):365-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2117040</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Math Biol. 2012 Aug;65(2):309-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21842424</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Theor Popul Biol. 2003 Jun;63(4):309-38</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12742176</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Dyn. 2011 Mar;5(2):163-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22873438</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Math Biol. 2008 May;56(5):673-742</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17943289</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Math Biol. 2013 Mar;66(4-5):635-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23108731</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Math Biol. 2006 Sep;53(3):421-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16823580</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Theor Popul Biol. 1999 Jun;55(3):324-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10366556</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Interface Focus. 2013 Dec 6;3(6):20130025</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24516713</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Theor Popul Biol. 2006 Feb;69(1):68-87</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16243372</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Ecol Evol. 1992 Jun;7(6):198-202</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21236007</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genetics. 1958 May;43(3):419-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17247767</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Math Biol. 2013 Dec;67(6-7):1729-39</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23090671</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Math Biol. 2011 Mar;62(3):359-69</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20364380</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Math Biol. 2012 Oct;65(4):601-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21987087</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Math Biol. 1996;34(5-6):579-612</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8691086</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Math Biol. 2009 Jun;58(6):881-921</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18668245</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Ecol Evol. 1998 Sep 1;13(9):367-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21238345</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Math Biol. 2011 May;62(5):655-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20532555</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Math Biol. 2014 Nov;69(5):1267-317</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24311028</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Math Biol. 2003 Sep;47(3):235-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12955458</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Biol Sci. 2001 Mar 7;268(1466):499-508</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11296862</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Math Biol. 2005 Jan;50(1):67-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15692841</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Math Biol. 2013 Sep;67(3):569-607</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22821207</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Theor Popul Biol. 2008 Jun;73(4):517-28</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18384827</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Math Biol. 2013 Jan;66(1-2):225-79</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22311195</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Math Biol. 2003 Sep;47(3):222-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12955457</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Phys Rev Lett. 2005 Aug 12;95(7):078105</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16196829</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Math Biol. 2001 Dec;43(6):545-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11822546</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

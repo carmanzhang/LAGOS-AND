@@ -1,0 +1,160 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">4289262</PMID>
+        <DateCompleted>
+            <Year>1967</Year>
+            <Month>03</Month>
+            <Day>28</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0002-9440</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>50</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>1967</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The American journal of pathology</Title>
+                <ISOAbbreviation>Am. J. Pathol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Morphologic and biochemical effects of Clostridium perfringens alpha toxin on intact and isolated skeletal muscle mitochondria.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>77-88</MedlinePgn>
+            </Pagination>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Grossman</LastName>
+                    <ForeName>I W</ForeName>
+                    <Initials>IW</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Heitkamp</LastName>
+                    <ForeName>D H</ForeName>
+                    <Initials>DH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sacktor</LastName>
+                    <ForeName>B</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Am J Pathol</MedlineTA>
+            <NlmUniqueID>0370502</NlmUniqueID>
+            <ISSNLinking>0002-9440</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014118">Toxins, Biological</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002462" MajorTopicYN="N">Cell Membrane</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003016" MajorTopicYN="Y">Clostridium perfringens</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D066298" MajorTopicYN="N">In Vitro Techniques</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008854" MajorTopicYN="N">Microscopy, Electron</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008928" MajorTopicYN="N">Mitochondria</DescriptorName>
+                <QualifierName UI="Q000473" MajorTopicYN="Y">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009132" MajorTopicYN="N">Muscles</DescriptorName>
+                <QualifierName UI="Q000473" MajorTopicYN="Y">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011817" MajorTopicYN="N">Rabbits</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014118" MajorTopicYN="N">Toxins, Biological</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1967</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1967</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1967</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">4289262</ArticleId>
+            <ArticleId IdType="pmc">PMC1965171</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Br J Exp Pathol. 1954 Apr;35(2):191-202</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">13149739</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biol. 1963 Apr;17:19-58</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">13975866</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biol. 1963 Apr;17:208-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">13986422</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem J. 1941 Sep;35(8-9):884-902</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16747456</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

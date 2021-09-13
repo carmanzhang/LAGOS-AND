@@ -1,0 +1,126 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">15340001</PMID>
+        <DateCompleted>
+            <Year>2005</Year>
+            <Month>02</Month>
+            <Day>22</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2004</Year>
+            <Month>09</Month>
+            <Day>01</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1046-6673</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>15</Volume>
+                    <Issue>9</Issue>
+                    <PubDate>
+                        <Year>2004</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of the American Society of Nephrology : JASN</Title>
+                <ISOAbbreviation>J Am Soc Nephrol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Statin induced proteinuria: renal injury or renoprotection?</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2502-3</MedlinePgn>
+            </Pagination>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Agarwal</LastName>
+                    <ForeName>Rajiv</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016420">Comment</PublicationType>
+                <PublicationType UI="D016421">Editorial</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Am Soc Nephrol</MedlineTA>
+            <NlmUniqueID>9013836</NlmUniqueID>
+            <ISSNLinking>1046-6673</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D019161">Hydroxymethylglutaryl-CoA Reductase Inhibitors</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentOn">
+                <RefSource>J Am Soc Nephrol. 2004 Sep;15(9):2249-57</RefSource>
+                <PMID Version="1">15339974</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="CommentOn">
+                <RefSource>J Am Soc Nephrol. 2004 Sep;15(9):2258-65</RefSource>
+                <PMID Version="1">15339975</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019161" MajorTopicYN="N">Hydroxymethylglutaryl-CoA Reductase Inhibitors</DescriptorName>
+                <QualifierName UI="Q000009" MajorTopicYN="Y">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007668" MajorTopicYN="N">Kidney</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007674" MajorTopicYN="N">Kidney Diseases</DescriptorName>
+                <QualifierName UI="Q000139" MajorTopicYN="Y">chemically induced</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011507" MajorTopicYN="N">Proteinuria</DescriptorName>
+                <QualifierName UI="Q000139" MajorTopicYN="Y">chemically induced</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2004</Year>
+                <Month>9</Month>
+                <Day>2</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2005</Year>
+                <Month>2</Month>
+                <Day>23</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2004</Year>
+                <Month>9</Month>
+                <Day>2</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">15340001</ArticleId>
+            <ArticleId IdType="doi">10.1097/01.ASN.0000143720.71748.79</ArticleId>
+            <ArticleId IdType="pii">15/9/2502</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

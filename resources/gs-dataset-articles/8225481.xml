@@ -1,0 +1,221 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">8225481</PMID>
+        <DateCompleted>
+            <Year>1993</Year>
+            <Month>12</Month>
+            <Day>06</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>11</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0300-5038</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Issue>124</Issue>
+                    <PubDate>
+                        <Year>1993</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>IARC scientific publications</Title>
+                <ISOAbbreviation>IARC Sci. Publ.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>32P-postlabelling studies on the DNA adducts of the food mutagens/carcinogens IQ and PhIP--adduct formation in a chemical system, and by rat and human metabolism.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>173-9</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The DNA adducts of the food mutagens/carcinogens IQ and PhIP were studied by means of 32P-postlabelling techniques. Adducts were generated in vitro and in vivo by three techniques: by photolysis of azido-IQ and azido-PhIP in the presence of dGp, calf-thymus DNA or Salmonella; by administration of IQ and PhIP to rats; and by incubation of cultured COS-1 cells with IQ. These cells expressed the human cytochromes P450 1A1 or P450 1A2 and/or the human N-acetyltransferases NAT1 or NAT2. The data demonstrate that, in the photolytic, rat and human systems, a common IQ metabolite and a common PhIP metabolite are formed together with common sets of IQ adducts and PhIP adducts. The data obtained in the human system show that N-hydroxy-IQ, formed by cytochrome P450, binds poorly to DNA, whereas more efficient binding occurs in the presence of NAT1 and most efficient binding in presence of NAT2. This indicates an O-acetyltransferase activity of human NAT1 and NAT2 and formation of N-acetoxy-IQ as an intermediate and immediate precursor of the ultimate arylnitrenium ion. The effect of the polymorphic NAT2 suggests a critical role for the human acetylation polymorphism in the DNA-binding of IQ in humans and in its genotoxic implications.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kerdar</LastName>
+                    <ForeName>R S</ForeName>
+                    <Initials>RS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Toxicology, University of Würzburg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fasshauer</LastName>
+                    <ForeName>I</ForeName>
+                    <Initials>I</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Probst</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Blum</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Meyer</LastName>
+                    <ForeName>U A</ForeName>
+                    <Initials>UA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wild</LastName>
+                    <ForeName>D</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>France</Country>
+            <MedlineTA>IARC Sci Publ</MedlineTA>
+            <NlmUniqueID>8009542</NlmUniqueID>
+            <ISSNLinking>0300-5038</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D002273">Carcinogens</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007093">Imidazoles</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009153">Mutagens</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010761">Phosphorus Radioisotopes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011804">Quinolines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>30GL3D3T0G</RegistryNumber>
+                <NameOfSubstance UI="C029216">2-amino-3-methylimidazo(4,5-f)quinoline</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9007-49-2</RegistryNumber>
+                <NameOfSubstance UI="D004247">DNA</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>909C6UN66T</RegistryNumber>
+                <NameOfSubstance UI="C049584">2-amino-1-methyl-6-phenylimidazo(4,5-b)pyridine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.3.1.5</RegistryNumber>
+                <NameOfSubstance UI="D001191">Arylamine N-Acetyltransferase</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001191" MajorTopicYN="N">Arylamine N-Acetyltransferase</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001711" MajorTopicYN="N">Biotransformation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002273" MajorTopicYN="N">Carcinogens</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000528" MajorTopicYN="N">radiation effects</QualifierName>
+                <QualifierName UI="Q000633" MajorTopicYN="N">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002460" MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004247" MajorTopicYN="N">DNA</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName UI="Q000528" MajorTopicYN="N">radiation effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004249" MajorTopicYN="Y">DNA Damage</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007093" MajorTopicYN="N">Imidazoles</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000528" MajorTopicYN="N">radiation effects</QualifierName>
+                <QualifierName UI="Q000633" MajorTopicYN="Y">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D066298" MajorTopicYN="N">In Vitro Techniques</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009153" MajorTopicYN="N">Mutagens</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000528" MajorTopicYN="N">radiation effects</QualifierName>
+                <QualifierName UI="Q000633" MajorTopicYN="N">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010761" MajorTopicYN="N">Phosphorus Radioisotopes</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011804" MajorTopicYN="N">Quinolines</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000528" MajorTopicYN="N">radiation effects</QualifierName>
+                <QualifierName UI="Q000633" MajorTopicYN="Y">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011916" MajorTopicYN="N">Rats, Inbred F344</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014466" MajorTopicYN="N">Ultraviolet Rays</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1993</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1993</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1993</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">8225481</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

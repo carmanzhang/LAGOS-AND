@@ -1,0 +1,594 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">25915475</PMID>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>08</Month>
+            <Day>06</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1546-1726</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>18</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Nature neuroscience</Title>
+                <ISOAbbreviation>Nat. Neurosci.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Light-regulated translational control of circadian behavior by eIF4E phosphorylation.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>855-62</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1038/nn.4010</ELocationID>
+            <Abstract>
+                <AbstractText>The circadian (∼24 h) clock is continuously entrained (reset) by ambient light so that endogenous rhythms are synchronized with daily changes in the environment. Light-induced gene expression is thought to be the molecular mechanism underlying clock entrainment. mRNA translation is a key step of gene expression, but the manner in which clock entrainment is controlled at the level of mRNA translation is not well understood. We found that a light- and circadian clock-regulated MAPK/MNK pathway led to phosphorylation of the cap-binding protein eIF4E in the mouse suprachiasmatic nucleus of the hypothalamus, the locus of the master circadian clock in mammals. Phosphorylation of eIF4E specifically promoted translation of Period 1 (Per1) and Period 2 (Per2) mRNAs and increased the abundance of basal and inducible PER proteins, which facilitated circadian clock resetting and precise timekeeping. Together, these results highlight a critical role for light-regulated translational control in the physiology of the circadian clock. </AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Cao</LastName>
+                    <ForeName>Ruifeng</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry and Goodman Cancer Research Center, McGill University, Montreal, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gkogkas</LastName>
+                    <ForeName>Christos G</ForeName>
+                    <Initials>CG</Initials>
+                    <Identifier Source="ORCID">0000000162813419</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Patrick Wild Centre, Centre for Integrative Physiology, University of Edinburgh, Edinburgh, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>de Zavalia</LastName>
+                    <ForeName>Nuria</ForeName>
+                    <Initials>N</Initials>
+                    <Identifier Source="ORCID">0000000248657752</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Studies in Behavioral Neurobiology, Concordia University, Montreal, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Blum</LastName>
+                    <ForeName>Ian D</ForeName>
+                    <Initials>ID</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Douglas Mental Health University Institute and Department of Psychiatry, McGill University, Montreal, Quebec, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yanagiya</LastName>
+                    <ForeName>Akiko</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry and Goodman Cancer Research Center, McGill University, Montreal, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tsukumo</LastName>
+                    <ForeName>Yoshinori</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry and Goodman Cancer Research Center, McGill University, Montreal, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xu</LastName>
+                    <ForeName>Haiyan</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biological Sciences, University of Memphis, Memphis, Tennessee, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Choogon</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biomedical Sciences, Neuroscience Program, College of Medicine, Florida State University, Tallahassee, Florida, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Storch</LastName>
+                    <ForeName>Kai-Florian</ForeName>
+                    <Initials>KF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Douglas Mental Health University Institute and Department of Psychiatry, McGill University, Montreal, Quebec, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Andrew C</ForeName>
+                    <Initials>AC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biological Sciences, University of Memphis, Memphis, Tennessee, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Amir</LastName>
+                    <ForeName>Shimon</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Studies in Behavioral Neurobiology, Concordia University, Montreal, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sonenberg</LastName>
+                    <ForeName>Nahum</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry and Goodman Cancer Research Center, McGill University, Montreal, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>MOP 114994</GrantID>
+                    <Agency>Canadian Institutes of Health Research</Agency>
+                    <Country>Canada</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01NS054794</GrantID>
+                    <Acronym>NS</Acronym>
+                    <Agency>NINDS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <Agency>Howard Hughes Medical Institute</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 NS054794</GrantID>
+                    <Acronym>NS</Acronym>
+                    <Agency>NINDS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 GM066157</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>MOP 13625</GrantID>
+                    <Agency>Canadian Institutes of Health Research</Agency>
+                    <Country>Canada</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>04</Month>
+                <Day>27</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Nat Neurosci</MedlineTA>
+            <NlmUniqueID>9809671</NlmUniqueID>
+            <ISSNLinking>1097-6256</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D039561">Eukaryotic Initiation Factor-4E</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C539023">Per1 protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C513312">Per2 protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D056950">Period Circadian Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001522" MajorTopicYN="N">Behavior, Animal</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+                <QualifierName UI="Q000528" MajorTopicYN="N">radiation effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001923" MajorTopicYN="N">Brain Chemistry</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002940" MajorTopicYN="N">Circadian Rhythm</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+                <QualifierName UI="Q000528" MajorTopicYN="N">radiation effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D039561" MajorTopicYN="N">Eukaryotic Initiation Factor-4E</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005786" MajorTopicYN="N">Gene Expression Regulation</DescriptorName>
+                <QualifierName UI="Q000528" MajorTopicYN="N">radiation effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008027" MajorTopicYN="N">Light</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020935" MajorTopicYN="N">MAP Kinase Signaling System</DescriptorName>
+                <QualifierName UI="Q000528" MajorTopicYN="N">radiation effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008810" MajorTopicYN="N">Mice, Inbred C57BL</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D056950" MajorTopicYN="N">Period Circadian Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010766" MajorTopicYN="N">Phosphorylation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013493" MajorTopicYN="N">Suprachiasmatic Nucleus</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>02</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>03</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>4</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>4</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>8</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">25915475</ArticleId>
+            <ArticleId IdType="pii">nn.4010</ArticleId>
+            <ArticleId IdType="doi">10.1038/nn.4010</ArticleId>
+            <ArticleId IdType="pmc">PMC4446158</ArticleId>
+            <ArticleId IdType="mid">NIHMS676871</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Cell. 2013 Nov 7;155(4):793-806</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24209618</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Rhythms. 2014 Dec;29(6):391-400</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25326247</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci. 1999 Jun 15;19(12):RC11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10366649</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Biochem. 1999;68:913-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10872469</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Rhythms. 2001 Apr;16(2):100-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11302552</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 2001 Aug;21(16):5500-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11463832</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2001 Dec 28;107(7):855-67</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11779462</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2002 May 28;99(11):7728-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12032351</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2002 Aug 29;418(6901):935-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12198538</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2003 Jan 10;278(2):718-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12409294</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hum Mol Genet. 2011 Feb 15;20(4):731-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21118894</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2011 Feb 17;470(7334):399-403</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21331043</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2011 Mar 1;71(5):1849-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21233335</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Neurosci. 2011 Oct;12(10):553-69</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21886186</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Neurosci. 2011 Oct;45(2):154-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21063915</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2012 Oct 19;338(6105):379-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22923437</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genetics. 2012 Nov;192(3):943-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22904033</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Neurosci. 2013 Jan;37(1):130-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23127194</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2013 May 17;340(6134):875-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23687047</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2013 May 17;340(6134):879-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23687048</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci. 2013 May 22;33(21):9021-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23699513</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuron. 2013 Aug 21;79(4):712-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23972597</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2013 Aug 29;154(5):1100-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23993098</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Neurosci. 2004 Feb;19(4):1105-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15009158</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2004 Feb 6;116(3):467-79</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15016380</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 2004 Aug;24(15):6539-49</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15254222</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1993 Apr 9;260(5105):238-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8097062</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuron. 1997 Dec;19(6):1261-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9427249</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 1997 Dec 26;91(7):1043-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9428526</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 1997 Dec 26;91(7):1055-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9428527</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 1998 Jun 12;93(6):929-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9635423</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1998 Jul 17;273(29):18623-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9660836</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci. 1999 Feb 1;19(3):1115-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9920673</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Neurosci. 1998 Dec;1(8):693-700</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10196585</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuron. 2006 Feb 2;49(3):331-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16446137</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2007 Feb 6;104(6):1859-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17264215</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuron. 2007 Jun 7;54(5):813-29</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17553428</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Neurosci. 2007 Oct;8(10):790-802</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17882255</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci. 2007 Oct 31;27(44):12078-87</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17978049</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuron. 2008 Apr 10;58(1):78-88</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18400165</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Front Biosci. 2008;13:5359-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18508592</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Genet. 2008 Oct;9(10):764-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18802415</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2009 Feb 20;136(4):731-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19239892</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Biol. 2009 Mar 17;7(3):e62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19296723</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci. 2010 May 5;30(18):6302-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20445056</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Physiol Rev. 2010 Jul;90(3):1063-102</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20664079</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2010 Aug 10;107(32):14134-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20679199</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

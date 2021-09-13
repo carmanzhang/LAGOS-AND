@@ -1,0 +1,152 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">7437475</PMID>
+        <DateCompleted>
+            <Year>1981</Year>
+            <Month>02</Month>
+            <Day>26</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0006-3002</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>632</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>1980</Year>
+                        <Month>Nov</Month>
+                        <Day>03</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biochimica et biophysica acta</Title>
+                <ISOAbbreviation>Biochim. Biophys. Acta</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Studies on the mechanism of transferrin iron uptake by rat reticulocytes.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>553-61</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Mechanism of transferrin iron uptake by rat reticulocytes was studied using 59Fe- and 125I-labelled rat transferrin. Whereas more than 80% of the reticulocyte-bound 59Fe was located in the cytoplasmic fraction, only 25-30% of 125I-labelled transferrin was found inside the cells. As shown by the presence of acetylcholine esterase, 10-15% of the cytoplasmic 125I-labelled transferrin might have been derived from the contamination of this fraction by the plasma membrane fragments. Electron microscopic autoradiography indicated 26% of the cell-bound 125I-labelled transferrin to be inside the reticulocytes. Both the electron microscopic and biochemical studies showed that the rat reticulocytes endocytosed their plasma membrane independently of transferrin. Sepharose-linked transferrin was found to be capable of delivering 59Fe to the reticulocytes. Our results suggest that penetration of the cell membrane by transferrin is not necessary for the delivery of iron and that, although it might make a contribution to the cellular iron uptake, internalization of transferrin reflects endocytotic activity of the reticulocyte cell membrane.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zaman</LastName>
+                    <ForeName>Z</ForeName>
+                    <Initials>Z</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Heynen</LastName>
+                    <ForeName>M J</ForeName>
+                    <Initials>MJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Verwilghen</LastName>
+                    <ForeName>R L</ForeName>
+                    <Initials>RL</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Biochim Biophys Acta</MedlineTA>
+            <NlmUniqueID>0217513</NlmUniqueID>
+            <ISSNLinking>0006-3002</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014168">Transferrin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>E1UOL152H7</RegistryNumber>
+                <NameOfSubstance UI="D007501">Iron</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.1.7</RegistryNumber>
+                <NameOfSubstance UI="D000110">Acetylcholinesterase</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000110" MajorTopicYN="N">Acetylcholinesterase</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001692" MajorTopicYN="N">Biological Transport</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004910" MajorTopicYN="N">Erythrocyte Membrane</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007501" MajorTopicYN="N">Iron</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007700" MajorTopicYN="N">Kinetics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012156" MajorTopicYN="N">Reticulocytes</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014168" MajorTopicYN="N">Transferrin</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1980</Year>
+                <Month>11</Month>
+                <Day>3</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1980</Year>
+                <Month>11</Month>
+                <Day>3</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1980</Year>
+                <Month>11</Month>
+                <Day>3</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">7437475</ArticleId>
+            <ArticleId IdType="pii">0304-4165(80)90332-3</ArticleId>
+            <ArticleId IdType="doi">10.1016/0304-4165(80)90332-3</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

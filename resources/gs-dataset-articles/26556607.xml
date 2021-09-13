@@ -1,0 +1,328 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">26556607</PMID>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>08</Month>
+            <Day>15</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>03</Month>
+            <Day>30</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">2326-5205</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>68</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Arthritis &amp; rheumatology (Hoboken, N.J.)</Title>
+            </Journal>
+            <ArticleTitle>In Vivo Therapeutic Success of MicroRNA-155 Antagomir in a Mouse Model of Lupus Alveolar Hemorrhage.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>953-64</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/art.39485</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">Diffuse alveolar hemorrhage (DAH) is a rare but life-threatening complication of systemic lupus erythematosus (SLE). Pristane-treated B6 mice develop severe DAH within 2 weeks of treatment. MicroRNA-155 (miR-155) is a pleiotropic microRNA that plays a crucial role in the regulation of immune responses. Recent studies have revealed a pathogenic role of miR-155 in various autoimmune disorders. The purpose of this study was to examine the role of miR-155 in the development of DAH in pristane-induced lupus using miR-155-knockout (miR-155(-/-)) mice and miR-155 antagomir to silence miR-155.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">DAH was induced by an intraperitoneal injection of 0.5 ml of pristane. MicroRNA-155 antagomir was administered intravenously to silence miR-155 expression. Lung tissues were collected for RNA extraction and were embedded in paraffin for sectioning. Gene expression profiling data were analyzed using Ingenuity Pathway Analysis. Real-time quantitative polymerase chain reaction analysis was used for single-gene validation. Luciferase reporter assay and argonaute 2 immunoprecipitation were performed for target validation.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">MicroRNA-155 expression was significantly increased during the development of DAH. Disease progression was reduced in miR-155(-/-) mice as well as by in vivo silencing of miR-155 using a miR-155 antagomir. MicroRNA-155 silencing dampened pristane-induced ectopic activation of multiple inflammatory pathways and reduced the expression of proinflammatory cytokines. Several negative regulators of NF-κB signaling were inhibited by pristane and were reactivated in miR-155(-/-) mice. In particular, the antiinflammatory factor peroxisome proliferator-activated receptor α was identified as a direct target of miR-155.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">MicroRNA-155 promotes pristane-induced lung inflammation. It contributes to ectopic activation of NF-κB signaling pathways by targeting multiple negative regulators. MicroRNA-155 antagomir may be a promising therapeutic strategy for treating acute lung inflammation in lupus.</AbstractText>
+                <CopyrightInformation>© 2016, American College of Rheumatology.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zhou</LastName>
+                    <ForeName>Shiyu</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Health Sciences of Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, and Shanghai Jiao Tong University School of Medicine, Shanghai, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Yan</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Health Sciences of Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, and Shanghai Jiao Tong University School of Medicine, Shanghai, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Meng</LastName>
+                    <ForeName>Yao</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Renji Hospital and Shanghai Jiao Tong University School of Medicine, Shanghai, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xiao</LastName>
+                    <ForeName>Chunyuan</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Renji Hospital and Shanghai Jiao Tong University School of Medicine, Shanghai, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Zheng</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>MedImmune, Gaithersburg, Maryland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brohawn</LastName>
+                    <ForeName>Philip</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>MedImmune, Gaithersburg, Maryland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Higgs</LastName>
+                    <ForeName>Brandon W</ForeName>
+                    <Initials>BW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>MedImmune, Gaithersburg, Maryland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jallal</LastName>
+                    <ForeName>Bahija</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>MedImmune, Gaithersburg, Maryland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jia</LastName>
+                    <ForeName>Qian</ForeName>
+                    <Initials>Q</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Renji Hospital and Shanghai Jiao Tong University School of Medicine, Shanghai, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Qu</LastName>
+                    <ForeName>Bo</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Renji Hospital and Shanghai Jiao Tong University School of Medicine, Shanghai, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Huang</LastName>
+                    <ForeName>Xinfang</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Renji Hospital and Shanghai Jiao Tong University School of Medicine, Shanghai, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tang</LastName>
+                    <ForeName>Yuanjia</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Renji Hospital and Shanghai Jiao Tong University School of Medicine, Shanghai, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yao</LastName>
+                    <ForeName>Yihong</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>MedImmune, Gaithersburg, Maryland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Harley</LastName>
+                    <ForeName>John B</ForeName>
+                    <Initials>JB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cincinnati Children's Hospital Medical Center, University of Cincinnati College of Medicine, and Cincinnati VA Medical Center, Cincinnati, Ohio.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shen</LastName>
+                    <ForeName>Nan</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Renji Hospital, Institute of Health Sciences of Shanghai Institutes for Biological Sciences, Chinese Academy of Sciences, and Shanghai Jiao Tong University School of Medicine, Shanghai, China, and Cincinnati Children's Hospital Medical Center, Cincinnati, Ohio.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Arthritis Rheumatol</MedlineTA>
+            <NlmUniqueID>101623795</NlmUniqueID>
+            <ISSNLinking>2326-5191</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007166">Immunosuppressive Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D035683">MicroRNAs</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C532623">Mirn155 microRNA, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016328">NF-kappa B</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009841">Oligonucleotides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D013729">Terpenes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>26HZV48DT1</RegistryNumber>
+                <NameOfSubstance UI="C009042">pristane</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004195" MajorTopicYN="N">Disease Models, Animal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005786" MajorTopicYN="N">Gene Expression Regulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006470" MajorTopicYN="N">Hemorrhage</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007166" MajorTopicYN="N">Immunosuppressive Agents</DescriptorName>
+                <QualifierName UI="Q000633" MajorTopicYN="N">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008168" MajorTopicYN="N">Lung</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008171" MajorTopicYN="N">Lung Diseases</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008180" MajorTopicYN="N">Lupus Erythematosus, Systemic</DescriptorName>
+                <QualifierName UI="Q000139" MajorTopicYN="N">chemically induced</QualifierName>
+                <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008810" MajorTopicYN="N">Mice, Inbred C57BL</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018345" MajorTopicYN="N">Mice, Knockout</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D035683" MajorTopicYN="N">MicroRNAs</DescriptorName>
+                <QualifierName UI="Q000037" MajorTopicYN="Y">antagonists &amp; inhibitors</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016328" MajorTopicYN="N">NF-kappa B</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009841" MajorTopicYN="N">Oligonucleotides</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D060888" MajorTopicYN="N">Real-Time Polymerase Chain Reaction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020133" MajorTopicYN="N">Reverse Transcriptase Polymerase Chain Reaction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015398" MajorTopicYN="N">Signal Transduction</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013729" MajorTopicYN="N">Terpenes</DescriptorName>
+                <QualifierName UI="Q000633" MajorTopicYN="N">toxicity</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>03</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26556607</ArticleId>
+            <ArticleId IdType="doi">10.1002/art.39485</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

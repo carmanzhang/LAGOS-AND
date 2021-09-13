@@ -1,0 +1,198 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">12557393</PMID>
+        <DateCompleted>
+            <Year>2004</Year>
+            <Month>02</Month>
+            <Day>04</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2009</Year>
+            <Month>11</Month>
+            <Day>19</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0001-6209</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>42</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2002</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Wei sheng wu xue bao = Acta microbiologica Sinica</Title>
+                <ISOAbbreviation>Wei Sheng Wu Xue Bao</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Analysis of function of the 452 bp sequence proceeding the pgiB gene in Bacillus stearothermophilus].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>175-80</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>By random mutagenesis with chemical mutagen N-methyl-N'-nitro-N-nitrosoguanidine, a shuttle promoter probe vetor mutant pPGV5 (tr65) was obtained. A single site mutation from G to T was discovered at nucleotide + 238 of kan gene encoding kanamycin nucleotidyltransferae by sequence analysis. Using the gene pheB that encodes thermostable catechol 2'3-dioxygenase from Bacillus stearothermophilus FDTP-3 as the reporter gene, a transcriptional fusion plasmid pPGVPB452 was constructed and electroportated into B. stearothermophilus. By analyzing the reporter protein, it proved that the 452 bp sequence proceeding the coding region of phosphoglucoisomerase pgiB gene from B. stearothermophilus T521, which contained a putative promoter by sequence analysis, but has no transcriptional activity in B. stearothermophilus.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Lanming</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Genetics, Fudan University, Shanghai 200433, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Qian</LastName>
+                    <ForeName>Ji</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sheng</LastName>
+                    <ForeName>Zujia</ForeName>
+                    <Initials>Z</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mao</LastName>
+                    <ForeName>Yumin</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+            </AuthorList>
+            <Language>chi</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D004740">English Abstract</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>China</Country>
+            <MedlineTA>Wei Sheng Wu Xue Bao</MedlineTA>
+            <NlmUniqueID>21610860R</NlmUniqueID>
+            <ISSNLinking>0001-6209</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004269">DNA, Bacterial</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011993">Recombinant Fusion Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.13.-</RegistryNumber>
+                <NameOfSubstance UI="D010105">Oxygenases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.13.11.-</RegistryNumber>
+                <NameOfSubstance UI="D049308">Dioxygenases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.13.11.2</RegistryNumber>
+                <NameOfSubstance UI="D050557">Catechol 2,3-Dioxygenase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.7.-</RegistryNumber>
+                <NameOfSubstance UI="D009713">Nucleotidyltransferases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.7.-</RegistryNumber>
+                <NameOfSubstance UI="C024251">kanamycin nucleotidyltransferase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 5.3.1.9</RegistryNumber>
+                <NameOfSubstance UI="D005956">Glucose-6-Phosphate Isomerase</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D050557" MajorTopicYN="N">Catechol 2,3-Dioxygenase</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004269" MajorTopicYN="N">DNA, Bacterial</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D049308" MajorTopicYN="Y">Dioxygenases</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018274" MajorTopicYN="N">Electroporation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005798" MajorTopicYN="Y">Genes, Bacterial</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017930" MajorTopicYN="N">Genes, Reporter</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001411" MajorTopicYN="N">Geobacillus stearothermophilus</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005956" MajorTopicYN="N">Glucose-6-Phosphate Isomerase</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009713" MajorTopicYN="N">Nucleotidyltransferases</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010105" MajorTopicYN="N">Oxygenases</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010957" MajorTopicYN="N">Plasmids</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017354" MajorTopicYN="N">Point Mutation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011401" MajorTopicYN="N">Promoter Regions, Genetic</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011993" MajorTopicYN="N">Recombinant Fusion Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017422" MajorTopicYN="N">Sequence Analysis, DNA</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2003</Year>
+                <Month>2</Month>
+                <Day>1</Day>
+                <Hour>4</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2004</Year>
+                <Month>2</Month>
+                <Day>5</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2003</Year>
+                <Month>2</Month>
+                <Day>1</Day>
+                <Hour>4</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">12557393</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

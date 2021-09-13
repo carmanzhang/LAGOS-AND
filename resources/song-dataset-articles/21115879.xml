@@ -1,0 +1,167 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21115879</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>01</Month>
+            <Day>11</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>12</Month>
+            <Day>01</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1524-4563</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>57</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Hypertension (Dallas, Tex. : 1979)</Title>
+                <ISOAbbreviation>Hypertension</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Role of home blood pressure monitoring in overcoming therapeutic inertia and improving hypertension control: a systematic review and meta-analysis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>29-38</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1161/HYPERTENSIONAHA.110.160911</ELocationID>
+            <Abstract>
+                <AbstractText>Hypertension remains the most common modifiable cardiovascular risk factor, yet hypertension control rates remain dismal. Home blood pressure (BP) monitoring has the potential to improve hypertension control. The purpose of this review was to quantify both the magnitude and mechanisms of benefit of home BP monitoring on BP reduction. Using a structured review, studies were selected if they reported either changes in BP or percentage of participants achieving a pre-established BP goal between randomized groups using home-based and office-based BP measurements. A random-effects model was used to estimate the magnitude of benefit and relative risk. The search yielded 37 randomized controlled trials with 9446 participants that contributed data for this meta-analysis. Compared with clinic-based measurements (control group), systolic BP improved with home-based BP monitoring (-2.63 mm Hg; 95% CI, -4.24, -1.02); diastolic BP also showed improvement (-1.68 mm Hg; 95% CI, -2.58, -0.79). Reductions in home BP monitoring-based therapy were greater when telemonitoring was used. Home BP monitoring led to more frequent antihypertensive medication reductions (relative risk, 2.02 [95% CI, 1.32 to 3.11]) and was associated with less therapeutic inertia defined as unchanged medication despite elevated BP (relative risk for unchanged medication, 0.82 [95% CI, 0.68 to 0.99]). Compared with clinic BP monitoring alone, home BP monitoring has the potential to overcome therapeutic inertia and lead to a small but significant reduction in systolic and diastolic BP. Hypertension control with home BP monitoring can be enhanced further when accompanied by plans to monitor and treat elevated BP such as through telemonitoring.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Agarwal</LastName>
+                    <ForeName>Rajiv</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Indiana University School of Medicine and Richard L. Roudebush Veterans Administration Medical Center, Indianapolis, Ind 46202, USA. ragarwal@iupui.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bills</LastName>
+                    <ForeName>Jennifer E</ForeName>
+                    <Initials>JE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hecht</LastName>
+                    <ForeName>Tyler J W</ForeName>
+                    <Initials>TJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Light</LastName>
+                    <ForeName>Robert P</ForeName>
+                    <Initials>RP</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D017418">Meta-Analysis</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+                <PublicationType UI="D000078182">Systematic Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>29</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Hypertension</MedlineTA>
+            <NlmUniqueID>7906255</NlmUniqueID>
+            <ISSNLinking>0194-911X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000959">Antihypertensive Agents</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Hypertension. 2011 Jan;57(1):21-3</RefSource>
+                <PMID Version="1">21115877</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000959" MajorTopicYN="N">Antihypertensive Agents</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001794" MajorTopicYN="N">Blood Pressure</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018660" MajorTopicYN="Y">Blood Pressure Monitoring, Ambulatory</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006973" MajorTopicYN="N">Hypertension</DescriptorName>
+                <QualifierName UI="Q000175" MajorTopicYN="Y">diagnosis</QualifierName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016032" MajorTopicYN="N">Randomized Controlled Trials as Topic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012306" MajorTopicYN="N">Risk</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21115879</ArticleId>
+            <ArticleId IdType="pii">HYPERTENSIONAHA.110.160911</ArticleId>
+            <ArticleId IdType="doi">10.1161/HYPERTENSIONAHA.110.160911</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

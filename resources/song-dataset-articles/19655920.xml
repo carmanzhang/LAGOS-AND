@@ -1,0 +1,119 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">19655920</PMID>
+        <DateCompleted>
+            <Year>2009</Year>
+            <Month>10</Month>
+            <Day>29</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2009</Year>
+            <Month>08</Month>
+            <Day>06</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1089-7690</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>131</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2009</Year>
+                        <Month>Jul</Month>
+                        <Day>28</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of chemical physics</Title>
+                <ISOAbbreviation>J Chem Phys</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Modeling polymer-induced interactions between two grafted surfaces: comparison between interfacial statistical associating fluid theory and self-consistent field theory.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>044908</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1063/1.3177009</ELocationID>
+            <Abstract>
+                <AbstractText>The interaction between two polymer grafted surfaces is important in many applications, such as nanocomposites, colloid stabilization, and polymer alloys. In our previous work [Jain et al., J. Chem. Phys. 128, 154910 (2008)], we showed that interfacial statistical associating fluid density theory (iSAFT) successfully calculates the structure of grafted polymer chains in the absence/presence of a free polymer. In the current work, we have applied this density functional theory to calculate the force of interaction between two such grafted monolayers in implicit good solvent conditions. In particular, we have considered the case where the segment sizes of the free (sigma(f)) and grafted (sigma(g)) polymers are different. The interactions between the two monolayers in the absence of the free polymer are always repulsive. However, in the presence of the free polymer, the force either can be purely repulsive or can have an attractive minimum depending upon the relative chain lengths of the free (N(f)) and grafted polymers (N(g)). The attractive minimum is observed only when the ratio alpha = N(f)/N(g) is greater than a critical value. We find that these critical values of alpha satisfy the following scaling relation: rho(g) square root(N(g)) beta(3) proportional to alpha(-lambda), where beta = sigma(f)/sigma(g) and lambda is the scaling exponent. For beta = 1 or the same segment sizes of the free and grafted polymers, this scaling relation is in agreement with those from previous theoretical studies using self-consistent field theory (SCFT). Detailed comparisons between iSAFT and SCFT are made for the structures of the monolayers and their forces of interaction. These comparisons lead to interesting implications for the modeling of nanocomposite thermodynamics.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Jain</LastName>
+                    <ForeName>Shekhar</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemical and Biomolecular Engineering, Rice University, Houston, Texas 77005, USA. sjain@rice.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ginzburg</LastName>
+                    <ForeName>Valeriy V</ForeName>
+                    <Initials>VV</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jog</LastName>
+                    <ForeName>Prasanna</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Weinhold</LastName>
+                    <ForeName>Jeffrey</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Srivastava</LastName>
+                    <ForeName>Rakesh</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chapman</LastName>
+                    <ForeName>Walter G</ForeName>
+                    <Initials>WG</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Chem Phys</MedlineTA>
+            <NlmUniqueID>0375360</NlmUniqueID>
+            <ISSNLinking>0021-9606</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2009</Year>
+                <Month>8</Month>
+                <Day>7</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2009</Year>
+                <Month>8</Month>
+                <Day>7</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2009</Year>
+                <Month>8</Month>
+                <Day>7</Day>
+                <Hour>9</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">19655920</ArticleId>
+            <ArticleId IdType="doi">10.1063/1.3177009</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

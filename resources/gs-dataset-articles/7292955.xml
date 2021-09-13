@@ -1,0 +1,111 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">7292955</PMID>
+        <DateCompleted>
+            <Year>1981</Year>
+            <Month>12</Month>
+            <Day>21</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0145-6296</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>23</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>1981</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Veterinary and human toxicology</Title>
+                <ISOAbbreviation>Vet Hum Toxicol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Examination of Mexican vanilla extracts for coumarin adulteration: part I.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>89-91</MedlinePgn>
+            </Pagination>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sullivan</LastName>
+                    <ForeName>G</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Vet Hum Toxicol</MedlineTA>
+            <NlmUniqueID>7704194</NlmUniqueID>
+            <ISSNLinking>0145-6296</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D003374">Coumarins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D005421">Flavoring Agents</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D003374" MajorTopicYN="N">Coumarins</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="Y">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004340" MajorTopicYN="Y">Drug Contamination</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005421" MajorTopicYN="N">Flavoring Agents</DescriptorName>
+                <QualifierName UI="Q000592" MajorTopicYN="Y">standards</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008800" MajorTopicYN="N" Type="Geographic">Mexico</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1981</Year>
+                <Month>4</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1981</Year>
+                <Month>4</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1981</Year>
+                <Month>4</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">7292955</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

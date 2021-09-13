@@ -1,0 +1,184 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">5483748</PMID>
+        <DateCompleted>
+            <Year>1971</Year>
+            <Month>01</Month>
+            <Day>15</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0014-4754</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>26</Volume>
+                    <Issue>10</Issue>
+                    <PubDate>
+                        <Year>1970</Year>
+                        <Month>Oct</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Experientia</Title>
+                <ISOAbbreviation>Experientia</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Effect of emetine on certain aspects of protein metabolism.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1077-8</MedlinePgn>
+            </Pagination>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Chatterjee</LastName>
+                    <ForeName>A K</ForeName>
+                    <Initials>AK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Roy</LastName>
+                    <ForeName>A D</ForeName>
+                    <Initials>AD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dutta</LastName>
+                    <ForeName>S C</ForeName>
+                    <Initials>SC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ghosh</LastName>
+                    <ForeName>B B</ForeName>
+                    <Initials>BB</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>Experientia</MedlineTA>
+            <NlmUniqueID>0376547</NlmUniqueID>
+            <ISSNLinking>0014-4754</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011506">Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>63231-63-0</RegistryNumber>
+                <NameOfSubstance UI="D012313">RNA</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9007-49-2</RegistryNumber>
+                <NameOfSubstance UI="D004247">DNA</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>GMW67QNF9C</RegistryNumber>
+                <NameOfSubstance UI="D007930">Leucine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>X8D5EPO80M</RegistryNumber>
+                <NameOfSubstance UI="D004640">Emetine</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001835" MajorTopicYN="N">Body Weight</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004247" MajorTopicYN="N">DNA</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003864" MajorTopicYN="N">Depression, Chemical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004640" MajorTopicYN="N">Emetine</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006321" MajorTopicYN="N">Heart</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007668" MajorTopicYN="N">Kidney</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007930" MajorTopicYN="N">Leucine</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008099" MajorTopicYN="N">Liver</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009206" MajorTopicYN="N">Myocardium</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009929" MajorTopicYN="N">Organ Size</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014176" MajorTopicYN="Y">Protein Biosynthesis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011506" MajorTopicYN="N">Proteins</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012313" MajorTopicYN="N">RNA</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1970</Year>
+                <Month>10</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1970</Year>
+                <Month>10</Month>
+                <Day>15</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1970</Year>
+                <Month>10</Month>
+                <Day>15</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">5483748</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

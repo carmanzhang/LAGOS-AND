@@ -1,0 +1,121 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">3745399</PMID>
+        <DateCompleted>
+            <Year>1986</Year>
+            <Month>09</Month>
+            <Day>26</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>05</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0021-9665</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>24</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>1986</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of chromatographic science</Title>
+                <ISOAbbreviation>J Chromatogr Sci</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Polyaromatic hydrocarbon profile of a mineral oil (JBO-P) by gas chromatography.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>289-92</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The present investigation was aimed at identifying the compound(s) responsible for the carcinogenic activity of a variety of jute batching oil (known as non-FDA variety, pre-FDA variety, or JBO-P), a crude petroleum distillate substantially used in jute industries. This was initially performed by isolating from JBO-P a polyaromatic hydrocarbon (PAH) fraction containing compounds of more than three rings. This fraction was then analysed for its PAH profile by gas chromatography and individual components identified by comparing its flame ionisation detector (FID) signal with those obtained from reference PAHs. The results revealed that PAHs of more than three rings, reported to be a recognised class of chemical carcinogens, were present in the JBO-P sample at the level of 3300 mg/kg of oil (0.33%, w/w); benzo(a)pyrene and dibenz(a,h)anthracene, known to be highly potent carcinogens, constituted 129 mg/kg (0.0129%, w/w) and 29 mg/kg (0.0029%, w/w) of the total oil, respectively; and except for a few signals, the PAH profile of JBO-P was found to be somewhat similar to that reported for a sample of carcinogenic used engine oil.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Agarwal</LastName>
+                    <ForeName>R</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kumar</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mehrotra</LastName>
+                    <ForeName>N K</ForeName>
+                    <Initials>NK</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Chromatogr Sci</MedlineTA>
+            <NlmUniqueID>0173225</NlmUniqueID>
+            <ISSNLinking>0021-9665</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011083">Polycyclic Compounds</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>8020-83-5</RegistryNumber>
+                <NameOfSubstance UI="D008899">Mineral Oil</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D002849" MajorTopicYN="N">Chromatography, Gas</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008899" MajorTopicYN="N">Mineral Oil</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="Y">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011083" MajorTopicYN="N">Polycyclic Compounds</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="Y">analysis</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1986</Year>
+                <Month>7</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1986</Year>
+                <Month>7</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1986</Year>
+                <Month>7</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">3745399</ArticleId>
+            <ArticleId IdType="doi">10.1093/chromsci/24.7.289</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

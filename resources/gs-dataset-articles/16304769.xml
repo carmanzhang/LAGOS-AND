@@ -1,0 +1,134 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">16304769</PMID>
+        <DateCompleted>
+            <Year>2006</Year>
+            <Month>01</Month>
+            <Day>23</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>10</Month>
+            <Day>20</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0869-8031</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>45</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <MedlineDate>2005 Sep-Oct</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Radiatsionnaia biologiia, radioecologiia</Title>
+                <ISOAbbreviation>Radiats Biol Radioecol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Biophysical modeling of radiation induced genetic damage to cells].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>549-60</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The paper deals with the new approach for high accurate prediction of ionising radiation induced lesions of the cellular genetic structures. The previous techniques mainly were based on the assumption of the random radiation-induced breakage of the cellular DNA. They did not consider higher-order DNA organisation in the chromatin and in the interphase chromosomes. The paper discusses the new methods of the biophysical modelling of DNA breakage following high LET irradiation which takes into account the information on 3-dimensional structural organisation of DNA in interphase chromosomes. On this basis the influence of DNA organisation in the chromosomes on both dsb clusters induction and on repair were quantitatively studied, that was impossible by the means of previous computational techniques.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Andreev</LastName>
+                    <ForeName>S G</ForeName>
+                    <Initials>SG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Eĭdel'man</LastName>
+                    <ForeName>Iu A</ForeName>
+                    <Initials>IuA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Khvostunov</LastName>
+                    <ForeName>I K</ForeName>
+                    <Initials>IK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sal'nikov</LastName>
+                    <ForeName>I V</ForeName>
+                    <Initials>IV</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Talyzina</LastName>
+                    <ForeName>T A</ForeName>
+                    <Initials>TA</Initials>
+                </Author>
+            </AuthorList>
+            <Language>rus</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D004740">English Abstract</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Russia (Federation)</Country>
+            <MedlineTA>Radiats Biol Radioecol</MedlineTA>
+            <NlmUniqueID>9317212</NlmUniqueID>
+            <ISSNLinking>0869-8031</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>9007-49-2</RegistryNumber>
+                <NameOfSubstance UI="D004247">DNA</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D055592" MajorTopicYN="N">Biophysical Phenomena</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001703" MajorTopicYN="N">Biophysics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004247" MajorTopicYN="N">DNA</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000528" MajorTopicYN="Y">radiation effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004249" MajorTopicYN="Y">DNA Damage</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D042822" MajorTopicYN="Y">Genomic Instability</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2005</Year>
+                <Month>11</Month>
+                <Day>25</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2006</Year>
+                <Month>1</Month>
+                <Day>24</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2005</Year>
+                <Month>11</Month>
+                <Day>25</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">16304769</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

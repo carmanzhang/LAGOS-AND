@@ -1,0 +1,708 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21536666</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>08</Month>
+            <Day>30</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1083-351X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>286</Volume>
+                    <Issue>25</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jun</Month>
+                        <Day>24</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of biological chemistry</Title>
+                <ISOAbbreviation>J. Biol. Chem.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Mechanisms of urokinase plasminogen activator (uPA)-mediated atherosclerosis: role of the uPA receptor and S100A8/A9 proteins.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>22665-77</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1074/jbc.M110.202135</ELocationID>
+            <Abstract>
+                <AbstractText>Data from clinical studies, cell culture, and animal models implicate the urokinase plasminogen activator (uPA)/uPA receptor (uPAR)/plasminogen system in the development of atherosclerosis and aneurysms. However, the mechanisms through which uPA/uPAR/plasminogen stimulate these diseases are not yet defined. We used genetically modified, atherosclerosis-prone mice, including mice with macrophage-specific uPA overexpression and mice genetically deficient in uPAR to elucidate mechanisms of uPA/uPAR/plasminogen-accelerated atherosclerosis and aneurysm formation. We found that macrophage-specific uPA overexpression accelerates atherosclerosis and causes aortic root dilation in fat-fed Ldlr(-/-) mice (as we previously reported in Apoe(-/-) mice). Macrophage-expressed uPA accelerates atherosclerosis by stimulation of lesion progression rather than initiation and causes disproportionate lipid accumulation in early lesions. uPA-accelerated atherosclerosis and aortic dilation are largely, if not completely, independent of uPAR. In the absence of uPA overexpression, however, uPAR contributes modestly to both atherosclerosis and aortic dilation. Microarray studies identified S100A8 and S100A9 mRNA as the most highly up-regulated transcripts in uPA-overexpressing macrophages; up-regulation of S100A9 protein in uPA-overexpressing macrophages was confirmed by Western blotting. S100A8/A9, which are atherogenic in mice and are expressed in human atherosclerotic plaques, are also up-regulated in the aortae of mice with uPA-overexpressing macrophages, and macrophage S100A9 mRNA is up-regulated by exposure of wild-type macrophages to medium from uPA-overexpressing macrophages. Macrophage microarray data suggest significant effects of uPA overexpression on cell migration and cell-matrix interactions. Our results confirm in a second animal model that macrophage-expressed uPA stimulates atherosclerosis and aortic dilation. They also reveal uPAR independence of these actions and implicate specific pathways in uPA/Plg-accelerated atherosclerosis and aneurysmal disease.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Farris</LastName>
+                    <ForeName>Stephen D</ForeName>
+                    <Initials>SD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, University of Washington, Seattle, Washington 98195, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hu</LastName>
+                    <ForeName>Jie Hong</ForeName>
+                    <Initials>JH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Krishnan</LastName>
+                    <ForeName>Ranjini</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Emery</LastName>
+                    <ForeName>Isaac</ForeName>
+                    <Initials>I</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chu</LastName>
+                    <ForeName>Talyn</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Du</LastName>
+                    <ForeName>Liang</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kremen</LastName>
+                    <ForeName>Michal</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dichek</LastName>
+                    <ForeName>Helén L</ForeName>
+                    <Initials>HL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gold</LastName>
+                    <ForeName>Elizabeth</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ramsey</LastName>
+                    <ForeName>Stephen A</ForeName>
+                    <Initials>SA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dichek</LastName>
+                    <ForeName>David A</ForeName>
+                    <Initials>DA</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>GEO</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>GSE29028</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>K25 HL098807-02</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>T32HL07828</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <Agency>Howard Hughes Medical Institute</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01HL080597</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>K25HL098807</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>K25 HL098807</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 HL080597</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>05</Month>
+                <Day>02</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Biol Chem</MedlineTA>
+            <NlmUniqueID>2985121R</NlmUniqueID>
+            <ISSNLinking>0021-9258</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016632">Apolipoprotein A-I</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D040501">Calgranulin A</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D040502">Calgranulin B</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D012333">RNA, Messenger</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D051116">Receptors, Scavenger</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D055293">Receptors, Urokinase Plasminogen Activator</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.21.73</RegistryNumber>
+                <NameOfSubstance UI="D014568">Urokinase-Type Plasminogen Activator</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001011" MajorTopicYN="N">Aorta</DescriptorName>
+                <QualifierName UI="Q000201" MajorTopicYN="N">enzymology</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016632" MajorTopicYN="N">Apolipoprotein A-I</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D050197" MajorTopicYN="N">Atherosclerosis</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D040501" MajorTopicYN="N">Calgranulin A</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D040502" MajorTopicYN="N">Calgranulin B</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003324" MajorTopicYN="N">Coronary Artery Disease</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D050356" MajorTopicYN="N">Lipid Metabolism</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008264" MajorTopicYN="N">Macrophages</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D025941" MajorTopicYN="N">Protein Interaction Mapping</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012333" MajorTopicYN="N">RNA, Messenger</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051116" MajorTopicYN="N">Receptors, Scavenger</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055293" MajorTopicYN="N">Receptors, Urokinase Plasminogen Activator</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013997" MajorTopicYN="N">Time Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014158" MajorTopicYN="N">Transcription, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019076" MajorTopicYN="N">Transgenes</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015854" MajorTopicYN="N">Up-Regulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014568" MajorTopicYN="N">Urokinase-Type Plasminogen Activator</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014664" MajorTopicYN="N">Vasodilation</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>5</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>5</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>8</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21536666</ArticleId>
+            <ArticleId IdType="pii">M110.202135</ArticleId>
+            <ArticleId IdType="doi">10.1074/jbc.M110.202135</ArticleId>
+            <ArticleId IdType="pmc">PMC3121410</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Cardiovasc Pathol. 1998 Jul-Aug;7(4):223-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25851398</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 2010 Apr 13;121(14):1637-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20351234</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2005 Oct 25;102(43):15545-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16199517</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2005 Jul 1;33(Web Server issue):W460-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15980512</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arterioscler Thromb Vasc Biol. 2001 Oct;21(10):1567-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11597927</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Soc Trans. 2002 Apr;30(2):163-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12023844</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Dev. 1995 Apr 1;9(7):794-807</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7705657</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arterioscler Thromb Vasc Biol. 1999 Mar;19(3):493-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10073948</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arterioscler Thromb Vasc Biol. 1999 Mar;19(3):499-504</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10073949</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 2004 May 4;109(17):2129-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15096455</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1992 May 15;89(10):4471-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1584779</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arterioscler Thromb Vasc Biol. 1995 May;15(5):551-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7749869</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Thromb Haemost. 2007 May;97(5):694-703</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17479179</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood. 2002 Nov 15;100(10):3611-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12393744</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 1999 Jun 29;99(25):3315-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10385508</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arterioscler Thromb Vasc Biol. 2007 May;27(5):1050-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17332490</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 2008 Jan 1;117(1):115-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18172051</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2008 Nov 4;105(44):17109-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18957535</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1991 Jul 5;266(19):12752-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1829461</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Thromb Haemost. 2001 Jul;86(1):324-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11487021</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 1993 Aug;92(2):883-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8349823</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Exp Cell Res. 2006 Jan 15;312(2):184-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16297907</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arterioscler Thromb Vasc Biol. 2006 Feb;26(2):242-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16373607</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Atherosclerosis. 2007 Dec;195(2):e108-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17681345</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2008 Feb 12;105(6):2082-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18252823</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arterioscler Thromb Vasc Biol. 2009 Nov;29(11):1737-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19729604</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Stat Appl Genet Mol Biol. 2004;3:Article3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16646809</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 1995 Jul;96(1):639-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7615837</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Prog Cardiovasc Dis. 2002 Mar-Apr;44(5):349-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12024333</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arteriosclerosis. 1990 Jan-Feb;10(1):25-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2136993</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arterioscler Thromb Vasc Biol. 1995 Jul;15(7):893-902</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7600121</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Biol. 2003;4(5):P3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12734009</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 1998 Feb 1;160(3):1427-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9570563</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cardiovasc Diabetol. 2006;5:6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16573830</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood. 1997 Dec 15;90(12):4812-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9389698</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arterioscler Thromb Vasc Biol. 2008 Jul;28(7):1361-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18436804</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arterioscler Thromb Vasc Biol. 2001 Apr;21(4):611-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11304480</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2005 Dec 16;280(50):41521-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16216873</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1995 Jul 14;270(28):16886-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7622505</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood Coagul Fibrinolysis. 2004 Jul;15(5):383-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15205586</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arterioscler Thromb Vasc Biol. 2010 Mar;30(3):582-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20056908</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2004 Nov 15;173(10):6366-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15528376</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1992 Sep 25;267(27):19363-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1388168</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arterioscler Thromb Vasc Biol. 2011 Jan;31(1):50-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20966403</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arterioscler Thromb Vasc Biol. 2004 Jun;24(6):1006-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15087308</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Med. 2007 Feb 19;204(2):441-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17296788</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Thromb Res. 1981 Oct 1-15;24(1-2):151-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6460340</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arterioscler Thromb Vasc Biol. 2009 Aug;29(8):1220-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19520974</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 1995 May;95(5):1957-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7738161</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Thromb Haemost. 1998 Mar;79(3):579-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9531045</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Lipid Res. 2004 Mar;45(3):551-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14679168</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2003 Mar 15;170(6):3233-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12626582</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann N Y Acad Sci. 2006 Nov;1085:339-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17182954</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Chem Lab Med. 2005;43(5):470-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15899668</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Mol Cell Biol. 2002 Dec;3(12):932-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12461559</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Protoc. 2009;4(1):44-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19131956</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 2011 Mar 22;123(11):1216-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21382888</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Physiol. 2005 Jul;204(1):73-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15573379</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2004 Jun 12;20(9):1464-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14962934</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2005;33(10):3154-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15933209</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 1996 Feb 1;97(3):769-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8609234</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood. 2007 Mar 15;109(6):2453-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17095618</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 2009 Aug 4;120(5):427-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19620505</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

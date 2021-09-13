@@ -1,0 +1,141 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">1248119</PMID>
+        <DateCompleted>
+            <Year>1976</Year>
+            <Month>04</Month>
+            <Day>23</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0009-9147</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>22</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>1976</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical chemistry</Title>
+                <ISOAbbreviation>Clin. Chem.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>An integrated approach to lipid profiling: enzymatic determination of cholesterol and triglycerides with a centrifugal analyzer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>188-92</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>We describe enzymatic methods for determination of cholesterol and triglycerides (triacylglycerols), adapted for use with a centrifugal analyzer. Triglycerides are determined by a two-point kinetic method, which utilizes a single glycerol standard for calibration and provides for a within-run reagent blank correction. The endpoint determination of cholesterol combines the unique blanking capabilities of the centrifugal analyzer to correct for sample and reagent blank interferences. Results correlate well with those obtained by procedures standardized by the Lipid Research Clinics Program for use with a continuous-flow system.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wentz</LastName>
+                    <ForeName>P W</ForeName>
+                    <Initials>PW</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cross</LastName>
+                    <ForeName>R E</ForeName>
+                    <Initials>RE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Savory</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D003160">Comparative Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Clin Chem</MedlineTA>
+            <NlmUniqueID>9421549</NlmUniqueID>
+            <ISSNLinking>0009-9147</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014280">Triglycerides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>97C5T2UQ7J</RegistryNumber>
+                <NameOfSubstance UI="D002784">Cholesterol</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.1.3</RegistryNumber>
+                <NameOfSubstance UI="D008049">Lipase</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001322" MajorTopicYN="N">Autoanalysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002498" MajorTopicYN="N">Centrifugation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002784" MajorTopicYN="N">Cholesterol</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005069" MajorTopicYN="N">Evaluation Studies as Topic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008049" MajorTopicYN="N">Lipase</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013050" MajorTopicYN="N">Spectrometry, Fluorescence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014280" MajorTopicYN="N">Triglycerides</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1976</Year>
+                <Month>2</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1976</Year>
+                <Month>2</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1976</Year>
+                <Month>2</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">1248119</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

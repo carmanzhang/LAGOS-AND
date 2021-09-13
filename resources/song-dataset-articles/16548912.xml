@@ -1,0 +1,125 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">16548912</PMID>
+        <DateCompleted>
+            <Year>2006</Year>
+            <Month>07</Month>
+            <Day>27</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2014</Year>
+            <Month>11</Month>
+            <Day>20</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1323-7799</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>11</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2006</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Respirology (Carlton, Vic.)</Title>
+                <ISOAbbreviation>Respirology</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Microscopic polyangiitis or Wegener's granulomatosis? That is the question.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>227</MedlinePgn>
+            </Pagination>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Agarwal</LastName>
+                    <ForeName>Ritesh</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016420">Comment</PublicationType>
+                <PublicationType UI="D003160">Comparative Study</PublicationType>
+                <PublicationType UI="D016422">Letter</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Australia</Country>
+            <MedlineTA>Respirology</MedlineTA>
+            <NlmUniqueID>9616368</NlmUniqueID>
+            <ISSNLinking>1323-7799</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D019268">Antibodies, Antineutrophil Cytoplasmic</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentOn">
+                <RefSource>Respirology. 2005 Nov;10(5):678-81</RefSource>
+                <PMID Version="1">16268925</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D019268" MajorTopicYN="N">Antibodies, Antineutrophil Cytoplasmic</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001706" MajorTopicYN="N">Biopsy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003937" MajorTopicYN="N">Diagnosis, Differential</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014890" MajorTopicYN="N">Granulomatosis with Polyangiitis</DescriptorName>
+                <QualifierName UI="Q000473" MajorTopicYN="Y">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010488" MajorTopicYN="N">Polyarteritis Nodosa</DescriptorName>
+                <QualifierName UI="Q000473" MajorTopicYN="Y">pathology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2006</Year>
+                <Month>3</Month>
+                <Day>22</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2006</Year>
+                <Month>7</Month>
+                <Day>28</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2006</Year>
+                <Month>3</Month>
+                <Day>22</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">16548912</ArticleId>
+            <ArticleId IdType="pii">RES</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1440-1843.2006.00823.x</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,133 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">11524598</PMID>
+        <DateCompleted>
+            <Year>2001</Year>
+            <Month>12</Month>
+            <Day>07</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>09</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0020-5907</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>39</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2001</Year>
+                        <Season>Summer</Season>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International anesthesiology clinics</Title>
+                <ISOAbbreviation>Int Anesthesiol Clin</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Phase I cancer trials: a crucible of competing priorities.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>13-33</MedlinePgn>
+            </Pagination>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Miller</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Health Policy and Management, Harvard School of Public Health, 69 University Road, Brookline, MA 02445, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Int Anesthesiol Clin</MedlineTA>
+            <NlmUniqueID>0370760</NlmUniqueID>
+            <ISSNLinking>0020-5907</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000970">Antineoplastic Agents</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000970" MajorTopicYN="N">Antineoplastic Agents</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+                <QualifierName UI="Q000633" MajorTopicYN="N">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017321" MajorTopicYN="Y">Clinical Trials, Phase I as Topic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004992" MajorTopicYN="N">Ethics, Medical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006805" MajorTopicYN="N">Human Experimentation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007258" MajorTopicYN="Y">Informed Consent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009369" MajorTopicYN="Y">Neoplasms</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010819" MajorTopicYN="N">Physician's Role</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010817" MajorTopicYN="N">Physician-Patient Relations</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012803" MajorTopicYN="N">Sick Role</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>65</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2001</Year>
+                <Month>8</Month>
+                <Day>29</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2002</Year>
+                <Month>1</Month>
+                <Day>5</Day>
+                <Hour>10</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2001</Year>
+                <Month>8</Month>
+                <Day>29</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">11524598</ArticleId>
+            <ArticleId IdType="doi">10.1097/00004311-200107000-00004</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

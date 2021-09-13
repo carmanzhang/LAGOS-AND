@@ -1,0 +1,177 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">22254617</PMID>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>06</Month>
+            <Day>12</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>09</Month>
+            <Day>28</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">2694-0604</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>2011</Volume>
+                    <PubDate>
+                        <Year>2011</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference</Title>
+                <ISOAbbreviation>Annu Int Conf IEEE Eng Med Biol Soc</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Longitudinal monitoring of patients with Parkinson's disease via wearable sensor technology in the home setting.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1552-5</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1109/IEMBS.2011.6090452</ELocationID>
+            <Abstract>
+                <AbstractText>Objective longitudinal monitoring of symptoms related motor fluctuations can provide valuable information for the clinical management of patients with Parkinson's disease. Current methods for long-term monitoring of motor fluctuations, such as patient diaries, are ineffective due to their time consuming and subjective nature. Researchers have shown that wearable sensors such as accelerometers can be used to gather objective information about a patient's motor symptoms. In this paper, we present preliminary results from our analysis on wearable sensor data gathered during longitudinal monitoring of 5 patients with PD. Our results indicate that it is possible to track longitudinal changes in motor symptoms by training a regression model based on Random Forests.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Patel</LastName>
+                    <ForeName>Shyamal</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physical Medicine and Rehabilitation, Harvard Medical School, Spaulding Rehabilitation Hospital, Boston, MA 02114, USA. spatel19@partners.org</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Bor-Rong</ForeName>
+                    <Initials>BR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mancinelli</LastName>
+                    <ForeName>Chiara</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Paganoni</LastName>
+                    <ForeName>Sabrina</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shih</LastName>
+                    <ForeName>Ludy</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Welsh</LastName>
+                    <ForeName>Matt</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dy</LastName>
+                    <ForeName>Jennifer</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bonato</LastName>
+                    <ForeName>Paolo</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Annu Int Conf IEEE Eng Med Biol Soc</MedlineTA>
+            <NlmUniqueID>101763872</NlmUniqueID>
+            <ISSNLinking>2375-7477</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000054" MajorTopicYN="Y">Acceleration</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D056044" MajorTopicYN="N">Actigraphy</DescriptorName>
+                <QualifierName UI="Q000295" MajorTopicYN="Y">instrumentation</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015374" MajorTopicYN="N">Biosensing Techniques</DescriptorName>
+                <QualifierName UI="Q000295" MajorTopicYN="Y">instrumentation</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003020" MajorTopicYN="N">Clothing</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004867" MajorTopicYN="N">Equipment Design</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019544" MajorTopicYN="N">Equipment Failure Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006699" MajorTopicYN="Y">Home Care Services</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008137" MajorTopicYN="N">Longitudinal Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018670" MajorTopicYN="N">Monitoring, Ambulatory</DescriptorName>
+                <QualifierName UI="Q000295" MajorTopicYN="Y">instrumentation</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009068" MajorTopicYN="N">Movement</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010300" MajorTopicYN="N">Parkinson Disease</DescriptorName>
+                <QualifierName UI="Q000175" MajorTopicYN="Y">diagnosis</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="Y">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015203" MajorTopicYN="N">Reproducibility of Results</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012680" MajorTopicYN="N">Sensitivity and Specificity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014481" MajorTopicYN="N" Type="Geographic">United States</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>6</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">22254617</ArticleId>
+            <ArticleId IdType="doi">10.1109/IEMBS.2011.6090452</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

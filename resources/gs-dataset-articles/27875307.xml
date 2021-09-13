@@ -1,0 +1,631 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">27875307</PMID>
+        <DateCompleted>
+            <Year>2017</Year>
+            <Month>06</Month>
+            <Day>01</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1083-351X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>291</Volume>
+                    <Issue>52</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Dec</Month>
+                        <Day>23</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of biological chemistry</Title>
+                <ISOAbbreviation>J. Biol. Chem.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Salmonella enteritidis Effector AvrA Stabilizes Intestinal Tight Junctions via the JNK Pathway.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>26837-26849</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1074/jbc.M116.757393</ELocationID>
+            <Abstract>
+                <AbstractText>Salmonella pathogenesis studies to date have focused on Salmonella typhimurium, and the pathogenesis of a second major serotype, Salmonella enteritidis, is poorly understood. Salmonella spp. possess effector proteins that display biochemical activities and modulate host functions. Here, we generated a deletion mutant of the effector AvrA, S.E-AvrA<sup>-</sup>, and a plasmid-mediated complementary strain, S.E-AvrA<sup>-</sup>/pAvrA<sup>+</sup> (S.E-AvrA<sup>+</sup>), in S. Enteritidis. Using in vitro and in vivo infection models, we showed that AvrA stabilizes epithelial tight junction (TJ) proteins, such as ZO-1, in human intestinal epithelial cells. Transepithelial electrical resistance was significantly higher in cells infected with S.E-AvrA<sup>+</sup> than in cells infected with S.E-AvrA<sup>-</sup> Inhibition of the JNK pathway suppresses the disassembly of TJ proteins; we found that enteritidis AvrA inhibited JNK activity in cells infected with wild type or S.E-AvrA<sup>+</sup> strains. Therefore, Enteritidis AvrA-induced ZO-1 stability is achieved via suppression of the JNK pathway. Furthermore, the S.E-AvrA<sup>-</sup> strain led to enhanced bacterial invasion, both in vitro and in vivo Taken together, our data reveal a novel role for AvrA in S. Enteritidis: Enteritidis AvrA stabilizes intestinal TJs and attenuates bacterial invasion. The manipulation of JNK activity and TJs in microbial-epithelial interactions may be a novel therapeutic approach for the treatment of infectious diseases.</AbstractText>
+                <CopyrightInformation>© 2016 by The American Society for Biochemistry and Molecular Biology, Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lin</LastName>
+                    <ForeName>Zhijie</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Jiangsu Key Laboratory of Zoonosis, Jiangsu Co-innovation Center for Prevention and Control of Important Animal Infectious Diseases and Zoonosis and.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>the Division of Gastroenterology and Hepatology, Department of Medicine, University of Illinois at Chicago, Chicago, Illinois 60612, and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Yong-Guo</ForeName>
+                    <Initials>YG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>the Division of Gastroenterology and Hepatology, Department of Medicine, University of Illinois at Chicago, Chicago, Illinois 60612, and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xia</LastName>
+                    <ForeName>Yinglin</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>the Division of Gastroenterology and Hepatology, Department of Medicine, University of Illinois at Chicago, Chicago, Illinois 60612, and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xu</LastName>
+                    <ForeName>Xiulong</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Jiangsu Key Laboratory of Zoonosis, Jiangsu Co-innovation Center for Prevention and Control of Important Animal Infectious Diseases and Zoonosis and.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>the Center for Comparative Medicine, Animal Infectious Disease Laboratory, College of Veterinary Medicine, Yangzhou University, Yangzhou, 225009, Jiangsu Province, China.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>the Department of Anatomy and Cell Biology, Rush University Medical Center, Chicago, Illinois 60612.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jiao</LastName>
+                    <ForeName>Xinan</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Jiangsu Key Laboratory of Zoonosis, Jiangsu Co-innovation Center for Prevention and Control of Important Animal Infectious Diseases and Zoonosis and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sun</LastName>
+                    <ForeName>Jun</ForeName>
+                    <Initials>J</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-7465-3133</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>From the Jiangsu Key Laboratory of Zoonosis, Jiangsu Co-innovation Center for Prevention and Control of Important Animal Infectious Diseases and Zoonosis and junsun7@uic.edu.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>the Division of Gastroenterology and Hepatology, Department of Medicine, University of Illinois at Chicago, Chicago, Illinois 60612, and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 DK105118</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>11</Month>
+                <Day>15</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Biol Chem</MedlineTA>
+            <NlmUniqueID>2985121R</NlmUniqueID>
+            <ISSNLinking>0021-9258</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C495717">AvrA protein, Salmonella enterica</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D001426">Bacterial Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D050505">Mutant Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C569043">Tjp1 protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D062826">Zonula Occludens-1 Protein</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.12.2</RegistryNumber>
+                <NameOfSubstance UI="D048670">MAP Kinase Kinase 4</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001426" MajorTopicYN="N">Bacterial Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003106" MajorTopicYN="N">Colon</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000382" MajorTopicYN="N">microbiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007413" MajorTopicYN="N">Intestinal Mucosa</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName UI="Q000382" MajorTopicYN="N">microbiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D048670" MajorTopicYN="N">MAP Kinase Kinase 4</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008810" MajorTopicYN="N">Mice, Inbred C57BL</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D050505" MajorTopicYN="N">Mutant Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009154" MajorTopicYN="N">Mutation</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012481" MajorTopicYN="N">Salmonella Infections, Animal</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName UI="Q000382" MajorTopicYN="N">microbiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012477" MajorTopicYN="N">Salmonella enteritidis</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015398" MajorTopicYN="N">Signal Transduction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019108" MajorTopicYN="N">Tight Junctions</DescriptorName>
+                <QualifierName UI="Q000382" MajorTopicYN="N">microbiology</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D062826" MajorTopicYN="N">Zonula Occludens-1 Protein</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="Y">Salmonella enterica</Keyword>
+            <Keyword MajorTopicYN="Y">c-Jun N-terminal kinase (JNK)</Keyword>
+            <Keyword MajorTopicYN="Y">infection</Keyword>
+            <Keyword MajorTopicYN="Y">inflammation</Keyword>
+            <Keyword MajorTopicYN="Y">tight junction</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>09</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2016</Year>
+                <Month>11</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>11</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>6</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>11</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">27875307</ArticleId>
+            <ArticleId IdType="pii">M116.757393</ArticleId>
+            <ArticleId IdType="doi">10.1074/jbc.M116.757393</ArticleId>
+            <ArticleId IdType="pmc">PMC5207190</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Gastroenterology. 2001 Sep;121(3):566-79</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11522741</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Pathog. 2012;8(7):e1002810</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22911370</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Nutr. 2011 May;141(5):769-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21430248</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 2001 May 1;20(9):2131-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11331579</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Cell Biol. 1998 Apr;10(2):205-19</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9561845</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Pharmacol Exp Ther. 2006 Jan;316(1):1-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16002462</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Infect. 2007 Mar;54(3):245-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16824609</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Immun. 2003 May;71(5):2839-58</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12704158</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gastroenterology. 2001 Sep;121(3):580-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11522742</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Host Microbe. 2008 Apr 17;3(4):233-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18407067</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Infect Dis. 2010 Mar 15;50(6):882-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20158401</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol Cell Physiol. 2009 Sep;297(3):C775-87</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19605737</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Pathol. 2007 Sep;171(3):882-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17690189</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEMS Microbiol Rev. 2012 Nov;36(6):1023-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22250915</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2012 Aug 28;109(35):14007-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22893683</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Emerg Infect Dis. 2011 Jan;17(1):7-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21192848</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Immun. 2006 Dec;74(12):6581-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17015453</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2013;8(3):e58606</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23505542</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Pathol. 2006 Nov;169(5):1686-700</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17071592</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Foodborne Pathog Dis. 2011 Aug;8(8):887-900</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21492021</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Infect Dis. 2006 Aug 15;43(4):512-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16838242</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Infect Control. 2006 Aug;34(6):348-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16877102</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cases J. 2008 May 12;1(1):5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18577242</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gut. 2015 Jul;64(7):1082-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25080448</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Infect Dis. 2008 Apr 1;46(7):963-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18444810</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochim Biophys Acta. 2008 Mar;1778(3):588-600</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17916321</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Microbiol. 2006 Dec;8(12):1946-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16869830</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2015 May 1;290(18):11515-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25795781</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochimie. 2004 Aug;86(8):533-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15388230</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2002 Sep 15;169(6):2846-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12218096</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem J. 2006 Jan 1;393(Pt 1):69-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16134968</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Pathog. 2009 Sep;5(9):e1000595</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19779561</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol Gastrointest Liver Physiol. 2011 Dec;301(6):G992-G1003</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21903761</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Echocardiogr. 2009 Feb;22(2):210.e1-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19135858</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochim Biophys Acta. 2009 Apr;1788(4):832-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19059200</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEBS Lett. 2010 Mar 5;584(5):911-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20083111</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2016 Feb 26;291(9):4779-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26724804</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Commun. 2016 Apr 12;7:11273</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27068492</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biol. 1993 Dec;123(6 Pt 2):1631-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8276885</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>MMWR Morb Mortal Wkly Rep. 2007 Aug 31;56(34):877-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17728692</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Emerg Infect Dis. 2014 Jul;20(7):1097-104</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24960614</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Transl Med. 2012 Mar 07;10:40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22397627</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Histochem Cell Biol. 2015 May;143(5):471-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25511417</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Infect Dis. 2009 Nov;13(6):e463-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19269872</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biol. 1993 Nov;123(4):895-907</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8227148</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Infect Dis. 2009 Aug 15;49(4):606-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19591599</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FASEB J. 2009 Nov;23(11):3874-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19667122</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2010 Mar 19;285(12):8675-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20071333</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol. 1997 Oct;273(4 Pt 1):C1378-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9357784</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Histochem Cytochem. 2001 Mar;49(3):333-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11181736</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2008 Jun 04;3(6):e2369</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18523661</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Tissue Barriers. 2015 Apr 03;3(1-2):e972849</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25838979</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Tissue Barriers. 2013 Oct 1;1(4):e24894</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24665406</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Toxicol Appl Pharmacol. 2010 Jun 15;245(3):291-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20362602</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2000 Jun 6;97(12):6640-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10829079</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Cycle. 2009 Jul 1;8(13):2110-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19502798</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Physiol. 2010 Nov;225(3):720-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20533305</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Physiol Rep. 2015 Apr;3(4):null</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25847918</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2011 Apr 8;286(14):12123-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21262973</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

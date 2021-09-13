@@ -1,0 +1,306 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">1846671</PMID>
+        <DateCompleted>
+            <Year>1991</Year>
+            <Month>03</Month>
+            <Day>04</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>05</Month>
+            <Day>08</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0270-7306</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>11</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>1991</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Molecular and cellular biology</Title>
+                <ISOAbbreviation>Mol. Cell. Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Suppressor analysis of temperature-sensitive RNA polymerase I mutations in Saccharomyces cerevisiae: suppression of mutations in a zinc-binding motif by transposed mutant genes.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>746-53</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Starting with two temperature-sensitive mutants (rpa190-1 and rpa190-5) of Saccharomyces cerevisiae, both of which are amino acid substitutions in the putative zinc-binding domain of the largest subunit (A190) of RNA polymerase I, we have isolated many independent pseudorevertants carrying extragenic suppressors (SRP) of rpa190 mutations. All the SRP mutations were dominant over the corresponding wild-type genes. They were classified into at least seven different loci by crossing each suppressed mutant with all of the other suppressed mutants and analyzing segregants. SRP mutations representing each of the seven loci were studied for their effects on other known rpa190 mutations. All of the SRP mutations were able to suppress both rpa190-1 and rpa190-5. In addition, one particular suppressor, SRP5, was found to suppress two other rpa190 mutations as well as an rpa190 deletion. Southern blot analysis combined with genetic crosses demonstrated that SRP5 maps to a region on chromosome XV loosely linked to rpa190 and represents a transposed mutant gene in two copies. Analysis of the A190 subunit by using anti-A190 antiserum indicated that the cellular concentration of A190 and hence of RNA polymerase I decreases in rpa190-1 mutants after a shift to 37 degrees C and that in the mutant strain carrying SRP5 this decrease is partially alleviated, presumably because of increased synthesis caused by increased gene dosage. These results suggest that the zinc-binding domain plays an important role in protein-protein interaction essential for the assembly and/or stability of the enzyme, regardless of whether it also participates directly in the interaction of the assembled enzyme with DNA.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>McCusker</LastName>
+                    <ForeName>J H</ForeName>
+                    <Initials>JH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biological Chemistry, University of California, Irvine 92717.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yamagishi</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kolb</LastName>
+                    <ForeName>J M</ForeName>
+                    <Initials>JM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nomura</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R37GM35949</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Mol Cell Biol</MedlineTA>
+            <NlmUniqueID>8109087</NlmUniqueID>
+            <ISSNLinking>0270-7306</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004251">DNA Transposable Elements</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004271">DNA, Fungal</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.7.6</RegistryNumber>
+                <NameOfSubstance UI="D012318">RNA Polymerase I</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>J41CSQ7QDS</RegistryNumber>
+                <NameOfSubstance UI="D015032">Zinc</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <GeneSymbolList>
+            <GeneSymbol>rpa190-1</GeneSymbol>
+            <GeneSymbol>rpa190-5</GeneSymbol>
+        </GeneSymbolList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001665" MajorTopicYN="N">Binding Sites</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015139" MajorTopicYN="N">Blotting, Southern</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002874" MajorTopicYN="N">Chromosome Mapping</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015825" MajorTopicYN="N">Chromosomes, Fungal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004251" MajorTopicYN="Y">DNA Transposable Elements</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004271" MajorTopicYN="N">DNA, Fungal</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000302" MajorTopicYN="N">isolation &amp; purification</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005838" MajorTopicYN="N">Genotype</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009154" MajorTopicYN="Y">Mutation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012318" MajorTopicYN="N">RNA Polymerase I</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015183" MajorTopicYN="N">Restriction Mapping</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012441" MajorTopicYN="N">Saccharomyces cerevisiae</DescriptorName>
+                <QualifierName UI="Q000201" MajorTopicYN="N">enzymology</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013489" MajorTopicYN="Y">Suppression, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013696" MajorTopicYN="N">Temperature</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015032" MajorTopicYN="N">Zinc</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1991</Year>
+                <Month>2</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1991</Year>
+                <Month>2</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1991</Year>
+                <Month>2</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">1846671</ArticleId>
+            <ArticleId IdType="pmc">PMC359726</ArticleId>
+            <ArticleId IdType="doi">10.1128/mcb.11.2.746</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Genetics. 1949 Sep;34(5):607-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17247336</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Biophys Res Commun. 1976 Mar 22;69(2):548-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">773379</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 1989 Oct 31;28(22):8828-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2605224</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>CRC Crit Rev Biochem. 1985;18(1):31-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3893883</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1986 Apr 25;232(4749):485-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2421409</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1988 Feb 25;263(6):2830-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2830265</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 1988 Jan 15;52(1):1-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3125980</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 1988 Oct;8(10):3997-4008</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3054507</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiol Rev. 1989 Jun;53(2):256-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2666845</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 1987 Aug 25;26(17):5251-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3314985</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1990 Jun 25;265(18):10389-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2113053</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1990 Apr 25;265(12):6513-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2108957</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 1990 May;10(5):2049-59</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2183018</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cold Spring Harb Symp Quant Biol. 1981;45 Pt 2:593-607</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6266753</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1982 Mar 10;257(5):2613-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6174508</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 1981 Aug;25(2):409-19</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6269746</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 1983 Oct;3(10):1730-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6358860</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genetics. 1978 Apr;88(4 Pt 1):673-87</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">348562</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 1991 Feb;11(2):754-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1990281</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

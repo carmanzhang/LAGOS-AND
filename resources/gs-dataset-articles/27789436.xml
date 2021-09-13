@@ -1,0 +1,118 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+        <PMID Version="1">27789436</PMID>
+        <DateCompleted>
+            <Year>2018</Year>
+            <Month>01</Month>
+            <Day>12</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>12</Month>
+            <Day>02</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1528-0020</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>128</Volume>
+                    <Issue>17</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>10</Month>
+                        <Day>27</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Blood</Title>
+                <ISOAbbreviation>Blood</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The lazy leukocyte syndrome revisited.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2112-2113</MedlinePgn>
+            </Pagination>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Southwick</LastName>
+                    <ForeName>Frederick S</ForeName>
+                    <Initials>FS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>UNIVERSITY OF FLORIDA COLLEGE OF MEDICINE.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016420">Comment</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Blood</MedlineTA>
+            <NlmUniqueID>7603509</NlmUniqueID>
+            <ISSNLinking>0006-4971</ISSNLinking>
+        </MedlineJournalInfo>
+        <SupplMeshList>
+            <SupplMeshName Type="Disease" UI="C562721">Lazy Leukocyte Syndrome</SupplMeshName>
+        </SupplMeshList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentOn">
+                <RefSource>Blood. 2016 Oct 27;128(17 ):2135-2143</RefSource>
+                <PMID Version="1">27557945</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D002634" MajorTopicYN="Y">Chemotaxis, Leukocyte</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007960" MajorTopicYN="N">Leukocyte Disorders</DescriptorName>
+                <QualifierName UI="Q000151" MajorTopicYN="N">congenital</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009503" MajorTopicYN="Y">Neutropenia</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>10</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>1</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>10</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">27789436</ArticleId>
+            <ArticleId IdType="pii">128/17/2112</ArticleId>
+            <ArticleId IdType="doi">10.1182/blood-2016-09-737007</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

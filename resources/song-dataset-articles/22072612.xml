@@ -1,0 +1,401 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">22072612</PMID>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>04</Month>
+            <Day>03</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>12</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1097-0134</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>80</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Proteins</Title>
+                <ISOAbbreviation>Proteins</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Structural insight into mechanism and diverse substrate selection strategy of L-ribulokinase.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>261-8</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/prot.23202</ELocationID>
+            <Abstract>
+                <AbstractText>The araBAD operon encodes three different enzymes required for catabolism of L-arabinose, which is one of the most abundant monosaccharides in nature. L-ribulokinase, encoded by the araB gene, catalyzes conversion of L-ribulose to L-ribulose-5-phosphate, the second step in the catabolic pathway. Unlike other kinases, ribulokinase exhibits diversity in substrate selectivity and catalyzes phosphorylation of all four 2-ketopentose sugars with comparable k(cat) values. To understand ribulokinase recognition and phosphorylation of a diverse set of substrates, we have determined the X-ray structure of ribulokinase from Bacillus halodurans bound to L-ribulose and investigated its substrate and ATP co-factor binding properties. The polypeptide chain is folded into two domains, one small and the other large, with a deep cleft in between. By analogy with related sugar kinases, we identified (447)GGLPQK(452) as the ATP-binding motif within the smaller domain. L-ribulose binds in the cleft between the two domains via hydrogen bonds with the side chains of highly conserved Trp126, Lys208, Asp274, and Glu329 and the main chain nitrogen of Ala96. The interaction of L-ribulokinase with L-ribulose reveals versatile structural features that help explain recognition of various 2-ketopentose substrates and competitive inhibition by L-erythrulose. Comparison of our structure to that of the structures of other sugar kinases revealed conformational variations that suggest domain-domain closure movements are responsible for establishing the observed active site environment.</AbstractText>
+                <CopyrightInformation>Copyright © 2011 Wiley Periodicals, Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Agarwal</LastName>
+                    <ForeName>Rakhi</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biology Department, Brookhaven National Laboratory, Upton, New York 11973, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Burley</LastName>
+                    <ForeName>Stephen K</ForeName>
+                    <Initials>SK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Swaminathan</LastName>
+                    <ForeName>Subramanyam</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>PDB</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>3QDK</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>U54 GM074945</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U54 GM074945-02</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>GM074945</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>11</Month>
+                <Day>09</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Proteins</MedlineTA>
+            <NlmUniqueID>8700181</NlmUniqueID>
+            <ISSNLinking>0887-3585</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D013780">Tetroses</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>40031-31-0</RegistryNumber>
+                <NameOfSubstance UI="C100073">erythrulose</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>8L70Q75FXE</RegistryNumber>
+                <NameOfSubstance UI="D000255">Adenosine Triphosphate</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.1.-</RegistryNumber>
+                <NameOfSubstance UI="D017853">Phosphotransferases (Alcohol Group Acceptor)</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.1.16</RegistryNumber>
+                <NameOfSubstance UI="C022550">ribulokinase</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000255" MajorTopicYN="N">Adenosine Triphosphate</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020816" MajorTopicYN="N">Amino Acid Motifs</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000595" MajorTopicYN="N">Amino Acid Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001407" MajorTopicYN="N">Bacillus</DescriptorName>
+                <QualifierName UI="Q000201" MajorTopicYN="Y">enzymology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020134" MajorTopicYN="N">Catalytic Domain</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017124" MajorTopicYN="N">Conserved Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018360" MajorTopicYN="N">Crystallography, X-Ray</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006860" MajorTopicYN="N">Hydrogen Bonding</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008958" MajorTopicYN="N">Models, Molecular</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017853" MajorTopicYN="N">Phosphotransferases (Alcohol Group Acceptor)</DescriptorName>
+                <QualifierName UI="Q000037" MajorTopicYN="N">antagonists &amp; inhibitors</QualifierName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017434" MajorTopicYN="N">Protein Structure, Tertiary</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013379" MajorTopicYN="N">Substrate Specificity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013780" MajorTopicYN="N">Tetroses</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2011</Year>
+                <Month>05</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2011</Year>
+                <Month>07</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2011</Year>
+                <Month>08</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>11</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>11</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>4</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">22072612</ArticleId>
+            <ArticleId IdType="doi">10.1002/prot.23202</ArticleId>
+            <ArticleId IdType="pmc">PMC3240725</ArticleId>
+            <ArticleId IdType="mid">NIHMS326354</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Biochemistry. 1999 Mar 23;38(12):3508-18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10090737</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Biochem Biophys. 2001 Dec 15;396(2):219-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11747300</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acta Crystallogr D Biol Crystallogr. 2002 Oct;58(Pt 10 Pt 2):1772-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12351820</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acta Crystallogr D Biol Crystallogr. 2003 Jul;59(Pt 7):1131-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12832755</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1962 Jul;84:137-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">13890280</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1962 Mar 15;48:335-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14463540</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 2004 Jan 20;43(2):362-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14717590</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acta Crystallogr D Biol Crystallogr. 1996 Jan 1;52(Pt 1):30-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15299723</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acta Crystallogr D Biol Crystallogr. 2004 Dec;60(Pt 12 Pt 1):2126-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15572765</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 1975 Jul 5;95(3):417-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">168391</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2007 Jan 19;365(3):783-98</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17123542</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proteins. 2008 Mar;70(4):1219-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17847101</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acta Crystallogr A. 1991 Mar 1;47 ( Pt 2):110-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2025413</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 1990 Oct 5;215(3):403-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2231712</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Methods Enzymol. 1997;276:307-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27754618</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Methods Enzymol. 1997;276:472-494</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27799110</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gene. 1986;47(2-3):231-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3549454</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Genet. 1974;8:219-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4374117</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1968 Aug 25;243(16):4312-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4878429</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1968 Sep 25;243(18):4700-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4879898</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1969 Aug 25;244(16):4277-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4896751</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1970 Mar 25;245(6):1357-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4910050</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1967 May 10;242(9):2043-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">5336963</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1994 Apr 26;91(9):3544-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8170944</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proteins. 1995 Nov;23(3):356-69</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8710828</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 1997 Dec 23;36(51):16087-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9405042</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acta Crystallogr D Biol Crystallogr. 1998 Sep 1;54(Pt 5):905-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9757107</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Structure. 1998 Nov 15;6(11):1407-18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9817843</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 1998 Nov 24;37(47):16565-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9843423</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,176 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">16128577</PMID>
+        <DateCompleted>
+            <Year>2005</Year>
+            <Month>11</Month>
+            <Day>28</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>11</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0006-2960</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>44</Volume>
+                    <Issue>35</Issue>
+                    <PubDate>
+                        <Year>2005</Year>
+                        <Month>Sep</Month>
+                        <Day>06</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biochemistry</Title>
+                <ISOAbbreviation>Biochemistry</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Structural analysis of botulinum neurotoxin serotype F light chain: implications on substrate binding and inhibitor design.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>11758-65</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The seven serologically distinct Clostridium botulinum neurotoxins (BoNTs A-G) are zinc endopeptidases which block the neurotransmitter release by cleaving one of the three proteins of the soluble N-ethylmaleimide-sensitive-factor attachment protein receptor complex (SNARE complex) essential for the fusion of vesicles containing neurotransmitters with target membranes. These metallopeptidases exhibit unique specificity for the substrates and peptide bonds they cleave. Development of countermeasures and therapeutics for BoNTs is a priority because of their extreme toxicity and potential misuse as biowarfare agents. Though they share sequence homology and structural similarity, the structural information on each one of them is required to understand the mechanism of action of all of them because of their specificity. Unraveling the mechanism will help in the ultimate goal of developing inhibitors as antibotulinum drugs for the toxins. Here, we report the high-resolution structure of active BoNT/F catalytic domain in two crystal forms. The structure was exploited for modeling the substrate binding and identifying the S1' subsite and the putative exosites which are different from BoNT/A or BoNT/B. The orientation of docking of the substrate at the active site is consistent with the experimental BoNT/A-LC:SNAP-25 peptide model and our proposed model for BoNT/E-LC:SNAP-25.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Agarwal</LastName>
+                    <ForeName>Rakhi</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biology Department, Brookhaven National Laboratory, Upton, New York 11973, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Binz</LastName>
+                    <ForeName>Thomas</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Swaminathan</LastName>
+                    <ForeName>Subramanyam</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Biochemistry</MedlineTA>
+            <NlmUniqueID>0370623</NlmUniqueID>
+            <ISSNLinking>0006-2960</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D008565">Membrane Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D017669">Mercury Compounds</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C114051">VAPA protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D033921">Vesicular Transport Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.24.69</RegistryNumber>
+                <NameOfSubstance UI="D001905">Botulinum Toxins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>U1R2P71O7G</RegistryNumber>
+                <NameOfSubstance UI="C096321">botulinum toxin type F</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001665" MajorTopicYN="N">Binding Sites</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001905" MajorTopicYN="N">Botulinum Toxins</DescriptorName>
+                <QualifierName UI="Q000037" MajorTopicYN="N">antagonists &amp; inhibitors</QualifierName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000302" MajorTopicYN="N">isolation &amp; purification</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020134" MajorTopicYN="N">Catalytic Domain</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018360" MajorTopicYN="N">Crystallography, X-Ray</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019281" MajorTopicYN="N">Dimerization</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015195" MajorTopicYN="N">Drug Design</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008565" MajorTopicYN="N">Membrane Proteins</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017669" MajorTopicYN="N">Mercury Compounds</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008958" MajorTopicYN="N">Models, Molecular</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011487" MajorTopicYN="N">Protein Conformation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017510" MajorTopicYN="N">Protein Folding</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D033921" MajorTopicYN="N">Vesicular Transport Proteins</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2005</Year>
+                <Month>9</Month>
+                <Day>1</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2005</Year>
+                <Month>12</Month>
+                <Day>13</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2005</Year>
+                <Month>9</Month>
+                <Day>1</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">16128577</ArticleId>
+            <ArticleId IdType="doi">10.1021/bi0510072</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

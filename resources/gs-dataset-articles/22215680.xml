@@ -1,0 +1,708 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">22215680</PMID>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>04</Month>
+            <Day>24</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1083-351X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>287</Volume>
+                    <Issue>10</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Mar</Month>
+                        <Day>02</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of biological chemistry</Title>
+                <ISOAbbreviation>J. Biol. Chem.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Integrated stress response modulates cellular redox state via induction of cystathionine γ-lyase: cross-talk between integrated stress response and thiol metabolism.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>7603-14</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1074/jbc.M111.304576</ELocationID>
+            <Abstract>
+                <AbstractText>The integrated stress response mediated by eukaryotic translation initiation factor 2α (eIF2α) phosphorylation maintains cellular homeostasis under endoplasmic reticulum (ER) stress. eIF2α phosphorylation induces activating transcription factor 4 (ATF4), a basic leucine zipper transcription factor that regulates the expression of genes responsible for amino acid metabolism, cellular redox state, and anti-stress responses. Cystathionine γ-lyase (CSE) and cystathionine β-synthase are critical enzymes in the transsulfuration pathway, which also regulate cellular redox status by modulating glutathione (GSH) levels. To determine the link between the integrated stress response and the transsulfuration pathway, we used homocysteine (Hcy) as an inducer of eIF2α phosphorylation and ATF4 gene induction. Mouse embryonic fibroblasts (MEFs) lacking ATF4 (ATF4(-/-)) had reduced GSH levels and increased reactive oxygen species and were susceptible to apoptotic cell death under normal culture conditions. Further, ATF4(-/-) MEFs were more sensitive to Hcy-induced cytotoxicity and showed significantly reduced intracellular GSH levels associated with apoptosis. ATF4(-/-) MEFs could be rescued from l-Hcy-induced apoptosis by β-mercaptoethanol medium supplementation that increases cysteine levels and restores GSH synthesis. ATF4(-/-) MEFs showed little or no CSE protein but did express cystathionine β-synthase. Further, ER stress-inducing agents, including tunicamycin and thapsigargin, induced the expression of CSE in ATF4(+/+) MEFs. Consistent with ATF4(-/-) MEFs, CSE(-/-) MEFs showed significantly greater apoptosis when treated with tunicamycin, thapsigargin, and l-Hcy, compared with CSE(+/+) MEFs. Liver and kidney GSH levels were also reduced in CSE(-/-) mice, suggesting that CSE is a critical factor in GSH synthesis and may act to protect the liver and kidney from a variety of conditions that cause ER stress.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Dickhout</LastName>
+                    <ForeName>Jeffrey G</ForeName>
+                    <Initials>JG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Division of Nephrology, McMaster University, St. Joseph's Healthcare Hamilton and Hamilton Centre for Kidney Research, Hamilton, Ontario L8N 4A6, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Carlisle</LastName>
+                    <ForeName>Rachel E</ForeName>
+                    <Initials>RE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jerome</LastName>
+                    <ForeName>Danielle E</ForeName>
+                    <Initials>DE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mohammed-Ali</LastName>
+                    <ForeName>Zahraa</ForeName>
+                    <Initials>Z</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jiang</LastName>
+                    <ForeName>Hua</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Guangdong</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mani</LastName>
+                    <ForeName>Sarathi</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Garg</LastName>
+                    <ForeName>Sanjay K</ForeName>
+                    <Initials>SK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Banerjee</LastName>
+                    <ForeName>Ruma</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kaufman</LastName>
+                    <ForeName>Randal J</ForeName>
+                    <Initials>RJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Maclean</LastName>
+                    <ForeName>Kenneth N</ForeName>
+                    <Initials>KN</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Rui</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Austin</LastName>
+                    <ForeName>Richard C</ForeName>
+                    <Initials>RC</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 DK088227</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P01 HL057346</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01HL052173</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>MOP-86708</GrantID>
+                    <Agency>Canadian Institutes of Health Research</Agency>
+                    <Country>Canada</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R37 DK042394</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R37DK042394</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 HL058984</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>MOP-74477</GrantID>
+                    <Agency>Canadian Institutes of Health Research</Agency>
+                    <Country>Canada</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 HL052173</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P01HL057346</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01DK088227</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>HL58984</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2012</Year>
+                <Month>01</Month>
+                <Day>03</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Biol Chem</MedlineTA>
+            <NlmUniqueID>2985121R</NlmUniqueID>
+            <ISSNLinking>0021-9258</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C081452">Atf4 protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D013438">Sulfhydryl Compounds</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0LVT1QZ0BA</RegistryNumber>
+                <NameOfSubstance UI="D006710">Homocysteine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>145891-90-3</RegistryNumber>
+                <NameOfSubstance UI="D051701">Activating Transcription Factor 4</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 4.-</RegistryNumber>
+                <NameOfSubstance UI="D008190">Lyases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 4.4.1.1</RegistryNumber>
+                <NameOfSubstance UI="D003542">Cystathionine gamma-Lyase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 4.4.1.8</RegistryNumber>
+                <NameOfSubstance UI="C019965">cystathionine beta-lyase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>GAN16C9B8O</RegistryNumber>
+                <NameOfSubstance UI="D005978">Glutathione</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D051701" MajorTopicYN="N">Activating Transcription Factor 4</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017209" MajorTopicYN="N">Apoptosis</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002478" MajorTopicYN="N">Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003542" MajorTopicYN="N">Cystathionine gamma-Lyase</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004622" MajorTopicYN="N">Embryo, Mammalian</DescriptorName>
+                <QualifierName UI="Q000166" MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D059865" MajorTopicYN="N">Endoplasmic Reticulum Stress</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005347" MajorTopicYN="N">Fibroblasts</DescriptorName>
+                <QualifierName UI="Q000166" MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005978" MajorTopicYN="N">Glutathione</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006710" MajorTopicYN="N">Homocysteine</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007668" MajorTopicYN="N">Kidney</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008099" MajorTopicYN="N">Liver</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008190" MajorTopicYN="N">Lyases</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018345" MajorTopicYN="N">Mice, Knockout</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010084" MajorTopicYN="N">Oxidation-Reduction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013438" MajorTopicYN="N">Sulfhydryl Compounds</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>4</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">22215680</ArticleId>
+            <ArticleId IdType="pii">M111.304576</ArticleId>
+            <ArticleId IdType="doi">10.1074/jbc.M111.304576</ArticleId>
+            <ArticleId IdType="pmc">PMC3293561</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Biol Chem. 2004 Mar 5;279(10):8558-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14670973</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Semin Cell Dev Biol. 2007 Dec;18(6):716-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18023214</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arterioscler Thromb Vasc Biol. 2001 Dec;21(12):2080-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11742888</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Mol Biol (Noisy-le-grand). 2007;53 Suppl:OL1010-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18184479</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1970 Aug 15;227(5259):680-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">5432063</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2008 Nov 25;105(47):18525-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19011102</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Genet. 2004 Jun;65(6):483-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15151507</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 2005 Oct 5;24(19):3470-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16148948</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Hum Genet. 2010 May 14;86(5):719-29</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20398888</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem J. 2004 Jul 1;381(Pt 1):113-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15038791</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Intern Med. 1999 Sep 7;131(5):363-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10475890</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Atherosclerosis. 2003 Jun;168(2):255-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12801608</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAMA. 1995 Oct 4;274(13):1049-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7563456</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell. 2003 Mar;11(3):619-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12667446</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Physiol. 2002 Jul;192(1):81-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12115739</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 2004 Jul 13;110(2):207-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15210586</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2003 Jun 6;278(23):20915-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12665508</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2003 Aug 8;278(32):30317-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12738777</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAMA. 2010 Jun 23;303(24):2486-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20571015</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Chem Lab Med. 2003 Nov;41(11):1462-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14656026</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2009 Jan 9;284(2):1106-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19017641</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 2008 Jun 10;47(23):6226-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18476726</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2003 May 23;278(21):19436-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12646567</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAMA. 2008 May 7;299(17):2027-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18460663</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Genet Metab. 2009 Aug;97(4):250-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19428278</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Biochem. 2003 Sep;36(6):431-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12951169</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circ Res. 2002 Sep 20;91(6):487-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12242266</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 2000 Oct 24;39(42):13005-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11041866</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2006 Nov 24;281(47):35785-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17005561</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 2007 Feb;71(4):304-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17149372</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FASEB J. 2008 Jul;22(7):2569-78</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18364397</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FASEB J. 2008 Dec;22(12):4071-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18708589</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antioxid Redox Signal. 2007 Dec;9(12):2357-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17760508</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood. 1999 Aug 1;94(3):959-67</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10419887</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Genet Metab. 2010 Oct-Nov;101(2-3):163-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20638882</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antioxid Redox Signal. 2002 Jun;4(3):405-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12215208</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arterioscler Thromb Vasc Biol. 2001 Sep;21(9):1470-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11557674</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2004 Apr 9;279(15):14844-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14747470</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antioxid Redox Signal. 2007 Dec;9(12):2277-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17979528</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antioxid Redox Signal. 2007 Nov;9(11):1863-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17937580</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol Regul Integr Comp Physiol. 2004 Jul;287(1):R39-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15016621</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Biol Ther. 2006 Jul;5(7):723-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16861899</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 2004 Jan 14;23(1):169-79</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14713949</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Med. 2008 May 12;205(5):1227-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18458112</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Death Differ. 2006 Mar;13(3):374-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16397578</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Nutr Biochem. 1990 May;1(5):228-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15539209</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Pharmacol Exp Ther. 2000 Aug;294(2):480-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10900222</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Biophys Res Commun. 2006 Dec 15;351(2):485-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17069760</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anal Biochem. 1976 May 7;72:248-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">942051</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2006 Apr 13;354(15):1578-88</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16531614</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Genet Metab. 2010 Oct-Nov;101(2-3):153-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20638879</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Genet. 2010 Dec;78(6):554-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20584029</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2001 Sep 21;276(38):35867-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11447214</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1981 Dec 10;256(23):12387-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7298664</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arterioscler Thromb Vasc Biol. 2005 Dec;25(12):2623-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16210571</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2004 May 4;101(18):7094-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15103025</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood. 2003 May 15;101(10):3901-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12506016</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2008 Oct 24;322(5901):587-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18948540</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2010 Aug 20;285(34):26358-68</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20566639</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2005 Apr 22;280(16):15518-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15734734</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2010 Oct 22;285(43):33165-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20732869</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

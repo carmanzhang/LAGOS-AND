@@ -1,0 +1,220 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">26686791</PMID>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>04</Month>
+            <Day>27</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>12</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1524-4733</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>18</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Value in health : the journal of the International Society for Pharmacoeconomics and Outcomes Research</Title>
+                <ISOAbbreviation>Value Health</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Comparison of Benefit-Risk Assessment Methods for Prospective Monitoring of Newly Marketed Drugs: A Simulation Study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1057-62</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jval.2015.08.015</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S1098-3015(15)04944-X</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">To compare benefit-risk assessment (BRA) methods for determining whether and when sufficient evidence exists to indicate that one drug is favorable over another in prospective monitoring.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We simulated prospective monitoring of a new drug (A) versus an alternative drug (B) with respect to two beneficial and three harmful outcomes. We generated data for 1000 iterations of six scenarios and applied four BRA metrics: number needed to treat and number needed to harm (NNT|NNH), incremental net benefit (INB) with maximum acceptable risk, INB with relative-value-adjusted life-years, and INB with quality-adjusted life-years. We determined the proportion of iterations in which the 99% confidence interval for each metric included and excluded the null and we calculated mean time to alerting.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">With no true difference in any outcome between drugs A and B, the proportion of iterations including the null was lowest for INB with relative-value-adjusted life-years (64%) and highest for INB with quality-adjusted life-years (76%). When drug A was more effective and the drugs were equally safe, all metrics indicated net favorability of A in more than 70% of the iterations. When drug A was safer than drug B, NNT|NNH had the highest proportion of iterations indicating net favorability of drug A (65%). Mean time to alerting was similar among methods across the six scenarios.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">BRA metrics can be useful for identifying net favorability when applied to prospective monitoring of a new drug versus an alternative drug. INB-based approaches similarly outperform unweighted NNT|NNH approaches. Time to alerting was similar across approaches.</AbstractText>
+                <CopyrightInformation>Copyright © 2015 International Society for Pharmacoeconomics and Outcomes Research (ISPOR). Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gagne</LastName>
+                    <ForeName>Joshua J</ForeName>
+                    <Initials>JJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Pharmacoepidemiology and Pharmacoeconomics, Department of Medicine, Brigham and Women's Hospital and Harvard Medical School, Boston, MA, USA. Electronic address: jgagne1@partners.org.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Najafzadeh</LastName>
+                    <ForeName>Mehdi</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Pharmacoepidemiology and Pharmacoeconomics, Department of Medicine, Brigham and Women's Hospital and Harvard Medical School, Boston, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Choudhry</LastName>
+                    <ForeName>Niteesh K</ForeName>
+                    <Initials>NK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Pharmacoepidemiology and Pharmacoeconomics, Department of Medicine, Brigham and Women's Hospital and Harvard Medical School, Boston, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bykov</LastName>
+                    <ForeName>Katsiaryna</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Pharmacoepidemiology and Pharmacoeconomics, Department of Medicine, Brigham and Women's Hospital and Harvard Medical School, Boston, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kahler</LastName>
+                    <ForeName>Kristijan H</ForeName>
+                    <Initials>KH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Novartis Pharmaceuticals Corporation, East Hanover, NJ, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Martin</LastName>
+                    <ForeName>Diane</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Novartis Pharmaceuticals Corporation, East Hanover, NJ, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rogers</LastName>
+                    <ForeName>James R</ForeName>
+                    <Initials>JR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Pharmacoepidemiology and Pharmacoeconomics, Department of Medicine, Brigham and Women's Hospital and Harvard Medical School, Boston, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schneeweiss</LastName>
+                    <ForeName>Sebastian</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Pharmacoepidemiology and Pharmacoeconomics, Department of Medicine, Brigham and Women's Hospital and Harvard Medical School, Boston, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D003160">Comparative Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>02</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Value Health</MedlineTA>
+            <NlmUniqueID>100883818</NlmUniqueID>
+            <ISSNLinking>1098-3015</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D055553">Prescription Drugs</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D003198" MajorTopicYN="N">Computer Simulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008962" MajorTopicYN="Y">Models, Theoretical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055553" MajorTopicYN="N">Prescription Drugs</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+                <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011358" MajorTopicYN="N">Product Surveillance, Postmarketing</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019057" MajorTopicYN="N">Quality-Adjusted Life Years</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018570" MajorTopicYN="N">Risk Assessment</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">benefit-risk assessment</Keyword>
+            <Keyword MajorTopicYN="N">comparative effectiveness</Keyword>
+            <Keyword MajorTopicYN="N">net benefit</Keyword>
+            <Keyword MajorTopicYN="N">safety</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>03</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2015</Year>
+                <Month>08</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>08</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>12</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>12</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>4</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26686791</ArticleId>
+            <ArticleId IdType="pii">S1098-3015(15)04944-X</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jval.2015.08.015</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

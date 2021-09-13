@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">27137023</PMID>
+        <DateCompleted>
+            <Year>2018</Year>
+            <Month>01</Month>
+            <Day>17</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>10</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1094-4087</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>24</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Apr</Month>
+                        <Day>04</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Optics express</Title>
+                <ISOAbbreviation>Opt Express</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>High dynamic range real-time 3D shape measurement.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>7337-46</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1364/OE.24.007337</ELocationID>
+            <Abstract>
+                <AbstractText>This paper proposes a method that can measure high-contrast surfaces in real-time without changing camera exposures. We propose to use 180-degree phase-shifted (or inverted) fringe patterns to complement regular fringe patterns. If not all of the regular patterns are saturated, inverted fringe patterns are used in lieu of original saturated patterns for phase retrieval, and if all of the regular fringe patterns are saturated, both the original and inverted fringe patterns are all used for phase computation to reduce phase error. Experimental results demonstrate that three-dimensional (3D) shape measurement can be achieved in real time by adopting the proposed high dynamic range method. </AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Jiang</LastName>
+                    <ForeName>Chufan</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bell</LastName>
+                    <ForeName>Tyler</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Song</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Opt Express</MedlineTA>
+            <NlmUniqueID>101137103</NlmUniqueID>
+            <ISSNLinking>1094-4087</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>5</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>5</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>5</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">27137023</ArticleId>
+            <ArticleId IdType="pii">338536</ArticleId>
+            <ArticleId IdType="doi">10.1364/OE.24.007337</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

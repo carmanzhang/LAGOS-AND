@@ -1,0 +1,217 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">1707132</PMID>
+        <DateCompleted>
+            <Year>1991</Year>
+            <Month>05</Month>
+            <Day>08</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2007</Year>
+            <Month>11</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0161-5890</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>28</Volume>
+                    <Issue>1-2</Issue>
+                    <PubDate>
+                        <MedlineDate>1991 Jan-Feb</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Molecular immunology</Title>
+                <ISOAbbreviation>Mol. Immunol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Recognition of disparate HA and NS1 peptides by an H-2Kd-restricted, influenza specific CTL clone.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1-7</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>CTLs (CD8+) are known to recognize exogenous peptide in the context of class I MHC molecules. We observed that an influenza subtype H1 and H2 cross-reactive CTL clone B7, which was stimulated by a fusion protein containing a portion of HA2 subunit of A/PR/8 virus HA, recognized a synthetic peptide (residues 515-526) of the HA2 subunit of A/PR/8 virus strain. This CTL clone also recognized a structurally disparate NS1 peptide 50-68 of the same A/PR/8 virus. We examined the recognition of the NS1 peptide 50-68 and the HA peptide 515-526 by the subcloned CTL clone, B7-B7. Cold target inhibition experiments showed that the recognition of the HA peptide by the CTL clone B7-B7 could be competed by NS1 peptide-treated target cells and vice versa. The recognition of both NS1 peptide and HA peptide by the CTL clone B7-B7 was restricted by the same allele, H2Kd. In addition, this NS1 peptide requires approximately a 600-fold higher concn for optimal CTL recognition than did the HA peptide. We conclude that the TCR on clone B7-B7 recognizes the HA peptide or the NS1 peptide as comparable complexes with the same class I MHC molecules, although there is no obvious homology in the primary sequences of HA 515-526 and NS1 50-68 peptides. CTLs elicited with certain antigens appear to recognize distinctively different antigens complexed to the same presenting MHC molecule.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kuwano</LastName>
+                    <ForeName>K</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, University of Massachusetts Medical School, Worcester 01655.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Reyes</LastName>
+                    <ForeName>V E</ForeName>
+                    <Initials>VE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Humphreys</LastName>
+                    <ForeName>R E</ForeName>
+                    <Initials>RE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ennis</LastName>
+                    <ForeName>F A</ForeName>
+                    <Initials>FA</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>1R01-AI19378</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>5T32AI 107272</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+                <PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Mol Immunol</MedlineTA>
+            <NlmUniqueID>7905289</NlmUniqueID>
+            <ISSNLinking>0161-5890</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000939">Epitopes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D006183">H-2 Antigens</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C024755">H-2K(K) antigen</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D006389">Hemagglutinins, Viral</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011993">Recombinant Fusion Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014758">Viral Core Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D017361">Viral Nonstructural Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000595" MajorTopicYN="N">Amino Acid Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001667" MajorTopicYN="N">Binding, Competitive</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002213" MajorTopicYN="N">Capsid</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002999" MajorTopicYN="N">Clone Cells</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004306" MajorTopicYN="N">Dose-Response Relationship, Immunologic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000939" MajorTopicYN="N">Epitopes</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006183" MajorTopicYN="N">H-2 Antigens</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006389" MajorTopicYN="N">Hemagglutinins, Viral</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009980" MajorTopicYN="N">Influenza A virus</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008285" MajorTopicYN="N">Major Histocompatibility Complex</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008807" MajorTopicYN="N">Mice, Inbred BALB C</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008969" MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011993" MajorTopicYN="N">Recombinant Fusion Proteins</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013602" MajorTopicYN="N">T-Lymphocytes, Cytotoxic</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014758" MajorTopicYN="N">Viral Core Proteins</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017361" MajorTopicYN="N">Viral Nonstructural Proteins</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1991</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1991</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1991</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">1707132</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

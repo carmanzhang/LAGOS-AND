@@ -1,0 +1,167 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">10455434</PMID>
+        <DateCompleted>
+            <Year>2000</Year>
+            <Month>02</Month>
+            <Day>24</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2012</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0969-7128</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>6</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>1999</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Gene therapy</Title>
+                <ISOAbbreviation>Gene Ther</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Hydrodynamics-based transfection in animals by systemic administration of plasmid DNA.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1258-66</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Development of methods that allow an efficient expression of exogenous genes in animals would provide tools for gene function studies, treatment of diseases and for obtaining gene products. Therefore, we have developed a hydrodynamics-based procedure for expressing transgenes in mice by systemic administration of plasmid DNA. Using cDNA of luciferase and beta-galactosidase as a reporter gene, we demonstrated that an efficient gene transfer and expression can be achieved by a rapid injection of a large volume of DNA solution into animals via the tail vein. Among the organs expressing the transgene, the liver showed the highest level of gene expression. As high as 45 microg of luciferase protein per gram of liver can be achi- eved by a single tail vein injection of 5 microg of plasmid DNA into a mouse. Histochemical analysis using beta-galactosidase gene as a reporter reveals that approximately 40percent of hepatocytes express the transgene. The time-response curve shows that the level of transgene expression in the liver reaches the peak level in approximately 8 h after injection and decreases thereafter. The peak level of gene expression can be regained by repeated injection of plasmid DNA. These results suggest that a simple, convenient and efficient method has been developed and which can be used as an effective means for studying gene function, gene regulation and molecular pathophysiology through gene transfer, as well as for expressing proteins in animals.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>F</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmaceutical Sciences, School of Pharmacy, University of Pittsburgh, Pittsburgh, PA 15261, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Song</LastName>
+                    <ForeName>Y</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>D</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>CA72529</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Gene Ther</MedlineTA>
+            <NlmUniqueID>9421525</NlmUniqueID>
+            <ISSNLinking>0969-7128</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>9007-49-2</RegistryNumber>
+                <NameOfSubstance UI="D004247">DNA</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.13.12.-</RegistryNumber>
+                <NameOfSubstance UI="D008156">Luciferases</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015139" MajorTopicYN="N">Blotting, Southern</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004247" MajorTopicYN="N">DNA</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015870" MajorTopicYN="N">Gene Expression</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015316" MajorTopicYN="N">Genetic Therapy</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007275" MajorTopicYN="N">Injections, Intravenous</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008099" MajorTopicYN="N">Liver</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008156" MajorTopicYN="N">Luciferases</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008815" MajorTopicYN="N">Mice, Inbred Strains</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013997" MajorTopicYN="N">Time Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014162" MajorTopicYN="N">Transfection</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1999</Year>
+                <Month>8</Month>
+                <Day>24</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2000</Year>
+                <Month>2</Month>
+                <Day>26</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1999</Year>
+                <Month>8</Month>
+                <Day>24</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10455434</ArticleId>
+            <ArticleId IdType="doi">10.1038/sj.gt.3300947</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

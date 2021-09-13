@@ -1,0 +1,191 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">6814528</PMID>
+        <DateCompleted>
+            <Year>1983</Year>
+            <Month>01</Month>
+            <Day>27</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>04</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0300-9084</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>64</Volume>
+                    <Issue>8-9</Issue>
+                    <PubDate>
+                        <MedlineDate>1982 Aug-Sep</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biochimie</Title>
+                <ISOAbbreviation>Biochimie</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>DNA synthesis on UV irradiated model templates using human DNA polymerases alpha and beta: primer slippage to account for evident transdimer continuity in product.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>783-8</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>We have studied the comparative behavior of human DNA polymerases alpha and beta on a polynucleotide template of dT100 with dA15 covalently attached at the 3' end to serve as primer when defined numbers of pyrimidine dimers are introduced by UV (254 nm) irradiation. We have obtained the surprising result that with both alpha and beta polymerases the incorporation of labelled dATP is enhanced when the template has been irradiated (maximum value at 1000 J/m2 UV incident dose). In the presence of Mn2+, DNA polymerase beta produces a product size corresponding to full copying of the template whether irradiated or not. In marked contrast DNA polymerase alpha produces only short products on unirradiated strands but full copying of irradiated templates. Evidently both polymerases utilize a much larger fraction of the template pool following UV irradiation.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Philippe</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>T S</ForeName>
+                    <Initials>TS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hanawalt</LastName>
+                    <ForeName>P C</ForeName>
+                    <Initials>PC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Korn</LastName>
+                    <ForeName>D</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>CA 14835</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>GM 09901</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>France</Country>
+            <MedlineTA>Biochimie</MedlineTA>
+            <NlmUniqueID>1264604</NlmUniqueID>
+            <ISSNLinking>0300-9084</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011740">Pyrimidine Dimers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>24937-83-5</RegistryNumber>
+                <NameOfSubstance UI="D011061">Poly A</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>25086-81-1</RegistryNumber>
+                <NameOfSubstance UI="D011071">Poly T</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>25191-20-2</RegistryNumber>
+                <NameOfSubstance UI="C015465">poly(dA)</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.7.-</RegistryNumber>
+                <NameOfSubstance UI="D004256">DNA Polymerase I</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.7.-</RegistryNumber>
+                <NameOfSubstance UI="D004257">DNA Polymerase II</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.7.7</RegistryNumber>
+                <NameOfSubstance UI="D004259">DNA-Directed DNA Polymerase</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D004256" MajorTopicYN="N">DNA Polymerase I</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004257" MajorTopicYN="N">DNA Polymerase II</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004261" MajorTopicYN="N">DNA Replication</DescriptorName>
+                <QualifierName UI="Q000528" MajorTopicYN="Y">radiation effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004259" MajorTopicYN="N">DNA-Directed DNA Polymerase</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004307" MajorTopicYN="N">Dose-Response Relationship, Radiation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007700" MajorTopicYN="N">Kinetics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011061" MajorTopicYN="N">Poly A</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011071" MajorTopicYN="N">Poly T</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011740" MajorTopicYN="N">Pyrimidine Dimers</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013698" MajorTopicYN="N">Templates, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014466" MajorTopicYN="Y">Ultraviolet Rays</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1982</Year>
+                <Month>8</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1982</Year>
+                <Month>8</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1982</Year>
+                <Month>8</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">6814528</ArticleId>
+            <ArticleId IdType="pii">S0300-9084(82)80129-6</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,186 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">18287769</PMID>
+        <DateCompleted>
+            <Year>2008</Year>
+            <Month>05</Month>
+            <Day>23</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>09</Month>
+            <Day>02</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1064-3745</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>428</Volume>
+                    <PubDate>
+                        <Year>2008</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Methods in molecular biology (Clifton, N.J.)</Title>
+                <ISOAbbreviation>Methods Mol Biol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Analysis of laser capture microdissected cells by 2-dimensional gel electrophoresis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>77-91</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Laser capture microdissection (LCM) is a powerful tool for procuring near-pure populations of targeted cell types from specific microscopic regions of tissue sections, by overcoming problems due to tissue heterogeneity and minimizing intermixture and contamination by other cell types. The combination of LCM with various proteomic technologies has enabled high-throughput molecular analysis of human tumors, and provided critical tools in the search for novel disease markers and therapeutic targets. As an example, we describe the application of LCM in dissecting the tumor cells in breast cancer for macromolecular extraction and subsequent protein separation by 2-dimensional gel electrophoresis (2-D GE). The protocols and the key issues involved in preparing ethanol-fixed paraffin-embedded tissue blocks and microscopic sections, microdissecting the cells of interest using the PixCell II LCM system, extracting and separating the cellular proteins by 2-D GE, and preparing selective proteins for peptide mass analysis by mass spectrometry, are discussed. The aim is to provide a practical guide in performing high-throughput microdissection of target cells and gel-based proteomics, which can be adapted to research in cancer formation and growth.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Daohai</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Molecular Diagnosis Center, Department of Laboratory Medicine, National University Hospital, Singapore.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Koay</LastName>
+                    <ForeName>Evelyn Siew-Chuan</ForeName>
+                    <Initials>ES</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Methods Mol Biol</MedlineTA>
+            <NlmUniqueID>9214969</NlmUniqueID>
+            <ISSNLinking>1064-3745</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014408">Biomarkers, Tumor</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009363">Neoplasm Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D020543">Proteome</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.10.1</RegistryNumber>
+                <NameOfSubstance UI="C508053">ERBB2 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.10.1</RegistryNumber>
+                <NameOfSubstance UI="D018719">Receptor, ErbB-2</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.21.4</RegistryNumber>
+                <NameOfSubstance UI="D014357">Trypsin</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D014408" MajorTopicYN="N">Biomarkers, Tumor</DescriptorName>
+                <QualifierName UI="Q000302" MajorTopicYN="N">isolation &amp; purification</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001943" MajorTopicYN="N">Breast Neoplasms</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002469" MajorTopicYN="N">Cell Separation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015180" MajorTopicYN="N">Electrophoresis, Gel, Two-Dimensional</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007525" MajorTopicYN="N">Isoelectric Focusing</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007834" MajorTopicYN="N">Lasers</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D042282" MajorTopicYN="N">Microdissection</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009363" MajorTopicYN="N">Neoplasm Proteins</DescriptorName>
+                <QualifierName UI="Q000302" MajorTopicYN="N">isolation &amp; purification</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016612" MajorTopicYN="N">Paraffin Embedding</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020543" MajorTopicYN="N">Proteome</DescriptorName>
+                <QualifierName UI="Q000302" MajorTopicYN="N">isolation &amp; purification</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D040901" MajorTopicYN="N">Proteomics</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018719" MajorTopicYN="N">Receptor, ErbB-2</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019032" MajorTopicYN="N">Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013194" MajorTopicYN="N">Staining and Labeling</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014357" MajorTopicYN="N">Trypsin</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2008</Year>
+                <Month>2</Month>
+                <Day>22</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2008</Year>
+                <Month>5</Month>
+                <Day>24</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2008</Year>
+                <Month>2</Month>
+                <Day>22</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">18287769</ArticleId>
+            <ArticleId IdType="pii">1-59745-117-7:77</ArticleId>
+            <ArticleId IdType="doi">10.1007/978-1-59745-117-8_5</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,152 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">23391097</PMID>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>06</Month>
+            <Day>24</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1523-7052</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>15</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Feb</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Organic letters</Title>
+                <ISOAbbreviation>Org Lett</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Concise synthetic routes to human insulin.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>960-3</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/ol400149j</ELocationID>
+            <Abstract>
+                <AbstractText>We report a set of concise and efficient routes for the chemical synthesis of human insulin using a two- or three-step combination procedure that employs Trt, Acm, and t-Bu cysteine protection schemes. Starting with resin-bound assembled A and B chains, human insulin can be obtained within the span of a single work day in 5.4% overall yield based on the crude A or B chain.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Fa</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Lilly Research Laboratories, Indianapolis, Indiana 46285, United States. liufx@lilly.com</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Luo</LastName>
+                    <ForeName>Ethan Y</ForeName>
+                    <Initials>EY</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Flora</LastName>
+                    <ForeName>David B</ForeName>
+                    <Initials>DB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mayer</LastName>
+                    <ForeName>John P</ForeName>
+                    <Initials>JP</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>02</Month>
+                <Day>07</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Org Lett</MedlineTA>
+            <NlmUniqueID>100890393</NlmUniqueID>
+            <ISSNLinking>1523-7052</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004220">Disulfides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007328">Insulin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>K848JZ4886</RegistryNumber>
+                <NameOfSubstance UI="D003545">Cysteine</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000595" MajorTopicYN="N">Amino Acid Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002851" MajorTopicYN="N">Chromatography, High Pressure Liquid</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003545" MajorTopicYN="N">Cysteine</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004220" MajorTopicYN="N">Disulfides</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007328" MajorTopicYN="N">Insulin</DescriptorName>
+                <QualifierName UI="Q000138" MajorTopicYN="Y">chemical synthesis</QualifierName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>2</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>2</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">23391097</ArticleId>
+            <ArticleId IdType="doi">10.1021/ol400149j</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

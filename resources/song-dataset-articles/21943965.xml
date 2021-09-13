@@ -1,0 +1,158 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21943965</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>11</Month>
+            <Day>30</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>12</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-0852</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>47 Suppl 3</Volume>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>European journal of cancer (Oxford, England : 1990)</Title>
+                <ISOAbbreviation>Eur J Cancer</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The role of targeted therapy in ovarian cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>S116-30</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/S0959-8049(11)70155-1</ELocationID>
+            <Abstract>
+                <AbstractText>Ovarian cancer is the second most common gynaecological malignancy and the leading cause of death from gynaecological cancer. Although in some cases treatment is initially effective, there is a considerable risk of disease recurrence and resistance to therapy. Therapies targeting molecular alterations in tumours offer the promise of significantly improved treatment. So far, the most promising targeted agents are angiogenesis inhibitors and PARP inhibitors. Here, we review the various targeted therapeutic approaches under clinical investigation in phase I and II trials of ovarian cancer and the challenges facing their future success in the clinic.</AbstractText>
+                <CopyrightInformation>Copyright © 2011 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Banerjee</LastName>
+                    <ForeName>Susana</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Royal Marsden NHS Foundation Trust, Sutton, Surrey, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kaye</LastName>
+                    <ForeName>Stan</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D023362">Evaluation Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Eur J Cancer</MedlineTA>
+            <NlmUniqueID>9005373</NlmUniqueID>
+            <ISSNLinking>0959-8049</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000970">Antineoplastic Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C467484">VEGFA protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D042461">Vascular Endothelial Growth Factor A</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000970" MajorTopicYN="N">Antineoplastic Agents</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002277" MajorTopicYN="N">Carcinoma</DescriptorName>
+                <QualifierName UI="Q000098" MajorTopicYN="N">blood supply</QualifierName>
+                <QualifierName UI="Q000628" MajorTopicYN="Y">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017321" MajorTopicYN="N">Clinical Trials, Phase I as Topic</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017322" MajorTopicYN="N">Clinical Trials, Phase II as Topic</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008954" MajorTopicYN="N">Models, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D058990" MajorTopicYN="N">Molecular Targeted Therapy</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+                <QualifierName UI="Q000706" MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010051" MajorTopicYN="N">Ovarian Neoplasms</DescriptorName>
+                <QualifierName UI="Q000098" MajorTopicYN="N">blood supply</QualifierName>
+                <QualifierName UI="Q000628" MajorTopicYN="Y">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D042461" MajorTopicYN="N">Vascular Endothelial Growth Factor A</DescriptorName>
+                <QualifierName UI="Q000037" MajorTopicYN="N">antagonists &amp; inhibitors</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>9</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>9</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>13</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21943965</ArticleId>
+            <ArticleId IdType="pii">S0959-8049(11)70155-1</ArticleId>
+            <ArticleId IdType="doi">10.1016/S0959-8049(11)70155-1</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,126 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">16110633</PMID>
+        <DateCompleted>
+            <Year>2005</Year>
+            <Month>10</Month>
+            <Day>04</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>12</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0921-4410</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>22</Volume>
+                    <PubDate>
+                        <Year>2005</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cancer chemotherapy and biological response modifiers</Title>
+                <ISOAbbreviation>Cancer Chemother Biol Response Modif</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Supportive care.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>677-86</MedlinePgn>
+            </Pagination>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Markman</LastName>
+                    <ForeName>Maurie</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>M D Anderson Cancer Center, Houston, TX 77030, USA. MMarkman@mdanderson.org</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Cancer Chemother Biol Response Modif</MedlineTA>
+            <NlmUniqueID>8812385</NlmUniqueID>
+            <ISSNLinking>0921-4410</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000932">Antiemetics</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000932" MajorTopicYN="N">Antiemetics</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002405" MajorTopicYN="N">Catheterization, Central Venous</DescriptorName>
+                <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002986" MajorTopicYN="N">Clinical Trials as Topic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007239" MajorTopicYN="N">Infections</DescriptorName>
+                <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009369" MajorTopicYN="N">Neoplasms</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010146" MajorTopicYN="N">Pain</DescriptorName>
+                <QualifierName UI="Q000517" MajorTopicYN="N">prevention &amp; control</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>53</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2005</Year>
+                <Month>8</Month>
+                <Day>23</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2005</Year>
+                <Month>10</Month>
+                <Day>5</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2005</Year>
+                <Month>8</Month>
+                <Day>23</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">16110633</ArticleId>
+            <ArticleId IdType="doi">10.1016/s0921-4410(04)22029-4</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

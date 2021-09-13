@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">27835021</PMID>
+        <DateCompleted>
+            <Year>2018</Year>
+            <Month>01</Month>
+            <Day>26</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>01</Month>
+            <Day>26</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1079-7114</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>117</Volume>
+                    <Issue>18</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Oct</Month>
+                        <Day>28</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Physical review letters</Title>
+                <ISOAbbreviation>Phys. Rev. Lett.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Fermi Surface Reconstruction and Drop in the Hall Number due to Spiral Antiferromagnetism in High-T_{c} Cuprates.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>187001</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>We show that a Fermi surface reconstruction due to spiral antiferromagnetic order may explain the rapid change in the Hall number as recently observed near optimal doping in cuprate superconductors [Badoux et al., Nature (London) 531, 210 (2016)]. The single-particle spectral function in the spiral state exhibits hole pockets which look like Fermi arcs due to a strong momentum dependence of the spectral weight. Adding charge-density wave order further reduces the Fermi surface to a single electron pocket. We propose quantum oscillation measurements to distinguish between commensurate and spiral antiferromagnetic order. Similar results apply to certain metals in which topological order replaces antiferromagnetic order.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Eberlein</LastName>
+                    <ForeName>Andreas</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physics, Harvard University, Cambridge Massachusetts 02138, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Metzner</LastName>
+                    <ForeName>Walter</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Max Planck Institute for Solid State Research, D-70569 Stuttgart, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sachdev</LastName>
+                    <ForeName>Subir</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physics, Harvard University, Cambridge Massachusetts 02138, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Perimeter Institute for Theoretical Physics, Waterloo, Ontario, Canada N2L 2Y5.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yamase</LastName>
+                    <ForeName>Hiroyuki</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Institute for Materials Science, Tsukuba 305-0047, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>10</Month>
+                <Day>28</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Phys Rev Lett</MedlineTA>
+            <NlmUniqueID>0401141</NlmUniqueID>
+            <ISSNLinking>0031-9007</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>07</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>11</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>11</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>11</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">27835021</ArticleId>
+            <ArticleId IdType="doi">10.1103/PhysRevLett.117.187001</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

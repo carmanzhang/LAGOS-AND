@@ -1,0 +1,401 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">17697330</PMID>
+        <DateCompleted>
+            <Year>2007</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1476-4598</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>6</Volume>
+                    <PubDate>
+                        <Year>2007</Year>
+                        <Month>Aug</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Molecular cancer</Title>
+                <ISOAbbreviation>Mol Cancer</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Phosphorylation of Ser78 of Hsp27 correlated with HER-2/neu status and lymph node positivity in breast cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>52</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Abnormal amplification/expression of HER-2/neu oncogene has been causally linked with tumorigenesis and metastasis in breast cancer and associated with shortened overall survival of patients. Recently, heat shock protein 27 (Hsp27) was reported to be highly expressed in HER-2/neu positive tumors and cell lines. However, putative functional links between phosphorylation of Hsp27 with HER-2/neu status and other clinicopathological features remain to be elucidated.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Comparative phosphoproteomic studies of HER-2/neu positive and -negative breast tumors revealed that Hsp27, one of the identified phosphoproteins, was highly phosphorylated in HER-2/neu positive tumors. The extent of Hsp27 phosphorylation at its Ser15, Ser78 and Ser82 residues were further evaluated with site-specific antibodies in tumor samples by tissue lysate array- and tissue microarray-based analyses, and in the BT474 breast cancer cell line treated with heregulin alpha1 (HRG alpha1) or the p38 MAPK inhibitor, SB203580. The tissue lysate array study indicated that only the level of pSer78 in HER-2/neu positive tumors was more than 2-fold that in HER-2/neu negative tumors. Treatment of BT474 cells with HRG alpha1 and SB203580 indicated that Ser78 phosphorylation was mainly regulated by the HER-2/neu-p38 MAPK pathway. Immunohistochemical staining of sections from a tissue microarray with 97 breast tumors showed that positive staining of pSer78 significantly correlated with HER-2/neu (p = 0.004) and lymph node positivity (p = 0.026).</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">This investigation demonstrated the significant correlation of enhanced phosphorylation of the Ser78 residue of Hsp27 with HER-2/neu and lymph node positivity in breast cancer.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Daohai</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Laboratory Medicine, National University Hospital, 5 Lower Kent Ridge Road, 119074, Singapore. daohai_zhang@nuh.com.sg</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wong</LastName>
+                    <ForeName>Lee Lee</ForeName>
+                    <Initials>LL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Koay</LastName>
+                    <ForeName>Evelyn S C</ForeName>
+                    <Initials>ES</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2007</Year>
+                <Month>08</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Mol Cancer</MedlineTA>
+            <NlmUniqueID>101147698</NlmUniqueID>
+            <ISSNLinking>1476-4598</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D055551">HSP27 Heat-Shock Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C057725">HSPB1 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D006360">Heat-Shock Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009363">Neoplasm Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D020543">Proteome</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>452VLY9402</RegistryNumber>
+                <NameOfSubstance UI="D012694">Serine</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001943" MajorTopicYN="N">Breast Neoplasms</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D045744" MajorTopicYN="N">Cell Line, Tumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018734" MajorTopicYN="Y">Genes, erbB-2</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055551" MajorTopicYN="N">HSP27 Heat-Shock Proteins</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006360" MajorTopicYN="N">Heat-Shock Proteins</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017404" MajorTopicYN="N">In Situ Hybridization, Fluorescence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008207" MajorTopicYN="Y">Lymphatic Metastasis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009363" MajorTopicYN="N">Neoplasm Proteins</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010766" MajorTopicYN="N">Phosphorylation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020543" MajorTopicYN="N">Proteome</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012694" MajorTopicYN="N">Serine</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015398" MajorTopicYN="N">Signal Transduction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D046888" MajorTopicYN="N">Tissue Array Analysis</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2007</Year>
+                <Month>05</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2007</Year>
+                <Month>08</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2007</Year>
+                <Month>8</Month>
+                <Day>19</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2007</Year>
+                <Month>11</Month>
+                <Day>14</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2007</Year>
+                <Month>8</Month>
+                <Day>19</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">17697330</ArticleId>
+            <ArticleId IdType="pii">1476-4598-6-52</ArticleId>
+            <ArticleId IdType="doi">10.1186/1476-4598-6-52</ArticleId>
+            <ArticleId IdType="pmc">PMC1976621</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Mol Cell Biol. 2000 Oct;20(20):7602-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11003656</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Stress Chaperones. 2005 Summer;10(2):86-103</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16038406</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2000 Dec 15;60(24):7099-105</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11156417</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FASEB J. 2001 May;15(7):1118-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11344080</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2001 Mar 9;276(10):7108-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11383510</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2002 May 31;277(22):19913-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11912188</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mod Pathol. 2003 Jan;16(1):79-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12527717</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proteomics. 2003 Apr;3(4):433-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12687611</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hum Pathol. 2003 Apr;34(4):362-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12733117</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>APMIS. 2003 Apr;111(4):523-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12780528</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Biophys Res Commun. 2004 Jan 30;314(1):143-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14715258</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biochem. 2004 Aug 15;92(6):1203-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15258903</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proteomics. 2004 Aug;4(8):2252-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15274119</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Proteome Res. 2004 Sep-Oct;3(5):1009-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15473690</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biol. 1991 Jul;114(2):255-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2071672</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 1995 Jan;15(1):505-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7799959</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 1996 Dec;16(12):6687-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8943323</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem J. 1998 Jun 15;332 ( Pt 3):703-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9620873</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circ Res. 1998 Jul 27;83(2):117-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9686751</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proteomics. 2005 Feb;5(3):788-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15682460</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2005 Apr 15;280(15):15013-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15728188</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proteomics. 2005 May;5(7):1797-805</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15825149</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Electrophoresis. 2005 Jun;26(11):2092-108</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15880549</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biochem. 2005 Aug 1;95(5):932-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15864808</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Electrophoresis. 2005 Jul;26(14):2850-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15966015</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Biophys Res Commun. 2005 Nov 11;337(1):337-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16199221</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Proteomics. 2005 Nov;4(11):1686-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16048908</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2005 Dec 16;280(50):41439-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16234246</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anal Chem. 2006 Feb 1;78(3):702-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16448042</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anticancer Res. 2006 Mar-Apr;26(2B):1583-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16619575</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncogene. 2006 May 18;25(21):2987-98</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16407830</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Biochem Biophys. 2007 May 1;461(1):123-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17367746</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Natl Cancer Inst. 2000 Oct 4;92(19):1564-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11018092</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

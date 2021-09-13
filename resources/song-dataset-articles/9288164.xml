@@ -1,0 +1,200 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">9288164</PMID>
+        <DateCompleted>
+            <Year>1997</Year>
+            <Month>10</Month>
+            <Day>02</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0022-2623</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>40</Volume>
+                    <Issue>18</Issue>
+                    <PubDate>
+                        <Year>1997</Year>
+                        <Month>Aug</Month>
+                        <Day>29</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of medicinal chemistry</Title>
+                <ISOAbbreviation>J Med Chem</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Synthesis of carboranes containing an azulene framework and in vitro evaluation as boron carriers.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2825-30</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>3-(o-Carboranylhydroxymethyl)-7-isopropylazulene sodium carboxylate (1) and 3-(o-carboranylmethyl)-7-isopropylazulene sodium sulfonate (2) were synthesized from the palladium-catalyzed addition reaction of 1-carboranyltributylstannane (4) to azulene aldehydes (3 and 9). Although the water solubility of 1 was of the order of 10(-6) M, that of 2 was of the order of 10(-3) M and was enough for clinical use. The cytotoxicity of 1 (IC50) toward B-16 melanoma cells was of the order of 10(-5) M, whereas that of 2 was of the order of 10(-4) M. This value was close to that of BPA (approximately 9 x 10(-3) M) which is utilized for clinical use. The boron uptake by B-16 cells was 0.17 microgram of B/10(6) cells for 1 and 0.25 microgram of B/10(6) cells for 2. It is clear that compound 2 accumulates in B-16 melanoma cells with a significantly high level although it is highly water soluble and its cytotoxicity is significantly low.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Nakamura</LastName>
+                    <ForeName>H</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry, Graduate School of Science, Tohoku University, Sendai, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sekido</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yamamoto</LastName>
+                    <ForeName>Y</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Med Chem</MedlineTA>
+            <NlmUniqueID>9716531</NlmUniqueID>
+            <ISSNLinking>0022-2623</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000894">Anti-Inflammatory Agents, Non-Steroidal</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000970">Antineoplastic Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D052176">Azulenes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D001896">Boron Compounds</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D003508">Cycloheptanes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D003517">Cyclopentanes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004337">Drug Carriers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>82R6M9MGLP</RegistryNumber>
+                <NameOfSubstance UI="C005525">azulene</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>N9E3X5056Q</RegistryNumber>
+                <NameOfSubstance UI="D001895">Boron</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000894" MajorTopicYN="N">Anti-Inflammatory Agents, Non-Steroidal</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000970" MajorTopicYN="N">Antineoplastic Agents</DescriptorName>
+                <QualifierName UI="Q000138" MajorTopicYN="Y">chemical synthesis</QualifierName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000633" MajorTopicYN="N">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D052176" MajorTopicYN="N">Azulenes</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001895" MajorTopicYN="N">Boron</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+                <QualifierName UI="Q000493" MajorTopicYN="N">pharmacokinetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001896" MajorTopicYN="N">Boron Compounds</DescriptorName>
+                <QualifierName UI="Q000138" MajorTopicYN="Y">chemical synthesis</QualifierName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000633" MajorTopicYN="N">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016754" MajorTopicYN="N">Boron Neutron Capture Therapy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002470" MajorTopicYN="N">Cell Survival</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003508" MajorTopicYN="N">Cycloheptanes</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003517" MajorTopicYN="N">Cyclopentanes</DescriptorName>
+                <QualifierName UI="Q000138" MajorTopicYN="Y">chemical synthesis</QualifierName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000633" MajorTopicYN="N">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004337" MajorTopicYN="N">Drug Carriers</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004354" MajorTopicYN="N">Drug Screening Assays, Antitumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008546" MajorTopicYN="N">Melanoma, Experimental</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1997</Year>
+                <Month>8</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1997</Year>
+                <Month>8</Month>
+                <Day>29</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1997</Year>
+                <Month>8</Month>
+                <Day>29</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">9288164</ArticleId>
+            <ArticleId IdType="doi">10.1021/jm970023x</ArticleId>
+            <ArticleId IdType="pii">jm970023x</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

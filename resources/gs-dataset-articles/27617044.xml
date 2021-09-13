@@ -1,0 +1,271 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="Publisher" Owner="NLM">
+        <PMID Version="1">27617044</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1876-1364</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>8</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <MedlineDate>2016</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of ambient intelligence and smart environments</Title>
+                <ISOAbbreviation>J Ambient Intell Smart Environ</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Clustering Home Activity Distributions for Automatic Detection of Mild Cognitive Impairment in Older Adults.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>437-451</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The public health implications of growing numbers of older adults at risk for dementia places pressure on identifying dementia at its earliest stages so as to develop proactive management plans. The prodromal dementia phase commonly identified as mild cognitive impairment is an important target for this early detection of impending dementia amenable to treatment. In this paper, we propose a method for home-based automatic detection of mild cognitive impairment in older adults through continuous monitoring via unobtrusive sensing technologies. Our method is composed of two main stages: a training stage and a test stage. For training, room activity distributions are estimated for each subject using a time frame of ω weeks, and then affinity propagation is employed to cluster the activity distributions and to extract exemplars to represent the different emerging clusters. For testing, room activity distributions belonging to a test subject with unknown cognitive status are compared to the extracted exemplars and get assigned the labels of the exemplars that result in the smallest normalized Kullbak-Leibler divergence. The labels of the activity distributions are then used to determine the cognitive status of the test subject. Using the sensor and clinical data pertaining to 85 homes with single occupants, we were able to automatically detect mild cognitive impairment in older adults with an <i>F</i><sub>0.5</sub> score of 0.856. Also, we were able to detect the non-amnestic sub-type of mild cognitive impairment in older adults with an <i>F</i><sub>0.5</sub> score of 0.958.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Akl</LastName>
+                    <ForeName>Ahmad</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Biomaterials and Biomedical Engineering, University of Toronto, Toronto, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chikhaoui</LastName>
+                    <ForeName>Belkacem</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Biomaterials and Biomedical Engineering, University of Toronto, Toronto, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mattek</LastName>
+                    <ForeName>Nora</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Oregon Centre for Aging and Technology, Oregon Health and Science University, Portland, Oregon, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kaye</LastName>
+                    <ForeName>Jeffrey</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Oregon Centre for Aging and Technology, Oregon Health and Science University, Portland, Oregon, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Austin</LastName>
+                    <ForeName>Daniel</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Oregon Centre for Aging and Technology, Oregon Health and Science University, Portland, Oregon, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mihailidis</LastName>
+                    <ForeName>Alex</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Biomaterials and Biomedical Engineering, University of Toronto, Toronto, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>P30 AG008017</GrantID>
+                    <Acronym>AG</Acronym>
+                    <Agency>NIA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P30 AG024978</GrantID>
+                    <Acronym>AG</Acronym>
+                    <Agency>NIA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AG024059</GrantID>
+                    <Acronym>AG</Acronym>
+                    <Agency>NIA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>J Ambient Intell Smart Environ</MedlineTA>
+            <NlmUniqueID>101516389</NlmUniqueID>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Clustering</Keyword>
+            <Keyword MajorTopicYN="N">Generalized Linear Models</Keyword>
+            <Keyword MajorTopicYN="N">Mild Cognitive Impairment</Keyword>
+            <Keyword MajorTopicYN="N">Room Activity Distributions</Keyword>
+            <Keyword MajorTopicYN="N">Unobtrusive Sensing Technologies</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>9</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>9</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>9</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">27617044</ArticleId>
+            <ArticleId IdType="doi">10.3233/AIS-160385</ArticleId>
+            <ArticleId IdType="pmc">PMC5016038</ArticleId>
+            <ArticleId IdType="mid">NIHMS765142</ArticleId>
+        </ArticleIdList>
+        <?nihms?>
+        <ReferenceList>
+            <Reference>
+                <Citation>Alzheimer Dis Assoc Disord. 2009 Apr-Jun;23(2):91-101</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19474567</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Neurol. 2006 Dec;63(12):1763-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17172617</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Telemed Telecare. 2000;6(2):63-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10824373</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Intern Med. 1988 Sep 15;109(6):476-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3046450</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Conf Proc IEEE Eng Med Biol Soc. 2014;2014:680-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25570050</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Alzheimers Dement. 2011 May;7(3):257-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21514247</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IEEE Trans Biomed Eng. 2015 May;62(5):1383-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25585407</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Alzheimers Dement. 2008 Nov;4(6):395-405</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19012864</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2007 Feb 16;315(5814):972-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17218491</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Alzheimer Dis Assoc Disord. 2014 Apr-Jun;28(2):145-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24145694</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neurology. 2012 Jun 12;78(24):1946-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22689734</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IEEE Trans Syst Man Cybern Syst. 2013 Nov;43(6):1302-1313</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25530925</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Intern Med. 2004 Sep;256(3):183-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15324362</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Conf Proc IEEE Eng Med Biol Soc. 2010;2010:5230-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21096044</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gerontologist. 1999 Aug;39(4):457-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10495584</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Gerontol B Psychol Sci Soc Sci. 2011 Jul;66 Suppl 1:i180-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21743050</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neurology. 1998 May;50(5):1496-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9596020</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Alzheimer Res. 2012 Mar;9(3):290-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22211488</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IEEE J Biomed Health Inform. 2015 Dec 24;:null</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26841424</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

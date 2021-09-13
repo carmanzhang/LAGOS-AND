@@ -1,0 +1,157 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+        <PMID Version="1">23613333</PMID>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>02</Month>
+            <Day>20</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>12</Month>
+            <Day>02</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1521-3765</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>19</Volume>
+                    <Issue>25</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Jun</Month>
+                        <Day>17</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Chemistry (Weinheim an der Bergstrasse, Germany)</Title>
+                <ISOAbbreviation>Chemistry</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Catalytic asymmetric synthesis of spirocyclic azlactones by a double Michael-addition approach.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>8342-51</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/chem.201300224</ELocationID>
+            <Abstract>
+                <AbstractText>Spirocyclic azlactones are shown to be useful precursors of cyclic quaternary amino acids, such as the constrained cyclohexane analogues of phenylalanine. These compounds are of interest as building blocks for the synthesis of artificial peptide analogues with controlled folds in the peptide backbone. They were prepared in the present study by a step- and atom-economic catalytic asymmetric tandem approach, requiring two steps starting from N-benzoyl glycine and divinylketones. The key of this protocol is the enantioselective formation of the azlactone spirocycles, which involves a PdII-catalyzed double 1,4-addition of an in situ generated azlactone intermediate to the dienone (a formal [5+1] cycloaddition). As the catalyst, a planar chiral ferrocene bispalladacycle was used. Mechanistic studies suggest a monometallic reaction pathway. Although the diastereoselectivity was found to be moderate, the enantioselectivity is usually high for the formation of the azlactone spirocycles, which contain up to three contiguous stereocenters. Spectroscopic studies have shown that the spirocycles often prefer a twist over a chair conformation of the cyclohexanone moiety.</AbstractText>
+                <CopyrightInformation>Copyright © 2013 WILEY-VCH Verlag GmbH &amp; Co. KGaA, Weinheim.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Weber</LastName>
+                    <ForeName>Manuel</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institut für Organische Chemie, Universität Stuttgart, Pfaffenwaldring 55, 70569 Stuttgart, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Frey</LastName>
+                    <ForeName>Wolfgang</ForeName>
+                    <Initials>W</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Peters</LastName>
+                    <ForeName>René</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>04</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Chemistry</MedlineTA>
+            <NlmUniqueID>9513783</NlmUniqueID>
+            <ISSNLinking>0947-6539</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000596">Amino Acids</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007783">Lactones</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D013141">Spiro Compounds</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000596" MajorTopicYN="N">Amino Acids</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002384" MajorTopicYN="N">Catalysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019281" MajorTopicYN="N">Dimerization</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007783" MajorTopicYN="N">Lactones</DescriptorName>
+                <QualifierName UI="Q000138" MajorTopicYN="Y">chemical synthesis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008968" MajorTopicYN="N">Molecular Conformation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013141" MajorTopicYN="N">Spiro Compounds</DescriptorName>
+                <QualifierName UI="Q000138" MajorTopicYN="Y">chemical synthesis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013237" MajorTopicYN="N">Stereoisomerism</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>01</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>4</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>4</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>2</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">23613333</ArticleId>
+            <ArticleId IdType="doi">10.1002/chem.201300224</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

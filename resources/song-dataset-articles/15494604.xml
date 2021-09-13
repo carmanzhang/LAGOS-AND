@@ -1,0 +1,340 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">15494604</PMID>
+        <DateCompleted>
+            <Year>2004</Year>
+            <Month>11</Month>
+            <Day>02</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>11</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1460-2105</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>96</Volume>
+                    <Issue>20</Issue>
+                    <PubDate>
+                        <Year>2004</Year>
+                        <Month>Oct</Month>
+                        <Day>20</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of the National Cancer Institute</Title>
+                <ISOAbbreviation>J Natl Cancer Inst</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Effects of insulin-like growth factor binding protein-3 and farnesyltransferase inhibitor SCH66336 on Akt expression and apoptosis in non-small-cell lung cancer cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1536-48</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Overexpression of insulin-like growth factor binding protein-3 (IGFBP-3) induces apoptosis in non-small-cell lung cancer (NSCLC) cells in vitro and in vivo. However, Ras-mediated signaling pathways could develop resistance to apoptotic activities of IGFBP-3 in NSCLC cells. We thus evaluated the therapeutic potential of the combination of IGFBP-3 and SCH66336, a farnesyltransferase inhibitor that blocks Ras activation, in NSCLC cell lines.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">The effects of the combination of adenoviral IGFBP-3 (Ad-IGFBP3) and SCH66336 on proliferation and apoptosis of NSCLC cell lines (H1299, H596, A549, H460, H358, H322, and H226B) were assessed in vitro and in vivo by using the 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide (MTT) assay, a flow cytometry-based terminal deoxynucleotidyl transferase deoxyuridine triphosphate nick-end labeling assay, western blot analyses, and an NSCLC xenograft tumor model. The specific effects of Ad-IGFBP 3 and SCH66336 on mitogen-activated protein kinase and Akt were assessed by using adenoviral vectors that express constitutively active MEK1 or constitutively active Akt. Synergy was assessed by median effect analysis.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The combination of Ad-IGFBP3 and SCH66336 had synergistic antiproliferative effects in five cell lines (H1299, H596, A549, H460, and H322). Antiproliferative effects were accompanied by increased apoptosis in H460 cells in vitro. Overexpression of a constitutively active Akt but not a constitutively active MEK-1 rescued H460 cells from apoptosis induced by single or combined treatment of Ad-IGFBP3 and SCH66336. In H1299 tumor xenografts, Ad-IGFBP3 and SCH66336 was associated with decreased tumor volume, increased apoptosis, and decreased Akt levels.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The combination of Ad-IGFBP3 and SCH66336 decreased Akt expression and increased apoptosis in NSCLC cells in vitro and in vivo. Simultaneous treatment with IGFBP-3 and SCH66336 may have the potential to be an effective therapeutic strategy in NSCLC.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Ho-Young</ForeName>
+                    <Initials>HY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Unit 432, Department of Thoracic/Head and Neck Medical Oncology, University of Texas M. D. Anderson Cancer Center, 1515 Holcombe Blvd., Houston, TX 77030, USA. hlee@mdanderson.org</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Moon</LastName>
+                    <ForeName>Hojin</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chun</LastName>
+                    <ForeName>Kyung-Hee</ForeName>
+                    <Initials>KH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chang</LastName>
+                    <ForeName>Yoon-Soo</ForeName>
+                    <Initials>YS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hassan</LastName>
+                    <ForeName>Khaled</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ji</LastName>
+                    <ForeName>Lin</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lotan</LastName>
+                    <ForeName>Reuben</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Khuri</LastName>
+                    <ForeName>Fadlo R</ForeName>
+                    <Initials>FR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hong</LastName>
+                    <ForeName>Waun Ki</ForeName>
+                    <Initials>WK</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 CA100816-01A1</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+                <PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Natl Cancer Inst</MedlineTA>
+            <NlmUniqueID>7503089</NlmUniqueID>
+            <ISSNLinking>0027-8874</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004791">Enzyme Inhibitors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D015696">Gene Products, tat</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D018972">Insulin-Like Growth Factor Binding Protein 3</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010880">Piperidines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011518">Proto-Oncogene Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011725">Pyridines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.5.-</RegistryNumber>
+                <NameOfSubstance UI="D019883">Alkyl and Aryl Transferases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.5.1.29</RegistryNumber>
+                <NameOfSubstance UI="D051231">Farnesyltranstransferase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.11.1</RegistryNumber>
+                <NameOfSubstance UI="C494918">AKT1 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.11.1</RegistryNumber>
+                <NameOfSubstance UI="D017346">Protein-Serine-Threonine Kinases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.11.1</RegistryNumber>
+                <NameOfSubstance UI="D051057">Proto-Oncogene Proteins c-akt</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.12.2</RegistryNumber>
+                <NameOfSubstance UI="D048369">MAP Kinase Kinase 1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.12.2</RegistryNumber>
+                <NameOfSubstance UI="C482125">MAP2K1 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.12.2</RegistryNumber>
+                <NameOfSubstance UI="C482127">Map2k1 protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.12.2</RegistryNumber>
+                <NameOfSubstance UI="D020929">Mitogen-Activated Protein Kinase Kinases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.6.5.2</RegistryNumber>
+                <NameOfSubstance UI="D018631">ras Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>IOW153004F</RegistryNumber>
+                <NameOfSubstance UI="C115354">lonafarnib</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000256" MajorTopicYN="N">Adenoviridae</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019883" MajorTopicYN="N">Alkyl and Aryl Transferases</DescriptorName>
+                <QualifierName UI="Q000037" MajorTopicYN="Y">antagonists &amp; inhibitors</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000971" MajorTopicYN="N">Antineoplastic Combined Chemotherapy Protocols</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017209" MajorTopicYN="N">Apoptosis</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015153" MajorTopicYN="N">Blotting, Western</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002289" MajorTopicYN="N">Carcinoma, Non-Small-Cell Lung</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004357" MajorTopicYN="N">Drug Synergism</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004791" MajorTopicYN="N">Enzyme Inhibitors</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051231" MajorTopicYN="N">Farnesyltranstransferase</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005434" MajorTopicYN="N">Flow Cytometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015972" MajorTopicYN="N">Gene Expression Regulation, Neoplastic</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015696" MajorTopicYN="N">Gene Products, tat</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011905" MajorTopicYN="N">Genes, ras</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005822" MajorTopicYN="N">Genetic Vectors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007150" MajorTopicYN="N">Immunohistochemistry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020287" MajorTopicYN="N">In Situ Nick-End Labeling</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018972" MajorTopicYN="N">Insulin-Like Growth Factor Binding Protein 3</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008175" MajorTopicYN="N">Lung Neoplasms</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D048369" MajorTopicYN="N">MAP Kinase Kinase 1</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008819" MajorTopicYN="N">Mice, Nude</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020929" MajorTopicYN="N">Mitogen-Activated Protein Kinase Kinases</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010880" MajorTopicYN="N">Piperidines</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011233" MajorTopicYN="N">Precipitin Tests</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017346" MajorTopicYN="N">Protein-Serine-Threonine Kinases</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011518" MajorTopicYN="N">Proto-Oncogene Proteins</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051057" MajorTopicYN="N">Proto-Oncogene Proteins c-akt</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011725" MajorTopicYN="N">Pyridines</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014183" MajorTopicYN="N">Transplantation, Heterologous</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014407" MajorTopicYN="N">Tumor Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018631" MajorTopicYN="N">ras Proteins</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2004</Year>
+                <Month>10</Month>
+                <Day>21</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2004</Year>
+                <Month>11</Month>
+                <Day>4</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2004</Year>
+                <Month>10</Month>
+                <Day>21</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">15494604</ArticleId>
+            <ArticleId IdType="pii">96/20/1536</ArticleId>
+            <ArticleId IdType="doi">10.1093/jnci/djh286</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

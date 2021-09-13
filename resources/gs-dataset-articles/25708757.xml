@@ -1,0 +1,548 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">25708757</PMID>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>27</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>01</Month>
+            <Day>09</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1097-6779</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>81</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Gastrointestinal endoscopy</Title>
+                <ISOAbbreviation>Gastrointest. Endosc.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Comparing the effectiveness of competing tests for reducing colorectal cancer mortality: a network meta-analysis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>700-709.e3</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.gie.2014.10.033</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S0016-5107(14)02389-X</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Comparative effectiveness data pertaining to competing colorectal cancer (CRC) screening tests do not exist but are necessary to guide clinical decision making and policy.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To perform a comparative synthesis of clinical outcomes studies evaluating the effects of competing tests on CRC-related mortality.</AbstractText>
+                <AbstractText Label="DESIGN" NlmCategory="METHODS">Traditional and network meta-analyses. Two reviewers identified studies evaluating the effect of guaiac-based fecal occult blood testing (gFOBT), flexible sigmoidoscopy (FS), or colonoscopy on CRC-related mortality.</AbstractText>
+                <AbstractText Label="INTERVENTIONS" NlmCategory="METHODS">gFOBT, FS, colonoscopy.</AbstractText>
+                <AbstractText Label="MAIN OUTCOME MEASUREMENTS" NlmCategory="METHODS">Traditional meta-analysis was performed to produce pooled estimates of the effect of each modality on CRC mortality. Bayesian network meta-analysis (NMA) was performed to indirectly compare the effectiveness of screening modalities. Multiple sensitivity analyses were performed.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Traditional meta-analysis revealed that, compared with no intervention, colonoscopy reduced CRC-related mortality by 57% (relative risk [RR] 0.43; 95% confidence interval [CI], 0.33-0.58), whereas FS reduced CRC-related mortality by 40% (RR 0.60; 95% CI, 0.45-0.78), and gFOBT reduced CRC-related mortality by 18% (RR 0.82; 95% CI, 0.76-0.88). NMA demonstrated nonsignificant trends favoring colonoscopy over FS (RR 0.71; 95% CI, 0.45-1.11) and FS over gFOBT (RR 0.74; 95% CI, 0.51-1.09) for reducing CRC-related deaths. NMA-based simulations, however, revealed that colonoscopy has a 94% probability of being the most effective test for reducing CRC mortality and a 99% probability of being most effective when the analysis is restricted to screening studies.</AbstractText>
+                <AbstractText Label="LIMITATIONS" NlmCategory="CONCLUSIONS">Randomized trials and observational studies were combined within the same analysis.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Clinical outcomes studies demonstrate that gFOBT, FS, and colonoscopy are all effective in reducing CRC-related mortality. Network meta-analysis suggests that colonoscopy is the most effective test.</AbstractText>
+                <CopyrightInformation>Copyright © 2015 American Society for Gastrointestinal Endoscopy. Published by Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Elmunzer</LastName>
+                    <ForeName>B Joseph</ForeName>
+                    <Initials>BJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Division of Gastroenterology and Hepatology, University of Michigan Health System, Ann Arbor, Michigan, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Singal</LastName>
+                    <ForeName>Amit G</ForeName>
+                    <Initials>AG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Division of Digestive and Liver Diseases and the Harold C. Simmons Cancer Center, University of Texas Southwestern Medical Center, Dallas, Texas, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sussman</LastName>
+                    <ForeName>Jeremy B</ForeName>
+                    <Initials>JB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Clinical Management Research, Ann Arbor Veterans Affairs Healthcare System, Ann Arbor, Michigan, USA; Department of Internal Medicine, Division of General Internal Medicine, University of Michigan Health System, Ann Arbor, Michigan, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Deshpande</LastName>
+                    <ForeName>Amar R</ForeName>
+                    <Initials>AR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Division of Gastroenterology, University of Miami Miller School of Medicine, Miami, Florida, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sussman</LastName>
+                    <ForeName>Daniel A</ForeName>
+                    <Initials>DA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Division of Gastroenterology, University of Miami Miller School of Medicine, Miami, Florida, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Conte</LastName>
+                    <ForeName>Marisa L</ForeName>
+                    <Initials>ML</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Michigan School of Medicine, Ann Arbor, Michigan, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dwamena</LastName>
+                    <ForeName>Ben A</ForeName>
+                    <Initials>BA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, Division of Nuclear Medicine, University of Michigan Health System, Ann Arbor, Michigan, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rogers</LastName>
+                    <ForeName>Mary A M</ForeName>
+                    <Initials>MA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Division of General Internal Medicine, University of Michigan Health System, Ann Arbor, Michigan, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schoenfeld</LastName>
+                    <ForeName>Philip S</ForeName>
+                    <Initials>PS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Division of Gastroenterology and Hepatology, University of Michigan Health System, Ann Arbor, Michigan, USA; Center for Clinical Management Research, Ann Arbor Veterans Affairs Healthcare System, Ann Arbor, Michigan, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Inadomi</LastName>
+                    <ForeName>John M</ForeName>
+                    <Initials>JM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Division of Gastroenterology, University of Washington School of Medicine, Seattle, Washington, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Saini</LastName>
+                    <ForeName>Sameer D</ForeName>
+                    <Initials>SD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Division of Gastroenterology and Hepatology, University of Michigan Health System, Ann Arbor, Michigan, USA; Center for Clinical Management Research, Ann Arbor Veterans Affairs Healthcare System, Ann Arbor, Michigan, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Waljee</LastName>
+                    <ForeName>Akbar K</ForeName>
+                    <Initials>AK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Division of Gastroenterology and Hepatology, University of Michigan Health System, Ann Arbor, Michigan, USA; Center for Clinical Management Research, Ann Arbor Veterans Affairs Healthcare System, Ann Arbor, Michigan, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>UL1 TR000433</GrantID>
+                    <Acronym>TR</Acronym>
+                    <Agency>NCATS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>K24 DK080941</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1 TR001105</GrantID>
+                    <Acronym>TR</Acronym>
+                    <Agency>NCATS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>K24DK080941</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1RR024986</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>K24 DK084208</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>K24DK084208</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>KL2 TR001103</GrantID>
+                    <Acronym>TR</Acronym>
+                    <Agency>NCATS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U54 CA163308</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>UL1 RR024986</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D003160">Comparative Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D017418">Meta-Analysis</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Gastrointest Endosc</MedlineTA>
+            <NlmUniqueID>0010505</NlmUniqueID>
+            <ISSNLinking>0016-5107</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Gastrointest Endosc. 2015 Mar;81(3):710-2</RefSource>
+                <PMID Version="1">25708758</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001499" MajorTopicYN="N">Bayes Theorem</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003113" MajorTopicYN="N">Colonoscopy</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015179" MajorTopicYN="N">Colorectal Neoplasms</DescriptorName>
+                <QualifierName UI="Q000175" MajorTopicYN="Y">diagnosis</QualifierName>
+                <QualifierName UI="Q000401" MajorTopicYN="Y">mortality</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D057186" MajorTopicYN="N">Comparative Effectiveness Research</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055088" MajorTopicYN="N">Early Detection of Cancer</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009780" MajorTopicYN="Y">Occult Blood</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012812" MajorTopicYN="N">Sigmoidoscopy</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2014</Year>
+                <Month>07</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2014</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>12</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">25708757</ArticleId>
+            <ArticleId IdType="pii">S0016-5107(14)02389-X</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.gie.2014.10.033</ArticleId>
+            <ArticleId IdType="pmc">PMC4766592</ArticleId>
+            <ArticleId IdType="mid">NIHMS657733</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Cancer Epidemiol Biomarkers Prev. 2012 Jun;21(6):895-904</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22490320</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Intern Med. 2012 Apr 9;172(7):575-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22493463</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gastroenterology. 2013 Jan;144(1):74-80.e1</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23022496</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>CA Cancer J Clin. 2013 Jan;63(1):11-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23335087</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gut. 2013 Mar;62(3):395-403</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22427239</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Gastroenterol. 2013 Feb;108(2):219-26; quiz 227</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23295274</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2013 Sep 19;369(12):1095-105</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24047059</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Intern Med. 2013 Oct 15;159(8):560-2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24018844</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gastroenterology. 2010 Oct;139(4):1128-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20600026</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gastrointest Endosc. 2010 Aug;72(2):406-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20579994</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2014 Apr 3;370(14):1287-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24645800</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Intern Med. 2011 Jan 4;154(1):22-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21200035</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Cancer. 2010 Dec 15;127(12):2893-917</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21351269</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gut. 2011 Apr;60(4):485-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21159889</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Med. 2011 May;8(5):e1001026</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21559325</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Endoscopy. 2012 Jul;44(7):695-702</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22723185</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAMA. 2000 Apr 19;283(15):2008-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10789670</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Intern Med. 2000 Oct 17;133(8):573-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11033584</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Natl Cancer Inst. 2001 Sep 5;93(17):1307-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11535705</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Prev Med. 2001 Dec;33(6):622-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11716659</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Med. 2001 Dec 1;111(8):593-601</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11755501</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Med Care. 1993 Jun;31(6):508-19</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8501998</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 1996 Jan 18;334(3):155-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8531970</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gastroenterology. 1998 Jun;114(6):1318-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9609770</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gastroenterology. 2006 Aug;131(2):379-89</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16890591</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Med Screen. 2006;13 Suppl 1:S6-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17227634</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Epidemiol. 2007 Nov 15;166(10):1203-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17712019</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>MMWR Morb Mortal Wkly Rep. 2008 Mar 14;57(10):253-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18340331</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Aliment Pharmacol Ther. 2008 Apr;27(8):697-712</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18248653</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gastroenterology. 2008 May;134(5):1570-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18384785</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Intern Med. 2008 Nov 4;149(9):627-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18838716</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Intern Med. 2008 Nov 4;149(9):659-69</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18838717</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Intern Med. 2009 Jan 6;150(1):1-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19075198</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Gastroenterol. 2009 Mar;104(3):739-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19240699</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Epidemiol. 2009 Oct;62(10):1006-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19631508</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gut. 2010 Mar;59(3):407-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20207645</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Intern Med. 2010 May 18;152(10):663-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20388702</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Natl Cancer Inst. 2011 Sep 7;103(17):1310-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21852264</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Endoscopy. 2011 Dec;43(12):1045-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21971929</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2012 Feb 23;366(8):697-706</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22356323</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

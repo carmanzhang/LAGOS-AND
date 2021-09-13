@@ -1,0 +1,109 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">19574165</PMID>
+        <DateCompleted>
+            <Year>2009</Year>
+            <Month>12</Month>
+            <Day>24</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2009</Year>
+            <Month>10</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1941-0042</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>18</Volume>
+                    <Issue>11</Issue>
+                    <PubDate>
+                        <Year>2009</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>IEEE transactions on image processing : a publication of the IEEE Signal Processing Society</Title>
+                <ISOAbbreviation>IEEE Trans Image Process</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Eigendecomposition of images correlated on S(1), S(2), and SO3 using spectral theory.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2562-71</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1109/TIP.2009.2026622</ELocationID>
+            <Abstract>
+                <AbstractText>Eigendecomposition represents one computationally efficient approach for dealing with object detection and pose estimation, as well as other vision-based problems, and has been applied to sets of correlated images for this purpose. The major drawback in using eigendecomposition is the off line computational expense incurred by computing the desired subspace. This off line expense increases drastically as the number of correlated images becomes large (which is the case when doing fully general 3-D pose estimation). Previous work has shown that for data correlated on S(1), Fourier analysis can help reduce the computational burden of this off line expense. This paper presents a method for extending this technique to data correlated on S(2) as well as SO3 by sampling the sphere appropriately. An algorithm is then developed for reducing the off line computational burden associated with computing the eigenspace by exploiting the spectral information of this spherical data set using spherical harmonics and Wigner-D functions. Experimental results are presented to compare the proposed algorithm to the true eigendecomposition, as well as assess the computational savings.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hoover</LastName>
+                    <ForeName>Randy C</ForeName>
+                    <Initials>RC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Mathematics and Computer Science, South Dakota School of Mines and Technology, Rapid City, SD 57701, USA. randy.hoover@sdsmt.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Maciejewski</LastName>
+                    <ForeName>Anthony A</ForeName>
+                    <Initials>AA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Roberts</LastName>
+                    <ForeName>Rodney G</ForeName>
+                    <Initials>RG</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2009</Year>
+                <Month>06</Month>
+                <Day>30</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>IEEE Trans Image Process</MedlineTA>
+            <NlmUniqueID>9886191</NlmUniqueID>
+            <ISSNLinking>1057-7149</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2009</Year>
+                <Month>7</Month>
+                <Day>4</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2009</Year>
+                <Month>7</Month>
+                <Day>4</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2009</Year>
+                <Month>7</Month>
+                <Day>4</Day>
+                <Hour>9</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">19574165</ArticleId>
+            <ArticleId IdType="doi">10.1109/TIP.2009.2026622</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

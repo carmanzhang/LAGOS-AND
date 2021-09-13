@@ -1,0 +1,592 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">12208873</PMID>
+        <DateCompleted>
+            <Year>2002</Year>
+            <Month>10</Month>
+            <Day>10</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>05</Month>
+            <Day>08</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0022-1007</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>196</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2002</Year>
+                        <Month>Sep</Month>
+                        <Day>02</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of experimental medicine</Title>
+                <ISOAbbreviation>J. Exp. Med.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The lectin-like domain of thrombomodulin confers protection from neutrophil-mediated tissue damage by suppressing adhesion molecule expression via nuclear factor kappaB and mitogen-activated protein kinase pathways.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>565-77</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Thrombomodulin (TM) is a vascular endothelial cell (EC) receptor that is a cofactor for thrombin-mediated activation of the anticoagulant protein C. The extracellular NH(2)-terminal domain of TM has homology to C-type lectins that are involved in immune regulation. Using transgenic mice that lack this structure (TM(LeD/LeD)), we show that the lectin-like domain of TM interferes with polymorphonuclear leukocyte (PMN) adhesion to ECs by intercellular adhesion molecule 1-dependent and -independent pathways through the suppression of extracellular signal-regulated kinase (ERK)(1/2) activation. TM(LeD/LeD) mice have reduced survival after endotoxin exposure, accumulate more PMNs in their lungs, and develop larger infarcts after myocardial ischemia/reperfusion. The recombinant lectin-like domain of TM suppresses PMN adhesion to ECs, diminishes cytokine-induced increase in nuclear factor kappaB and activation of ERK(1/2), and rescues ECs from serum starvation, findings that may explain why plasma levels of soluble TM are inversely correlated with cardiovascular disease. These data suggest that TM has antiinflammatory properties in addition to its role in coagulation and fibrinolysis.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Conway</LastName>
+                    <ForeName>Edward M</ForeName>
+                    <Initials>EM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Center for Transgene Technology and Gene Therapy, Flanders Interuniversity Institute for Biotechnology, University of Leuven, B-3000 Leuven, Belgium. ed.conway@med.kuleuven.ac.be</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Van de Wouwer</LastName>
+                    <ForeName>Marlies</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pollefeyt</LastName>
+                    <ForeName>Saskia</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jurk</LastName>
+                    <ForeName>Kerstin</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Van Aken</LastName>
+                    <ForeName>Hugo</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>De Vriese</LastName>
+                    <ForeName>Astrid</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Weitz</LastName>
+                    <ForeName>Jeffrey I</ForeName>
+                    <Initials>JI</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Weiler</LastName>
+                    <ForeName>Hartmut</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hellings</LastName>
+                    <ForeName>Peter W</ForeName>
+                    <Initials>PW</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schaeffer</LastName>
+                    <ForeName>Paul</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Herbert</LastName>
+                    <ForeName>Jean-Marc</ForeName>
+                    <Initials>JM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Collen</LastName>
+                    <ForeName>Désiré</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Theilmeier</LastName>
+                    <ForeName>Gregor</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Exp Med</MedlineTA>
+            <NlmUniqueID>2985109R</NlmUniqueID>
+            <ISSNLinking>0022-1007</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D037102">Lectins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D008070">Lipopolysaccharides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016328">NF-kappa B</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D018180">Thrombomodulin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>126547-89-5</RegistryNumber>
+                <NameOfSubstance UI="D018799">Intercellular Adhesion Molecule-1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.11.24</RegistryNumber>
+                <NameOfSubstance UI="D020928">Mitogen-Activated Protein Kinases</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>J Exp Med. 2002 Sep 2;196(5):561-4</RefSource>
+                <PMID Version="1">12208872</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000595" MajorTopicYN="N">Amino Acid Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001483" MajorTopicYN="N">Base Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002448" MajorTopicYN="N">Cell Adhesion</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004730" MajorTopicYN="N">Endothelium, Vascular</DescriptorName>
+                <QualifierName UI="Q000166" MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007249" MajorTopicYN="N">Inflammation</DescriptorName>
+                <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+                <QualifierName UI="Q000517" MajorTopicYN="N">prevention &amp; control</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018799" MajorTopicYN="N">Intercellular Adhesion Molecule-1</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D037102" MajorTopicYN="N">Lectins</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008070" MajorTopicYN="N">Lipopolysaccharides</DescriptorName>
+                <QualifierName UI="Q000633" MajorTopicYN="N">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008817" MajorTopicYN="N">Mice, Mutant Strains</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008822" MajorTopicYN="N">Mice, Transgenic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020928" MajorTopicYN="N">Mitogen-Activated Protein Kinases</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008969" MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016328" MajorTopicYN="N">NF-kappa B</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009504" MajorTopicYN="N">Neutrophils</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017434" MajorTopicYN="N">Protein Structure, Tertiary</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018180" MajorTopicYN="N">Thrombomodulin</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2002</Year>
+                <Month>9</Month>
+                <Day>5</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2002</Year>
+                <Month>10</Month>
+                <Day>11</Day>
+                <Hour>4</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2002</Year>
+                <Month>9</Month>
+                <Day>5</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">12208873</ArticleId>
+            <ArticleId IdType="pmc">PMC2193995</ArticleId>
+            <ArticleId IdType="doi">10.1084/jem.20020077</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Eur J Immunol. 2001 May;31(5):1370-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11465094</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 1997 Jul 1;96(1):15-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9236408</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arterioscler Thromb Vasc Biol. 2001 Sep;21(9):1531-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11557684</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circ Res. 2002 Mar 22;90(5):562-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11909820</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am Heart J. 1981 May;101(5):593-600</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6164281</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Invest Dermatol. 1982 Mar;78(3):206-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6276474</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Med. 1986 Mar 1;163(3):740-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3753996</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEBS Lett. 1988 Apr 11;231(1):51-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2834230</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1988 Jul 15;263(20):9557-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3290208</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lab Invest. 1988 Nov;59(5):692-701</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2460698</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1989 Mar 25;264(9):4872-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2538465</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 1988 Dec;8(12):5588-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2854203</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Biophys Res Commun. 1990 Sep 14;171(2):729-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2169732</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood. 1990 Nov 15;76(10):2024-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2173634</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Physiol. 1991 Apr;147(1):157-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1645358</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood. 1991 Dec 15;78(12):3128-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1660324</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood. 1992 Sep 1;80(5):1254-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1325211</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 1992 Dec;90(6):2565-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1334978</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Physiol. 1992 Jun;151(3):604-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1338335</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biochem. 1993 Apr;113(4):433-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8390446</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Leukoc Biol. 1998 Jan;63(1):1-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9469467</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 1998 Apr 1;101(7):1301-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9525972</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1998 May 15;273(20):12135-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9575159</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 1998 May 1;101(9):1983-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9576763</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Transgenic Res. 1998 Mar;7(2):105-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9608738</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1998 Jun 23;95(13):7580-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9636192</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Cell Biol. 1998 Oct;8(10):390-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9789327</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Cancer Res. 1996 Apr;2(4):763-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9816228</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cardiovasc Res. 1999 Sep;43(4):860-78</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10615413</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood. 2000 Jan 15;95(2):569-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10627464</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur Surg Res. 2000;32(2):87-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10810213</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Free Radic Biol Med. 2000 May 1;28(9):1379-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10924857</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol Methods. 2000 Oct 20;244(1-2):205-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11033033</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol Heart Circ Physiol. 2000 Nov;279(5):H2196-201</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11045953</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2000 Nov 3;275(44):34382-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10934210</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Lett. 2000 Dec 20;161(2):231-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11090974</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2001 Mar 8;344(10):699-709</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11236773</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 2001 Mar 13;103(10):1386-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11245641</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2001 Apr 1;166(7):4644-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11254723</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2001 Apr 6;276(14):11199-203</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11278252</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Crit Care Med. 2001 Jul;29(7 Suppl):S48-51; discussion 51-2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11445734</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Thromb Haemost. 1998 Nov;80(5):743-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9843165</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Exp Cell Res. 1999 Feb 1;246(2):368-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9925752</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Thromb Haemost. 1999 Mar;81(3):338-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10102456</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood. 1999 May 15;93(10):3442-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10233896</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 1999 May 22;353(9166):1729-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10347984</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1999 Jun 25;274(26):18213-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10373422</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Dev Comp Immunol. 1999 Jun-Jul;23(4-5):401-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10426431</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood. 1999 Oct 15;94(8):2725-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10515876</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Pathol. 2001 Sep;159(3):797-802</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11549570</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Thromb Haemost. 1993 May 3;69(5):441-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8322267</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Semin Cancer Biol. 1994 Apr;5(2):137-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7520302</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol. 1995 Dec;269(6 Pt 2):H2147-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8594926</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1996 Dec 6;271(49):31485-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8940162</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

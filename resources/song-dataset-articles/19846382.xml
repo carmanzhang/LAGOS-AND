@@ -1,0 +1,336 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">19846382</PMID>
+        <DateCompleted>
+            <Year>2010</Year>
+            <Month>01</Month>
+            <Day>25</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1558-0032</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>13</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2009</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>IEEE transactions on information technology in biomedicine : a publication of the IEEE Engineering in Medicine and Biology Society</Title>
+                <ISOAbbreviation>IEEE Trans Inf Technol Biomed</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Monitoring motor fluctuations in patients with Parkinson's disease using wearable sensors.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>864-73</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1109/TITB.2009.2033471</ELocationID>
+            <Abstract>
+                <AbstractText>This paper presents the results of a pilot study to assess the feasibility of using accelerometer data to estimate the severity of symptoms and motor complications in patients with Parkinson's disease. A support vector machine (SVM) classifier was implemented to estimate the severity of tremor, bradykinesia and dyskinesia from accelerometer data features. SVM-based estimates were compared with clinical scores derived via visual inspection of video recordings taken while patients performed a series of standardized motor tasks. The analysis of the video recordings was performed by clinicians trained in the use of scales for the assessment of the severity of Parkinsonian symptoms and motor complications. Results derived from the accelerometer time series were analyzed to assess the effect on the estimation of clinical scores of the duration of the window utilized to derive segments (to eventually compute data features) from the accelerometer data, the use of different SVM kernels and misclassification cost values, and the use of data features derived from different motor tasks. Results were also analyzed to assess which combinations of data features carried enough information to reliably assess the severity of symptoms and motor complications. Combinations of data features were compared taking into consideration the computational cost associated with estimating each data feature on the nodes of a body sensor network and the effect of using such data features on the reliability of SVM-based estimates of the severity of Parkinsonian symptoms and motor complications.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Patel</LastName>
+                    <ForeName>Shyamal</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physical Medicine and Rehabilitation, Harvard Medical School, Spaulding Rehabilitation Hospital, Boston, MA 02114, USA. spatel19@partners.org</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lorincz</LastName>
+                    <ForeName>Konrad</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hughes</LastName>
+                    <ForeName>Richard</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Huggins</LastName>
+                    <ForeName>Nancy</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Growdon</LastName>
+                    <ForeName>John</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Standaert</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Akay</LastName>
+                    <ForeName>Metin</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dy</LastName>
+                    <ForeName>Jennifer</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Welsh</LastName>
+                    <ForeName>Matt</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bonato</LastName>
+                    <ForeName>Paolo</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R21 NS045410</GrantID>
+                    <Acronym>NS</Acronym>
+                    <Agency>NINDS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R21 NS045410-04</GrantID>
+                    <Acronym>NS</Acronym>
+                    <Agency>NINDS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R44 HD080278</GrantID>
+                    <Acronym>HD</Acronym>
+                    <Agency>NICHD NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R21NS045401-02</GrantID>
+                    <Acronym>NS</Acronym>
+                    <Agency>NINDS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2009</Year>
+                <Month>10</Month>
+                <Day>20</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>IEEE Trans Inf Technol Biomed</MedlineTA>
+            <NlmUniqueID>9712259</NlmUniqueID>
+            <ISSNLinking>1089-7771</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000054" MajorTopicYN="N">Acceleration</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000465" MajorTopicYN="N">Algorithms</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001185" MajorTopicYN="N">Artificial Intelligence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003020" MajorTopicYN="N">Clothing</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020820" MajorTopicYN="N">Dyskinesias</DescriptorName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018670" MajorTopicYN="N">Monitoring, Ambulatory</DescriptorName>
+                <QualifierName UI="Q000295" MajorTopicYN="Y">instrumentation</QualifierName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010300" MajorTopicYN="N">Parkinson Disease</DescriptorName>
+                <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="Y">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012720" MajorTopicYN="Y">Severity of Illness Index</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012815" MajorTopicYN="Y">Signal Processing, Computer-Assisted</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013686" MajorTopicYN="N">Telemetry</DescriptorName>
+                <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014741" MajorTopicYN="Y">Video Recording</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2009</Year>
+                <Month>10</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2009</Year>
+                <Month>10</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2010</Year>
+                <Month>1</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">19846382</ArticleId>
+            <ArticleId IdType="doi">10.1109/TITB.2009.2033471</ArticleId>
+            <ArticleId IdType="pmc">PMC5432434</ArticleId>
+            <ArticleId IdType="mid">NIHMS175698</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Arch Neurol. 2001 Oct;58(10):1660-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11594926</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mov Disord. 2005 Dec;20(12):1577-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16116612</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 1998 Oct 15;339(16):1130-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9770561</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Rev Neurol Dis. 2006 Summer;3(3):101-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17047575</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mov Disord. 2006 Jan;21(1):34-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16127718</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neuroeng Rehabil. 2005 Feb 25;2(1):2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15733322</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Conf Proc IEEE Eng Med Biol Soc. 2005;1:102-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17282121</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Neurosci. 2000 Oct;23(10 Suppl):S2-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11052214</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IEEE Trans Biomed Eng. 1993 Mar;40(3):276-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8335331</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Electroencephalogr Clin Neurophysiol. 1995 Dec;97(6):326-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8536582</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neuroeng Rehabil. 2005 Mar 01;2(1):6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15740621</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Expert Opin Pharmacother. 2006 Sep;7(13):1715-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16925499</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Conf Proc IEEE Eng Med Biol Soc. 2004;7:4766-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17271375</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mov Disord. 2001 Jan;16(1):58-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11215593</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mov Disord. 2000 Nov;15(6):1104-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11104192</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 1998 Oct 8;339(15):1044-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9761807</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Electromyogr Clin Neurophysiol. 2004 Apr-May;44(3):137-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15125053</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mov Disord. 2003 Jan;18(1):70-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12518302</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

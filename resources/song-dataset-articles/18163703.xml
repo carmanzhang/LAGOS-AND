@@ -1,0 +1,143 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">18163703</PMID>
+        <DateCompleted>
+            <Year>2008</Year>
+            <Month>03</Month>
+            <Day>28</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0021-9606</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>127</Volume>
+                    <Issue>24</Issue>
+                    <PubDate>
+                        <Year>2007</Year>
+                        <Month>Dec</Month>
+                        <Day>28</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of chemical physics</Title>
+                <ISOAbbreviation>J Chem Phys</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Modified interfacial statistical associating fluid theory: a perturbation density functional theory for inhomogeneous complex fluids.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>244904</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1063/1.2806932</ELocationID>
+            <Abstract>
+                <AbstractText>A density functional theory based on Wertheim's first order perturbation theory is developed for inhomogeneous complex fluids. The theory is derived along similar lines as interfacial statistical associating fluid theory [S. Tripathi and W. G. Chapman, J. Chem. Phys. 122, 094506 (2005)]. However, the derivation is more general and applies broadly to a range of systems, retaining the simplicity of a segment density based theory. Furthermore, the theory gives the exact density profile for ideal chains in an external field. The general avail of the theory has been demonstrated by applying the theory to lipids near surfaces, lipid bilayers, and copolymer thin films. The theoretical results show excellent agreement with the results from molecular simulations.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Jain</LastName>
+                    <ForeName>Shekhar</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemical and Biomolecular Engineering, Rice University, Houston, Texas 77005, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dominik</LastName>
+                    <ForeName>Aleksandra</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chapman</LastName>
+                    <ForeName>Walter G</ForeName>
+                    <Initials>WG</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Chem Phys</MedlineTA>
+            <NlmUniqueID>0375360</NlmUniqueID>
+            <ISSNLinking>0021-9606</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011108">Polymers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D012997">Solvents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>059QF0KO0R</RegistryNumber>
+                <NameOfSubstance UI="D014867">Water</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000327" MajorTopicYN="N">Adsorption</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003198" MajorTopicYN="N">Computer Simulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015233" MajorTopicYN="Y">Models, Statistical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011108" MajorTopicYN="N">Polymers</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012997" MajorTopicYN="N">Solvents</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014867" MajorTopicYN="N">Water</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2008</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2008</Year>
+                <Month>3</Month>
+                <Day>29</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2008</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">18163703</ArticleId>
+            <ArticleId IdType="doi">10.1063/1.2806932</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

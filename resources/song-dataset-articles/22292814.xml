@@ -1,0 +1,400 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">22292814</PMID>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>09</Month>
+            <Day>07</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>10</Month>
+            <Day>08</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1554-8937</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>7</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>May</Month>
+                        <Day>18</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>ACS chemical biology</Title>
+                <ISOAbbreviation>ACS Chem Biol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Identification of high affinity polo-like kinase 1 (Plk1) polo-box domain binding peptides using oxime-based diversification.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>805-10</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/cb200469a</ELocationID>
+            <Abstract>
+                <AbstractText>In an effort to develop improved binding antagonists of the polo-like kinase 1 (Plk1) polo-box domain (PBD), we optimized interactions of the known high affinity 5-mer peptide PLHSpT using oxime-based post solid-phase peptide diversification of the N-terminal Pro residue. This allowed us to achieve up to two orders of magnitude potency enhancement. An X-ray crystal structure of the highest affinity analogue in complex with Plk1 PBD revealed new binding interactions in a hydrophobic channel that had been occluded in X-ray structures of the unliganded protein. This study represents an important example where amino acid modification by post solid-phase oxime ligation can facilitate the development of protein-protein interaction inhibitors by identifying new binding pockets that would not otherwise be accessible to coded amino acid residues.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Fa</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Chemical Biology Laboratory, Molecular Discovery Program, Center for Cancer Research, National Cancer Institute-Frederick, Frederick, MD 21702, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Park</LastName>
+                    <ForeName>Jung-Eun</ForeName>
+                    <Initials>JE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Qian</LastName>
+                    <ForeName>Wen-Jian</ForeName>
+                    <Initials>WJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lim</LastName>
+                    <ForeName>Dan</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Scharow</LastName>
+                    <ForeName>Andrej</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Berg</LastName>
+                    <ForeName>Thorsten</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yaffe</LastName>
+                    <ForeName>Michael B</ForeName>
+                    <Initials>MB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Kyung S</ForeName>
+                    <Initials>KS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Burke</LastName>
+                    <ForeName>Terrence R</ForeName>
+                    <Initials>TR</Initials>
+                    <Suffix>Jr</Suffix>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>PDB</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>4DFW</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>ES015339</GrantID>
+                    <Acronym>ES</Acronym>
+                    <Agency>NIEHS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 ES015339-01</GrantID>
+                    <Acronym>ES</Acronym>
+                    <Agency>NIEHS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 ES015339</GrantID>
+                    <Acronym>ES</Acronym>
+                    <Agency>NIEHS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>Z01 BC010681-03</GrantID>
+                    <Agency>Intramural NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 GM060594</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 GM060594-09</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>Z99 CA999999</GrantID>
+                    <Agency>Intramural NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 GM60594</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>ZIA BC006198-21</GrantID>
+                    <Agency>Intramural NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D052060">Research Support, N.I.H., Intramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2012</Year>
+                <Month>02</Month>
+                <Day>14</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>ACS Chem Biol</MedlineTA>
+            <NlmUniqueID>101282906</NlmUniqueID>
+            <ISSNLinking>1554-8929</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D018797">Cell Cycle Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010091">Oximes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010455">Peptides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011518">Proto-Oncogene Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.11.1</RegistryNumber>
+                <NameOfSubstance UI="D017346">Protein-Serine-Threonine Kinases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.11.1</RegistryNumber>
+                <NameOfSubstance UI="C090134">polo-like kinase 1</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D018797" MajorTopicYN="N">Cell Cycle Proteins</DescriptorName>
+                <QualifierName UI="Q000037" MajorTopicYN="Y">antagonists &amp; inhibitors</QualifierName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002460" MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018360" MajorTopicYN="N">Crystallography, X-Ray</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008958" MajorTopicYN="N">Models, Molecular</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010091" MajorTopicYN="N">Oximes</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010455" MajorTopicYN="N">Peptides</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011485" MajorTopicYN="N">Protein Binding</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017434" MajorTopicYN="N">Protein Structure, Tertiary</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017346" MajorTopicYN="N">Protein-Serine-Threonine Kinases</DescriptorName>
+                <QualifierName UI="Q000037" MajorTopicYN="Y">antagonists &amp; inhibitors</QualifierName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011518" MajorTopicYN="N">Proto-Oncogene Proteins</DescriptorName>
+                <QualifierName UI="Q000037" MajorTopicYN="Y">antagonists &amp; inhibitors</QualifierName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D060327" MajorTopicYN="Y">Solid-Phase Synthesis Techniques</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>2</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>2</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>9</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">22292814</ArticleId>
+            <ArticleId IdType="doi">10.1021/cb200469a</ArticleId>
+            <ArticleId IdType="pmc">PMC3355227</ArticleId>
+            <ArticleId IdType="mid">NIHMS354787</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>ACS Med Chem Lett. 2011 May 12;2(5):337-341</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21643473</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 2003 Nov 3;22(21):5757-68</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14592974</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Struct Mol Biol. 2009 Aug;16(8):876-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19597481</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell. 2006 Nov 3;24(3):409-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17081991</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Chem Biol. 2008 May;15(5):459-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18482698</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Angew Chem Int Ed Engl. 2011 Apr 18;50(17):4003-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21472932</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Med Chem. 2009 Apr 9;52(7):2067-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19281222</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Angew Chem Int Ed Engl. 2008;47(39):7523-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18712739</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioorg Med Chem Lett. 2008 Feb 1;18(3):1096-101</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18083557</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1998 Aug 4;95(16):9301-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9689075</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2003 Oct 3;115(1):83-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14532005</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anal Biochem. 2009 Dec 15;395(2):189-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19716361</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anal Biochem. 2008 Dec 15;383(2):205-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18793607</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Chembiochem. 2008 Aug 11;9(12):2000-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18655064</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Cancer. 2006 Apr;6(4):321-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16557283</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Drug Discov. 2004 Aug;3(8):660-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15286733</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2007 Feb 27;104(9):3107-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17307877</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Chem Biol. 2011 Sep;7(9):595-601</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21765407</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Tetrahedron. 2009 Nov 21;65(47):9673-9679</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24954959</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

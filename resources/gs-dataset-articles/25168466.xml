@@ -1,0 +1,225 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+        <PMID Version="1">25168466</PMID>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>02</Month>
+            <Day>11</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>12</Month>
+            <Day>02</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1440-1843</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>19</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Respirology (Carlton, Vic.)</Title>
+                <ISOAbbreviation>Respirology</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Correlation between levels of exhaled hydrogen sulfide and airway inflammatory phenotype in patients with chronic persistent asthma.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1165-9</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/resp.12372</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND AND OBJECTIVE" NlmCategory="OBJECTIVE">Endogenous hydrogen sulfide (H2 S) may be a biomarker of asthma severity and activity. However, the relationship between exhaled H2 S and airway inflammation phenotypes in asthma remains unclear. This study examined associations between endogenous H2 S and chronic airway inflammatory phenotypes in patients with chronic persistent asthma.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">One hundred forty-eight patients (47 males, 101 females, 47.4 ± 15.3 years old) with chronic persistent asthma were enrolled. Induced sputum cells were examined, and patients were grouped according to sputum inflammatory cell composition. Baseline demographics, Asthma Control Test (ACT) scores, spirometry data and H₂S levels in exhaled air and plasma were obtained for all patients.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The eosinophilic, neutrophilic, mixed granulocytic and paucigranulocytic inflammation groups included 57 (38.5%), 28 (18.9%), 23 (15.5%) and 40 (27%) subjects, respectively. The paucigranulocytic group had the best lung function, and patients with eosinophilic inflammation had lower ACT scores than patients with paucigranulocytic findings. In the eosinophilic group, lower exhaled H₂S were found and exhaled H2 S levels were negatively correlated with sputum eosinophil counts (R = -0.428, P &lt; 0.01). Exhaled H2 S levels were positively correlated with percent of predicted forced expiratory volume in 1 s (R = 0.567, P &lt; 0.01) and ACT score (R = 0.519, P &lt; 0.01).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Exhaled H2 S may be a useful marker of airway inflammation in asthma.</AbstractText>
+                <CopyrightInformation>© 2014 Asian Pacific Society of Respirology.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Jing</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Respiratory Diseases, Peking University Third Hospital, Beijing, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Xinmao</ForeName>
+                    <Initials>X</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Yahong</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yao</LastName>
+                    <ForeName>Wanzhen</ForeName>
+                    <Initials>W</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2014</Year>
+                <Month>08</Month>
+                <Day>28</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Australia</Country>
+            <MedlineTA>Respirology</MedlineTA>
+            <NlmUniqueID>9616368</NlmUniqueID>
+            <ISSNLinking>1323-7799</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D015415">Biomarkers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>31C4KY9ESH</RegistryNumber>
+                <NameOfSubstance UI="D009569">Nitric Oxide</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>YY9FVM7NSN</RegistryNumber>
+                <NameOfSubstance UI="D006862">Hydrogen Sulfide</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001249" MajorTopicYN="Y">Asthma</DescriptorName>
+                <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015415" MajorTopicYN="N">Biomarkers</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D045853" MajorTopicYN="N">Exhalation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005541" MajorTopicYN="N">Forced Expiratory Volume</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006862" MajorTopicYN="N">Hydrogen Sulfide</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="Y">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007249" MajorTopicYN="N">Inflammation</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009569" MajorTopicYN="N">Nitric Oxide</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D062072" MajorTopicYN="N">Patient Acuity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010641" MajorTopicYN="N">Phenotype</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012129" MajorTopicYN="N">Respiratory Function Tests</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012137" MajorTopicYN="N">Respiratory System</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013183" MajorTopicYN="N">Sputum</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013223" MajorTopicYN="N">Statistics as Topic</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">airway inflammation</Keyword>
+            <Keyword MajorTopicYN="N">chronic persistent asthma</Keyword>
+            <Keyword MajorTopicYN="N">correlation</Keyword>
+            <Keyword MajorTopicYN="N">hydrogen sulfide</Keyword>
+            <Keyword MajorTopicYN="N">lung function</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2014</Year>
+                <Month>03</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2014</Year>
+                <Month>06</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2014</Year>
+                <Month>06</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2014</Year>
+                <Month>06</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>8</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>8</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>2</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">25168466</ArticleId>
+            <ArticleId IdType="doi">10.1111/resp.12372</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

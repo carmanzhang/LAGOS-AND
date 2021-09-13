@@ -1,0 +1,125 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">1717799</PMID>
+        <DateCompleted>
+            <Year>1991</Year>
+            <Month>10</Month>
+            <Day>31</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>19</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0023-7205</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>88</Volume>
+                    <Issue>38</Issue>
+                    <PubDate>
+                        <Year>1991</Year>
+                        <Month>Sep</Month>
+                        <Day>18</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Lakartidningen</Title>
+                <ISOAbbreviation>Lakartidningen</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Misleading figures concerning PSA and health examination].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>3065-6</MedlinePgn>
+            </Pagination>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Fager</LastName>
+                    <ForeName>P J</ForeName>
+                    <Initials>PJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>swe</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <VernacularTitle>Missvisande siffror rörande PSA och hälsoundersökning.</VernacularTitle>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Sweden</Country>
+            <MedlineTA>Lakartidningen</MedlineTA>
+            <NlmUniqueID>0027707</NlmUniqueID>
+            <ISSNLinking>0023-7205</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000951">Antigens, Neoplasm</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014408">Biomarkers, Tumor</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.21.77</RegistryNumber>
+                <NameOfSubstance UI="D017430">Prostate-Specific Antigen</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000951" MajorTopicYN="N">Antigens, Neoplasm</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="Y">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014408" MajorTopicYN="N">Biomarkers, Tumor</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="Y">analysis</QualifierName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017430" MajorTopicYN="N">Prostate-Specific Antigen</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011471" MajorTopicYN="N">Prostatic Neoplasms</DescriptorName>
+                <QualifierName UI="Q000175" MajorTopicYN="Y">diagnosis</QualifierName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1991</Year>
+                <Month>9</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1991</Year>
+                <Month>9</Month>
+                <Day>18</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1991</Year>
+                <Month>9</Month>
+                <Day>18</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">1717799</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

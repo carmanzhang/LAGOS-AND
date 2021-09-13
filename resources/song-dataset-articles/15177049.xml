@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">15177049</PMID>
+        <DateCompleted>
+            <Year>2004</Year>
+            <Month>10</Month>
+            <Day>28</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1568-7864</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>3</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2004</Year>
+                        <Month>Mar</Month>
+                        <Day>04</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>DNA repair</Title>
+                <ISOAbbreviation>DNA Repair (Amst)</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>An integrated mechanistic model for transcription-coupled nucleotide excision repair.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>343-8</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Preferential repair of the transcribed strand of active genes is usually attributed to a coupling protein that dislodges RNA polymerase stalled at a damage site and recruits repair enzymes. Experimental observations of the effect of transcription on preferential repair in Escherichia coli are contradictory and inexplicable by this model. In this study, it is argued that the multiple conformations displayed by a stalled RNA polymerase result in two sub-pathways for repair: Mfd coupled and direct. Together with the fact that RNA polymerase recruits the repair enzymes in a promoter dependent manner, an integrated mechanistic model is proposed that is capable of explaining the effect of transcription on preferential repair reported in literature. The quantitative behavior of the model is illustrated by describing the various reactions using a biochemical network. The implications of the model on the mechanism for transcription-coupled repair in higher organisms are briefly discussed.</AbstractText>
+                <CopyrightInformation>Copyright 2003 Elsevier B.V.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Patel</LastName>
+                    <ForeName>Shwetal</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemical Engineering, University of Delaware, Newark, DE 19716, USA. spate6@mednet.swmed.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Venkatesh</LastName>
+                    <ForeName>K V</ForeName>
+                    <Initials>KV</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Edwards</LastName>
+                    <ForeName>Jeremy S</ForeName>
+                    <Initials>JS</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>DNA Repair (Amst)</MedlineTA>
+            <NlmUniqueID>101139138</NlmUniqueID>
+            <ISSNLinking>1568-7856</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>EC 2.7.7.6</RegistryNumber>
+                <NameOfSubstance UI="D012321">DNA-Directed RNA Polymerases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 6.5.1.-</RegistryNumber>
+                <NameOfSubstance UI="D045643">DNA Repair Enzymes</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D004260" MajorTopicYN="N">DNA Repair</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D045643" MajorTopicYN="N">DNA Repair Enzymes</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012321" MajorTopicYN="N">DNA-Directed RNA Polymerases</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008957" MajorTopicYN="Y">Models, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014158" MajorTopicYN="N">Transcription, Genetic</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2003</Year>
+                <Month>10</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2003</Year>
+                <Month>11</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2004</Year>
+                <Month>6</Month>
+                <Day>5</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2004</Year>
+                <Month>10</Month>
+                <Day>29</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2004</Year>
+                <Month>6</Month>
+                <Day>5</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">15177049</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.dnarep.2003.11.010</ArticleId>
+            <ArticleId IdType="pii">S1568786403002799</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

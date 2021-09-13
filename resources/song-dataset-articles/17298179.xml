@@ -1,0 +1,458 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">17298179</PMID>
+        <DateCompleted>
+            <Year>2007</Year>
+            <Month>04</Month>
+            <Day>02</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>01</Month>
+            <Day>09</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1545-7885</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>5</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2007</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PLoS biology</Title>
+                <ISOAbbreviation>PLoS Biol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Bioassay-guided evolution of glycosylated macrolide antibiotics in Escherichia coli.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e45</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Macrolide antibiotics such as erythromycin are clinically important polyketide natural products. We have engineered a recombinant strain of Escherichia coli that produces small but measurable quantities of the bioactive macrolide 6-deoxyerythromycin D. Bioassay-guided evolution of this strain led to the identification of an antibiotic-overproducing mutation in the mycarose biosynthesis and transfer pathway that was detectable via a colony-based screening assay. This high-throughput assay was then used to evolve second-generation mutants capable of enhanced precursor-directed biosynthesis of macrolide antibiotics. The availability of a screen for macrolide biosynthesis in E. coli offers a fundamentally new approach in dissecting modular megasynthase mechanisms as well as engineering antibiotics with novel pharmacological properties.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Ho Young</ForeName>
+                    <Initials>HY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry, Stanford University, Stanford, California, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Khosla</LastName>
+                    <ForeName>Chaitan</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 CA066736</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>CA 66736</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS Biol</MedlineTA>
+            <NlmUniqueID>101183755</NlmUniqueID>
+            <ISSNLinking>1544-9173</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C113834">6-deoxyerythromycin D</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000606">Amino Sugars</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000900">Anti-Bacterial Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D006601">Hexoses</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009702">Nucleoside Diphosphate Sugars</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C513911">TDP-D-desosamine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D013942">Thymine Nucleotides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>21MJV8677V</RegistryNumber>
+                <NameOfSubstance UI="C045835">mycarose</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>63937KV33D</RegistryNumber>
+                <NameOfSubstance UI="D004917">Erythromycin</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000606" MajorTopicYN="N">Amino Sugars</DescriptorName>
+                <QualifierName UI="Q000096" MajorTopicYN="N">biosynthesis</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000900" MajorTopicYN="N">Anti-Bacterial Agents</DescriptorName>
+                <QualifierName UI="Q000096" MajorTopicYN="Y">biosynthesis</QualifierName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001681" MajorTopicYN="Y">Biological Assay</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019020" MajorTopicYN="Y">Directed Molecular Evolution</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D024901" MajorTopicYN="N">Drug Resistance, Multiple, Bacterial</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004917" MajorTopicYN="N">Erythromycin</DescriptorName>
+                <QualifierName UI="Q000031" MajorTopicYN="Y">analogs &amp; derivatives</QualifierName>
+                <QualifierName UI="Q000096" MajorTopicYN="N">biosynthesis</QualifierName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004926" MajorTopicYN="N">Escherichia coli</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005798" MajorTopicYN="N">Genes, Bacterial</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006031" MajorTopicYN="N">Glycosylation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006601" MajorTopicYN="N">Hexoses</DescriptorName>
+                <QualifierName UI="Q000096" MajorTopicYN="N">biosynthesis</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009154" MajorTopicYN="N">Mutation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009702" MajorTopicYN="N">Nucleoside Diphosphate Sugars</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D030781" MajorTopicYN="N">Organisms, Genetically Modified</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013942" MajorTopicYN="N">Thymine Nucleotides</DescriptorName>
+                <QualifierName UI="Q000096" MajorTopicYN="N">biosynthesis</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2006</Year>
+                <Month>09</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2006</Year>
+                <Month>12</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2007</Year>
+                <Month>2</Month>
+                <Day>15</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2007</Year>
+                <Month>4</Month>
+                <Day>3</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2007</Year>
+                <Month>2</Month>
+                <Day>15</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">17298179</ArticleId>
+            <ArticleId IdType="pii">06-PLBI-RA-1738R1</ArticleId>
+            <ArticleId IdType="doi">10.1371/journal.pbio.0050045</ArticleId>
+            <ArticleId IdType="pmc">PMC1790958</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Org Lett. 1999 Jul 15;1(1):133-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10822548</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Metab Eng. 2000 Oct;2(4):328-38</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11120644</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Gen Genet. 2000 Nov;264(4):477-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11129052</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2001 Mar 2;291(5509):1790-2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11230695</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Chem Biol. 2001 Jun;8(6):547-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11410374</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Drug Resist Updat. 2000 Dec;3(6):325-329</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11498400</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2001 Oct;183(19):5639-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11544226</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Biochem. 2002;71:701-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12045109</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Chem Biol. 2002 Jun;9(6):721-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12079784</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2002 Jul;68(7):3287-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12089005</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antimicrob Agents Chemother. 2002 Sep;46(9):2727-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12183222</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Biochem Biophys. 2002 Oct 1;406(1):116-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12234497</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Prod Rep. 2002 Oct;19(5):542-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12430723</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Med Chem. 2003 Jul 31;46(16):3425-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12877577</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioorg Med Chem Lett. 2003 Nov 3;13(21):3701-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14552761</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Microbiol Biotechnol. 2004 Mar;64(1):7-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14727096</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Chem Soc. 2004 Jun 2;126(21):6534-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15161264</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Chem Soc. 2004 Aug 18;126(32):9924-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15303858</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antimicrob Agents Chemother. 2004 Sep;48(9):3621-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15328143</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 2004 Dec 7;43(48):15111-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15568803</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Chem Biol. 2004 Dec;11(12):1709-18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15610855</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2005 Apr 22;121(2):257-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15851032</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2005 May;71(5):2539-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15870344</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Antibiot (Tokyo). 2005 Mar;58(3):167-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15895524</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Chem Soc. 2005 Jul 6;127(26):9340-1</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15984840</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2005 Aug;71(8):4503-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16085842</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Angew Chem Int Ed Engl. 2005 Oct 21;44(41):6742-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16187386</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Chem Soc. 2005 Oct 19;127(41):14128-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16218575</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Microbiol. 2005 Nov;3(11):870-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16261170</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Angew Chem Int Ed Engl. 2006 Apr 21;45(17):2748-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16538696</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2006 Jul 25;103(30):11124-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16844787</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Angew Chem Int Ed Engl. 2001 Feb 2;40(3):607-610</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">29712024</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Microbiol. 1995 May;30(5):273-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7766155</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1994 Nov;176(22):6999-7004</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7961464</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Microbiol. 1993;47:875-912</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8257119</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1996 Oct;178(20):5853-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8830678</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiology. 1997 Oct;143 ( Pt 10):3251-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9353926</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Gen Genet. 1998 Mar;257(5):542-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9563840</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1998 Oct 13;95(21):12111-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9770448</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

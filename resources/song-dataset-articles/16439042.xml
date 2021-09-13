@@ -1,0 +1,209 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">16439042</PMID>
+        <DateCompleted>
+            <Year>2006</Year>
+            <Month>07</Month>
+            <Day>27</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2011</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">0268-0033</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>21</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2006</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical biomechanics (Bristol, Avon)</Title>
+                <ISOAbbreviation>Clin Biomech (Bristol, Avon)</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Application of a new calibration method for a three-dimensional finite element model of a human lumbar annulus fibrosus.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>337-44</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Major deficits of many finite element models of the lumbar spine are the oversimplification, assumed constellation of the material properties or the insufficiently performed calibration using experimental in vitro data. The aim of this study was, to develop a method for calibrating the two-composite structure of the annulus fibrosus, the ground substance and collagen fibers.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">For that purpose, a three-dimensional, non-linear finite element model of a denucleated intervertebral disc with the adjacent vertebral bodies (L4-L5) was created. Previously performed in vitro experiments provided experimental data for the range of motion in each load direction, needed for calibration. A method was developed to determine the individual contribution of the fibers and the ground substance for bending moments with four different magnitudes (2.5, 5.0, 7.5 and 10 Nm). For each bending moment, the stiffness of fibers was varied to approximate the Young's modulus of the ground substance in order to fulfil the required range of motion obtained from in vitro results within an accuracy of 99%.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Infinite material parameter combinations of collagen fibers and ground substance led to the same range of motion, which were different for each bending moment. However, there was only one combination, which was valid for all applied bending moments; and in all load direction.</AbstractText>
+                <AbstractText Label="INTERPRETATION" NlmCategory="CONCLUSIONS">This calibration method was performed on range of motion data; however, the procedure could also be applied to other loading scenarios and measurement parameters like disc bulge, translation and intradiscal pressure.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Schmidt</LastName>
+                    <ForeName>Hendrik</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Orthopaedic Research and Biomechanics, University of Ulm, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Heuer</LastName>
+                    <ForeName>Frank</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Simon</LastName>
+                    <ForeName>Ulrich</ForeName>
+                    <Initials>U</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kettler</LastName>
+                    <ForeName>Annette</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rohlmann</LastName>
+                    <ForeName>Antonius</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Claes</LastName>
+                    <ForeName>Lutz</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wilke</LastName>
+                    <ForeName>Hans-Joachim</ForeName>
+                    <Initials>HJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2006</Year>
+                <Month>01</Month>
+                <Day>24</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Clin Biomech (Bristol, Avon)</MedlineTA>
+            <NlmUniqueID>8611877</NlmUniqueID>
+            <ISSNLinking>0268-0033</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>9007-34-5</RegistryNumber>
+                <NameOfSubstance UI="D003094">Collagen</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D002138" MajorTopicYN="N">Calibration</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003094" MajorTopicYN="N">Collagen</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019245" MajorTopicYN="N">Compressive Strength</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003198" MajorTopicYN="N">Computer Simulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004548" MajorTopicYN="N">Elasticity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020342" MajorTopicYN="N">Finite Element Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D021621" MajorTopicYN="N">Imaging, Three-Dimensional</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007403" MajorTopicYN="N">Intervertebral Disc</DescriptorName>
+                <QualifierName UI="Q000503" MajorTopicYN="Y">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007405" MajorTopicYN="N">Intervertebral Disc Displacement</DescriptorName>
+                <QualifierName UI="Q000503" MajorTopicYN="Y">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008159" MajorTopicYN="N">Lumbar Vertebrae</DescriptorName>
+                <QualifierName UI="Q000503" MajorTopicYN="Y">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008954" MajorTopicYN="Y">Models, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012016" MajorTopicYN="N">Reference Values</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015203" MajorTopicYN="N">Reproducibility of Results</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012680" MajorTopicYN="N">Sensitivity and Specificity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013314" MajorTopicYN="N">Stress, Mechanical</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2005</Year>
+                <Month>09</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2005</Year>
+                <Month>12</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2005</Year>
+                <Month>12</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2006</Year>
+                <Month>1</Month>
+                <Day>28</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2006</Year>
+                <Month>7</Month>
+                <Day>28</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2006</Year>
+                <Month>1</Month>
+                <Day>28</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">16439042</ArticleId>
+            <ArticleId IdType="pii">S0268-0033(05)00293-7</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.clinbiomech.2005.12.001</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,134 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">2210785</PMID>
+        <DateCompleted>
+            <Year>1990</Year>
+            <Month>11</Month>
+            <Day>08</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2009</Year>
+            <Month>11</Month>
+            <Day>11</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0018-9294</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>37</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>1990</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>IEEE transactions on bio-medical engineering</Title>
+                <ISOAbbreviation>IEEE Trans Biomed Eng</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Three-dimensional quantitative coronary angiography.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>768-77</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>A method for reconstructing the three-dimensional coronary arterial tree structure from biplane two-dimensional angiographic images is presented. This method exploits the geometrical mathematics of X-ray imaging and the tracking of leading edges of injected contrast material into each vessel for identification of corresponding points on two images taken from orthogonal views. Accurate spatial position and dimension of each vessel in three-dimensional space can be obtained by this reconstruction procedure. The reconstructed arterial configuration is displayed as a shaded surface model, which can be viewed from various angles. Such three-dimensional vascular information provides accurate and reproducible measurements of vascular morphology and function. Flow measurements are obtained by tracking the leading edge of contrast material down the three-dimensional arterial tree. A quantitative analysis of coronary stenosis based on transverse area narrowing and regional blood flow, including the effect of vasoactive drugs, is described. Reconstruction experiments on actual angiographic images of the human coronary artery yield encouraging results toward a realization of computer-assisted three-dimensional quantitative angiography.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Saito</LastName>
+                    <ForeName>T</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Information Sciences and Electronics, University of Tsukuba, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Misaki</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shirato</LastName>
+                    <ForeName>K</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Takishima</LastName>
+                    <ForeName>T</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>IEEE Trans Biomed Eng</MedlineTA>
+            <NlmUniqueID>0012737</NlmUniqueID>
+            <ISSNLinking>0018-9294</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000465" MajorTopicYN="N">Algorithms</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000792" MajorTopicYN="N">Angiography</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001783" MajorTopicYN="N">Blood Flow Velocity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002932" MajorTopicYN="N">Cineangiography</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017023" MajorTopicYN="Y">Coronary Angiography</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003326" MajorTopicYN="N">Coronary Circulation</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007091" MajorTopicYN="Y">Image Processing, Computer-Assisted</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1990</Year>
+                <Month>8</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1990</Year>
+                <Month>8</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1990</Year>
+                <Month>8</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">2210785</ArticleId>
+            <ArticleId IdType="doi">10.1109/10.102792</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

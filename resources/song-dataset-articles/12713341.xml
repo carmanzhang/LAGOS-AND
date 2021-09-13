@@ -1,0 +1,153 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">12713341</PMID>
+        <DateCompleted>
+            <Year>2003</Year>
+            <Month>12</Month>
+            <Day>10</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0022-3263</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>68</Volume>
+                    <Issue>9</Issue>
+                    <PubDate>
+                        <Year>2003</Year>
+                        <Month>May</Month>
+                        <Day>02</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of organic chemistry</Title>
+                <ISOAbbreviation>J Org Chem</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Conformational study of 1,2-cycloundecadiene by dynamic NMR spectroscopy and computational methods.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>3420-4</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Solutions of 1,2-cycloundecadiene in propane were studied by low-temperature (13)C NMR spectroscopy. A total of 17 peaks were observed at -166.7 degrees C, corresponding to two conformations of similar populations, one of C(1) symmetry (11 peaks) and the other of C(2) symmetry. The line shapes show that the predominant pathway for exchange of the topomers (C(1) and C(1)') of the C(1) conformation does not include the C(2) conformation. From the (13)C spectra, free-energy barriers of 8.38 +/- 0.15, 9.45 +/- 0.15, and 9.35 +/- 0.15 kcal/mol were determined for the C(1) to C(1)', (C(1) + C(1)') to C(2), and C(2) to (C(1) + C(1)') conversions, respectively, at -72.2 degrees C. The NMR results for this compound are discussed in terms of the conformations predicted by molecular mechanics calculations obtained with Allinger's MM3 program. Ab initio calculations of free energies are also reported at the HF/ 6-311G level for 25 conformations.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Brown</LastName>
+                    <ForeName>Judge</ForeName>
+                    <Initials>J</Initials>
+                    <Suffix>2nd</Suffix>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry, Jackson State University, Jackson, Mississippi 39217-0510, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pawar</LastName>
+                    <ForeName>Diwakar M</ForeName>
+                    <Initials>DM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Noe</LastName>
+                    <ForeName>Eric A</ForeName>
+                    <Initials>EA</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+                <PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Org Chem</MedlineTA>
+            <NlmUniqueID>2985193R</NlmUniqueID>
+            <ISSNLinking>0022-3263</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C479439">1,2-cycloundecadiene</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D002247">Carbon Isotopes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D008055">Lipids</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>T75W9911L6</RegistryNumber>
+                <NameOfSubstance UI="D011407">Propane</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D002247" MajorTopicYN="N">Carbon Isotopes</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007700" MajorTopicYN="N">Kinetics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008055" MajorTopicYN="N">Lipids</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009682" MajorTopicYN="N">Magnetic Resonance Spectroscopy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008956" MajorTopicYN="Y">Models, Chemical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008968" MajorTopicYN="N">Molecular Conformation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011407" MajorTopicYN="N">Propane</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013696" MajorTopicYN="N">Temperature</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2003</Year>
+                <Month>4</Month>
+                <Day>26</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2003</Year>
+                <Month>12</Month>
+                <Day>12</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2003</Year>
+                <Month>4</Month>
+                <Day>26</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">12713341</ArticleId>
+            <ArticleId IdType="doi">10.1021/jo020317c</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,689 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">19439465</PMID>
+        <DateCompleted>
+            <Year>2009</Year>
+            <Month>07</Month>
+            <Day>23</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>05</Month>
+            <Day>08</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-5514</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>83</Volume>
+                    <Issue>14</Issue>
+                    <PubDate>
+                        <Year>2009</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of virology</Title>
+                <ISOAbbreviation>J Virol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Simulation and prediction of the adaptive immune response to influenza A virus infection.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>7151-65</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/JVI.00098-09</ELocationID>
+            <Abstract>
+                <AbstractText>The cellular immune response to primary influenza virus infection is complex, involving multiple cell types and anatomical compartments, and is difficult to measure directly. Here we develop a two-compartment model that quantifies the interplay between viral replication and adaptive immunity. The fidelity of the model is demonstrated by accurately confirming the role of CD4 help for antibody persistence and the consequences of immune depletion experiments. The model predicts that drugs to limit viral infection and/or production must be administered within 2 days of infection, with a benefit of combination therapy when administered early, and cytotoxic CD8 T cells in the lung are as effective for viral clearance as neutralizing antibodies when present at the time of challenge. The model can be used to investigate explicit biological scenarios and generate experimentally testable hypotheses. For example, when the adaptive response depends on cellular immune cell priming, regulation of antigen presentation has greater influence on the kinetics of viral clearance than the efficiency of virus neutralization or cellular cytotoxicity. These findings suggest that the modulation of antigen presentation or the number of lung resident cytotoxic cells and the combination drug intervention are strategies to combat highly virulent influenza viruses. We further compared alternative model structures, for example, B-cell activation directly by the virus versus that through professional antigen-presenting cells or dendritic cell licensing of CD8 T cells.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Ha Youn</ForeName>
+                    <Initials>HY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biostatistics and Computational Biology, University of Rochester, Rochester, New York 14642, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Topham</LastName>
+                    <ForeName>David J</ForeName>
+                    <Initials>DJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Park</LastName>
+                    <ForeName>Sung Yong</ForeName>
+                    <Initials>SY</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hollenbaugh</LastName>
+                    <ForeName>Joseph</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Treanor</LastName>
+                    <ForeName>John</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mosmann</LastName>
+                    <ForeName>Tim R</ForeName>
+                    <Initials>TR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jin</LastName>
+                    <ForeName>Xia</ForeName>
+                    <Initials>X</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ward</LastName>
+                    <ForeName>Brian M</ForeName>
+                    <Initials>BM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Miao</LastName>
+                    <ForeName>Hongyu</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Holden-Wiltse</LastName>
+                    <ForeName>Jeanne</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Perelson</LastName>
+                    <ForeName>Alan S</ForeName>
+                    <Initials>AS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zand</LastName>
+                    <ForeName>Martin</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wu</LastName>
+                    <ForeName>Hulin</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>N01AI50020</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2009</Year>
+                <Month>05</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Virol</MedlineTA>
+            <NlmUniqueID>0113724</NlmUniqueID>
+            <ISSNLinking>0022-538X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000998">Antiviral Agents</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000998" MajorTopicYN="N">Antiviral Agents</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003198" MajorTopicYN="N">Computer Simulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009980" MajorTopicYN="N">Influenza A virus</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007251" MajorTopicYN="N">Influenza, Human</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName UI="Q000821" MajorTopicYN="N">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008168" MajorTopicYN="N">Lung</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName UI="Q000821" MajorTopicYN="N">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008810" MajorTopicYN="N">Mice, Inbred C57BL</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008954" MajorTopicYN="N">Models, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008962" MajorTopicYN="N">Models, Theoretical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011237" MajorTopicYN="N">Predictive Value of Tests</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2009</Year>
+                <Month>5</Month>
+                <Day>15</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2009</Year>
+                <Month>5</Month>
+                <Day>15</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2009</Year>
+                <Month>7</Month>
+                <Day>25</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">19439465</ArticleId>
+            <ArticleId IdType="pii">JVI.00098-09</ArticleId>
+            <ArticleId IdType="doi">10.1128/JVI.00098-09</ArticleId>
+            <ArticleId IdType="pmc">PMC2704765</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Theor Biol. 1994 Apr 21;167(4):323-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7516024</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 1995 Sep 15;155(6):2955-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7673713</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1996 Mar 15;271(5255):1582-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8599114</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 1997 Sep 25;337(13):874-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9302301</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 1997 Oct;71(10):7518-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9311831</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Med. 1997 Dec 15;186(12):2063-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9396777</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Comput Biol. 2007 Dec;3(12):e240</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18069885</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Med. 2008 Jul 7;205(7):1621-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18591406</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Theor Biol. 2008 Sep 7;254(1):178-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18572196</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Theor Biol. 2008 Sep 21;254(2):439-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18653201</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2008 Dec;82(23):11749-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18815293</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2009 Jan 1;182(1):29-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19109130</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2009 Jan 15;182(2):871-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19124730</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2000 Mar 1;164(5):2635-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10679103</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2000 Apr 11;97(8):4309-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10725408</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Immunol. 2000 May;30(5):1356-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10820382</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2001 Feb 1;166(3):1813-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11160228</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2001 Apr 1;166(7):4627-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11254721</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2001 Nov;75(22):10663-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11602708</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Immunol Rev. 1997 Oct;159:105-17</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9416506</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 1998 Jan 1;160(1):322-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9551987</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Theor Biol. 1998 Oct 7;194(3):341-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9778443</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Infect Dis. 1999 Aug;180(2):254-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10395837</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Theor Biol. 2005 Jan 21;232(2):223-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15530492</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Immunol. 2004 Dec;25(12):655-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15530835</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Med. 2004 Dec;10(12 Suppl):S82-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15577936</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2005 Mar;79(6):3595-605</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15731254</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Immunol. 2005;23:975-1028</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15771591</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biotechnol Bioeng. 2005 Apr 5;90(1):46-58</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15736163</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Virology. 2005 Sep 30;340(2):296-306</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16054188</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2005 Nov 1;175(9):5827-38</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16237075</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Immunity. 2005 Dec;23(6):649-59</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16356862</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2006 Mar 17;311(5767):1576-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16439620</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Med. 2006 Mar 20;203(3):689-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16533883</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2006 Jul;80(13):6295-304</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16775317</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2006 Jun 16;312(5780):1672-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16778060</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2006 Aug;80(15):7590-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16840338</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2006 Aug;80(16):8178-89</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16873274</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Drug Discov. 2006 Dec;5(12):1015-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17139286</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2007 Feb 1;178(3):1468-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17237395</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2007 Jan 30;104(5):1599-603</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17242364</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2007 Mar;81(5):2318-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17182679</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Theor Biol. 2007 May 7;246(1):70-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17266989</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Immunity. 2007 Apr;26(4):491-502</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17379546</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2007 Jul;81(13):7011-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17442719</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2007 Jul 1;179(1):201-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17579039</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2007 Aug;81(15):8112-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17522219</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2007 Sep;81(17):9601-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17567688</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2007 Oct 15;179(8):5054-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17911590</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2007 Nov;81(21):11817-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17715226</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Pathog. 2007 Oct 19;3(10):1388-400</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17953479</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2007;2(12):e1301</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18074025</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Immunol. 2008 Feb;8(2):107-19</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18219309</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Med. 2001 Dec;7(12):1306-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11726970</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2002 Feb 15;168(4):1528-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11823476</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Med. 2002 Sep;8(9):950-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12195436</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2002 Sep 20;297(5589):2060-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12242444</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2003 Feb 1;170(3):1423-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12538703</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Immunity. 2003 Feb;18(2):265-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12594953</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Immunol. 2003 Sep;4(9):835-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12942084</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2003 Oct 1;171(7):3338-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14500625</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2003 Oct 15;171(8):3928-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14530309</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Immunity. 2004 Feb;20(2):167-79</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14975239</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Immunol Cell Biol. 2004 Feb;82(1):84-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14984599</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2004 Jun 8;101(23):8670-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15163797</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Immunol. 2004 Nov;5(11):1143-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15475958</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Immunol. 2004 Nov;5(11):1097-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15496944</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Dev Biol Stand. 1976;33:220-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">955268</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Theor Biol. 1977 Apr 21;65(4):609-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">559885</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Adv Immunol. 1979;27:51-177</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">92183</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Immunol. 1986 Jul;16(7):871-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3487461</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Immunol. 1988 Feb;18(2):313-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3350037</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 1990 May 15;144(10):3980-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1692070</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Med. 1992 Apr 1;175(4):1143-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1552285</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 1992 Aug 15;149(4):1319-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1354233</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 1994 Feb 15;152(4):1653-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8120375</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 1994 Jun 15;152(12):5643-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7515910</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

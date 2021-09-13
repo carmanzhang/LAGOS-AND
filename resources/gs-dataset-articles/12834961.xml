@@ -1,0 +1,181 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">12834961</PMID>
+        <DateCompleted>
+            <Year>2004</Year>
+            <Month>05</Month>
+            <Day>07</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0165-022X</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>57</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2003</Year>
+                        <Month>Jul</Month>
+                        <Day>31</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of biochemical and biophysical methods</Title>
+                <ISOAbbreviation>J. Biochem. Biophys. Methods</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Interaction of cyanine dyes with nucleic acids: XXXI. Using of polymethine cyanine dyes for the visualization of DNA in agarose gels.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>35-43</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Fifteen polymethine cyanine dyes were studied as fluorescent stains for DNA in electrophoretic gels. Among studied cyanines, two dyes CPent V and CCyan 2-O most effectively visualized covalently closed and linear double-stranded DNA molecules in gels under standard conditions using UV-illumination, green filter and black-and-white photo film. Ethidium bromide was 1.2-1.6 times more effective as compared to cyanine dyes in staining of DNA in the concentration range of 8-18 ng, while studied cyanines were more sensitive to DNA quantity above 50 ng.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Matselyukh</LastName>
+                    <ForeName>B P</ForeName>
+                    <Initials>BP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Microbiology and Virology of the National Academy of Sciences of Ukraine, 154 Zabolotny Street, Kyiv 03143, Ukraine. bohdan@serv.imv.kiev.ua</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yarmoluk</LastName>
+                    <ForeName>S M</ForeName>
+                    <Initials>SM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Matselyukh</LastName>
+                    <ForeName>A B</ForeName>
+                    <Initials>AB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kovalska</LastName>
+                    <ForeName>V B</ForeName>
+                    <Initials>VB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kocheshev</LastName>
+                    <ForeName>I O</ForeName>
+                    <Initials>IO</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kryvorotenko</LastName>
+                    <ForeName>D V</ForeName>
+                    <Initials>DV</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lukashov</LastName>
+                    <ForeName>S S</ForeName>
+                    <Initials>SS</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D003160">Comparative Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>J Biochem Biophys Methods</MedlineTA>
+            <NlmUniqueID>7907378</NlmUniqueID>
+            <ISSNLinking>0165-022X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D002232">Carbocyanines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D005456">Fluorescent Dyes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009696">Nucleic Acids</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9007-49-2</RegistryNumber>
+                <NameOfSubstance UI="D004247">DNA</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EN464416SI</RegistryNumber>
+                <NameOfSubstance UI="D004996">Ethidium</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D002232" MajorTopicYN="N">Carbocyanines</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004247" MajorTopicYN="N">DNA</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004587" MajorTopicYN="N">Electrophoresis, Agar Gel</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004996" MajorTopicYN="N">Ethidium</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005456" MajorTopicYN="N">Fluorescent Dyes</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015394" MajorTopicYN="N">Molecular Structure</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009696" MajorTopicYN="N">Nucleic Acids</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013194" MajorTopicYN="N">Staining and Labeling</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2003</Year>
+                <Month>7</Month>
+                <Day>2</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2004</Year>
+                <Month>5</Month>
+                <Day>8</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2003</Year>
+                <Month>7</Month>
+                <Day>2</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">12834961</ArticleId>
+            <ArticleId IdType="pii">S0165022X03000368</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

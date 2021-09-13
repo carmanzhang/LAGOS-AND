@@ -1,0 +1,222 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20833165</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>01</Month>
+            <Day>26</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1090-2422</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>316</Volume>
+                    <Issue>20</Issue>
+                    <PubDate>
+                        <Year>2010</Year>
+                        <Month>Dec</Month>
+                        <Day>10</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Experimental cell research</Title>
+                <ISOAbbreviation>Exp Cell Res</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Over-expression of ERp29 attenuates doxorubicin-induced cell apoptosis through up-regulation of Hsp27 in breast cancer cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>3522-31</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.yexcr.2010.08.014</ELocationID>
+            <Abstract>
+                <AbstractText>The endoplasmic reticulum protein 29 (ERp29) has a critical role in regulating protein folding, maturation and secretion. However, its role in carcinogenesis remains elusive. Recently, we reported that ERp29 is a novel tumor suppressor and regulates mesenchymal-epithelial transition in MDA-MB-231 breast cancer cells. Here, we investigated whether ERp29 plays a role in the response of breast cancer cells to chemotherapeutic agents. We found that expression of ERp29 increased the resistance to doxorubicin, but not cisplatin and paclitaxel, and decreased the doxorubicin-induced cell apoptosis in MDA-MB-231 cells, whereas knockdown of ERp29 in MCF-7 cells increased the doxorubicin cytotoxicity. A proteomics study identified up-regulation of Hsp27 and down-regulation of stathmin-1, galectin and prohibitin in the doxorubicin-resistant, ERp29 over-expressing MDA-MB-231 cells. Further, we demonstrated that ERp29 up-regulated expression of Hsp27 by down-regulating eukaryotic translational initiation factor 2α (eIF2α). When Hsp27 was knocked down by siRNA in the doxorubicin-resistant, ERp29 over-expressing MDA-MB-231 cells and parental MCF-7 cells, cell viability was significantly decreased and doxorubicin-induced cell apoptosis was enhanced. These results indicate that Hsp27 is involved in the ERp29-mediated resistance to doxorubicin. Therefore, targeting of Hsp27, with a combination of other chemotherapeutic agents, is a rational strategy in treating doxorubicin-resistant cancer cells.</AbstractText>
+                <CopyrightInformation>Copyright © 2010 Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Daohai</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, Yong Loo Lin School of Medicine, National University of Singapore, Singapore, Singapore. patzd@nus.edu.sg</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Putti</LastName>
+                    <ForeName>Thomas C</ForeName>
+                    <Initials>TC</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>09</Month>
+                <Day>15</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Exp Cell Res</MedlineTA>
+            <NlmUniqueID>0373226</NlmUniqueID>
+            <ISSNLinking>0014-4827</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C491738">ERP29 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D015852">Eukaryotic Initiation Factor-2</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D055551">HSP27 Heat-Shock Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D006360">Heat-Shock Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D020543">Proteome</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D034741">RNA, Small Interfering</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>80168379AG</RegistryNumber>
+                <NameOfSubstance UI="D004317">Doxorubicin</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D017209" MajorTopicYN="N">Apoptosis</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001943" MajorTopicYN="N">Breast Neoplasms</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D045744" MajorTopicYN="N">Cell Line, Tumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002470" MajorTopicYN="N">Cell Survival</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004317" MajorTopicYN="N">Doxorubicin</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019008" MajorTopicYN="N">Drug Resistance, Neoplasm</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015852" MajorTopicYN="N">Eukaryotic Initiation Factor-2</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015870" MajorTopicYN="N">Gene Expression</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055551" MajorTopicYN="N">HSP27 Heat-Shock Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006360" MajorTopicYN="N">Heat-Shock Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020543" MajorTopicYN="N">Proteome</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D034741" MajorTopicYN="N">RNA, Small Interfering</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014162" MajorTopicYN="N">Transfection</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015854" MajorTopicYN="N">Up-Regulation</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2010</Year>
+                <Month>06</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2010</Year>
+                <Month>08</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2010</Year>
+                <Month>08</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>9</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>9</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20833165</ArticleId>
+            <ArticleId IdType="pii">S0014-4827(10)00408-8</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.yexcr.2010.08.014</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

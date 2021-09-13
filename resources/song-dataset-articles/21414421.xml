@@ -1,0 +1,164 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21414421</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>09</Month>
+            <Day>27</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1567-7257</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>11</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Infection, genetics and evolution : journal of molecular epidemiology and evolutionary genetics in infectious diseases</Title>
+                <ISOAbbreviation>Infect Genet Evol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Iron acquisition, assimilation and regulation in mycobacteria.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>825-38</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.meegid.2011.02.016</ELocationID>
+            <Abstract>
+                <AbstractText>Iron is as crucial to the pathogen as it is to the host. The tuberculosis causing bacillus, Mycobacterium tuberculosis (M.tb), is an exceptionally efficient pathogen that has evolved proficient mechanisms to sequester iron from the host despite its thick mycolate-rich outer covering and a highly impermeable membrane of phagolysosome within which it persists inside an infected host macrophage. Further, both overindulgence and moderation of iron inside a host are a threat to mycobacterial persistence. While for removing iron from the host reservoirs, mycobacteria synthesize molecules that have several times higher affinity for iron than their host counterparts, they also synthesize molecules for efficient storage of excess iron. This is supported by tightly regulated iron dependent global gene expressions. In this review we discuss the various molecules and pathways evolved by mycobacteria for an efficient iron metabolism. We also discuss the less investigated players, like iron responsive proteins and iron responsive elements in mycobacteria, and highlight the lacunae in our current understanding of iron acquisition and utilization in mycobacteria with an ultimate aim to make iron metabolism as a possible anti-mycobacterial target.</AbstractText>
+                <CopyrightInformation>Copyright © 2011 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Banerjee</LastName>
+                    <ForeName>Sharmistha</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry, School of Life Sciences, University of Hyderabad, Hyderabad 500046, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Farhana</LastName>
+                    <ForeName>Aisha</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ehtesham</LastName>
+                    <ForeName>Nasreen Z</ForeName>
+                    <Initials>NZ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hasnain</LastName>
+                    <ForeName>Seyed E</ForeName>
+                    <Initials>SE</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>03</Month>
+                <Day>22</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Infect Genet Evol</MedlineTA>
+            <NlmUniqueID>101084138</NlmUniqueID>
+            <ISSNLinking>1567-1348</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>E1UOL152H7</RegistryNumber>
+                <NameOfSubstance UI="D007501">Iron</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001692" MajorTopicYN="N">Biological Transport</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015964" MajorTopicYN="N">Gene Expression Regulation, Bacterial</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007501" MajorTopicYN="N">Iron</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009161" MajorTopicYN="N">Mycobacterium</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009164" MajorTopicYN="N">Mycobacterium Infections</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000382" MajorTopicYN="N">microbiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2011</Year>
+                <Month>02</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2011</Year>
+                <Month>02</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>3</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>3</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>9</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21414421</ArticleId>
+            <ArticleId IdType="pii">S1567-1348(11)00058-X</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.meegid.2011.02.016</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,391 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">22963347</PMID>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>05</Month>
+            <Day>23</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1471-2407</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>12</Volume>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Sep</Month>
+                        <Day>10</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>BMC cancer</Title>
+                <ISOAbbreviation>BMC Cancer</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Time to follow up after an abnormal finding in organized gastric cancer screening in Korea.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>400</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/1471-2407-12-400</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The prognosis for an abnormal medical finding is affected by both early detection and adherence to the presecribed schedule for follow-up examinations. In this study, we examined the time to follow up after an abnormal finding and determined the risk factors related to delays in follow up in a population-based screening program.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">The study population consisted of patients who were newly diagnosed with gastric cancer through a gastric cancer screening program sponsored by the National Cancer Screening Program (NCSP) in 2005. Due to the skewed nature of the distribution of time to follow up, medians and interquartile ranges (IQR) are presented, and we analyzed the number of days preceding the follow-up time as a binary variable (≤ 90 days or &gt;90 days). We used logistic regression analyses to evaluate the risk factors for a long delay.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The median number of days to follow-up initiation after an abnormal finding was 11 (IQR 7-27); 13.9% of the patients with gastric cancer obtained their follow-up evaluation more than 90 days. Age, type of health insurance, screening method, and screening results were risk factors for delays in follow up.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">This study examined delays from the time of the discovery of an abnormal finding to time of the follow-up evaluation. Because inadequate follow up of abnormal exam results undermines the potential benefits of cancer screening, it is important to organize services that minimize delays between cancer screening and treatment.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Hoo-Yeon</ForeName>
+                    <Initials>HY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Preventive Medicine &amp; Institute of Health Services Research, College of Medicine, Yonsei University, 50 Yonsei-ro, Seodaemun-gu, Seoul 120-749, Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Choi</LastName>
+                    <ForeName>Kui Son</ForeName>
+                    <Initials>KS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jun</LastName>
+                    <ForeName>Jae Kwan</ForeName>
+                    <Initials>JK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hahm</LastName>
+                    <ForeName>Myung-Il</ForeName>
+                    <Initials>MI</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Park</LastName>
+                    <ForeName>Eun-Cheol</ForeName>
+                    <Initials>EC</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2012</Year>
+                <Month>09</Month>
+                <Day>10</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>BMC Cancer</MedlineTA>
+            <NlmUniqueID>100967800</NlmUniqueID>
+            <ISSNLinking>1471-2407</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055088" MajorTopicYN="N">Early Detection of Cancer</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005500" MajorTopicYN="N">Follow-Up Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016015" MajorTopicYN="N">Logistic Models</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008403" MajorTopicYN="N">Mass Screening</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015999" MajorTopicYN="N">Multivariate Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009313" MajorTopicYN="N">National Health Programs</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D056910" MajorTopicYN="N" Type="Geographic">Republic of Korea</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012307" MajorTopicYN="N">Risk Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013274" MajorTopicYN="N">Stomach Neoplasms</DescriptorName>
+                <QualifierName UI="Q000175" MajorTopicYN="Y">diagnosis</QualifierName>
+                <QualifierName UI="Q000628" MajorTopicYN="Y">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013997" MajorTopicYN="N">Time Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D061665" MajorTopicYN="N">Time-to-Treatment</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2012</Year>
+                <Month>09</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>9</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>9</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">22963347</ArticleId>
+            <ArticleId IdType="pii">1471-2407-12-400</ArticleId>
+            <ArticleId IdType="doi">10.1186/1471-2407-12-400</ArticleId>
+            <ArticleId IdType="pmc">PMC3517455</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Jpn J Clin Oncol. 2008 May;38(5):327-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18407932</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Causes Control. 2005 Sep;16(7):809-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16132791</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Epidemiol. 2011 Feb;35(1):90-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20947463</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Epidemiol Biomarkers Prev. 2009 May;18(5):1390-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19383892</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Chest. 2005 Oct;128(4):2282-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16236885</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>CA Cancer J Clin. 2004 Mar-Apr;54(2):78-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15061598</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res Treat. 2010 Dec;42(4):199-202</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21253321</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Epidemiol Biomarkers Prev. 2010 Aug;19(8):1919-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20647409</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer. 1996 Oct 1;78(7):1395-402</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8839544</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Sci. 2011 Dec;102(12):2241-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21895871</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Public Health. 2010;10:265</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20492654</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Cancer. 2009 Dec 3;101 Suppl 2:S92-S101</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19956172</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Cancer. 2005 Jun 6;92(11):1959-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15870714</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>World J Gastroenterol. 2008 Feb 28;14(8):1149-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18300338</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Epidemiol Biomarkers Prev. 2003 Jan;12(1):4-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12540497</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Asian Pac J Cancer Prev. 2011;12(3):725-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21627372</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Intern Med. 2006 Apr 18;144(8):541-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16618951</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Sci. 2011 Aug;102(8):1559-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21564421</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Cancer. 2009 Dec 3;101 Suppl 2:S1-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19956152</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 1999 Apr 3;353(9159):1119-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10209974</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res Treat. 2011 Sep;43(3):141-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22022290</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Obstet Gynecol. 1995 Sep;173(3 Pt 1):774-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7573243</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Natl Cancer Inst. 2010 Apr 21;102(8):538-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20357245</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Womens Health (Larchmt). 2008 Jul-Aug;17(6):923-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18554094</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Cancer. 2013 Mar 1;132(5):1133-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22752881</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Cancer. 2011;11:257</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21682886</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Cancer. 2005 Jun 6;92(11):1971-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15900296</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Otolaryngol. 2008 Aug;33(4):325-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18983341</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Health Serv Res. 2008;8:49</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18307790</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Gynecol Cancer. 2011 Aug;21(6):967-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21792008</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>CA Cancer J Clin. 2011 Mar-Apr;61(2):69-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21296855</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer. 2009 Dec 15;115(24):5788-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19859902</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Prev Med. 2009 Aug;37(2):87-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19524390</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

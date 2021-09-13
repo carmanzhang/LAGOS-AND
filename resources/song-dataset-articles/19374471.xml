@@ -1,0 +1,158 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">19374471</PMID>
+        <DateCompleted>
+            <Year>2009</Year>
+            <Month>09</Month>
+            <Day>17</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>10</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">0730-7268</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>28</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>2009</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Environmental toxicology and chemistry</Title>
+                <ISOAbbreviation>Environ Toxicol Chem</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Mercury-selenium compounds and their toxicological significance: toward a molecular understanding of the mercury-selenium antagonism.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1567-77</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1897/08-375.1</ELocationID>
+            <Abstract>
+                <AbstractText>The interaction between mercury (Hg) and selenium (Se) is one of the best known examples of biological antagonism, yet the underlying mechanism remains unclear. This review focuses on the possible pathways leading to the Hg-Se antagonism, with an emphasis on the potential Hg-Se compounds that are responsible for the antagonism at the molecular level (i.e., bis[methylmercuric]selenide, methylmercury selenocysteinate, selenoprotein P-bound HgSe clusters, and the biominerals HgSe(x)S(1-x)). The presence of these compounds in biological systems has been suggested by direct or indirect evidence, and their chemical properties support their potentially key roles in alleviating the toxicity of Hg and Se (at high Hg and Se exposures, respectively) and deficiency of Se (at low Se exposures). Direct analytical evidences are needed, however, to confirm their in vivo presence and metabolic pathways, as well as to identify the roles of other potential Hg-Se compounds. Further studies are also warranted for the determination of thermodynamic properties of these compounds under physiological conditions toward a better understanding of the Hg-Se antagonism in biota, particularly under real world exposure scenarios.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Khan</LastName>
+                    <ForeName>Mohammad A K</ForeName>
+                    <Initials>MA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry, University of Manitoba, Winnipeg MB R3T 2N2, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Feiyue</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2009</Year>
+                <Month>04</Month>
+                <Day>17</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Environ Toxicol Chem</MedlineTA>
+            <NlmUniqueID>8308958</NlmUniqueID>
+            <ISSNLinking>0730-7268</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004785">Environmental Pollutants</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D017669">Mercury Compounds</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D018036">Selenium Compounds</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004336" MajorTopicYN="N">Drug Antagonism</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004785" MajorTopicYN="N">Environmental Pollutants</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000493" MajorTopicYN="Y">pharmacokinetics</QualifierName>
+                <QualifierName UI="Q000633" MajorTopicYN="Y">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017669" MajorTopicYN="N">Mercury Compounds</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000493" MajorTopicYN="Y">pharmacokinetics</QualifierName>
+                <QualifierName UI="Q000633" MajorTopicYN="Y">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018036" MajorTopicYN="N">Selenium Compounds</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000493" MajorTopicYN="Y">pharmacokinetics</QualifierName>
+                <QualifierName UI="Q000633" MajorTopicYN="Y">toxicity</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>145</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2008</Year>
+                <Month>08</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2009</Year>
+                <Month>02</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2009</Year>
+                <Month>4</Month>
+                <Day>21</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2009</Year>
+                <Month>4</Month>
+                <Day>21</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2009</Year>
+                <Month>9</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">19374471</ArticleId>
+            <ArticleId IdType="pii">08-375</ArticleId>
+            <ArticleId IdType="doi">10.1897/08-375.1</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

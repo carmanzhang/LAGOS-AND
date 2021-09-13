@@ -1,0 +1,160 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">15770690</PMID>
+        <DateCompleted>
+            <Year>2005</Year>
+            <Month>06</Month>
+            <Day>07</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>11</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0008-543X</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>103</Volume>
+                    <Issue>9</Issue>
+                    <PubDate>
+                        <Year>2005</Year>
+                        <Month>May</Month>
+                        <Day>01</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cancer</Title>
+                <ISOAbbreviation>Cancer</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Association of HER-2 overexpression with prognosis in nonsmall cell lung carcinoma: a metaanalysis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1865-73</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Prognostic implications of overexpression of the HER-2 gene in nonsmall cell lung carcinoma (NSCLC) are a matter of controversy. Many conflicting results have been reported from different laboratories.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">A metaanalysis of published studies was performed for this quantitative review of the effects of HER-2 overexpression on survival among patients with NSCLC. Of 44 articles initially selected, 20 articles fulfilled eligibility criteria. DerSimonian-Laird random effects analysis was used to estimate the effects of HER-2 overexpression on survival differences (the survival rate among patients without HER-2 overexpression minus the survival rate among patients with HER-2 overexpression) at endpoints of 1 years, 3 years, and 5 years after resection of NSCLC.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">In total, 2579 patients were included in the final analysis. Overall, HER-2 positivity differed according to histologic type and included 38% of patients with adenocarcinoma, 16% of patients with squamous cell carcinoma, and 18% of patients with large cell carcinoma (P &lt; 0.0001). The combined survival differences in patients with NSCLC at 1 year, 3 years, and 5 years, respectively, were 2.7% (95% confidence interval [95% CI], 1.3-6.7%; P = 0.1787), 15.2% (95% CI, 5.8-24.5%; P = 0.0015), and 16.4% (95% CI, 7.9-14.8%; P = 0.0001), suggesting significant poorer survival at 3 years and 5 years among patients with HER-2 overexpression. In patients with adenocarcinoma, the combined survival difference at 5 years was 26.0% (95% CI, 16.0-36.1%; P &lt; 0.0001), suggesting a particularly strong survival impact for HER-2 overexpression.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">A significant, unfavorable prognostic effect of HER-2 overexpression in NSCLC was evident from the metaanalysis. However, because several studies that found no significant difference were excluded by the current eligibility criteria, caution is needed in interpreting the results.</AbstractText>
+                <CopyrightInformation>(c) 2005 American Cancer Society.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Nakamura</LastName>
+                    <ForeName>Haruhiko</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chest Surgery, Atami Hospital, International University of Health and Welfare, Shizuoka, Japan. h.nakamura@iuhw.ac.jp</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kawasaki</LastName>
+                    <ForeName>Norihito</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Taguchi</LastName>
+                    <ForeName>Masahiko</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kabasawa</LastName>
+                    <ForeName>Kazuyuki</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D017418">Meta-Analysis</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Cancer</MedlineTA>
+            <NlmUniqueID>0374236</NlmUniqueID>
+            <ISSNLinking>0008-543X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>EC 2.7.10.1</RegistryNumber>
+                <NameOfSubstance UI="D018719">Receptor, ErbB-2</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000230" MajorTopicYN="N">Adenocarcinoma</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002289" MajorTopicYN="N">Carcinoma, Non-Small-Cell Lung</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002294" MajorTopicYN="N">Carcinoma, Squamous Cell</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008175" MajorTopicYN="N">Lung Neoplasms</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009367" MajorTopicYN="N">Neoplasm Staging</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011379" MajorTopicYN="N">Prognosis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018719" MajorTopicYN="N">Receptor, ErbB-2</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015996" MajorTopicYN="N">Survival Rate</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2005</Year>
+                <Month>3</Month>
+                <Day>17</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2005</Year>
+                <Month>6</Month>
+                <Day>9</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2005</Year>
+                <Month>3</Month>
+                <Day>17</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">15770690</ArticleId>
+            <ArticleId IdType="doi">10.1002/cncr.20957</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

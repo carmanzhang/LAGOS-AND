@@ -1,0 +1,150 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">12220740</PMID>
+        <DateCompleted>
+            <Year>2003</Year>
+            <Month>04</Month>
+            <Day>10</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>09</Month>
+            <Day>01</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0167-0115</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>108</Volume>
+                    <Issue>2-3</Issue>
+                    <PubDate>
+                        <Year>2002</Year>
+                        <Month>Oct</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Regulatory peptides</Title>
+                <ISOAbbreviation>Regul Pept</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Hormone trajectories leading to human birth.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>159-64</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The mechanisms regulating human parturition and labor remain unknown. This ignorance is expensive as preterm birth is responsible for 70% of neonatal mortality and 50% of cerebral palsy. Methods for the prediction of preterm birth and treatments for women in preterm labor have poor efficacy reflecting our limited knowledge of the mechanisms involved. Recent research has supported the view that parturition is a cascade of events that commences early in pregnancy and involves the mother, fetus, placenta, membranes, cervix and myometrium. Although a number of the key hormones and proteins involved have been identified, the relationships between these factors in time and tissues remain unclear. Placental production of Corticotropin-releasing hormone (CRH) is proposed as an early event regulating the cascade of events. Central to the onset of parturition will be a mechanism for progesterone withdrawal and estrogen activation in human. Two forms of progesterone receptor with opposing actions exist in the human myometrium. Progesterone receptor A (PR-A) is a dominant negative repressor of progesterone receptor B (PR-B). Preliminary studies strongly support the hypothesis that the onset of human parturition is initiated by rising concentrations of PR-A in the myometrium.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Smith</LastName>
+                    <ForeName>Roger</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Mothers and Babies Research Center, John Hunter Hospital, The University of Newcastle, NSW 2308, Newcastle, Australia. mdrsm@mail. newcstle. edu.au</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mesiano</LastName>
+                    <ForeName>Sam</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McGrath</LastName>
+                    <ForeName>Shaun</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Regul Pept</MedlineTA>
+            <NlmUniqueID>8100479</NlmUniqueID>
+            <ISSNLinking>0167-0115</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D006728">Hormones</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006728" MajorTopicYN="N">Hormones</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007231" MajorTopicYN="N">Infant, Newborn</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007743" MajorTopicYN="N">Labor, Obstetric</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008954" MajorTopicYN="N">Models, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009215" MajorTopicYN="N">Myometrium</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D036801" MajorTopicYN="N">Parturition</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010920" MajorTopicYN="N">Placenta</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011247" MajorTopicYN="N">Pregnancy</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>35</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2002</Year>
+                <Month>9</Month>
+                <Day>11</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2003</Year>
+                <Month>4</Month>
+                <Day>11</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2002</Year>
+                <Month>9</Month>
+                <Day>11</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">12220740</ArticleId>
+            <ArticleId IdType="pii">S0167011502001052</ArticleId>
+            <ArticleId IdType="doi">10.1016/s0167-0115(02)00105-2</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

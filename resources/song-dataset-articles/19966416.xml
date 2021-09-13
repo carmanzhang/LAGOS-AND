@@ -1,0 +1,333 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">19966416</PMID>
+        <DateCompleted>
+            <Year>2010</Year>
+            <Month>01</Month>
+            <Day>14</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>01</Month>
+            <Day>08</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1399-0047</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>65</Volume>
+                    <Issue>Pt 12</Issue>
+                    <PubDate>
+                        <Year>2009</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Acta crystallographica. Section D, Biological crystallography</Title>
+                <ISOAbbreviation>Acta Crystallogr D Biol Crystallogr</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Structure of the Taz2 domain of p300: insights into ligand binding.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1301-8</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1107/S0907444909040153</ELocationID>
+            <Abstract>
+                <AbstractText>CBP and its paralog p300 are histone acetyl transferases that regulate gene expression by interacting with multiple transcription factors via specialized domains. The structure of a segment of human p300 protein (residues 1723-1836) corresponding to the extended zinc-binding Taz2 domain has been investigated. The crystal structure was solved by the SAD approach utilizing the anomalous diffraction signal of the bound Zn ions. The structure comprises an atypical helical bundle stabilized by three Zn ions and closely resembles the solution structures determined previously for shorter peptides. Residues 1813-1834 from the current construct form a helical extension of the C-terminal helix and make extensive crystal-contact interactions with the peptide-binding site of Taz2, providing additional insights into the mechanism of the recognition of diverse transactivation domains (TADs) by Taz2. On the basis of these results and molecular modeling, a hypothetical model of the binding of phosphorylated p53 TAD1 to Taz2 has been proposed.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Miller</LastName>
+                    <ForeName>Maria</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Protein Structure Section, Macromolecular Crystallography Laboratory, NCI-Frederick, Frederick, Maryland 21702-1201, USA. mariami@mail.nih.gov</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dauter</LastName>
+                    <ForeName>Zbigniew</ForeName>
+                    <Initials>Z</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cherry</LastName>
+                    <ForeName>Scott</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tropea</LastName>
+                    <ForeName>Joseph E</ForeName>
+                    <Initials>JE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wlodawer</LastName>
+                    <ForeName>Alexander</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <Agency>Intramural NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052060">Research Support, N.I.H., Intramural</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2009</Year>
+                <Month>11</Month>
+                <Day>17</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Acta Crystallogr D Biol Crystallogr</MedlineTA>
+            <NlmUniqueID>9305878</NlmUniqueID>
+            <ISSNLinking>0907-4449</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D008024">Ligands</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.3.1.48</RegistryNumber>
+                <NameOfSubstance UI="D050881">E1A-Associated p300 Protein</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.3.1.48</RegistryNumber>
+                <NameOfSubstance UI="C494360">EP300 protein, human</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000595" MajorTopicYN="N">Amino Acid Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018360" MajorTopicYN="N">Crystallography, X-Ray</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D050881" MajorTopicYN="N">E1A-Associated p300 Protein</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008024" MajorTopicYN="N">Ligands</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008958" MajorTopicYN="N">Models, Molecular</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008969" MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019906" MajorTopicYN="N">Nuclear Magnetic Resonance, Biomolecular</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011485" MajorTopicYN="N">Protein Binding</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D054730" MajorTopicYN="Y">Protein Interaction Domains and Motifs</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2009</Year>
+                <Month>09</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2009</Year>
+                <Month>10</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2009</Year>
+                <Month>12</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2009</Year>
+                <Month>12</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2010</Year>
+                <Month>1</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">19966416</ArticleId>
+            <ArticleId IdType="pii">S0907444909040153</ArticleId>
+            <ArticleId IdType="doi">10.1107/S0907444909040153</ArticleId>
+            <ArticleId IdType="pmc">PMC2789004</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Genes Dev. 2000 Jul 1;14(13):1553-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10887150</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2000 Oct 20;303(2):243-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11023789</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2000 Nov 7;97(23):12547-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11070080</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Biochem. 2001 May;268(10):2764-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11358490</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Cell Biol. 2001;79(3):253-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11467739</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncogene. 2002 Mar 28;21(14):2253-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11948408</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acta Crystallogr D Biol Crystallogr. 1997 May 1;53(Pt 3):240-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15299926</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acta Crystallogr D Biol Crystallogr. 2004 Dec;60(Pt 12 Pt 1):2126-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15572765</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acta Crystallogr D Biol Crystallogr. 2004 Dec;60(Pt 12 Pt 1):2256-68</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15572779</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Mol Cell Biol. 2005 Mar;6(3):197-208</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15738986</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2005 Oct 25;102(43):15412-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16234232</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell. 2006 Jun 23;22(6):731-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16793543</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acta Crystallogr D Biol Crystallogr. 2006 Aug;62(Pt 8):859-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16855301</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2007 Apr 24;104(17):7009-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17438265</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 2009 Feb 17;48(6):1244-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19166313</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 2009 Apr 8;28(7):948-58</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19214187</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Structure. 2009 Feb 13;17(2):202-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19217391</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2009 Apr 21;106(16):6591-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19357310</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncogene. 2009 May 21;28(20):2112-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19363523</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2009 May 15;137(4):609-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19450511</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2009 Aug 11;106(32):13260-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19651603</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Methods Enzymol. 1997;276:307-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27754618</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1996 Nov 8;274(5289):948-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8875929</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncogene. 1999 Jan 7;18(1):189-99</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9926934</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

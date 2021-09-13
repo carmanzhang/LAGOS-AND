@@ -1,0 +1,185 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NASA">
+        <PMID Version="1">11537721</PMID>
+        <DateCompleted>
+            <Year>1995</Year>
+            <Month>03</Month>
+            <Day>30</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0167-7012</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>17</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>1993</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of microbiological methods</Title>
+                <ISOAbbreviation>J. Microbiol. Methods</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A direct viable count method for the enumeration of attached bacteria and assessment of biofilm disinfection.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>167-80</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>This report describes the adaptation of an in situ direct viable count (in situ DVC) method in biofilm disinfection studies.  The results obtained with this technique were compared to two other enumeration methods, the plate count (PC) and conventional direct viable count (c-DVC).  An environmental isolate (Klebsiella pneumoniae Kp1) was used to form biofilms on stainless steel coupons in a stirred batch reactor.  The in situ DVC method was applied to directly assess the viability of bacteria in biofilms without disturbing the integrity of the interfacial community.  As additional advantages, the results were observed after 4 h instead of the 24 h incubation time required for colony formation and total cell numbers that remained on the substratum were enumerated.  Chlorine and monochloramine were used to determine the susceptibilities of attached and planktonic bacteria to disinfection treatment using this novel analytical approach.  The planktonic cells in the reactor showed no significant change in susceptibility to disinfectants during the period of biofilm formation.  In addition, the attached cells did not reveal any more resistance to disinfection than planktonic cells.  The disinfection studies of young biofilms indicated that 0.25 mg/l free chlorine (at pH 7.2) and 1 mg/l monochloramine (at pH 9.0) have comparable disinfection efficiencies at 25 degrees C.  Although being a weaker disinfectant, monochloramine was more effective in removing attached bacteria from the substratum than free chlorine.  The in situ DVC method always showed at least one log higher viable cell densities than the PC method, suggesting that the in situ DVC method is more efficient in the enumeration of biofilm bacteria.  The results also indicated that the in situ DVC method can provide more accurate information regarding the cell numbers and viability of bacteria within biofilms following disinfection.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yu</LastName>
+                    <ForeName>F P</ForeName>
+                    <Initials>FP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, Montana State University, Bozeman 59717.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pyle</LastName>
+                    <ForeName>B H</ForeName>
+                    <Initials>BH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McFeters</LastName>
+                    <ForeName>G A</ForeName>
+                    <Initials>GA</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D003160">Comparative Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+                <PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>J Microbiol Methods</MedlineTA>
+            <NlmUniqueID>8306883</NlmUniqueID>
+            <ISSNLinking>0167-7012</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000588">Amines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004202">Disinfectants</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>4R7X1O2820</RegistryNumber>
+                <NameOfSubstance UI="D002713">Chlorine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>712K4CDC10</RegistryNumber>
+                <NameOfSubstance UI="D006997">Hypochlorous Acid</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>S</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000588" MajorTopicYN="N">Amines</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001422" MajorTopicYN="N">Bacterial Adhesion</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002713" MajorTopicYN="N">Chlorine</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015169" MajorTopicYN="N">Colony Count, Microbial</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004202" MajorTopicYN="N">Disinfectants</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004203" MajorTopicYN="N">Disinfection</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004783" MajorTopicYN="N">Environmental Microbiology</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006997" MajorTopicYN="N">Hypochlorous Acid</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007711" MajorTopicYN="N">Klebsiella pneumoniae</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName UI="Q000254" MajorTopicYN="N">growth &amp; development</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010933" MajorTopicYN="N">Plankton</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NASA">00017471</OtherID>
+        <KeywordList Owner="NASA">
+            <Keyword MajorTopicYN="N">NASA Discipline Environmental Health</Keyword>
+            <Keyword MajorTopicYN="N">NASA Discipline Number 04-10</Keyword>
+            <Keyword MajorTopicYN="N">Non-NASA Center</Keyword>
+        </KeywordList>
+        <InvestigatorList>
+            <Investigator ValidYN="Y">
+                <LastName>McFeters</LastName>
+                <ForeName>G A</ForeName>
+                <Initials>GA</Initials>
+                <AffiliationInfo>
+                    <Affiliation>Montana St Univ, Bozeman, Dept Microbiology</Affiliation>
+                </AffiliationInfo>
+            </Investigator>
+        </InvestigatorList>
+        <GeneralNote Owner="NASA">Grant numbers: NAG 9-241</GeneralNote>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1993</Year>
+                <Month>4</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2001</Year>
+                <Month>9</Month>
+                <Day>11</Day>
+                <Hour>10</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1993</Year>
+                <Month>4</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">11537721</ArticleId>
+            <ArticleId IdType="pii">0167-7012(93)90044-I</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

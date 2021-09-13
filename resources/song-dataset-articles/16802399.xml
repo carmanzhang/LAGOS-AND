@@ -1,0 +1,168 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">16802399</PMID>
+        <DateCompleted>
+            <Year>2007</Year>
+            <Month>05</Month>
+            <Day>22</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1433-7851</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>45</Volume>
+                    <Issue>29</Issue>
+                    <PubDate>
+                        <Year>2006</Year>
+                        <Month>Jul</Month>
+                        <Day>17</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Angewandte Chemie (International ed. in English)</Title>
+                <ISOAbbreviation>Angew Chem Int Ed Engl</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Bioconjugated Ag nanoparticles and CdTe nanowires: metamaterials with field-enhanced light absorption.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>4819-23</MedlinePgn>
+            </Pagination>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Jaebeom</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemical Engineering, University of Michigan, Ann Arbor, MI 48109, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Javed</LastName>
+                    <ForeName>Tanveer</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Skeini</LastName>
+                    <ForeName>Timur</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Govorov</LastName>
+                    <ForeName>Alexander O</ForeName>
+                    <Initials>AO</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bryant</LastName>
+                    <ForeName>Garnett W</ForeName>
+                    <Initials>GW</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kotov</LastName>
+                    <ForeName>Nicholas A</ForeName>
+                    <Initials>NA</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Angew Chem Int Ed Engl</MedlineTA>
+            <NlmUniqueID>0370543</NlmUniqueID>
+            <ISSNLinking>1433-7851</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D019187">Cadmium Compounds</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>3M4G523W1G</RegistryNumber>
+                <NameOfSubstance UI="D012834">Silver</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>NQA0O090ZJ</RegistryNumber>
+                <NameOfSubstance UI="D013691">Tellurium</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000327" MajorTopicYN="N">Adsorption</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019187" MajorTopicYN="N">Cadmium Compounds</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008027" MajorTopicYN="Y">Light</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D046529" MajorTopicYN="N">Microscopy, Electron, Transmission</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D053758" MajorTopicYN="N">Nanoparticles</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000648" MajorTopicYN="N">ultrastructure</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D053770" MajorTopicYN="N">Nanowires</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000648" MajorTopicYN="N">ultrastructure</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010777" MajorTopicYN="N">Photochemistry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012834" MajorTopicYN="N">Silver</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013691" MajorTopicYN="N">Tellurium</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2006</Year>
+                <Month>6</Month>
+                <Day>28</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2007</Year>
+                <Month>5</Month>
+                <Day>23</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2006</Year>
+                <Month>6</Month>
+                <Day>28</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">16802399</ArticleId>
+            <ArticleId IdType="doi">10.1002/anie.200600356</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

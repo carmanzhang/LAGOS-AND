@@ -1,0 +1,716 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21483740</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>07</Month>
+            <Day>20</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>6</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Apr</Month>
+                        <Day>04</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Identification of common differentially expressed genes in urinary bladder cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e18135</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0018135</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Current diagnosis and treatment of urinary bladder cancer (BC) has shown great progress with the utilization of microarrays.</AbstractText>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">Our goal was to identify common differentially expressed (DE) genes among clinically relevant subclasses of BC using microarrays.</AbstractText>
+                <AbstractText Label="METHODOLOGY/PRINCIPAL FINDINGS" NlmCategory="RESULTS">BC samples and controls, both experimental and publicly available datasets, were analyzed by whole genome microarrays. We grouped the samples according to their histology and defined the DE genes in each sample individually, as well as in each tumor group. A dual analysis strategy was followed. First, experimental samples were analyzed and conclusions were formulated; and second, experimental sets were combined with publicly available microarray datasets and were further analyzed in search of common DE genes. The experimental dataset identified 831 genes that were DE in all tumor samples, simultaneously. Moreover, 33 genes were up-regulated and 85 genes were down-regulated in all 10 BC samples compared to the 5 normal tissues, simultaneously. Hierarchical clustering partitioned tumor groups in accordance to their histology. K-means clustering of all genes and all samples, as well as clustering of tumor groups, presented 49 clusters. K-means clustering of common DE genes in all samples revealed 24 clusters. Genes manifested various differential patterns of expression, based on PCA. YY1 and NFκB were among the most common transcription factors that regulated the expression of the identified DE genes. Chromosome 1 contained 32 DE genes, followed by chromosomes 2 and 11, which contained 25 and 23 DE genes, respectively. Chromosome 21 had the least number of DE genes. GO analysis revealed the prevalence of transport and binding genes in the common down-regulated DE genes; the prevalence of RNA metabolism and processing genes in the up-regulated DE genes; as well as the prevalence of genes responsible for cell communication and signal transduction in the DE genes that were down-regulated in T1-Grade III tumors and up-regulated in T2/T3-Grade III tumors. Combination of samples from all microarray platforms revealed 17 common DE genes, (BMP4, CRYGD, DBH, GJB1, KRT83, MPZ, NHLH1, TACR3, ACTC1, MFAP4, SPARCL1, TAGLN, TPM2, CDC20, LHCGR, TM9SF1 and HCCS) 4 of which participate in numerous pathways.</AbstractText>
+                <AbstractText Label="CONCLUSIONS/SIGNIFICANCE" NlmCategory="CONCLUSIONS">The identification of the common DE genes among BC samples of different histology can provide further insight into the discovery of new putative markers.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zaravinos</LastName>
+                    <ForeName>Apostolos</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Virology, Medical School, University of Crete, Crete, Greece.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lambrou</LastName>
+                    <ForeName>George I</ForeName>
+                    <Initials>GI</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Boulalas</LastName>
+                    <ForeName>Ioannis</ForeName>
+                    <Initials>I</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Delakas</LastName>
+                    <ForeName>Dimitris</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Spandidos</LastName>
+                    <ForeName>Demetrios A</ForeName>
+                    <Initials>DA</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>04</Month>
+                <Day>04</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014408">Biomarkers, Tumor</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014157">Transcription Factors</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014408" MajorTopicYN="N">Biomarkers, Tumor</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016022" MajorTopicYN="N">Case-Control Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002874" MajorTopicYN="N">Chromosome Mapping</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016000" MajorTopicYN="N">Cluster Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020869" MajorTopicYN="N">Gene Expression Profiling</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007150" MajorTopicYN="N">Immunohistochemistry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020411" MajorTopicYN="N">Oligonucleotide Array Sequence Analysis</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D025341" MajorTopicYN="N">Principal Component Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014157" MajorTopicYN="N">Transcription Factors</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001749" MajorTopicYN="N">Urinary Bladder Neoplasms</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2010</Year>
+                <Month>09</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2011</Year>
+                <Month>02</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>7</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21483740</ArticleId>
+            <ArticleId IdType="doi">10.1371/journal.pone.0018135</ArticleId>
+            <ArticleId IdType="pmc">PMC3070717</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Acta Neuropathol. 2005 Jun;109(6):598-602</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15895198</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Cancer Res. 2004 May 15;10(10):3410-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15161696</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2004 Oct 15;64(20):7355-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15492256</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Bioinformatics. 2005;6:309</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16381608</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell. 2002 Mar;9(3):625-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11931769</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Clin Pathol. 2003 Mar;119(3):361-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12645337</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2009 Dec 15;69(24):9315-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19934327</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Med Hypotheses. 1995 Nov;45(5):486-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8748093</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2004 Jun 1;64(11):4040-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15173019</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Expert Rev Mol Diagn. 2003 Sep;3(5):635-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14510183</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochim Biophys Acta. 1997 Apr 18;1332(2):F49-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9141463</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Urol. 2009 Aug;182(2):741-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19539325</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2005 Feb 15;65(4):1376-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15735024</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2001 Aug 14;98(17):9754-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11493696</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Urol Oncol. 2002 Sep-Oct;7(5):207-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12644218</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Genet. 2001 Jun;2(6):418-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11389458</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncogene. 2010 Jan 7;29(1):1-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19826416</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2000 Aug 17;406(6797):747-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10963602</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2002 Dec;32 Suppl:490-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12454643</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Biotechnol. 2006 Sep;24(9):1151-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16964229</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Carcinogenesis. 2009 Mar;30(3):449-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19126649</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2005 Mar15;21(6):803-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15374858</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Chronobiol Int. 2009 Oct;26(7):1323-39</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19916834</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Urol Oncol. 2010 Jul-Aug;28(4):401-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20610278</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Med Hypotheses. 1979 Sep;5(9):1007-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">522703</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Cycle. 2009 May 1;8(9):1367-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19342874</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Mol Biol. 2009;10:85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19712462</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 1996 Jan 1;24(1):238-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8594589</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2003 Jan;33(1):90-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12469123</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Pathol. 2003 Aug;163(2):505-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12875971</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Biol Ther. 2009 Apr;8(7):6-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19417560</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Immunohistochem Mol Morphol. 2009 May;17(3):185-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19384079</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2003 Aug 5;100(16):9440-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12883005</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2008 Mar 14;283(11):7036-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18178551</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2002 Jan;18(1):207-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11836235</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur Urol. 2004 Aug;46(2):170-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15245809</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochim Biophys Acta. 2008 May;1783(5):826-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18029035</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2001 Mar 15;61(6):2492-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11289120</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Med. 2001 Jun;7(6):673-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11385503</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2004 Jun 25;117(7):859-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15210108</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Cancer Res. 2003 Apr;9(4):1240-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12684390</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2000 Oct;26(2):183-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11017073</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2007 May 1;23(9):1168-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17344240</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncogene. 2003 Oct 23;22(48):7702-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14576834</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2000 Mar;24(3):227-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10700174</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2002 Dec 1;62(23):6973-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12460915</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Pathol. 2008 May;172(5):1303-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18403603</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2000 Feb 3;403(6769):503-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10676951</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncogene. 2008 Mar 6;27(11):1562-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17873905</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Oncol. 2007 Apr 10;25(11):1341-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17312329</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Toxicology. 2009 Apr 28;258(2-3):116-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19428931</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2010;5(4):e9983</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20386695</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Endocrinology. 2008 Jun;149(6):3158-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18292190</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Cancer. 2006 Sep 15;119(6):1276-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16615118</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Med. 2008 Sep 30;5(9):e184</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18767902</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Oncol. 2009 May 20;27(15):2503-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19332734</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncogene. 1999 Feb 4;18(5):1185-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10022124</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Recent Results Cancer Res. 2007;174:37-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17302183</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genet Res. 2006 Dec;88(3):153-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17371610</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2004 Aug 17;101(33):12165-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15295102</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Genomics. 2003 Oct 2;4(1):41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14525623</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2007 Apr 6;129(1):163-78</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17418793</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Bioinformatics. 2006;7:470</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17062145</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Methods Mol Biol. 2003;224:149-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12710672</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEBS Lett. 2006 Jan 9;580(1):245-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16364318</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Cycle. 2009 May;8(9):1305</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19377298</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann N Y Acad Sci. 2009 Apr;1160:374-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19416222</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2005 Jul 1;33(Web Server issue):W741-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15980575</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2010;5(11):e13822</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21103045</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Cell. 2010 Apr 13;17(4):348-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20385360</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Oncol. 2005 Jul;27(1):131-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15942652</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>CA Cancer J Clin. 2008 May-Jun;58(3):180-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18460593</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Mol Med. 2010 Aug;26(2):241-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20596604</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2008 Jul 4;283(27):18582-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18474597</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Free Radic Biol Med. 2004 Aug 15;37(4):521-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15256223</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Cancer. 2007;7:64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17430594</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2009 Aug 18;106(33):14016-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19666525</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2004 Jun 25;279(26):27781-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15073177</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Bioinformatics. 2004 Feb 18;5:16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14975175</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Cycle. 2010 Feb 1;9(3):512-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20081375</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2001 Sep 1;61(17):6428-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11522637</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2001 Sep 11;98(19):10869-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11553815</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2010 Jul 30;329(5991):568-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20671189</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1999 Oct 15;286(5439):531-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10521349</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Adv Exp Med Biol. 2007;612:104-18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18161484</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Clin Cancer Res. 2010;29:99</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20642846</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2004;32(15):e124</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15333675</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

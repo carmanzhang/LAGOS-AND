@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">22997330</PMID>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>10</Month>
+            <Day>09</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2012</Year>
+            <Month>12</Month>
+            <Day>11</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1095-9203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>337</Volume>
+                    <Issue>6101</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Sep</Month>
+                        <Day>21</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Science (New York, N.Y.)</Title>
+                <ISOAbbreviation>Science</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Why a macroeconomic perspective is critical to the prevention of noncommunicable disease.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1501-3</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Effective prevention of noncommunicable diseases will require changes in how we live, and thereby effect important economic changes across populations, sectors, and countries. What we do not know is which populations, sectors, or countries will be positively or negatively affected by such changes, nor by how much. Without this information we cannot know which policies will produce effects that are beneficial both for economies and for health.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Smith</LastName>
+                    <ForeName>Richard</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Health System Economics, Faculty of Public Health and Policy, London School of Hygiene and Tropical Medicine, 15-17 Tavistock Place, London WC1H 9SH, UK. richard.smith@lshtm.ac.uk</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Science</MedlineTA>
+            <NlmUniqueID>0404511</NlmUniqueID>
+            <ISSNLinking>0036-8075</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Science. 2012 Dec 7;338(6112):1285-6</RefSource>
+                <PMID Version="1">23224538</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D002908" MajorTopicYN="N">Chronic Disease</DescriptorName>
+                <QualifierName UI="Q000191" MajorTopicYN="Y">economics</QualifierName>
+                <QualifierName UI="Q000517" MajorTopicYN="Y">prevention &amp; control</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017281" MajorTopicYN="N">Cost of Illness</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004467" MajorTopicYN="Y">Economics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006291" MajorTopicYN="N">Health Policy</DescriptorName>
+                <QualifierName UI="Q000191" MajorTopicYN="Y">economics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008019" MajorTopicYN="N">Life Style</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012307" MajorTopicYN="N">Risk Factors</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>9</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>9</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>10</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">22997330</ArticleId>
+            <ArticleId IdType="pii">337/6101/1501</ArticleId>
+            <ArticleId IdType="doi">10.1126/science.1222569</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

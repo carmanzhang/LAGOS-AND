@@ -1,0 +1,519 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">24058022</PMID>
+        <DateCompleted>
+            <Year>2017</Year>
+            <Month>08</Month>
+            <Day>23</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1558-254X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>32</Volume>
+                    <Issue>12</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>IEEE transactions on medical imaging</Title>
+                <ISOAbbreviation>IEEE Trans Med Imaging</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Magnetic Resonance Image Example-Based Contrast Synthesis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2348-63</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1109/TMI.2013.2282126</ELocationID>
+            <Abstract>
+                <AbstractText>The performance of image analysis algorithms applied to magnetic resonance images is strongly influenced by the pulse sequences used to acquire the images. Algorithms are typically optimized for a targeted tissue contrast obtained from a particular implementation of a pulse sequence on a specific scanner. There are many practical situations, including multi-institution trials, rapid emergency scans, and scientific use of historical data, where the images are not acquired according to an optimal protocol or the desired tissue contrast is entirely missing. This paper introduces an image restoration technique that recovers images with both the desired tissue contrast and a normalized intensity profile. This is done using patches in the acquired images and an atlas containing patches of the acquired and desired tissue contrasts. The method is an example-based approach relying on sparse reconstruction from image patches. Its performance in demonstrated using several examples, including image intensity normalization, missing tissue contrast recovery, automatic segmentation, and multimodal registration. These examples demonstrate potential practical uses and also illustrate limitations of our approach. </AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Roy</LastName>
+                    <ForeName>Snehashis</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Carass</LastName>
+                    <ForeName>Aaron</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Prince</LastName>
+                    <ForeName>Jerry L</ForeName>
+                    <Initials>JL</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>U24 RR021382</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 EB017743</GrantID>
+                    <Acronym>EB</Acronym>
+                    <Agency>NIBIB NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U24 RR021760</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U24 RR019701</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R21 EB012765</GrantID>
+                    <Acronym>EB</Acronym>
+                    <Agency>NIBIB NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 NS056307</GrantID>
+                    <Acronym>NS</Acronym>
+                    <Agency>NINDS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U24 RR021992</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>09</Month>
+                <Day>16</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>IEEE Trans Med Imaging</MedlineTA>
+            <NlmUniqueID>8310780</NlmUniqueID>
+            <ISSNLinking>0278-0062</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24058022</ArticleId>
+            <ArticleId IdType="doi">10.1109/TMI.2013.2282126</ArticleId>
+            <ArticleId IdType="pmc">PMC3955746</ArticleId>
+            <ArticleId IdType="mid">NIHMS541014</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Neurosci. 2003 Apr 15;23(8):3295-301</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12716936</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Magn Reson Med. 1998 Feb;39(2):322-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9469718</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Med Image Comput Comput Assist Interv. 2008;11(Pt 2):171-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18982603</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IEEE Trans Image Process. 2006 Dec;15(12):3736-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17153947</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuroimage. 2006 Sep;32(3):1205-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16797188</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuroimage. 2000 Jul;12(1):112-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10875908</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Conf Proc IEEE Eng Med Biol Soc. 2008;2008:2233-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19163143</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IEEE Trans Med Imaging. 2007 Apr;26(4):487-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17427736</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuroimage. 2010 May 15;51(1):221-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20114079</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Alzheimers Dement. 2012 Oct;8(5 Suppl):S71-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23021624</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hum Brain Mapp. 2008 Aug;29(8):958-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17636563</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Med Phys. 1993 Jul-Aug;20(4):1033-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8413011</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuroimage. 2006 Apr 1;30(2):388-99</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16275137</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Med Image Anal. 2010 Dec;14(6):784-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20566298</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IEEE Trans Med Imaging. 1998 Feb;17(1):87-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9617910</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuroimage. 2012 Jul 16;61(4):957-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22440645</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2013;8(4):e60344</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23577105</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuroimage. 2011 Feb 14;54(4):2854-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21094686</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Magn Reson Med. 1995 Jul;34(1):65-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7674900</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IEEE Trans Image Process. 1997;6(12):1646-58</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18285235</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuroimage. 2010 Oct 1;52(4):1215-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20441796</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mov Disord. 2012 Jun;27(7):895-902</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22649062</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuroimage. 2012 Feb 1;59(3):2362-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21945694</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuroimage. 2004;23 Suppl 1:S69-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15501102</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hum Brain Mapp. 2009 Apr;30(4):1310-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18537111</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IEEE Trans Med Imaging. 2000 Feb;19(2):143-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10784285</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IEEE Trans Med Imaging. 2011 Oct;30(10):1852-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21606021</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc IEEE Int Symp Biomed Imaging. 2011 Dec 31;2011:101-104</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24443667</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Brain. 2009 Aug;132(Pt 8):2036-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19439419</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Med Image Anal. 2008 Aug;12(4):514-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18381247</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuroimage. 2011 Jan 15;54(2):940-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20851199</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IEEE Trans Med Imaging. 2007 Apr;26(4):479-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17427735</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IEEE Trans Med Imaging. 2003 Nov;22(11):1470-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14606680</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Biomed Imaging. 2009;2009:281615</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19680457</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2005 Jul 5;102(27):9446-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15976026</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc SPIE Int Soc Opt Eng. 2010;7623:76230j</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20431709</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Magn Reson Imaging. 2003 Sep;21(7):817-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14559347</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Med Image Anal. 2012 Feb;16(2):524-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22204754</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuroimaging Clin N Am. 2005 Nov;15(4):869-77, xi-xii</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16443497</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Med Image Anal. 2008 Feb;12(1):26-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17659998</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Magn Reson Med. 2005 Nov;54(5):1163-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16187289</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Radiol. 2003 Oct;76(910):696-703</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14512329</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuroimage. 2012 Feb 15;59(4):3736-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22094645</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuroimage. 2011 Jun 15;56(4):1982-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21458576</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Med Phys. 2006 Sep;33(9):3426-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17022239</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IEEE Trans Image Process. 2010 Nov;19(11):2861-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20483687</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuroimage. 2006 Jan 1;29(1):185-202</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16139526</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Med Phys. 1995 Oct;22(10):1651-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8551990</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc IEEE Int Symp Biomed Imaging. 2008;4541030:452</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20126427</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hum Brain Mapp. 2014 Feb;35(2):377-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22987811</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc IEEE Int Symp Biomed Imaging. 2010 Jun 21;2010:932-935</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21132059</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neurology. 2000 Jun 13;54(11):2072-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10851365</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Behav Neurosci. 2003 Dec;117(6):1169-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14674838</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Inf Process Med Imaging. 2011;22:371-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21761671</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IEEE Trans Med Imaging. 2010 Oct;29(10):1714-29</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20562040</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuroimage. 1999 Feb;9(2):179-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9931268</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Magn Reson Med. 1999 Dec;42(6):1072-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10571928</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1993 Dec 15;90(24):11944-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8265653</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cogn Neurosci. 2007 Sep;19(9):1498-507</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17714011</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuroimage. 2012 Jul 16;61(4):1402-18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22430496</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuroimage. 2004 Jul;22(3):1255-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15219597</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

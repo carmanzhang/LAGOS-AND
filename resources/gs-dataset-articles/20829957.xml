@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">20829957</PMID>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>10</Month>
+            <Day>02</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>10</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1559-128X</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>32</Volume>
+                    <Issue>19</Issue>
+                    <PubDate>
+                        <Year>1993</Year>
+                        <Month>Jul</Month>
+                        <Day>01</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Applied optics</Title>
+                <ISOAbbreviation>Appl Opt</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Regimes of surface roughness measurable with light scattering.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>3401-8</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1364/AO.32.003401</ELocationID>
+            <Abstract>
+                <AbstractText>In this paper we summarize a number of previous experiments on the measurement of the roughness of metallic surfaces by light scattering. We identify several regimes that permit measurement of different surface parameters and functions, and we establish approximate limits for each regime. Using a straightforward criterion, we calculate that the smooth-surface regime, in which the angular distribution of scattered light is closely related to the power spectral density of the roughness, ranges over 0 &lt; σ/λ ≲ 0.05, where σ is the rms roughness and λ is the opitcal wavelength. Above that the surfaceautocorrelation function may be calculated from a Fourier transform of the angular distribution over 0 &lt; σ/λ ≲ 0.14. Then comes the specular regime where the specular beam can still be identified andmeasured over 0 &lt; σ/λ ≲ 0.3. For all these regimes and for rougher surfaces too, the rms width of thescatter distribution is proportional to the rms slope of the surface.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Vorburger</LastName>
+                    <ForeName>T V</ForeName>
+                    <Initials>TV</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Marx</LastName>
+                    <ForeName>E</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lettieri</LastName>
+                    <ForeName>T R</ForeName>
+                    <Initials>TR</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Appl Opt</MedlineTA>
+            <NlmUniqueID>0247660</NlmUniqueID>
+            <ISSNLinking>1559-128X</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>9</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1993</Year>
+                <Month>7</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1993</Year>
+                <Month>7</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20829957</ArticleId>
+            <ArticleId IdType="pii">40954</ArticleId>
+            <ArticleId IdType="doi">10.1364/AO.32.003401</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,583 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">27133463</PMID>
+        <DateCompleted>
+            <Year>2017</Year>
+            <Month>08</Month>
+            <Day>03</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1097-4199</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>90</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>05</Month>
+                        <Day>18</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Neuron</Title>
+                <ISOAbbreviation>Neuron</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Protons Regulate Vesicular Glutamate Transporters through an Allosteric Mechanism.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>768-80</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.neuron.2016.03.026</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S0896-6273(16)30017-4</ELocationID>
+            <Abstract>
+                <AbstractText>The quantal nature of synaptic transmission requires a mechanism to transport neurotransmitter into synaptic vesicles without promoting non-vesicular efflux across the plasma membrane. Indeed, the vesicular transport of most classical transmitters involves a mechanism of H(+) exchange, which restricts flux to acidic membranes such as synaptic vesicles. However, vesicular transport of the principal excitatory transmitter glutamate depends primarily on membrane potential, which would drive non-vesicular efflux, and the role of protons is unclear. Adapting electrophysiology to record currents associated with the vesicular glutamate transporters (VGLUTs), we characterize a chloride conductance that is gated by lumenal protons and chloride and supports glutamate uptake. Rather than coupling stoichiometrically to glutamate flux, lumenal protons and chloride allosterically activate vesicular glutamate transport. Gating by protons serves to inhibit what would otherwise be substantial non-vesicular glutamate efflux at the plasma membrane, thereby restricting VGLUT activity to synaptic vesicles.</AbstractText>
+                <CopyrightInformation>Copyright © 2016 Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Eriksen</LastName>
+                    <ForeName>Jacob</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physiology, UCSF School of Medicine, San Francisco, CA 94143, USA; Department of Neurology, UCSF School of Medicine, San Francisco, CA 94143, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chang</LastName>
+                    <ForeName>Roger</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physiology, UCSF School of Medicine, San Francisco, CA 94143, USA; Department of Neurology, UCSF School of Medicine, San Francisco, CA 94143, USA; Graduate Program in Biomedical Sciences, UCSF School of Medicine, San Francisco, CA 94143, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McGregor</LastName>
+                    <ForeName>Matt</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physiology, UCSF School of Medicine, San Francisco, CA 94143, USA; Department of Neurology, UCSF School of Medicine, San Francisco, CA 94143, USA; Graduate Program in Neuroscience, UCSF School of Medicine, San Francisco, CA 94143, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Silm</LastName>
+                    <ForeName>Katlin</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physiology, UCSF School of Medicine, San Francisco, CA 94143, USA; Department of Neurology, UCSF School of Medicine, San Francisco, CA 94143, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Suzuki</LastName>
+                    <ForeName>Toshiharu</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Science and Engineering, Waseda University, Shinjuku-ku, Tokyo 169-8555, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Edwards</LastName>
+                    <ForeName>Robert H</ForeName>
+                    <Initials>RH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physiology, UCSF School of Medicine, San Francisco, CA 94143, USA; Department of Neurology, UCSF School of Medicine, San Francisco, CA 94143, USA; Graduate Program in Biomedical Sciences, UCSF School of Medicine, San Francisco, CA 94143, USA; Graduate Program in Neuroscience, UCSF School of Medicine, San Francisco, CA 94143, USA. Electronic address: robert.edwards@ucsf.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>F31 NS092298</GrantID>
+                    <Acronym>NS</Acronym>
+                    <Agency>NINDS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R37 MH050712</GrantID>
+                    <Acronym>MH</Acronym>
+                    <Agency>NIMH NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>T32 GM007618</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>T32 GM008568</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>04</Month>
+                <Day>28</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Neuron</MedlineTA>
+            <NlmUniqueID>8809320</NlmUniqueID>
+            <ISSNLinking>0896-6273</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D018377">Neurotransmitter Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011522">Protons</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D050496">Vesicular Glutamate Transport Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>3KX376GY7L</RegistryNumber>
+                <NameOfSubstance UI="D018698">Glutamic Acid</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Neuron. 2016 May 18;90(4):667-9</RefSource>
+                <PMID Version="1">27196969</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000494" MajorTopicYN="N">Allosteric Regulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001692" MajorTopicYN="N">Biological Transport</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018698" MajorTopicYN="N">Glutamic Acid</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018377" MajorTopicYN="N">Neurotransmitter Agents</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009865" MajorTopicYN="N">Oocytes</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011522" MajorTopicYN="N">Protons</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009435" MajorTopicYN="N">Synaptic Transmission</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013572" MajorTopicYN="N">Synaptic Vesicles</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D050496" MajorTopicYN="N">Vesicular Glutamate Transport Proteins</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>08</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2016</Year>
+                <Month>02</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>03</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>5</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>5</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>8</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">27133463</ArticleId>
+            <ArticleId IdType="pii">S0896-6273(16)30017-4</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.neuron.2016.03.026</ArticleId>
+            <ArticleId IdType="pmc">PMC4886649</ArticleId>
+            <ArticleId IdType="mid">NIHMS782547</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Neurosci. 2001 Nov 15;21(22):RC182</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11698620</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2002 Apr 12;277(15):13281-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11815616</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci. 2002 Jul 1;22(13):5442-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12097496</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2002 Oct 29;99(22):14488-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12388773</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2002 Dec 27;277(52):50734-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12384506</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Physiol Rev. 2003 Oct;83(4):1183-221</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14506304</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci. 2004 May 19;24(20):4884-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15152049</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc R Soc Lond B Biol Sci. 1977 Feb 11;196(1122):59-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15274</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc R Soc Lond B Biol Sci. 1981 May 7;212(1186):131-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6115388</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurochem. 1985 Jan;44(1):99-109</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2856886</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1988 Oct 25;263(30):15423-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2902091</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem J. 1989 Mar 1;258(2):499-504</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2565109</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1989 May 5;264(13):7369-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2523394</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 1990 May;9(5):1465-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1970294</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1992 Aug 5;267(22):15412-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1353494</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1993 Nov 5;268(31):23122-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8226829</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1996 May 17;271(20):11726-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8662610</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2000 Aug 11;289(5481):957-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10938000</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci. 2015 Feb 25;35(8):3701-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25716867</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuron. 2001 Jan;29(1):185-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11182090</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurophysiol. 2001 May;85(5):2030-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11353019</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuron. 2001 Aug 2;31(2):247-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11502256</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1996 May 28;93(11):5347-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8643577</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Membr Biol. 1998 Jul 1;164(1):71-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9636245</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci. 1998 Aug 15;18(16):6290-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9698321</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuron. 1999 Mar;22(3):537-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10197533</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 2004 Nov 24;23(23):4560-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15510212</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2005 Jan 14;280(2):1408-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15516337</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuron. 2006 Jul 6;51(1):71-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16815333</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuron. 2006 Jul 20;51(2):179-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16846853</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci. 2006 Nov 1;26(44):11432-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17079672</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Protein Sci. 2007 Sep;16(9):1819-29</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17660252</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuron. 2007 Sep 20;55(6):835-58</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17880890</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Neurosci. 2007 Dec;8(12):935-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17987031</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neurochem Res. 2008 Feb;33(2):238-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18080752</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Neurosci. 2008 Mar;11(3):292-300</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18278042</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Neurosci. 2009 Feb;12(2):156-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19169251</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2009 Oct 16;326(5951):449-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19833972</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuron. 2010 Mar 11;65(5):643-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20223200</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuron. 2010 Oct 6;68(1):99-112</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20920794</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Neurosci. 2011 Apr;14(4):487-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21378974</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2011;6(4):e19155</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21544206</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Neurosci. 2011 Jul;14(7):833-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21666673</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Neurosci. 2011 Oct;14(10):1285-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21874016</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuron. 2012 Nov 8;76(3):511-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23141063</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Physiol. 2013;75:453-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23092411</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cereb Blood Flow Metab. 2013 Mar;33(3):422-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23232949</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci. 2013 Apr 17;33(16):6990-7002</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23595756</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci. 2013 Jun 26;33(26):10647-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23804088</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuron. 2014 Mar 19;81(6):1360-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24656254</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci. 2014 Jun 25;34(26):8772-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24966377</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci. 2014 Aug 27;34(35):11781-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25164673</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2014 Sep 19;345(6203):1494-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25237099</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuron. 2014 Dec 17;84(6):1287-301</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25433636</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2000 Sep 14;407(6801):189-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11001057</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,406 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">19266284</PMID>
+        <DateCompleted>
+            <Year>2009</Year>
+            <Month>06</Month>
+            <Day>18</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1573-9686</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>37</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2009</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Annals of biomedical engineering</Title>
+                <ISOAbbreviation>Ann Biomed Eng</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Application of L1-norm regularization to epicardial potential solution of the inverse electrocardiography problem.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>902-12</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s10439-009-9665-6</ELocationID>
+            <Abstract>
+                <AbstractText>The electrocardiographic inverse problem of computing epicardial potentials from multi-electrode body-surface ECG measurements, is an ill-posed problem. Tikhonov regularization is commonly employed, which imposes penalty on the L2-norm of the potentials (zero-order) or their derivatives. Previous work has indicated superior results using L2-norm of the normal derivative of the solution (a first order regularization). However, L2-norm penalty function can cause considerable smoothing of the solution. Here, we use the L1-norm of the normal derivative of the potential as a penalty function. L1-norm solutions were compared to zero-order and first-order L2-norm Tikhonov solutions and to measured 'gold standards' in previous experiments with isolated canine hearts. Solutions with L1-norm penalty function (average relative error [RE] = 0.36) were more accurate than L2-norm (average RE = 0.62). In addition, the L1-norm method localized epicardial pacing sites with better accuracy (3.8 +/- 1.5 mm) compared to L2-norm (9.2 +/- 2.6 mm) during pacing in five pediatric patients with congenital heart disease. In a pediatric patient with Wolff-Parkinson-White syndrome, the L1-norm method also detected and localized two distinct areas of early activation around the mitral valve annulus, indicating the presence of two left-sided pathways which were not distinguished using L2 regularization.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ghosh</LastName>
+                    <ForeName>Subham</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biomedical Engineering, Cardiac Bioelectricity and Arrhythmia Center, Washington University in St Louis, 290 Whitaker Hall, Campus Box 1097, One Brookings Dr., Saint Louis, MO 63130-4899, USA. sg7@cec.wustl.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rudy</LastName>
+                    <ForeName>Yoram</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 HL049054</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R37-HL-33343</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01-HL-49054</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 HL049054-17A2</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 HL033343</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R37 HL033343</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 HL033343-25</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2009</Year>
+                <Month>03</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Ann Biomed Eng</MedlineTA>
+            <NlmUniqueID>0361512</NlmUniqueID>
+            <ISSNLinking>0090-6964</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000293" MajorTopicYN="N">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002304" MajorTopicYN="Y">Cardiac Pacing, Artificial</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002648" MajorTopicYN="N">Child</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002675" MajorTopicYN="N">Child, Preschool</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004285" MajorTopicYN="N">Dogs</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004562" MajorTopicYN="Y">Electrocardiography</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006330" MajorTopicYN="N">Heart Defects, Congenital</DescriptorName>
+                <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName UI="Q000628" MajorTopicYN="N">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007091" MajorTopicYN="N">Image Processing, Computer-Assisted</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008955" MajorTopicYN="Y">Models, Cardiovascular</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009203" MajorTopicYN="N">Myocardial Infarction</DescriptorName>
+                <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010496" MajorTopicYN="N">Pericardium</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014927" MajorTopicYN="N">Wolff-Parkinson-White Syndrome</DescriptorName>
+                <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2008</Year>
+                <Month>10</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2009</Year>
+                <Month>02</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2009</Year>
+                <Month>3</Month>
+                <Day>7</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2009</Year>
+                <Month>3</Month>
+                <Day>7</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2009</Year>
+                <Month>6</Month>
+                <Day>19</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">19266284</ArticleId>
+            <ArticleId IdType="doi">10.1007/s10439-009-9665-6</ArticleId>
+            <ArticleId IdType="pmc">PMC2958169</ArticleId>
+            <ArticleId IdType="mid">NIHMS236719</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Circ Res. 1975 Aug;37(2):243-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1149199</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circ Res. 1978 May;42(5):661-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">76518</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Heart Rhythm. 2006 Mar;3(3):296-310</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16500302</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol Heart Circ Physiol. 2005 Dec;289(6):H2724-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16085677</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Biomed Eng. 1998 Mar-Apr;26(2):278-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9525768</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Med. 2004 Apr;10(4):422-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15034569</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 1997 Aug 5;96(3):1012-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9264513</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Crit Rev Biomed Eng. 1988;16(3):215-68</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3064971</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Heart Rhythm. 2005 Nov;2(11):1250-2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16253916</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IEEE Trans Biomed Eng. 1998 Jan;45(1):98-104</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9444844</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 2001 Sep 11;104(11):1306-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11551884</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IEEE Trans Biomed Eng. 1972 Jul;19(4):276-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">5036139</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Heart Rhythm. 2008 Jun;5(6):857-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18482872</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuroimage. 2007 Apr 1;35(2):598-608</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17303438</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IEEE Trans Biomed Eng. 1984 Oct;31(10):652-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6490025</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Biomed Eng. 1983;11(3-4):191-206</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6670784</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hum Brain Mapp. 2008 Sep;29(9):1053-67</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17894400</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IEEE Trans Med Imaging. 2002 Sep;21(9):1031-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12564871</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Heart Rhythm. 2007 Aug;4(8):1081-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17675084</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Heart Rhythm. 2007 Dec;4(12):1565-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17996498</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IEEE Trans Biomed Eng. 2004 Feb;51(2):273-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14765700</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circ Res. 1990 Apr;66(4):1023-39</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2317885</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 2000 Feb 8;101(5):533-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10662751</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Adv Cardiol. 1978;21:50-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">619568</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IEEE Trans Image Process. 1998;7(6):813-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18276295</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Conf Proc IEEE Eng Med Biol Soc. 2004;5:3569-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17271062</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Comput Methods Programs Biomed. 1999 Feb;58(2):119-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10092027</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2006 Apr 18;103(16):6309-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16606830</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 2008 Aug 26;118(9):907-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18697818</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IEEE Trans Biomed Eng. 2003 Jan;50(1):11-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12617520</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Coll Cardiol. 2001 Dec;38(7):2071-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11738317</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

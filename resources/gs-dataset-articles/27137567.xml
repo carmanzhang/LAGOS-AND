@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">27137567</PMID>
+        <DateCompleted>
+            <Year>2018</Year>
+            <Month>01</Month>
+            <Day>26</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>10</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1094-4087</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>24</Volume>
+                    <Issue>9</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>May</Month>
+                        <Day>02</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Optics express</Title>
+                <ISOAbbreviation>Opt Express</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Improvement in the quality factors for photonic crystal nanocavities via visualization of the leaky components.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>9541-9</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1364/OE.24.009541</ELocationID>
+            <Abstract>
+                <AbstractText>A method that simply improves the quality (Q) factors of two-dimensional photonic crystal nanocavities using a three-dimensional finite-difference time domain calculation is described. The leaky area for a high-Q nanocavity mode is visualized in a real cavity structure by extracting the leaky components within a light cone in momentum space and by transferring them back into real space using an inverse Fourier transformation. The Q factor is remarkably improved by appropriately shifting the positions of air holes at the leaky area. We design three-missing-air-hole and zero-cell-defect nanocavities with Q factors of 5,000,000 and 1,700,000, respectively, for demonstration. </AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Nakamura</LastName>
+                    <ForeName>Tatsuya</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Takahashi</LastName>
+                    <ForeName>Yasushi</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tanaka</LastName>
+                    <ForeName>Yoshinori</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Asano</LastName>
+                    <ForeName>Takashi</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Noda</LastName>
+                    <ForeName>Susumu</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Opt Express</MedlineTA>
+            <NlmUniqueID>101137103</NlmUniqueID>
+            <ISSNLinking>1094-4087</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>5</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>5</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>5</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">27137567</ArticleId>
+            <ArticleId IdType="pii">340203</ArticleId>
+            <ArticleId IdType="doi">10.1364/OE.24.009541</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

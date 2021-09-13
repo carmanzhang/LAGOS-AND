@@ -1,0 +1,715 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">27882922</PMID>
+        <DateCompleted>
+            <Year>2018</Year>
+            <Month>09</Month>
+            <Day>24</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>12</Month>
+            <Day>03</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2041-1723</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>7</Volume>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>11</Month>
+                        <Day>24</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Nature communications</Title>
+                <ISOAbbreviation>Nat Commun</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>An ethnically relevant consensus Korean reference genome is a step towards personal reference genomes.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>13637</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1038/ncomms13637</ELocationID>
+            <Abstract>
+                <AbstractText>Human genomes are routinely compared against a universal reference. However, this strategy could miss population-specific and personal genomic variations, which may be detected more efficiently using an ethnically relevant or personal reference. Here we report a hybrid assembly of a Korean reference genome (KOREF) for constructing personal and ethnic references by combining sequencing and mapping methods. We also build its consensus variome reference, providing information on millions of variants from 40 additional ethnically homogeneous genomes from the Korean Personal Genome Project. We find that the ethnically relevant consensus reference can be beneficial for efficient variant detection. Systematic comparison of human assemblies shows the importance of assembly quality, suggesting the necessity of new technologies to comprehensively map ethnic and personal genomic structure variations. In the era of large-scale population genome projects, the leveraging of ethnicity-specific genome assemblies as well as the human reference genome will accelerate mapping all human genome diversity.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Cho</LastName>
+                    <ForeName>Yun Sung</ForeName>
+                    <Initials>YS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Genomics Institute (TGI), Ulsan National Institute of Science and Technology (UNIST), Ulsan 44919, Korea.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biomedical Engineering, School of Life Sciences, Ulsan National Institute of Science and Technology (UNIST), Ulsan 44919, Korea.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Personal Genomics Institute, Genome Research Foundation, Cheongju 28160, Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Hyunho</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Geromics Inc., Ulsan National Institute of Science and Technology (UNIST), Ulsan 44919, Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Hak-Min</ForeName>
+                    <Initials>HM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Genomics Institute (TGI), Ulsan National Institute of Science and Technology (UNIST), Ulsan 44919, Korea.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biomedical Engineering, School of Life Sciences, Ulsan National Institute of Science and Technology (UNIST), Ulsan 44919, Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jho</LastName>
+                    <ForeName>Sungwoong</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Personal Genomics Institute, Genome Research Foundation, Cheongju 28160, Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jun</LastName>
+                    <ForeName>JeHoon</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Personal Genomics Institute, Genome Research Foundation, Cheongju 28160, Korea.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Geromics Inc., Ulsan National Institute of Science and Technology (UNIST), Ulsan 44919, Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Yong Joo</ForeName>
+                    <Initials>YJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Geromics Inc., Ulsan National Institute of Science and Technology (UNIST), Ulsan 44919, Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chae</LastName>
+                    <ForeName>Kyun Shik</ForeName>
+                    <Initials>KS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Standard Reference Center, Korea Research Institute of Standards and Science, Daejeon 34113, Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Chang Geun</ForeName>
+                    <Initials>CG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Standard Reference Center, Korea Research Institute of Standards and Science, Daejeon 34113, Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Sangsoo</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Systems Biomedical Science, Soongsil University, Seoul 06978, Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Eriksson</LastName>
+                    <ForeName>Anders</ForeName>
+                    <Initials>A</Initials>
+                    <Identifier Source="ORCID">0000-0003-3436-3726</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Zoology, University of Cambridge, Downing Street, Cambridge CB2 3EJ, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Edwards</LastName>
+                    <ForeName>Jeremy S</ForeName>
+                    <Initials>JS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Chemistry and Chemical Biology, UNM Comprehensive Cancer Center, University of New Mexico, Albuquerque, New Mexico 87131, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Semin</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Genomics Institute (TGI), Ulsan National Institute of Science and Technology (UNIST), Ulsan 44919, Korea.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biomedical Engineering, School of Life Sciences, Ulsan National Institute of Science and Technology (UNIST), Ulsan 44919, Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Byung Chul</ForeName>
+                    <Initials>BC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Genomics Institute (TGI), Ulsan National Institute of Science and Technology (UNIST), Ulsan 44919, Korea.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biomedical Engineering, School of Life Sciences, Ulsan National Institute of Science and Technology (UNIST), Ulsan 44919, Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Manica</LastName>
+                    <ForeName>Andrea</ForeName>
+                    <Initials>A</Initials>
+                    <Identifier Source="ORCID">0000-0003-1895-450X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Zoology, University of Cambridge, Downing Street, Cambridge CB2 3EJ, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Oh</LastName>
+                    <ForeName>Tae-Kwang</ForeName>
+                    <Initials>TK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Infection and Immunity Research Center, Korea Research Institute of Bioscience and Biotechnology, Daejeon 34141, Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Church</LastName>
+                    <ForeName>George M</ForeName>
+                    <Initials>GM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Genetics, New Research Building (NRB), Harvard Medical School, 77 Avenue Louis Pasteur, Room 238, Boston, Massachusetts 02115, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bhak</LastName>
+                    <ForeName>Jong</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Genomics Institute (TGI), Ulsan National Institute of Science and Technology (UNIST), Ulsan 44919, Korea.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biomedical Engineering, School of Life Sciences, Ulsan National Institute of Science and Technology (UNIST), Ulsan 44919, Korea.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Personal Genomics Institute, Genome Research Foundation, Cheongju 28160, Korea.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Geromics Inc., Ulsan National Institute of Science and Technology (UNIST), Ulsan 44919, Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 HG006876</GrantID>
+                    <Acronym>HG</Acronym>
+                    <Agency>NHGRI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>11</Month>
+                <Day>24</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Nat Commun</MedlineTA>
+            <NlmUniqueID>101528555</NlmUniqueID>
+            <ISSNLinking>2041-1723</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="ErratumIn">
+                <RefSource>Nat Commun. 2017 Oct 09;8:16168</RefSource>
+                <PMID Version="1">28991236</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D044466" MajorTopicYN="N">Asian Continental Ancestry Group</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002874" MajorTopicYN="N">Chromosome Mapping</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D032921" MajorTopicYN="N">Consensus</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015894" MajorTopicYN="N">Genome, Human</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D059014" MajorTopicYN="N">High-Throughput Nucleotide Sequencing</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D056910" MajorTopicYN="N">Republic of Korea</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017422" MajorTopicYN="N">Sequence Analysis, DNA</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>03</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>10</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>11</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>11</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>9</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">27882922</ArticleId>
+            <ArticleId IdType="pii">ncomms13637</ArticleId>
+            <ArticleId IdType="doi">10.1038/ncomms13637</ArticleId>
+            <ArticleId IdType="pmc">PMC5123046</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Gigascience. 2012 Dec 27;1(1):18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23587118</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2014 Jan 2;505(7481):43-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24352235</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2006 Aug;38(8):904-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16862161</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2014 Jan;42(Database issue):D980-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24234437</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2012 Nov 1;491(7422):56-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23128226</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Biol. 2007 Sep 4;5(10):e254</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17803354</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2014 Sep 04;9(9):e106689</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25188499</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2014 Aug;46(8):818-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24974849</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Biol Evol. 2014 Nov 05;6(12):3122-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25377941</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genetics. 2013 Jul;194(3):647-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23608192</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2006 Jul 1;34(Web Server issue):W435-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16845043</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cytogenet Genome Res. 2005;110(1-4):462-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16093699</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Res. 2002 Jun;12(6):996-1006</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12045153</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hum Mutat. 2006 Apr;27(4):323-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16511833</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Biotechnol. 2012 Jul 01;30(7):693-700</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22750884</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2001 Jan 1;29(1):308-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11125122</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 1999 Jan 15;27(2):573-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9862982</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2012;7(7):e40294</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22811759</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Methods. 2011 Jan;8(1):61-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21102452</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Res. 2010 Sep;20(9):1297-303</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20644199</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Biotechnol. 2011 Jul 24;29(8):723-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21785424</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2011 May;39(10):e68</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21398631</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2010 May 7;328(5979):710-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20448178</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2009 Aug 15;25(16):2078-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19505943</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2000 Nov;16(11):1040-1</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11159316</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2012;7(10):e46688</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23056405</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2011 Jan 25;108(4):1513-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21187386</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Genet. 2011 Sep;7(9):e1002280</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21935354</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Res. 2009 Jun;19(6):1117-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19251739</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2010 Sep 2;467(7311):52-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20811451</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2014 Aug;46(8):919-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24952747</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Res. 2014 Apr;24(4):688-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24418700</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2015 Sep 11;349(6253):aab3761</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26249230</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Syst Biol. 2005;1:2005.0030</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16729065</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gigascience. 2014 Dec 30;3(1):34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25671094</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Biol. 2011 Jul;9(7):e1001091</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21750661</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Biotechnol. 2013 Feb;31(2):135-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23263233</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Biotechnol. 2010 Jan;28(1):57-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19997067</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mitochondrion. 2011 Mar;11(2):351-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20933105</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2009 May 15;25(10):1329-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19349283</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Genet. 2009 Oct 27;10:69</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19860882</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Res. 2014 Dec;24(12):2077-89</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25273068</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Protoc Immunol. 2007 Feb;Chapter 7:Unit 7.22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18432996</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Bioinformatics. 2012 Sep 19;13:238</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22988817</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2014 Jan;42(Database issue):D756-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24259432</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Fly (Austin). 2012 Apr-Jun;6(2):80-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22728672</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Bioinformatics. 2014;15 Suppl 11:S6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25350283</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Hum Genet. 2007 Sep;81(3):559-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17701901</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Med. 2013 Nov 15;5(11):100</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24229443</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2012;7(11):e47768</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23185243</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pac Symp Biocomput. 2011;:231-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21121051</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Res. 2014 Dec;24(12):2066-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25373144</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2005 Jul 1;33(Web Server issue):W741-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15980575</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2010 Oct 28;467(7319):1061-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20981092</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Bioinformatics. 2009 Dec 15;10:421</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20003500</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gigascience. 2015 Mar 18;4:10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25789164</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2015 Jan 29;517(7536):608-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25383537</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Bioinformatics. 2005 Feb 15;6:31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15713233</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Res. 2008 Aug;18(8):1362-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18502942</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Methods. 2015 Aug;12(8):780-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26121404</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Biotechnol. 2015 Jun;33(6):617-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26006006</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Genet. 2009 Jan;5(1):e1000360</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19180233</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Commun. 2016 Jun 30;7:12065</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27356984</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2014 Jan;42(Database issue):D986-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24174537</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2011 Feb 3;470(7332):59-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21293372</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2001 Feb 15;409(6822):860-921</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11237011</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Res. 2010 Feb;20(2):265-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20019144</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

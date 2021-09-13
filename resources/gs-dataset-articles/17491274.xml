@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">17491274</PMID>
+        <DateCompleted>
+            <Year>2007</Year>
+            <Month>12</Month>
+            <Day>06</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2007</Year>
+            <Month>05</Month>
+            <Day>11</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1009-3591</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>13</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2007</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Zhonghua nan ke xue = National journal of andrology</Title>
+                <ISOAbbreviation>Zhonghua Nan Ke Xue</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Hypoxia-inducible factor 1 and prostate cancer].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>356-9</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Hypoxia-inducible factor 1 (HIF-1) has a close relation with prostate cancer. It is involved not only in angiogenesis, cell proliferation/survival and glucose metabolism but also in p53, p21 and signal transduction pathway in prostate cancer. Further studies of HIF-1 may yield new approaches to the diagnosis and treatment of prostate cancer. We present a review of the structure and biological functions of HIF-1 and its relation with prostate cancer.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Pan</LastName>
+                    <ForeName>Zhou-hui</ForeName>
+                    <Initials>ZH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, the Third Affiliated Hospital, Zhengzhou University, Zhengzhou, Henan 450052, China. doctorpzh@163.com</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Zhao-dian</ForeName>
+                    <Initials>ZD</Initials>
+                </Author>
+            </AuthorList>
+            <Language>chi</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D004740">English Abstract</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>China</Country>
+            <MedlineTA>Zhonghua Nan Ke Xue</MedlineTA>
+            <NlmUniqueID>101093592</NlmUniqueID>
+            <ISSNLinking>1009-3591</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D051793">Hypoxia-Inducible Factor 1</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051793" MajorTopicYN="N">Hypoxia-Inducible Factor 1</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011471" MajorTopicYN="Y">Prostatic Neoplasms</DescriptorName>
+                <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000628" MajorTopicYN="N">therapy</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>26</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2007</Year>
+                <Month>5</Month>
+                <Day>12</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2007</Year>
+                <Month>12</Month>
+                <Day>7</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2007</Year>
+                <Month>5</Month>
+                <Day>12</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">17491274</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

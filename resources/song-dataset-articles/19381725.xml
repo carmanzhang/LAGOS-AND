@@ -1,0 +1,560 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">19381725</PMID>
+        <DateCompleted>
+            <Year>2010</Year>
+            <Month>01</Month>
+            <Day>11</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>05</Month>
+            <Day>08</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1522-9602</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>71</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>2009</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Bulletin of mathematical biology</Title>
+                <ISOAbbreviation>Bull Math Biol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Interpreting CFSE obtained division histories of B cells in vitro with Smith-Martin and cyton type models.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1649-70</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s11538-009-9418-6</ELocationID>
+            <Abstract>
+                <AbstractText>The fluorescent dye carboxyfluorescin diacetate succinimidyl ester (CFSE) classifies proliferating cell populations into groups according to the number of divisions each cell has undergone (i.e., its division class). The pulse labeling of cells with radioactive thymidine provides a means to determine the distribution of times of entry into the first cell division. We derive in analytic form the number of cells in each division class as a function of time using the cyton approach that utilizes independent stochastic distributions for the time to divide and the time to die. We confirm that our analytic form for the number of cells in each division class is consistent with the numerical solution of a set of delay differential equations representing the generalized Smith-Martin model with cell death rates depending on the division class. Choosing the distribution of time to the first division to fit thymidine labeling data for B cells stimulated in vitro with lipopolysaccharide (LPS) and either with or without interleukin-4 (IL-4), we fit CFSE data to determine the dependence of B cell kinetic parameters on the presence of IL-4. We find when IL-4 is present, a greater proportion of cells are recruited into division with a longer average time to first division. The most profound effect of the presence of IL-4 was decreased death rates for smaller division classes, which supports a role of IL-4 in the protection of B cells from apoptosis.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Ha Youn</ForeName>
+                    <Initials>HY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biostatistics and Computational Biology, School of Medicine and Dentistry, University of Rochester, Rochester, NY 14642, USA. hayoun@bst.rochester.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hawkins</LastName>
+                    <ForeName>Edwin</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zand</LastName>
+                    <ForeName>Martin S</ForeName>
+                    <Initials>MS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mosmann</LastName>
+                    <ForeName>Tim</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wu</LastName>
+                    <ForeName>Hulin</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hodgkin</LastName>
+                    <ForeName>Philip D</ForeName>
+                    <Initials>PD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Perelson</LastName>
+                    <ForeName>Alan S</ForeName>
+                    <Initials>AS</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 OD011095</GrantID>
+                    <Acronym>OD</Acronym>
+                    <Agency>NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AI028433-10</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P30 AI078498-01</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P30AI078498</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 RR006555-08</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>RR06555</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 RR006555-18</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R37 AI028433</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P01-AI071195</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>AI28433</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AI028433</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 RR006555</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>N01 AI050020</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P01 AI071195</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P30 AI078498</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>N01AI50020</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2009</Year>
+                <Month>04</Month>
+                <Day>21</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Bull Math Biol</MedlineTA>
+            <NlmUniqueID>0401404</NlmUniqueID>
+            <ISSNLinking>0092-8240</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C087165">5-(6)-carboxyfluorescein diacetate succinimidyl ester</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D005452">Fluoresceins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D005456">Fluorescent Dyes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D008070">Lipopolysaccharides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D013388">Succinimides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>207137-56-2</RegistryNumber>
+                <NameOfSubstance UI="D015847">Interleukin-4</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>VC2W18DGKR</RegistryNumber>
+                <NameOfSubstance UI="D013936">Thymidine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>Z01IVE25KI</RegistryNumber>
+                <NameOfSubstance UI="D003703">Demecolcine</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000465" MajorTopicYN="N">Algorithms</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017209" MajorTopicYN="N">Apoptosis</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001402" MajorTopicYN="N">B-Lymphocytes</DescriptorName>
+                <QualifierName UI="Q000166" MajorTopicYN="Y">cytology</QualifierName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002452" MajorTopicYN="N">Cell Count</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002455" MajorTopicYN="N">Cell Division</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D049109" MajorTopicYN="N">Cell Proliferation</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002478" MajorTopicYN="N">Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003198" MajorTopicYN="N">Computer Simulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003703" MajorTopicYN="N">Demecolcine</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005452" MajorTopicYN="N">Fluoresceins</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005456" MajorTopicYN="N">Fluorescent Dyes</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015847" MajorTopicYN="N">Interleukin-4</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008070" MajorTopicYN="N">Lipopolysaccharides</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008954" MajorTopicYN="Y">Models, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011336" MajorTopicYN="N">Probability</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013194" MajorTopicYN="N">Staining and Labeling</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013269" MajorTopicYN="N">Stochastic Processes</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013388" MajorTopicYN="N">Succinimides</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013936" MajorTopicYN="N">Thymidine</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2008</Year>
+                <Month>04</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2009</Year>
+                <Month>04</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2009</Year>
+                <Month>4</Month>
+                <Day>22</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2009</Year>
+                <Month>4</Month>
+                <Day>22</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2010</Year>
+                <Month>1</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">19381725</ArticleId>
+            <ArticleId IdType="doi">10.1007/s11538-009-9418-6</ArticleId>
+            <ArticleId IdType="pmc">PMC2834560</ArticleId>
+            <ArticleId IdType="mid">NIHMS146225</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Immunol Cell Biol. 1999 Dec;77(6):523-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10571673</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bull Math Biol. 2008 Jan;70(1):21-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17701260</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2000 Jan 7;100(1):71-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10647932</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol Methods. 2000 Sep 21;243(1-2):147-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10986412</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2000 Nov 15;165(10):5573-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11067912</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Immunol. 2000 Sep;1(3):239-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10973282</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Immunol. 2001 Oct;2(10):925-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11561183</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2003 Jan 15;170(2):686-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12517929</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biophys J. 2003 May;84(5):3414-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12719268</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2003 May 15;170(10):4963-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12734339</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Theor Biol. 2003 Nov 21;225(2):275-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14575660</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncogene. 2003 Nov 24;22(53):8590-607</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14634621</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Theor Biol. 2004 Aug 21;229(4):455-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15246784</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1973 Apr;70(4):1263-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4515625</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 1980 Feb;19(2):493-504</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7357616</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1988 Sep;85(18):6880-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2970644</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Med. 1991 Mar 1;173(3):747-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1997653</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Immunol. 1991 Apr 15;134(1):14-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2013100</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 1993 Sep 15;151(6):2965-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8376764</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol Methods. 1994 May 2;171(1):131-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8176234</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Med. 1996 Jul 1;184(1):277-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8691143</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Immunol. 1998 Mar;28(3):1040-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9541600</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 1998 Aug 1;161(3):1123-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9686570</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1998 Aug 4;95(16):9488-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9689107</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Immunity. 1998 Aug;9(2):229-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9729043</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 1999 Nov 1;163(9):4707-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10528168</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol Methods. 2005 Mar;298(1-2):183-200</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15847808</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Biol Sci. 2006 May 7;273(1590):1165-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16600897</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bull Math Biol. 2006 Jul;68(5):1011-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16832737</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2007 Mar 20;104(12):5032-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17360353</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2007 Apr 15;178(8):4726-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17404251</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2007 Jul 15;179(2):950-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17617586</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2007 Oct 15;179(8):4953-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17911579</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Immunol Cell Biol. 1999 Dec;77(6):530-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10571674</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

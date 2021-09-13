@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">16478877</PMID>
+        <DateCompleted>
+            <Year>2006</Year>
+            <Month>03</Month>
+            <Day>22</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>11</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0012-3692</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>129</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2006</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Chest</Title>
+                <ISOAbbreviation>Chest</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>It's Pneumocystis jiroveci not Pneumocystis carinii.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>498; author reply 498</MedlinePgn>
+            </Pagination>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Agarwal</LastName>
+                    <ForeName>Ritesh</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Reddy</LastName>
+                    <ForeName>Chandana</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aggarwal</LastName>
+                    <ForeName>Ashutosh N</ForeName>
+                    <Initials>AN</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Saxena</LastName>
+                    <ForeName>Akshay K</ForeName>
+                    <Initials>AK</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016422">Letter</PublicationType>
+                <PublicationType UI="D016420">Comment</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Chest</MedlineTA>
+            <NlmUniqueID>0231335</NlmUniqueID>
+            <ISSNLinking>0012-3692</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentOn">
+                <RefSource>Chest. 2005 Sep;128(3):1385-92</RefSource>
+                <PMID Version="1">16162733</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D045363" MajorTopicYN="Y">Pneumocystis carinii</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011020" MajorTopicYN="N">Pneumonia, Pneumocystis</DescriptorName>
+                <QualifierName UI="Q000382" MajorTopicYN="Y">microbiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2006</Year>
+                <Month>2</Month>
+                <Day>16</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2006</Year>
+                <Month>3</Month>
+                <Day>23</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2006</Year>
+                <Month>2</Month>
+                <Day>16</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">16478877</ArticleId>
+            <ArticleId IdType="pii">S0012-3692(15)38788-2</ArticleId>
+            <ArticleId IdType="doi">10.1378/chest.129.2.498</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,158 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">27874949</PMID>
+        <DateCompleted>
+            <Year>2017</Year>
+            <Month>07</Month>
+            <Day>31</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>03</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">2284-0729</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>20</Volume>
+                    <Issue>21</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>11</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>European review for medical and pharmacological sciences</Title>
+                <ISOAbbreviation>Eur Rev Med Pharmacol Sci</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>miR-377 inhibited tumorous behaviors of non-small cell lung cancer through directly targeting CDK6.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>4494-4499</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">11679</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE">This study is aimed to investigate the cellular role of miR-377 and demonstrate that miR-377 negatively regulated cyclin-dependent kinase 6(CDK6) in human non-small cell lung cancer (NSCLC) cells.</AbstractText>
+                <AbstractText Label="MATERIALS AND METHODS">qRT-PCR was performed to identify the miR-377 expression level in 45 paired NSCLC and adjacent normal lung tissues. Cell proliferation was measured by MTT. Apoptosis was detected by flow cytometric analysis. Luciferase reporter assays were employed to validate regulation of a putative target of miR-377. The effect of miR-377 on endogenous levels of this target was subsequently confirmed via Western blot.</AbstractText>
+                <AbstractText Label="RESULTS">We found that the expression level of miR-377 was significantly reduced in NSCLC tissues and cell lines. On the contrary, CDK6 expression level was up-regulated in NSCLC tissues and cell lines. Based on Luciferase reporter assays, we confirmed that CDK6 was a direct target gene of miR-377. In vitro studies demonstrated that miR-377 overexpression reduced NSCLC cell proliferation and promoted apoptosis.</AbstractText>
+                <AbstractText Label="CONCLUSIONS">Our discovery suggested that miR-377 might be used as a therapeutic reagent for the treatment of NSCLC in the future.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Thoracic Surgery, Chinese PLA General Hospital, Haiding, Beijing, China. wydc1991@yeah.net.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhao</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xue</LastName>
+                    <ForeName>Z-Q</ForeName>
+                    <Initials>ZQ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Y</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Y-X</ForeName>
+                    <Initials>YX</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Italy</Country>
+            <MedlineTA>Eur Rev Med Pharmacol Sci</MedlineTA>
+            <NlmUniqueID>9717360</NlmUniqueID>
+            <ISSNLinking>1128-3602</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C534063">MIRN377 microRNA, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D035683">MicroRNAs</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.11.22</RegistryNumber>
+                <NameOfSubstance UI="D051361">Cyclin-Dependent Kinase 6</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D002289" MajorTopicYN="N">Carcinoma, Non-Small-Cell Lung</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D045744" MajorTopicYN="N">Cell Line, Tumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051361" MajorTopicYN="N">Cyclin-Dependent Kinase 6</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015972" MajorTopicYN="N">Gene Expression Regulation, Neoplastic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008175" MajorTopicYN="N">Lung Neoplasms</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D035683" MajorTopicYN="N">MicroRNAs</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>11</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>11</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>8</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">27874949</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

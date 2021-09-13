@@ -1,0 +1,609 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">27529168</PMID>
+        <DateCompleted>
+            <Year>2017</Year>
+            <Month>05</Month>
+            <Day>26</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1549-1676</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>13</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>08</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PLoS medicine</Title>
+                <ISOAbbreviation>PLoS Med.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Genetic and Environmental Risk for Chronic Pain and the Contribution of Risk Variants for Major Depressive Disorder: A Family-Based Mixed-Model Analysis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e1002090</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pmed.1002090</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND">Chronic pain is highly prevalent and a significant source of disability, yet its genetic and environmental risk factors are poorly understood. Its relationship with major depressive disorder (MDD) is of particular importance. We sought to test the contribution of genetic factors and shared and unique environment to risk of chronic pain and its correlation with MDD in Generation Scotland: Scottish Family Health Study (GS:SFHS). We then sought to replicate any significant findings in the United Kingdom Biobank study.</AbstractText>
+                <AbstractText Label="METHODS AND FINDINGS">Using family-based mixed-model analyses, we examined the contribution of genetics and shared family environment to chronic pain by spouse, sibling, and household relationships. These analyses were conducted in GS:SFHS (n = 23,960), a family- and population-based study of individuals recruited from the Scottish population through their general practitioners. We then examined and partitioned the correlation between chronic pain and MDD and estimated the contribution of genetic factors and shared environment in GS:SFHS. Finally, we used data from two independent genome-wide association studies to test whether chronic pain has a polygenic architecture and examine whether genomic risk of psychiatric disorder predicted chronic pain and whether genomic risk of chronic pain predicted MDD. These analyses were conducted in GS:SFHS and repeated in UK Biobank, a study of 500,000 from the UK population, of whom 112,151 had genotyping and phenotypic data. Chronic pain is a moderately heritable trait (heritability = 38.4%, 95% CI 33.6% to 43.9%) that is significantly concordant in spouses (variance explained 18.7%, 95% CI 9.5% to 25.1%). Chronic pain is positively correlated with depression (ρ = 0.13, 95% CI 0.11 to 0.15, p = 2.72x10-68) and shows a tendency to cluster within families for genetic reasons (genetic correlation = 0.51, 95%CI 0.40 to 0.62, p = 8.24x10-19). Polygenic risk profiles for pain, generated using independent GWAS data, were associated with chronic pain in both GS:SFHS (maximum β = 6.18x10-2, 95% CI 2.84 x10-2 to 9.35 x10-2, p = 4.3x10-4) and UK Biobank (maximum β = 5.68 x 10-2, 95% CI 4.70x10-2 to 6.65x10-2, p &lt; 3x10-4). Genomic risk of MDD is also significantly associated with chronic pain in both GS:SFHS (maximum β = 6.62x10-2, 95% CI 2.82 x10-2 to 9.76 x10-2, p = 4.3x10-4) and UK Biobank (maximum β = 2.56x10-2, 95% CI 1.62x10-2 to 3.63x10-2, p &lt; 3x10-4). Limitations of the current study include the possibility that spouse effects may be due to assortative mating and the relatively small polygenic risk score effect sizes.</AbstractText>
+                <AbstractText Label="CONCLUSIONS">Genetic factors, as well as chronic pain in a partner or spouse, contribute substantially to the risk of chronic pain for an individual. Chronic pain is genetically correlated with MDD, has a polygenic architecture, and is associated with polygenic risk of MDD.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>McIntosh</LastName>
+                    <ForeName>Andrew M</ForeName>
+                    <Initials>AM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Psychiatry, University of Edinburgh, Royal Edinburgh Hospital, Edinburgh, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Cognitive Ageing and Cognitive Epidemiology, University of Edinburgh, Edinburgh, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hall</LastName>
+                    <ForeName>Lynsey S</ForeName>
+                    <Initials>LS</Initials>
+                    <Identifier Source="ORCID">0000-0002-0624-5303</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Psychiatry, University of Edinburgh, Royal Edinburgh Hospital, Edinburgh, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zeng</LastName>
+                    <ForeName>Yanni</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Psychiatry, University of Edinburgh, Royal Edinburgh Hospital, Edinburgh, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Adams</LastName>
+                    <ForeName>Mark J</ForeName>
+                    <Initials>MJ</Initials>
+                    <Identifier Source="ORCID">0000-0002-3599-6018</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Psychiatry, University of Edinburgh, Royal Edinburgh Hospital, Edinburgh, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gibson</LastName>
+                    <ForeName>Jude</ForeName>
+                    <Initials>J</Initials>
+                    <Identifier Source="ORCID">0000-0002-3745-8360</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Psychiatry, University of Edinburgh, Royal Edinburgh Hospital, Edinburgh, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wigmore</LastName>
+                    <ForeName>Eleanor</ForeName>
+                    <Initials>E</Initials>
+                    <Identifier Source="ORCID">0000-0003-0864-9990</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Psychiatry, University of Edinburgh, Royal Edinburgh Hospital, Edinburgh, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hagenaars</LastName>
+                    <ForeName>Saskia P</ForeName>
+                    <Initials>SP</Initials>
+                    <Identifier Source="ORCID">0000-0001-9697-8596</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Cognitive Ageing and Cognitive Epidemiology, University of Edinburgh, Edinburgh, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychology, University of Edinburgh, Edinburgh, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Davies</LastName>
+                    <ForeName>Gail</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Cognitive Ageing and Cognitive Epidemiology, University of Edinburgh, Edinburgh, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychology, University of Edinburgh, Edinburgh, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fernandez-Pujals</LastName>
+                    <ForeName>Ana Maria</ForeName>
+                    <Initials>AM</Initials>
+                    <Identifier Source="ORCID">0000-0002-9543-6362</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Psychiatry, University of Edinburgh, Royal Edinburgh Hospital, Edinburgh, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Campbell</LastName>
+                    <ForeName>Archie I</ForeName>
+                    <Initials>AI</Initials>
+                    <Identifier Source="ORCID">0000-0003-0198-5078</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Genetics and Molecular Medicine, University of Edinburgh, Western General Hospital, Edinburgh, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Clarke</LastName>
+                    <ForeName>Toni-Kim</ForeName>
+                    <Initials>TK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Psychiatry, University of Edinburgh, Royal Edinburgh Hospital, Edinburgh, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hayward</LastName>
+                    <ForeName>Caroline</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Genetics and Molecular Medicine, University of Edinburgh, Western General Hospital, Edinburgh, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Haley</LastName>
+                    <ForeName>Chris S</ForeName>
+                    <Initials>CS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Genetics and Molecular Medicine, University of Edinburgh, Western General Hospital, Edinburgh, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Porteous</LastName>
+                    <ForeName>David J</ForeName>
+                    <Initials>DJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Cognitive Ageing and Cognitive Epidemiology, University of Edinburgh, Edinburgh, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Genetics and Molecular Medicine, University of Edinburgh, Western General Hospital, Edinburgh, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Deary</LastName>
+                    <ForeName>Ian J</ForeName>
+                    <Initials>IJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Cognitive Ageing and Cognitive Epidemiology, University of Edinburgh, Edinburgh, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychology, University of Edinburgh, Edinburgh, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Smith</LastName>
+                    <ForeName>Daniel J</ForeName>
+                    <Initials>DJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Health and Wellbeing, University of Glasgow, Glasgow, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nicholl</LastName>
+                    <ForeName>Barbara I</ForeName>
+                    <Initials>BI</Initials>
+                    <Identifier Source="ORCID">0000-0001-5639-0130</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Health and Wellbeing, University of Glasgow, Glasgow, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hinds</LastName>
+                    <ForeName>David A</ForeName>
+                    <Initials>DA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>23andMe Inc., Mountain View, California, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jones</LastName>
+                    <ForeName>Amy V</ForeName>
+                    <Initials>AV</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Pfizer WRD, Human Genetics and Computational Biomedicine, Granta Park, Cambridge, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Scollen</LastName>
+                    <ForeName>Serena</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Pfizer WRD, Human Genetics and Computational Biomedicine, Granta Park, Cambridge, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Meng</LastName>
+                    <ForeName>Weihua</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Population Health Sciences, University of Dundee, Ninewells Hospital and Medical School, Dundee, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Smith</LastName>
+                    <ForeName>Blair H</ForeName>
+                    <Initials>BH</Initials>
+                    <Identifier Source="ORCID">0000-0002-5362-9430</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Population Health Sciences, University of Dundee, Ninewells Hospital and Medical School, Dundee, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hocking</LastName>
+                    <ForeName>Lynne J</ForeName>
+                    <Initials>LJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Institute of Medical Sciences, University of Aberdeen, Foresterhill, Aberdeen, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>104036</GrantID>
+                    <Agency>Wellcome Trust</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>MC_PC_U127561128</GrantID>
+                    <Agency>Medical Research Council</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>MC_PC_U127592696</GrantID>
+                    <Agency>Medical Research Council</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>MR/K026992/1</GrantID>
+                    <Agency>Medical Research Council</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>CZD/16/6</GrantID>
+                    <Agency>Chief Scientist Office</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>08</Month>
+                <Day>16</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS Med</MedlineTA>
+            <NlmUniqueID>101231360</NlmUniqueID>
+            <ISSNLinking>1549-1277</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D059350" MajorTopicYN="N">Chronic Pain</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+                <QualifierName UI="Q000209" MajorTopicYN="Y">etiology</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003865" MajorTopicYN="N">Depressive Disorder, Major</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+                <QualifierName UI="Q000209" MajorTopicYN="Y">etiology</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005190" MajorTopicYN="N">Family</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055106" MajorTopicYN="N">Genome-Wide Association Study</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020412" MajorTopicYN="N">Multifactorial Inheritance</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010375" MajorTopicYN="N">Pedigree</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012307" MajorTopicYN="N">Risk Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012931" MajorTopicYN="N">Social Environment</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011795" MajorTopicYN="N">Surveys and Questionnaires</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006113" MajorTopicYN="N">United Kingdom</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>12</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>06</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>5</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">27529168</ArticleId>
+            <ArticleId IdType="doi">10.1371/journal.pmed.1002090</ArticleId>
+            <ArticleId IdType="pii">PMEDICINE-D-15-03808</ArticleId>
+            <ArticleId IdType="pmc">PMC4987025</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Trends Genet. 2012 Jun;28(6):258-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22464640</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2015 Jul;47(7):702-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25985137</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Pain. 2012 Aug;16(7):1053-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22337623</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Pain. 2013 Apr;14(4):363-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23395476</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pain. 2010 Apr;149(1):143-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20167428</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Med Genet. 2006 Oct 02;7:74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17014726</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 2012 Jul 7;380(9836):37-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22579043</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pain. 2015 Aug;156(8):1458-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25851458</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2015 May 1;31(9):1466-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25550326</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Gen Intern Med. 2012 Dec;27(12):1674-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22854982</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pain Suppl. 1986;3:S1-226</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3461421</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Epidemiol. 2013 Jun;42(3):689-700</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22786799</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Pain. 2014 Sep;15(9):945-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24981129</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Pain. 2014 Nov;18(10):1410-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24733726</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 2012 Jul 14;380(9837):110</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22794246</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pain. 2014 Aug;155(8):1562-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24879916</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pain. 2013 Sep;154(9):1595-602</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23707277</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pain. 1992 Aug;50(2):133-49</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1408309</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sci Transl Med. 2014 Feb 19;6(224):224ed4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24553384</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Genet. 2012 Jul 10;13(8):537-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22777127</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Rheumatology (Oxford). 2010 Sep;49(9):1753-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20525736</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Psychiatry. 2013 Apr;18(4):497-511</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22472876</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biol Psychiatry. 2012 Oct 15;72(8):707-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22520966</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Soc Psychiatry Psychiatr Epidemiol. 2015 Nov;50(11):1641-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26164028</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Psychol Med. 2009 Mar;39(3):497-505</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18578896</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Diabetes Care. 2005 Jan;28(1):65-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15616235</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pain. 1997 Jun;71(2):141-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9211475</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2015 Nov 16;10(11):e0142197</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26571028</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Psychiatry. 2000 Oct;157(10):1552-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11007705</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Pain. 2011 Nov;15(10):1107-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21620747</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Psychiatry. 2014 Dec 10;14 :350</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25490859</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 2015 Aug 22;386(9995):743-800</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26063472</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2013 Nov 25;8(11):e75362</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24282498</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hum Genet. 2014 Feb;133(2):173-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24081561</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Genet. 2007 Dec;23(12):605-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18023497</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

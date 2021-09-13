@@ -1,0 +1,376 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">9655339</PMID>
+        <DateCompleted>
+            <Year>1998</Year>
+            <Month>09</Month>
+            <Day>01</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0961-8368</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>7</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>1998</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Protein science : a publication of the Protein Society</Title>
+                <ISOAbbreviation>Protein Sci.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Thermodynamic characterization of an intermediate state of human growth hormone.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1352-8</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The thermal denaturation of recombinant human growth hormone (rhGH) was studied by differential scanning calorimetry and circular dichroism spectroscopy (CD). The thermal unfolding is reversible only below pH 3.5, and under these conditions a single two-state transition was observed between 0 and 100 degrees C. The magnitudes of the deltaH and deltaCp of this transition indicate that it corresponds to a partial unfolding of rhGH. This is also supported by CD data, which show that significant secondary structure remains after the unfolding. Above pH 3.5 the thermal denaturation is irreversible due to the aggregation of rhGH upon unfolding. This aggregation is prevented in aqueous solutions of alcohols such as n-propanol, 2-propanol, or 1,2-propanediol (propylene glycol), which suggests that the self-association of rhGH is caused by hydrophobic interactions. In addition, it was found that the native state of rhGH is stable in relatively high concentrations of propylene glycol (up to 45% v/v at pH 7-8 or 30% at pH 3) and that under these conditions the thermal unfolding is cooperative and corresponds to a transition from the native state to a partially folded state, as observed at acidic pH in the absence of alcohols. In higher concentrations of propylene glycol, the tertiary structure of rhGH is disrupted and the cooperativity of the unfolding decreases. Moreover, the CD and DSC data indicate that a partially folded intermediate with essentially native secondary structure and disordered tertiary structure becomes significantly populated in 70-80% propylene glycol.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gomez-Orellana</LastName>
+                    <ForeName>I</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Emisphere Technologies, Inc., Hawthorne, New York 10532, USA. igomez@emisphere.com</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Variano</LastName>
+                    <ForeName>B</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Miura-Fraboni</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Milstein</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Paton</LastName>
+                    <ForeName>D R</ForeName>
+                    <Initials>DR</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>PDB</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>1HGU</AccessionNumber>
+                        <AccessionNumber>1HUW</AccessionNumber>
+                        <AccessionNumber>3HHR</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Protein Sci</MedlineTA>
+            <NlmUniqueID>9211750</NlmUniqueID>
+            <ISSNLinking>0961-8368</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>12629-01-5</RegistryNumber>
+                <NameOfSubstance UI="D019382">Human Growth Hormone</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D002152" MajorTopicYN="N">Calorimetry, Differential Scanning</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002942" MajorTopicYN="N">Circular Dichroism</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006358" MajorTopicYN="N">Hot Temperature</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019382" MajorTopicYN="N">Human Growth Hormone</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006863" MajorTopicYN="N">Hydrogen-Ion Concentration</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008969" MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011489" MajorTopicYN="N">Protein Denaturation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017510" MajorTopicYN="N">Protein Folding</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017433" MajorTopicYN="N">Protein Structure, Secondary</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013816" MajorTopicYN="N">Thermodynamics</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1998</Year>
+                <Month>7</Month>
+                <Day>9</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1998</Year>
+                <Month>7</Month>
+                <Day>9</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1998</Year>
+                <Month>7</Month>
+                <Day>9</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">9655339</ArticleId>
+            <ArticleId IdType="pmc">PMC2144027</ArticleId>
+            <ArticleId IdType="doi">10.1002/pro.5560070611</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Biochemistry. 1994 Feb 22;33(7):1889-99</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8110793</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1993 Nov 5;262(5135):892-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8235610</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anal Chem. 1994 Nov 15;66(22):3908-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7810899</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Methods Enzymol. 1994;240:502-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7823846</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochim Biophys Acta. 1995 Feb 22;1247(1):35-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7873589</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Protein Sci. 1994 Dec;3(12):2175-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7756977</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1995 Aug 25;270(34):19816-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7649991</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Struct Biol. 1995 Oct;2(10):865-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7552710</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 1995 Oct 10;34(40):13219-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7548086</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 1995 Oct 3;34(39):12884-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7548045</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proteins. 1995 Aug;22(4):404-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7479713</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 1996 May 14;35(19):6058-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8634247</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biopolymers. 1996 Jul;39(1):23-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8924624</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 1996 Jun 14;259(3):512-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8676385</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 1996 Jul 19;260(3):432-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8757805</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Struct Biol. 1996 Sep;3(9):782-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8784352</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Struct Biol. 1996 Oct;3(10):868-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8836104</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biotechnol Prog. 1996 Nov-Dec;12(6):801-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8983207</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Protein Sci. 1997 Feb;6(2):416-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9041644</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Fold Des. 1997;2(3):163-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9218954</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 1971 Feb 14;55(3):379-400</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">5551392</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 1979 Apr 3;18(7):1180-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">427107</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1979 Oct 18;281(5732):544-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">386136</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Recent Prog Horm Res. 1979;35:155-213</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">390653</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 1986 Oct 21;25(21):6533-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3790540</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1990 Apr 5;265(10):5504-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2180927</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 1991 Oct 5;221(3):1045-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1658332</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 1992 Feb 20;223(4):1139-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1311387</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1992 Jan 17;255(5042):306-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1549776</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 1992 Sep 15;31(36):8587-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1356433</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 1992 Sep 29;31(38):9304-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1390716</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1992 Oct 1;89(19):9335-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1329094</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Adv Protein Chem. 1992;43:313-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1442323</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 1993 Feb 16;32(6):1555-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8431435</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proteins. 1994 Aug;19(4):291-301</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7984625</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

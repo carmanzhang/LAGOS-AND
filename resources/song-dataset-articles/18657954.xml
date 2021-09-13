@@ -1,0 +1,188 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">18657954</PMID>
+        <DateCompleted>
+            <Year>2008</Year>
+            <Month>11</Month>
+            <Day>25</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">0927-7765</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>66</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2008</Year>
+                        <Month>Oct</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Colloids and surfaces. B, Biointerfaces</Title>
+                <ISOAbbreviation>Colloids Surf B Biointerfaces</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Interaction of trypsin with sodium dodecyl sulfate in aqueous medium: a conformational view.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>178-86</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.colsurfb.2008.06.011</ELocationID>
+            <Abstract>
+                <AbstractText>The conformational behavior of a globular protein, trypsin has been studied in presence of an anionic surfactant, sodium dodecyl sulfate (SDS) in aqueous medium by different techniques, such as, viscometry, circular dichroism, fluorimetry, Fourier transform infra-red, UV-vis absorption, dynamic light scattering and nuclear magnetic resonance. The results indicate that the viscosity of the mixture increases above the critical micelle concentration of SDS micelle supporting an expansion of a protein coil in the cluster. The spectroscopic techniques show the change of the conformation, i.e., the change of the values of alpha-helicity, beta-sheet, and random-coil of trypsin in the presence of SDS, and ultimately unfolding of trypsin occurs due to strong electrostatic repulsion of micellar clusters of the protein-surfactant complexes.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ghosh</LastName>
+                    <ForeName>Soumen</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Surface Science, Department of Chemistry, Jadavpur University, Calcutta, W.B., India. gsoumen70@hotmail.com</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2008</Year>
+                <Month>07</Month>
+                <Day>01</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Colloids Surf B Biointerfaces</MedlineTA>
+            <NlmUniqueID>9315133</NlmUniqueID>
+            <ISSNLinking>0927-7765</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D008823">Micelles</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>059QF0KO0R</RegistryNumber>
+                <NameOfSubstance UI="D014867">Water</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>368GB5141J</RegistryNumber>
+                <NameOfSubstance UI="D012967">Sodium Dodecyl Sulfate</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.21.4</RegistryNumber>
+                <NameOfSubstance UI="D014357">Trypsin</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D002942" MajorTopicYN="N">Circular Dichroism</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008027" MajorTopicYN="N">Light</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009682" MajorTopicYN="N">Magnetic Resonance Spectroscopy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008823" MajorTopicYN="N">Micelles</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008958" MajorTopicYN="N">Models, Molecular</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011487" MajorTopicYN="N">Protein Conformation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011489" MajorTopicYN="N">Protein Denaturation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017510" MajorTopicYN="N">Protein Folding</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012542" MajorTopicYN="N">Scattering, Radiation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012967" MajorTopicYN="N">Sodium Dodecyl Sulfate</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013050" MajorTopicYN="N">Spectrometry, Fluorescence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013056" MajorTopicYN="N">Spectrophotometry, Ultraviolet</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013499" MajorTopicYN="N">Surface Properties</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014357" MajorTopicYN="N">Trypsin</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014783" MajorTopicYN="N">Viscosity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014867" MajorTopicYN="N">Water</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2008</Year>
+                <Month>04</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2008</Year>
+                <Month>06</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2008</Year>
+                <Month>06</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2008</Year>
+                <Month>7</Month>
+                <Day>29</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2008</Year>
+                <Month>12</Month>
+                <Day>17</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2008</Year>
+                <Month>7</Month>
+                <Day>29</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">18657954</ArticleId>
+            <ArticleId IdType="pii">S0927-7765(08)00239-7</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.colsurfb.2008.06.011</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

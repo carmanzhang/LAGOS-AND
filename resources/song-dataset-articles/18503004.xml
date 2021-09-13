@@ -1,0 +1,419 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">18503004</PMID>
+        <DateCompleted>
+            <Year>2008</Year>
+            <Month>08</Month>
+            <Day>28</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1535-9786</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>7</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>2008</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Eukaryotic cell</Title>
+                <ISOAbbreviation>Eukaryot Cell</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Expression and function of sex pheromones and receptors in the homothallic ascomycete Gibberella zeae.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1211-21</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/EC.00272-07</ELocationID>
+            <Abstract>
+                <AbstractText>In heterothallic ascomycete fungi, idiomorphic alleles at the MAT locus control two sex pheromone-receptor pairs that function in the recognition and chemoattraction of strains with opposite mating types. In the ascomycete Gibberella zeae, the MAT locus is rearranged such that both alleles are adjacent on the same chromosome. Strains of G. zeae are self-fertile but can outcross facultatively. Our objective was to determine if pheromones retain a role in sexual reproduction in this homothallic fungus. Putative pheromone precursor genes (ppg1 and ppg2) and their corresponding pheromone receptor genes (pre2 and pre1) were identified in the genomic sequence of G. zeae by sequence similarity and microsynteny with other ascomycetes. ppg1, a homolog of the Saccharomyces alpha-factor pheromone precursor gene, was expressed in germinating conidia and mature ascospores. Expression of ppg2, a homolog of the a-factor pheromone precursor gene, was not detected in any cells. pre2 was expressed in all cells, but pre1 was expressed weakly and only in mature ascospores. ppg1 or pre2 deletion mutations reduced fertility in self-fertilization tests by approximately 50%. Deltappg1 reduced male fertility and Deltapre2 reduced female fertility in outcrossing tests. In contrast, Deltappg2 and Deltapre1 had no discernible effects on sexual function. Deltappg1/Deltappg2 and Deltapre1/Deltapre2 double mutants had the same phenotype as the Deltappg1 and Deltapre2 single mutants. Thus, one of the putative pheromone-receptor pairs (ppg1/pre2) enhances, but is not essential for, selfing and outcrossing in G. zeae whereas no functional role was found for the other pair (ppg2/pre1).</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Jungkwan</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Plant Pathology, Throckmorton Plant Sciences Center, Kansas State University, Manhattan, Kansas 66506-5502, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Leslie</LastName>
+                    <ForeName>John F</ForeName>
+                    <Initials>JF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bowden</LastName>
+                    <ForeName>Robert L</ForeName>
+                    <Initials>RL</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2008</Year>
+                <Month>05</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Eukaryot Cell</MedlineTA>
+            <NlmUniqueID>101130731</NlmUniqueID>
+            <ISSNLinking>1535-9786</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D005656">Fungal Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010675">Pheromones</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011498">Protein Precursors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D043563">Receptors, Pheromone</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000595" MajorTopicYN="N">Amino Acid Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001483" MajorTopicYN="N">Base Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005656" MajorTopicYN="N">Fungal Proteins</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015966" MajorTopicYN="Y">Gene Expression Regulation, Fungal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005816" MajorTopicYN="N">Genetic Complementation Test</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005874" MajorTopicYN="N">Gibberella</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008969" MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010675" MajorTopicYN="N">Pheromones</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011498" MajorTopicYN="N">Protein Precursors</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D043563" MajorTopicYN="N">Receptors, Pheromone</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2008</Year>
+                <Month>5</Month>
+                <Day>27</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2008</Year>
+                <Month>8</Month>
+                <Day>30</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2008</Year>
+                <Month>5</Month>
+                <Day>27</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">18503004</ArticleId>
+            <ArticleId IdType="pii">EC.00272-07</ArticleId>
+            <ArticleId IdType="doi">10.1128/EC.00272-07</ArticleId>
+            <ArticleId IdType="pmc">PMC2446672</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Annu Rev Genet. 1993;27:147-79</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8122900</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2002 Aug;45(3):795-804</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12139624</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Plant Microbe Interact. 2002 Nov;15(11):1119-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12423017</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 1999 May 17;18(10):2756-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10329622</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Biol Cell. 2000 Nov;11(11):4033-49</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11071925</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2000 Jul 5;97(14):7905-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10869425</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Fungal Genet Biol. 2000 Oct;31(1):7-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11118131</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2004 Sep;53(6):1611-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15341643</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Fungal Genet Biol. 1999 Jul-Aug;27(2-3):253-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10441451</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Phytopathology. 2006 Sep;96(9):1021-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18944058</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eukaryot Cell. 2005 Feb;4(2):407-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15701803</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2008 Apr;74(8):2349-59</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18263740</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 1994 Apr 1;13(7):1620-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8157001</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Biochem. 2001;70:703-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11395421</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eukaryot Cell. 2006 Mar;5(3):544-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16524909</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1999 May 11;96(10):5592-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10318929</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Dev. 1998 Sep 1;12(17):2684-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9732267</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2004 Jun;52(6):1781-98</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15186425</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiol Mol Biol Rev. 1997 Dec;61(4):411-28</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9409146</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mycologia. 2005 Jan-Feb;97(1):229-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16389974</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Fungal Genet Biol. 2003 Dec;40(3):242-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14599892</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2003 Oct;50(1):145-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14507370</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eukaryot Cell. 2002 Dec;1(6):987-99</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12477799</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Phytopathology. 1999 Feb;89(2):182-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18944794</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1988 Dec 5;263(34):18236-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3056940</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiology. 2003 Sep;149(Pt 9):2301-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12949156</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Plant Microbe Interact. 2001 Apr;14(4):580-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11310747</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Fungal Genet Biol. 2004 Jun;41(6):600-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15121083</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genetics. 2005 Nov;171(3):985-1001</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16079234</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Ecol. 2004 Mar;13(3):563-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14871361</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Fungal Genet Biol. 1999 Feb;26(1):19-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10072317</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Phytopathology. 1997 Apr;87(4):414-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18945120</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2002 May;68(5):2148-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11976083</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genetics. 2006 Mar;172(3):1521-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16387884</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Microbiol. 2000 Dec;3(6):573-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11121776</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genetics. 2002 Apr;160(4):1451-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11973300</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gene. 2001 Dec 12;280(1-2):9-17</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11738813</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Cell. 1993 Oct;5(10):1461-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8281042</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Genet. 2000 Jun;37(6):403-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10905431</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 1992 Mar;11(3):951-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1547790</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

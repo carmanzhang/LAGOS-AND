@@ -1,0 +1,418 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">24645803</PMID>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>05</Month>
+            <Day>12</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1540-8159</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>37</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Pacing and clinical electrophysiology : PACE</Title>
+                <ISOAbbreviation>Pacing Clin Electrophysiol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A method to noninvasively identify cardiac bioelectrical sources.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1038-50</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/pace.12380</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">We have introduced a method to guide radiofrequency catheter ablation (RCA) procedures that estimates the location of a catheter tip used to pace the ventricles and the target site for ablation using the single equivalent moving dipole (SEMD).</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To investigate the accuracy of this method in resolving epicardial and endocardial electrical sources.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Two electrode arrays, each of nine pacing electrodes at known distances from each other, sutured on the left- and right-ventricular (LV and RV) epicardial surfaces of swine, were used to pace the heart at multiple rates, while body surface potentials from 64 sites were recorded and used to estimate the SEMD location. A similar approach was followed for pacing from catheters in the LV and RV.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The overall (RV &amp; LV) error in estimating the interelectrode distance of adjacent epicardial electrodes was 0.38 ± 0.45 cm. The overall endocardial (RV &amp; LV) interelectrode distance error, was 0.44 ± 0.26 cm. Heart rate did not significantly affect the error of the estimated SEMD location (P &gt; 0.05). The guiding process error became progressively smaller as the SEMD approached an epicardial target site and close to the target, the overall absolute error was ∼ 0.28 cm. The estimated epicardial SEMD locations preserved their topology in image space with respect to their corresponding physical location of the epicardial electrodes.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The proposed algorithm suggests one can efficiently and accurately resolve epicardial electrical sources without the need of an imaging modality. In addition, the error in resolving these sources is sufficient to guide RCA procedures.</AbstractText>
+                <CopyrightInformation>©2014 Wiley Periodicals, Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sohn</LastName>
+                    <ForeName>Kwanghyun</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cardiovascular Research Center, Massachusetts General Hospital, Boston, Massachusetts.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lv</LastName>
+                    <ForeName>Wener</ForeName>
+                    <Initials>W</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Kichang</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Galea</LastName>
+                    <ForeName>Anna</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hirschman</LastName>
+                    <ForeName>Gordon</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Barrett</LastName>
+                    <ForeName>Conor</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cohen</LastName>
+                    <ForeName>Richard J</ForeName>
+                    <Initials>RJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Armoundas</LastName>
+                    <ForeName>Antonis A</ForeName>
+                    <Initials>AA</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 HL103961</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R44 HL079726</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>1R01HL103961</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R44 HL079726-04</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D023362">Evaluation Studies</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2014</Year>
+                <Month>03</Month>
+                <Day>20</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Pacing Clin Electrophysiol</MedlineTA>
+            <NlmUniqueID>7803944</NlmUniqueID>
+            <ISSNLinking>0147-8389</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000465" MajorTopicYN="Y">Algorithms</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001674" MajorTopicYN="Y">Bioelectric Energy Sources</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017115" MajorTopicYN="N">Catheter Ablation</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055724" MajorTopicYN="N">Electrophysiological Phenomena</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013552" MajorTopicYN="N">Swine</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">arrhythmia</Keyword>
+            <Keyword MajorTopicYN="N">catheter ablation</Keyword>
+            <Keyword MajorTopicYN="N">localization</Keyword>
+            <Keyword MajorTopicYN="N">noninvasive</Keyword>
+            <Keyword MajorTopicYN="N">single equivalent moving dipole</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>11</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2014</Year>
+                <Month>01</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2014</Year>
+                <Month>01</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>3</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>3</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24645803</ArticleId>
+            <ArticleId IdType="doi">10.1111/pace.12380</ArticleId>
+            <ArticleId IdType="pmc">PMC4205085</ArticleId>
+            <ArticleId IdType="mid">NIHMS568785</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Med Biol Eng Comput. 2009 Mar;47(3):267-78</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19194733</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IEEE Trans Biomed Eng. 2006 Dec;53(12 Pt 1):2436-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17153200</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IEEE Trans Biomed Eng. 2009 Mar;56(3):907-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19272901</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sci Transl Med. 2011 Aug 31;3(98):98ra84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21885406</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 2013 Jan 1;127(1):143-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23283859</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pacing Clin Electrophysiol. 2013 Jul;36(7):811-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23448231</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cardiovasc Electrophysiol. 2000 Jan;11(1):121-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10695474</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Coll Cardiol. 2000 Jun;35(7):1905-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10841242</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Heart. 2000 Nov;84(5):553-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11040021</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Cardiol Rep. 2000 Nov;2(6):537-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11060581</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 2000 Nov 14;102(20 Suppl 4):IV52-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11080132</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pacing Clin Electrophysiol. 2001 Aug;24(8 Pt 1):1261-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11523613</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pacing Clin Electrophysiol. 2001 Sep;24(9 Pt 1):1403-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11584464</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Med Biol Eng Comput. 2001 Sep;39(5):562-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11712653</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circ J. 2003 May;67(5):455-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12736487</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Biomed Eng. 2003 May;31(5):564-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12757200</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cardiovasc Electrophysiol. 2003 Jul;14(7):712-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12930250</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IEEE Trans Biomed Eng. 2003 Dec;50(12):1360-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14656065</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cardiovasc Electrophysiol. 2003 Oct;14(10 Suppl):S203-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14760925</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Med. 2004 Apr;10(4):422-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15034569</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 1988 Jan;77(1):110-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3335062</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IEEE Trans Biomed Eng. 1989 Feb;36(2):256-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2917771</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pacing Clin Electrophysiol. 1990 Mar;13(3):285-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1690401</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cardiovasc Res. 1992 Mar;26(3):237-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1423418</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Coll Cardiol. 1995 Aug;26(2):481-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7608454</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 1997 Dec 2;96(11):4036-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9403629</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pacing Clin Electrophysiol. 1998 Jul;21(7):1442-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9670189</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pacing Clin Electrophysiol. 1998 Jul;21(7):1448-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9670190</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 1998 Jul 28;98(4):308-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9711935</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Med Biol Eng Comput. 2005 May;43(3):325-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16035219</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol Heart Circ Physiol. 2005 Dec;289(6):H2724-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16085677</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2006 Apr 18;103(16):6309-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16606830</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Coll Cardiol. 2006 Nov 21;48(10):2045-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17112994</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IEEE Trans Biomed Eng. 2009 Mar;56(3):810-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19272900</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

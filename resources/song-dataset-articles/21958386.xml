@@ -1,0 +1,321 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21958386</PMID>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>04</Month>
+            <Day>03</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1751-7915</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>5</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Microbial biotechnology</Title>
+                <ISOAbbreviation>Microb Biotechnol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Highly fluorescent GFPm 2+ -based genome integration-proficient promoter probe vector to study Mycobacterium tuberculosis promoters in infected macrophages.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>98-105</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1751-7915.2011.00305.x</ELocationID>
+            <Abstract>
+                <AbstractText>Study of activity of cloned promoters in slow-growing Mycobacterium tuberculosis during long-term growth conditions in vitro or inside macrophages, requires a genome-integration proficient promoter probe vector, which can be stably maintained even without antibiotics, carrying a substrate-independent, easily scorable and highly sensitive reporter gene. In order to meet this requirement, we constructed pAKMN2, which contains mycobacterial codon-optimized gfp(m) (2+) gene, coding for GFP(m) (2+) of highest fluorescence reported till date, mycobacteriophage L5 attP-int sequence for genome integration, and a multiple cloning site. pAKMN2 showed stable integration and expression of GFP(m) (2+) from M. tuberculosis and M. smegmatis genome. Expression of GFP(m) (2+), driven by the cloned minimal promoters of M. tuberculosis cell division gene, ftsZ (MtftsZ), could be detected in the M. tuberculosis/pAKMN2-promoter integrants, growing at exponential phase in defined medium in vitro and inside macrophages. Stable expression from genome-integrated format even without antibiotic, and high sensitivity of detection by flow cytometry and fluorescence imaging, in spite of single copy integration, make pAKMN2 useful for the study of cloned promoters of any mycobacterial species under long-term in vitro growth or stress conditions, or inside macrophages.</AbstractText>
+                <CopyrightInformation>© 2011 The Authors. Microbial Biotechnology © 2011 Society for Applied Microbiology and Blackwell Publishing Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Roy</LastName>
+                    <ForeName>Sougata</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology and Cell Biology, Indian Institute of Science, Bangalore - 560012, Karnataka, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Narayana</LastName>
+                    <ForeName>Yeddula</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Balaji</LastName>
+                    <ForeName>Kithiganahalli Narayanaswamy</ForeName>
+                    <Initials>KN</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ajitkumar</LastName>
+                    <ForeName>Parthasarathi</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>09</Month>
+                <Day>29</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Microb Biotechnol</MedlineTA>
+            <NlmUniqueID>101316335</NlmUniqueID>
+            <ISSNLinking>1751-7915</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>147336-22-9</RegistryNumber>
+                <NameOfSubstance UI="D049452">Green Fluorescent Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002460" MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015964" MajorTopicYN="N">Gene Expression Regulation, Bacterial</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017930" MajorTopicYN="N">Genes, Reporter</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005822" MajorTopicYN="N">Genetic Vectors</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016680" MajorTopicYN="Y">Genome, Bacterial</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D049452" MajorTopicYN="N">Green Fluorescent Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008264" MajorTopicYN="N">Macrophages</DescriptorName>
+                <QualifierName UI="Q000382" MajorTopicYN="Y">microbiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009169" MajorTopicYN="N">Mycobacterium tuberculosis</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000254" MajorTopicYN="N">growth &amp; development</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011401" MajorTopicYN="Y">Promoter Regions, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011995" MajorTopicYN="Y">Recombination, Genetic</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>10</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>10</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>4</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21958386</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1751-7915.2011.00305.x</ArticleId>
+            <ArticleId IdType="pmc">PMC3815276</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1999 Dec 21;96(26):15190-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10611360</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2010 Jan;76(2):546-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19948860</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2001 Jul;41(2):423-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11489128</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Immun. 2002 Jun;70(6):2787-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12010964</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1991 Apr 15;88(8):3111-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1901654</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1993 Aug;175(16):5186-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8349558</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 1994 Sep;13(6):1057-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7854120</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 1995 Sep;17(5):901-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8596439</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 1995 Sep;17(5):913-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8596440</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gene. 1996;173(1 Spec No):47-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8707055</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Diagn Lab Immunol. 1996 Nov;3(6):761-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8914772</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microb Pathog. 1997 Apr;22(4):193-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9140914</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Exp Immunol. 1997 Jul;109(1):80-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9218828</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Biophys Res Commun. 1998 May 29;246(3):797-804</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9618292</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 1998 Sep;29(5):1167-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9767585</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiology. 1998 Dec;144 ( Pt 12):3397-406</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9884232</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Methods Mol Biol. 1998;101:245-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9921484</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Methods Mol Biol. 1998;101:285-306</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9921487</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEMS Microbiol Lett. 1999 Oct 15;179(2):317-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10518732</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Res Microbiol. 2004 Dec;155(10):817-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15567275</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEMS Microbiol Lett. 2005 Feb 1;243(1):243-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15668025</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2005 Apr;187(7):2540-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15774900</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiol Immunol. 2005;49(9):845-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16172539</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Mol Biol. 2006;7:47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17173678</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gene. 2001 Feb 21;264(2):225-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11250077</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

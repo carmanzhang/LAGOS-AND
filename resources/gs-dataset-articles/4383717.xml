@@ -1,0 +1,157 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">4383717</PMID>
+        <DateCompleted>
+            <Year>1968</Year>
+            <Month>02</Month>
+            <Day>15</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2014</Year>
+            <Month>11</Month>
+            <Day>20</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0037-8771</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>43</Volume>
+                    <Issue>18</Issue>
+                    <PubDate>
+                        <Year>1967</Year>
+                        <Month>Sep</Month>
+                        <Day>30</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Bollettino della Societa italiana di biologia sperimentale</Title>
+                <ISOAbbreviation>Boll. Soc. Ital. Biol. Sper.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Studies of the behavior of the enzymes of the &quot;shunt&quot; of hexose monophosphate in presence of miotic substances].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1190-4</MedlinePgn>
+            </Pagination>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Calabria</LastName>
+                    <ForeName>G A</ForeName>
+                    <Initials>GA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Castellazzo</LastName>
+                    <ForeName>R</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+            </AuthorList>
+            <Language>ita</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <VernacularTitle>Indagini sul comportamento degli enzimi dello &quot;shunt&quot; dell'esoso monofosfato in presenza di sostanze miotiche.</VernacularTitle>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Italy</Country>
+            <MedlineTA>Boll Soc Ital Biol Sper</MedlineTA>
+            <NlmUniqueID>7506962</NlmUniqueID>
+            <ISSNLinking>0037-8771</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D008916">Miotics</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>01MI4Q9DI3</RegistryNumber>
+                <NameOfSubstance UI="D010862">Pilocarpine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>53-59-8</RegistryNumber>
+                <NameOfSubstance UI="D009249">NADP</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>BA9QH3P00T</RegistryNumber>
+                <NameOfSubstance UI="D004456">Echothiophate Iodide</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.1.1.43</RegistryNumber>
+                <NameOfSubstance UI="D010734">Phosphogluconate Dehydrogenase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.1.1.49</RegistryNumber>
+                <NameOfSubstance UI="D005954">Glucosephosphate Dehydrogenase</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002417" MajorTopicYN="N">Cattle</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004456" MajorTopicYN="N">Echothiophate Iodide</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005954" MajorTopicYN="N">Glucosephosphate Dehydrogenase</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D066298" MajorTopicYN="N">In Vitro Techniques</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007908" MajorTopicYN="N">Lens, Crystalline</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName UI="Q000201" MajorTopicYN="N">enzymology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008916" MajorTopicYN="N">Miotics</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009249" MajorTopicYN="N">NADP</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010734" MajorTopicYN="N">Phosphogluconate Dehydrogenase</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010862" MajorTopicYN="N">Pilocarpine</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1967</Year>
+                <Month>9</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1967</Year>
+                <Month>9</Month>
+                <Day>30</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1967</Year>
+                <Month>9</Month>
+                <Day>30</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">4383717</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

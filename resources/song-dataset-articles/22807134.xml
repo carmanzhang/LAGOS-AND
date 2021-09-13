@@ -1,0 +1,195 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">22807134</PMID>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>04</Month>
+            <Day>16</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2012</Year>
+            <Month>11</Month>
+            <Day>12</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-1004</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>33</Volume>
+                    <Issue>12</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Human mutation</Title>
+                <ISOAbbreviation>Hum Mutat</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Assessment of the potential pathogenicity of missense mutations identified in the GTPase-activating protein (GAP)-related domain of the neurofibromatosis type-1 (NF1) gene.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1687-96</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/humu.22162</ELocationID>
+            <Abstract>
+                <AbstractText>Neurofibromatosis type-1 (NF1) is caused by constitutional mutations of the NF1 tumor-suppressor gene. Although ∼85% of inherited NF1 microlesions constitute truncating mutations, the remaining ∼15% are missense mutations whose pathological relevance is often unclear. The GTPase-activating protein-related domain (GRD) of the NF1-encoded protein, neurofibromin, serves to define its major function as a negative regulator of the Ras-MAPK (mitogen-activated protein kinase) signaling pathway. We have established a functional assay to assess the potential pathogenicity of 15 constitutional nonsynonymous NF1 missense mutations (11 novel and 4 previously reported but not functionally characterized) identified in the NF1-GRD (p.R1204G, p.R1204W, p.R1276Q, p.L1301R, p.I1307V, p.T1324N, p.E1327G, p.Q1336R, p.E1356G, p.R1391G, p.V1398D, p.K1409E, p.P1412R, p.K1436Q, p.S1463F). Individual mutations were introduced into an NF1-GRD expression vector and activated Ras was assayed by an enzyme-linked immunosorbent assay (ELISA). Ten NF1-GRD variants were deemed to be potentially pathogenic by virtue of significantly elevated levels of activated GTP-bound Ras in comparison to wild-type NF1 protein. The remaining five NF1-GRD variants were deemed less likely to be of pathological significance as they exhibited similar levels of activated Ras to the wild-type protein. These conclusions received broad support from both bioinformatic analysis and molecular modeling and serve to improve our understanding of NF1-GRD structure and function.</AbstractText>
+                <CopyrightInformation>© 2012 Wiley Periodicals, Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Thomas</LastName>
+                    <ForeName>Laura</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Medical Genetics, Cardiff University, Cardiff, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Richards</LastName>
+                    <ForeName>Mark</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mort</LastName>
+                    <ForeName>Matthew</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dunlop</LastName>
+                    <ForeName>Elaine</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cooper</LastName>
+                    <ForeName>David N</ForeName>
+                    <Initials>DN</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Upadhyaya</LastName>
+                    <ForeName>Meena</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2012</Year>
+                <Month>08</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Hum Mutat</MedlineTA>
+            <NlmUniqueID>9215429</NlmUniqueID>
+            <ISSNLinking>1059-7794</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D025542">Neurofibromin 1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.6.5.2</RegistryNumber>
+                <NameOfSubstance UI="D018631">ras Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D020134" MajorTopicYN="N">Catalytic Domain</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017124" MajorTopicYN="N">Conserved Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004252" MajorTopicYN="N">DNA Mutational Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D057809" MajorTopicYN="N">HEK293 Cells</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008957" MajorTopicYN="N">Models, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008958" MajorTopicYN="N">Models, Molecular</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016297" MajorTopicYN="N">Mutagenesis, Site-Directed</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020125" MajorTopicYN="Y">Mutation, Missense</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009456" MajorTopicYN="N">Neurofibromatosis 1</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D025542" MajorTopicYN="N">Neurofibromin 1</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011485" MajorTopicYN="N">Protein Binding</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D054730" MajorTopicYN="N">Protein Interaction Domains and Motifs</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018631" MajorTopicYN="N">ras Proteins</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2012</Year>
+                <Month>05</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2012</Year>
+                <Month>06</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>7</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>7</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>4</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">22807134</ArticleId>
+            <ArticleId IdType="doi">10.1002/humu.22162</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

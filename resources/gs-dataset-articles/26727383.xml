@@ -1,0 +1,386 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">26727383</PMID>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>09</Month>
+            <Day>28</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>02</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1534-7796</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>78</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Psychosomatic medicine</Title>
+                <ISOAbbreviation>Psychosom Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Childhood Socioeconomic Status and the Occurrence of Recent Negative Life Events as Predictors of Circulating and Stimulated Levels of Interleukin-6.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>91-101</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1097/PSY.0000000000000262</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">Evidence supports an inverse association of childhood socioeconomic status (SES) with systemic inflammation in adulthood. However, it remains to be determined whether this association is dependent on exposure to stressful life experiences.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We predicted that the combination of a high number of recent negative life events and low childhood SES would be associated with the highest levels of both circulating interleukin (IL)-6 and lipopolysaccharide-stimulated production of IL-6. We tested this prediction among a community sample of 459 adults (47% male, mean [standard deviation] age = 42.8 [7.3] years).</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Inverse associations were found between childhood and adult SES indices with circulating IL-6 levels (r values between -0.07 and -0.16, p &lt; .05) but not stimulated IL-6 levels (r values between -0.007 and 0.07, p &gt; .05). The number of recent negative life events (mean [standard deviation] = 2.43 [2.34]) was not significantly related to subjective childhood SES and other SES indices (r values &lt; 0.06, p &gt; .10). Multivariate linear regression analyses revealed a significant association between the interaction of subjective childhood SES and recent negative life events and circulating IL-6 (β = -0.09, t(404) = -1.98, p = .049) and a marginally significant association with stimulated levels of IL-6 (β = -0.10, t(365) = -1.94, p = .054), whereas these covariate-adjusted models revealed no main effects for subjective SES or recent negative life events.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The relationship between childhood SES and IL-6 seems to be moderated by recent life events, such that individuals with a relatively low childhood SES exhibit an inflammatory phenotype in the context of a high number of recent negative life events.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>John-Henderson</LastName>
+                    <ForeName>Neha A</ForeName>
+                    <Initials>NA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Department of Psychology, University of Pittsburgh, Pittsburgh, Pennsylvania.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Marsland</LastName>
+                    <ForeName>Anna L</ForeName>
+                    <Initials>AL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kamarck</LastName>
+                    <ForeName>Thomas W</ForeName>
+                    <Initials>TW</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Muldoon</LastName>
+                    <ForeName>Matthew F</ForeName>
+                    <Initials>MF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Manuck</LastName>
+                    <ForeName>Stephen B</ForeName>
+                    <Initials>SB</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>P01 HL040962</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>T32 HL007560</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Psychosom Med</MedlineTA>
+            <NlmUniqueID>0376505</NlmUniqueID>
+            <ISSNLinking>0033-3174</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C508600">IL6 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D015850">Interleukin-6</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D008070">Lipopolysaccharides</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001008" MajorTopicYN="N">Anxiety Disorders</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004522" MajorTopicYN="N">Educational Status</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005191" MajorTopicYN="N">Family Characteristics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015438" MajorTopicYN="N">Health Behavior</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006798" MajorTopicYN="N">Housing</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015850" MajorTopicYN="N">Interleukin-6</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008016" MajorTopicYN="Y">Life Change Events</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008070" MajorTopicYN="N">Lipopolysaccharides</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000075384" MajorTopicYN="N">Neuroticism</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010290" MajorTopicYN="N">Parents</DescriptorName>
+                <QualifierName UI="Q000193" MajorTopicYN="N">education</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012923" MajorTopicYN="Y">Social Class</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>1</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>1</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>9</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26727383</ArticleId>
+            <ArticleId IdType="doi">10.1097/PSY.0000000000000262</ArticleId>
+            <ArticleId IdType="pii">00006842-201601000-00011</ArticleId>
+            <ArticleId IdType="pmc">PMC4700553</ArticleId>
+            <ArticleId IdType="mid">NIHMS723571</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Psychosom Med. 2007 Jun;69(5):402-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17556642</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Adolesc Health. 2007 Nov;41(5):479-87</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17950168</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Health Psychol. 2008 Mar;27(2):268-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18377146</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Soc Cogn Affect Neurosci. 2008 Jun;3(2):91-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18594696</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAMA. 2009 Jun 3;301(21):2252-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19491187</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Brain Behav Immun. 2009 Jul;23(5):677-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19486653</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2009 Aug 25;106(34):14716-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19617551</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Brain Behav Immun. 2009 Oct;23(7):887-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19389469</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Psychol Sci. 2010 Jan;21(1):31-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20424019</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Psychol Sci. 2010 Jun;21(6):848-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20431047</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neurosci Biobehav Rev. 2010 Sep;35(1):39-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20083138</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Pers Soc Psychol. 2010 Dec;99(6):1025-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20939649</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Brain Behav Immun. 2011 Oct;25(7):1468-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21672624</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Psychol Bull. 2011 Nov;137(6):959-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21787044</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Prev Med. 2012 Dec;43(6):611-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23159256</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Soc Cogn Affect Neurosci. 2013 Aug;8(6):617-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22446300</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann N Y Acad Sci. 1999;896:85-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10681890</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann N Y Acad Sci. 1999;896:417-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10681939</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Health Psychol. 2000 Nov;19(6):586-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11129362</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Behav Med. 2001 Spring;23(2):101-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11394551</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Soc Sci Med. 2003 Mar;56(6):1321-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12600368</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Epidemiol Rev. 2004;26:7-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15234944</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Psychosom Med. 2004 Jul-Aug;66(4):553-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15272102</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Mol Life Sci. 2004 Sep;61(18):2322-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15378203</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Pers. 2004 Dec;72(6):1365-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15509286</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 1991 Aug 29;325(9):606-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1713648</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Pers Soc Psychol. 1993 Jan;64(1):131-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8421249</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 1993 Feb 25;328(8):538-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8426621</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Public Health. 2005 Jan 20;5:7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15661071</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Epidemiol. 2006 Feb;16(2):91-104</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16257232</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

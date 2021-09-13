@@ -1,0 +1,213 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">24443685</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>10</Month>
+            <Day>01</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1945-7928</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>2013</Volume>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Dec</Month>
+                        <Day>31</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Proceedings. IEEE International Symposium on Biomedical Imaging</Title>
+                <ISOAbbreviation>Proc IEEE Int Symp Biomed Imaging</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>PATCH BASED INTENSITY NORMALIZATION OF BRAIN MR IMAGES.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>342-345</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Magnetic resonance (MR) imaging (MRI) is widely used to study the structure of human brains. Unlike computed tomography (CT), MR image intensities do not have a tissue specific interpretation. Thus images of the same subject obtained with either the same imaging sequence on different scanners or with differing parameters have widely varying intensity scales. This inconsistency introduces errors in segmentation, and other image processing tasks, thus necessitating image intensity standardization. Compared to previous intensity normalization methods using histogram transformations-which try to find a global one-to-one intensity mapping based on histograms-we propose a patch based generative model for intensity normalization between images acquired under different scanners or different pulse sequence parameters. Our method outperforms histogram based methods when normalizing phantoms simulated with various parameters. Additionally, experiments on real data, acquired under a variety of scanners and acquisition parameters, have more consistent segmentations after our normalization.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Roy</LastName>
+                    <ForeName>Snehashis</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Image Analysis and Communications Laboratory, Electrical and Computer Engineering, The Johns Hopkins University.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Carass</LastName>
+                    <ForeName>Aaron</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Image Analysis and Communications Laboratory, Electrical and Computer Engineering, The Johns Hopkins University.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Prince</LastName>
+                    <ForeName>Jerry L</ForeName>
+                    <Initials>JL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Image Analysis and Communications Laboratory, Electrical and Computer Engineering, The Johns Hopkins University.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>U24 RR021382</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U24 RR021760</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U24 RR019701</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R21 EB012765</GrantID>
+                    <Acronym>EB</Acronym>
+                    <Agency>NIBIB NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U24 RR021992</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Proc IEEE Int Symp Biomed Imaging</MedlineTA>
+            <NlmUniqueID>101492570</NlmUniqueID>
+            <ISSNLinking>1945-7928</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">MRI</Keyword>
+            <Keyword MajorTopicYN="N">brain</Keyword>
+            <Keyword MajorTopicYN="N">intensity normalization</Keyword>
+            <Keyword MajorTopicYN="N">intensity standardization</Keyword>
+            <Keyword MajorTopicYN="N">segmentation</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>1</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>1</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>1</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24443685</ArticleId>
+            <ArticleId IdType="doi">10.1109/ISBI.2013.6556482</ArticleId>
+            <ArticleId IdType="pmc">PMC3892712</ArticleId>
+            <ArticleId IdType="mid">NIHMS469264</ArticleId>
+        </ArticleIdList>
+        <?nihms?>
+        <ReferenceList>
+            <Reference>
+                <Citation>Hum Brain Mapp. 2008 Aug;29(8):958-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17636563</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IEEE Trans Pattern Anal Mach Intell. 1980 Jan;2(1):1-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22499617</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IEEE Trans Med Imaging. 1998 Feb;17(1):87-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9617910</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuroimage. 2004;23 Suppl 1:S69-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15501102</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IEEE Trans Med Imaging. 2007 Apr;26(4):479-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17427735</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IEEE Trans Med Imaging. 2009 Jan;28(1):137-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19116196</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuroimage. 2011 Jun 15;56(4):1982-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21458576</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuroimage. 2006 Jan 1;29(1):185-202</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16139526</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Inf Process Med Imaging. 2011;22:371-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21761671</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IEEE Trans Pattern Anal Mach Intell. 2010 Dec;32(12):2262-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20975122</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Magn Reson Med. 1999 Dec;42(6):1072-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10571928</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

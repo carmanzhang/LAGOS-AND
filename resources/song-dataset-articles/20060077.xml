@@ -1,0 +1,168 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20060077</PMID>
+        <DateCompleted>
+            <Year>2010</Year>
+            <Month>07</Month>
+            <Day>06</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>05</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1876-7737</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>73</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2010</Year>
+                        <Month>Mar</Month>
+                        <Day>10</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of proteomics</Title>
+                <ISOAbbreviation>J Proteomics</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Heterogeneity in thylakoid membrane proteome of Synechocystis 6803.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>976-91</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jprot.2009.12.011</ELocationID>
+            <Abstract>
+                <AbstractText>Cell-free extracts of Synechocystis 6803 were fractionated by successive ultracentrifugation at 40,000 x g, 90,000 x g and 150,000 x g to obtain the three thylakoid fractions designated as 40k, 90k and 150k fractions respectively. These fractions showed differences in absorption and emission spectra. Nano-LC-ESI-Q-TOF MS analysis identified 123 proteins belonging to membrane as well as cytosolic fraction. Out of these proteins, there were 22 proteins with transmembrane helices and 12 proteins with signal peptide. There were 77 proteins common across all the three fractions. Most of these proteins were subunits of photosynthetic complexes, CF(0)-CF(1) ATP synthase or ribosomal proteins. Among the rest of the proteins, 8 were exclusive to 40k fraction, 3 were exclusive to 90k fraction and 13 were exclusive to 150k fraction. There were 10 proteins common between 40k and 90k fractions and 12 proteins common between 90k and 150k fractions. There were no common proteins detected between 40k and 150 fractions. The results suggested existence of heterogeneity in thylakoids of Synechocystis 6803, which may lead to micro-compartmentation and functional heterogeneity in the thylakoids of this organism as seen previously.</AbstractText>
+                <CopyrightInformation>Copyright (c) 2009 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Agarwal</LastName>
+                    <ForeName>Rachna</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Molecular Biology Division, Bhabha Atomic Research Center, Mumbai 400085, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Matros</LastName>
+                    <ForeName>Andrea</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Melzer</LastName>
+                    <ForeName>Michael</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mock</LastName>
+                    <ForeName>Hans-Peter</ForeName>
+                    <Initials>HP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sainis</LastName>
+                    <ForeName>Jayashree Krishna</ForeName>
+                    <Initials>JK</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>01</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>J Proteomics</MedlineTA>
+            <NlmUniqueID>101475056</NlmUniqueID>
+            <ISSNLinking>1874-3919</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D020543">Proteome</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D002458" MajorTopicYN="N">Cell Fractionation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003600" MajorTopicYN="N">Cytosol</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008970" MajorTopicYN="N">Molecular Weight</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020543" MajorTopicYN="N">Proteome</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D046939" MajorTopicYN="N">Synechocystis</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020524" MajorTopicYN="N">Thylakoids</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2009</Year>
+                <Month>08</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2009</Year>
+                <Month>11</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2009</Year>
+                <Month>12</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>1</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>1</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2010</Year>
+                <Month>7</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20060077</ArticleId>
+            <ArticleId IdType="pii">S1874-3919(09)00393-5</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jprot.2009.12.011</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

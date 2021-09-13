@@ -1,0 +1,509 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">27698129</PMID>
+        <DateCompleted>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>07</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1091-6490</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>113</Volume>
+                    <Issue>40</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>10</Month>
+                        <Day>04</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Proceedings of the National Academy of Sciences of the United States of America</Title>
+                <ISOAbbreviation>Proc. Natl. Acad. Sci. U.S.A.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Negative cooperativity in the nitrogenase Fe protein electron delivery cycle.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>E5783-E5791</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Nitrogenase catalyzes the ATP-dependent reduction of dinitrogen (N<sub>2</sub>) to two ammonia (NH<sub>3</sub>) molecules through the participation of its two protein components, the MoFe and Fe proteins. Electron transfer (ET) from the Fe protein to the catalytic MoFe protein involves a series of synchronized events requiring the transient association of one Fe protein with each αβ half of the α<sub>2</sub>β<sub>2</sub> MoFe protein. This process is referred to as the Fe protein cycle and includes binding of two ATP to an Fe protein, association of an Fe protein with the MoFe protein, ET from the Fe protein to the MoFe protein, hydrolysis of the two ATP to two ADP and two P<sub>i</sub> for each ET, P<sub>i</sub> release, and dissociation of oxidized Fe protein-(ADP)<sub>2</sub> from the MoFe protein. Because the MoFe protein tetramer has two separate αβ active units, it participates in two distinct Fe protein cycles. Quantitative kinetic measurements of ET, ATP hydrolysis, and P<sub>i</sub> release during the presteady-state phase of electron delivery demonstrate that the two halves of the ternary complex between the MoFe protein and two reduced Fe protein-(ATP)<sub>2</sub> do not undergo the Fe protein cycle independently. Instead, the data are globally fit with a two-branch negative-cooperativity kinetic model in which ET in one-half of the complex partially suppresses this process in the other. A possible mechanism for communication between the two halves of the nitrogenase complex is suggested by normal-mode calculations showing correlated and anticorrelated motions between the two halves.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Danyal</LastName>
+                    <ForeName>Karamatullah</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry and Biochemistry, Utah State University, Logan, UT 84322.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shaw</LastName>
+                    <ForeName>Sudipta</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry and Biochemistry, Utah State University, Logan, UT 84322.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Page</LastName>
+                    <ForeName>Taylor R</ForeName>
+                    <Initials>TR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry, Northwestern University, Evanston, IL 60208.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Duval</LastName>
+                    <ForeName>Simon</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry and Biochemistry, Utah State University, Logan, UT 84322.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Horitani</LastName>
+                    <ForeName>Masaki</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry, Northwestern University, Evanston, IL 60208.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Marts</LastName>
+                    <ForeName>Amy R</ForeName>
+                    <Initials>AR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry, Northwestern University, Evanston, IL 60208.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lukoyanov</LastName>
+                    <ForeName>Dmitriy</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry, Northwestern University, Evanston, IL 60208.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dean</LastName>
+                    <ForeName>Dennis R</ForeName>
+                    <Initials>DR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry, Virginia Polytechnic Institute and State University, Blacksburg, VA 24061.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Raugei</LastName>
+                    <ForeName>Simone</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Catalysis Science, Physical Science Division, Pacific Northwestern National Laboratory, Richland, WA 99352.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hoffman</LastName>
+                    <ForeName>Brian M</ForeName>
+                    <Initials>BM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry, Northwestern University, Evanston, IL 60208; bmh@northwestern.edu lance.seefeldt@usu.edu edwin.antony@marquette.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Seefeldt</LastName>
+                    <ForeName>Lance C</ForeName>
+                    <Initials>LC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry and Biochemistry, Utah State University, Logan, UT 84322; bmh@northwestern.edu lance.seefeldt@usu.edu edwin.antony@marquette.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Antony</LastName>
+                    <ForeName>Edwin</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biological Sciences, Marquette University, Milwaukee, WI 53201 bmh@northwestern.edu lance.seefeldt@usu.edu edwin.antony@marquette.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 GM111097</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 HL063203</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R15 GM110671</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Proc Natl Acad Sci U S A</MedlineTA>
+            <NlmUniqueID>7505876</NlmUniqueID>
+            <ISSNLinking>0027-8424</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D008983">Molybdoferredoxin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D046912">Multiprotein Complexes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>8L70Q75FXE</RegistryNumber>
+                <NameOfSubstance UI="D000255">Adenosine Triphosphate</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.-</RegistryNumber>
+                <NameOfSubstance UI="D010088">Oxidoreductases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.18.6.1</RegistryNumber>
+                <NameOfSubstance UI="C029130">nitrogenase reductase</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000255" MajorTopicYN="N">Adenosine Triphosphate</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004579" MajorTopicYN="N">Electron Transport</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006868" MajorTopicYN="N">Hydrolysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007700" MajorTopicYN="N">Kinetics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008983" MajorTopicYN="N">Molybdoferredoxin</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D046912" MajorTopicYN="N">Multiprotein Complexes</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009586" MajorTopicYN="N">Nitrogen Fixation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010088" MajorTopicYN="N">Oxidoreductases</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011485" MajorTopicYN="N">Protein Binding</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012474" MajorTopicYN="N">Salmon</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="Y">ATP hydrolysis</Keyword>
+            <Keyword MajorTopicYN="Y">allosteric control</Keyword>
+            <Keyword MajorTopicYN="Y">conformational control</Keyword>
+            <Keyword MajorTopicYN="Y">half-sites reactivity</Keyword>
+        </KeywordList>
+        <CoiStatement>The authors declare no conflict of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>10</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>10</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">27698129</ArticleId>
+            <ArticleId IdType="pii">1613089113</ArticleId>
+            <ArticleId IdType="doi">10.1073/pnas.1613089113</ArticleId>
+            <ArticleId IdType="pmc">PMC5056064</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Biochemistry. 1999 Oct 19;38(42):13829-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10529228</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1997 May 22;387(6631):370-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9163420</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochim Biophys Acta. 1999 Jan 11;1429(2):411-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9989226</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Inorg Chem. 2014 Apr 7;53(7):3688-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24635454</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Chem Rev. 1996 Nov 7;96(7):2983-3012</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11848849</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem J. 1975 Feb;145(2):391-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1098654</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 2001 Jan 23;40(3):641-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11170380</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2002 Sep 6;297(5587):1696-700</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12215645</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 2001 Mar 20;40(11):3333-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11258953</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Chem Soc. 2015 Jan 14;137(1):146-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25522159</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Inorg Biochem. 2007 Nov;101(11-12):1649-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17845818</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1992 Sep 18;257(5077):1653-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1529353</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 1978 May 16;17(10):1866-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">656366</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2005 Aug 26;309(5739):1377-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16123301</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Phys Rev Lett. 1996 Aug 26;77(9):1905-1908</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10063201</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2009 Nov 3;106(44):18474-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19828444</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1990 Mar 5;265(7):3859-67</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2303482</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Chem Biol. 2012 Apr;16(1-2):19-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22397885</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biophys J. 2001 Jan;80(1):505-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11159421</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 1998 Sep 8;37(36):12611-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9730834</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biophys Chem. 2001 Jul 24;91(3):281-304</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11551440</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem J. 1983 Nov 1;215(2):393-403</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6316927</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2011 Nov 18;334(6058):940</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22096190</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 1968 Nov;7(11):4011-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4301879</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Soc Trans. 2011 Jan;39(1):201-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21265773</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 2014 Apr 15;53(14):2278-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24654842</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 2011 Nov 1;50(43):9255-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21939270</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Chem Soc. 2010 May 26;132(20):6894-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20429505</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 1973 Oct 15;80(1):41-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4594141</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Inorg Chem. 2001 Jun;6(5-6):590-600</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11472022</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 1984 May 8;23(10):2118-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6329264</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Crit Rev Biochem Mol Biol. 2003;38(4):351-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14551236</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 2016 Jul 5;55(26):3625-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27295169</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2013 Oct 8;110(41):16414-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24062462</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 1971 Aug 31;10(18):3371-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4940762</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acc Chem Res. 2013 Feb 19;46(2):587-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23289741</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Chem Rev. 2014 Apr 23;114(8):4041-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24467365</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem J. 1984 Dec 15;224(3):895-901</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6395863</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

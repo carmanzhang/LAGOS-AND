@@ -1,0 +1,390 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21549203</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>10</Month>
+            <Day>19</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>10</Month>
+            <Day>08</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1095-9572</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>57</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Jul</Month>
+                        <Day>01</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>NeuroImage</Title>
+                <ISOAbbreviation>Neuroimage</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>T2*-based fiber orientation mapping.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>225-234</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S1053-8119(11)00425-3</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.neuroimage.2011.04.026</ELocationID>
+            <Abstract>
+                <AbstractText>Recent MRI studies at high field have observed that, in certain white matter fiber bundles, the signal in T(2)*-weighted MRI (i.e. MRI sensitized to apparent transverse relaxivity) is dependent on fiber orientation θ relative to B(0). In this study, the characteristics of this dependency are quantitatively investigated at 7 T using ex-vivo brain specimens, which allowed a large range of rotation angles to be measured. The data confirm the previously suggested variation of R(2)* (=1/T(2)*) with θ and also indicate that this dependency takes the shape of a combination of sin2θ and sin4θ functions, with modulation amplitudes (=ΔR(2)*) reaching 6.44±0.15 Hz (or ΔT(2)*=2.91±0.33 ms) in the major fiber bundles of the corpus callosum. This particular dependency can be explained by a model of local, sub-voxel scale magnetic field changes resulting from magnetic susceptibility sources that are anisotropic. As an illustration of a potential use of the orientation dependence of R(2)*, the feasibility of generating fiber orientation maps from R(2)* data is investigated.</AbstractText>
+                <CopyrightInformation>Published by Elsevier Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Jongho</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Advanced MRI Section, Laboratory of Functional and Molecular Imaging, National Institute of Neurological Disorders and Stroke, National Institutes of Health, Bethesda, Maryland, USA; Department of Radiology, University of Pennsylvania, Philadelphia, Pennsylvania, USA. Electronic address: jonghoyi@gmail.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>van Gelderen</LastName>
+                    <ForeName>Peter</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Advanced MRI Section, Laboratory of Functional and Molecular Imaging, National Institute of Neurological Disorders and Stroke, National Institutes of Health, Bethesda, Maryland, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kuo</LastName>
+                    <ForeName>Li-Wei</ForeName>
+                    <Initials>LW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Advanced MRI Section, Laboratory of Functional and Molecular Imaging, National Institute of Neurological Disorders and Stroke, National Institutes of Health, Bethesda, Maryland, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Merkle</LastName>
+                    <ForeName>Hellmut</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Advanced MRI Section, Laboratory of Functional and Molecular Imaging, National Institute of Neurological Disorders and Stroke, National Institutes of Health, Bethesda, Maryland, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Silva</LastName>
+                    <ForeName>Afonso C</ForeName>
+                    <Initials>AC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cerebral Microcirculation Unit, Laboratory of Functional and Molecular Imaging, National Institute of Neurological Disorders and Stroke, National Institutes of Health, Bethesda, Maryland, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Duyn</LastName>
+                    <ForeName>Jeff H</ForeName>
+                    <Initials>JH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Advanced MRI Section, Laboratory of Functional and Molecular Imaging, National Institute of Neurological Disorders and Stroke, National Institutes of Health, Bethesda, Maryland, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>Z99 NS999999</GrantID>
+                    <Agency>Intramural NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052060">Research Support, N.I.H., Intramural</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>04</Month>
+                <Day>22</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Neuroimage</MedlineTA>
+            <NlmUniqueID>9215515</NlmUniqueID>
+            <ISSNLinking>1053-8119</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016880" MajorTopicYN="N">Anisotropy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001931" MajorTopicYN="N">Brain Mapping</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007091" MajorTopicYN="N">Image Processing, Computer-Assisted</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008279" MajorTopicYN="N">Magnetic Resonance Imaging</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2011</Year>
+                <Month>04</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2011</Year>
+                <Month>04</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>5</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>5</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>10</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21549203</ArticleId>
+            <ArticleId IdType="pii">S1053-8119(11)00425-3</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.neuroimage.2011.04.026</ArticleId>
+            <ArticleId IdType="pmc">PMC3119254</ArticleId>
+            <ArticleId IdType="mid">NIHMS292234</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Glia. 1996 Jun;17(2):83-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8776576</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biosystems. 1995;36(3):187-229</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8573700</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Magn Reson Imaging. 1999 Oct;17(8):1141-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10499676</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Magn Reson Imaging. 2005 Jan;23(1):1-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15733784</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuroimage. 2006 Sep;32(3):1032-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16854600</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Magn Reson. 2000 Dec;147(2):340-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11097823</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Med Image Anal. 2001 Jun;5(2):143-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11516708</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Magn Reson Med. 2003 Oct;50(4):743-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14523960</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2007 Jul 10;104(28):11796-801</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17586684</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cereb Cortex. 2008 Oct;18(10):2318-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18222935</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Magn Reson Med. 2009 May;61(5):1066-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19253372</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Magn Reson Med. 2009 Jul;62(1):26-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19353660</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Magn Reson Med. 2009 Dec;62(6):1652-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19859939</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2010 Feb 23;107(8):3834-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20133720</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2010 Mar 16;107(11):5130-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20202922</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Magn Reson Med. 2010 Jun;63(6):1471-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20512849</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>NMR Biomed. 2010 Nov;23(9):1071-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20665897</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Magn Reson Med. 2010 Nov;64(5):1440-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20593370</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>NMR Biomed. 2011 Apr;24(3):246-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21404336</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>AJNR Am J Neuroradiol. 2004 Mar;25(3):431-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15037469</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuroimage. 2004;23 Suppl 1:S208-19</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15501092</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biophys J. 1978 Dec;24(3):863-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">367463</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biophys J. 1984 Mar;45(3):589-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6713071</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Radiology. 1985 May;155(2):433-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3983395</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biophys J. 1987 Apr;51(4):687-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3580492</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Brain. 1988 Aug;111 ( Pt 4):927-39</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3401689</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Magn Reson Med. 1990 May;14(2):330-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2345513</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci Res. 1990 Dec;27(4):595-611</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2079720</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Radiology. 1992 Feb;182(2):483-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1732968</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Radiology. 1993 Jul;188(1):219-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8511302</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Magn Reson Med. 1994 Nov;32(5):592-601</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7808260</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Magn Reson Med. 1994 Dec;32(6):749-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7869897</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Magn Reson Imaging. 1999 Apr;9(4):531-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10232510</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

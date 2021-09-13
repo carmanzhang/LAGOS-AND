@@ -1,0 +1,571 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">22411920</PMID>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>05</Month>
+            <Day>01</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1756-1833</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>344</Volume>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Mar</Month>
+                        <Day>12</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>BMJ (Clinical research ed.)</Title>
+                <ISOAbbreviation>BMJ</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Inverse association between cancer and Alzheimer's disease: results from the Framingham Heart Study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e1442</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1136/bmj.e1442</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">bmj.e1442</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">To relate cancer since entry into the Framingham Heart Study with the risk of incident Alzheimer's disease and to estimate the risk of incident cancer among participants with and without Alzheimer's disease.</AbstractText>
+                <AbstractText Label="DESIGN" NlmCategory="METHODS">Community based prospective cohort study; nested age and sex matched case-control study.</AbstractText>
+                <AbstractText Label="SETTING" NlmCategory="METHODS">Framingham Heart Study, USA.</AbstractText>
+                <AbstractText Label="PARTICIPANTS" NlmCategory="METHODS">1278 participants with and without a history of cancer who were aged 65 or more and free of dementia at baseline (1986-90).</AbstractText>
+                <AbstractText Label="MAIN OUTCOME MEASURES" NlmCategory="METHODS">Hazard ratios and 95% confidence intervals for the risks of Alzheimer's disease and cancer.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Over a mean follow-up of 10 years, 221 cases of probable Alzheimer's disease were diagnosed. Cancer survivors had a lower risk of probable Alzheimer's disease (hazard ratio 0.67, 95% confidence interval 0.47 to 0.97), adjusted for age, sex, and smoking. The risk was lower among survivors of smoking related cancers (0.26, 0.08 to 0.82) than among survivors of non-smoking related cancers (0.82, 0.57 to 1.19). In contrast with their decreased risk of Alzheimer's disease, survivors of smoking related cancer had a substantially increased risk of stroke (2.18, 1.29 to 3.68). In the nested case-control analysis, participants with probable Alzheimer's disease had a lower risk of subsequent cancer (0.39, 0.26 to 0.58) than reference participants, as did participants with any Alzheimer's disease (0.38) and any dementia (0.44).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Cancer survivors had a lower risk of Alzheimer's disease than those without cancer, and patients with Alzheimer's disease had a lower risk of incident cancer. The risk of Alzheimer's disease was lowest in survivors of smoking related cancers, and was not primarily explained by survival bias. This pattern for cancer is similar to that seen in Parkinson's disease and suggests an inverse association between cancer and neurodegeneration.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Driver</LastName>
+                    <ForeName>Jane A</ForeName>
+                    <Initials>JA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Geriatric Research Education and Clinical Center and Boston VA Medical Center, Boston, MA 02130, USA. jdriver@partners.org</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Beiser</LastName>
+                    <ForeName>Alexa</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Au</LastName>
+                    <ForeName>Rhoda</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kreger</LastName>
+                    <ForeName>Bernard E</ForeName>
+                    <Initials>BE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Splansky</LastName>
+                    <ForeName>Greta Lee</ForeName>
+                    <Initials>GL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kurth</LastName>
+                    <ForeName>Tobias</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kiel</LastName>
+                    <ForeName>Douglas P</ForeName>
+                    <Initials>DP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lu</LastName>
+                    <ForeName>Kun Ping</ForeName>
+                    <Initials>KP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Seshadri</LastName>
+                    <ForeName>Sudha</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wolf</LastName>
+                    <ForeName>Phillip A</ForeName>
+                    <Initials>PA</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>N01-HC-25195</GrantID>
+                    <Acronym>HC</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 NS017950</GrantID>
+                    <Acronym>NS</Acronym>
+                    <Agency>NINDS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AG016495</GrantID>
+                    <Acronym>AG</Acronym>
+                    <Agency>NIA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>N01 HC025195</GrantID>
+                    <Acronym>HC</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>NS17950</GrantID>
+                    <Acronym>NS</Acronym>
+                    <Agency>NINDS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>AG08122</GrantID>
+                    <Acronym>AG</Acronym>
+                    <Agency>NIA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AG008122</GrantID>
+                    <Acronym>AG</Acronym>
+                    <Agency>NIA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>AG16495</GrantID>
+                    <Acronym>AG</Acronym>
+                    <Agency>NIA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2012</Year>
+                <Month>03</Month>
+                <Day>12</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>BMJ</MedlineTA>
+            <NlmUniqueID>8900488</NlmUniqueID>
+            <ISSNLinking>0959-8138</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>BMJ. 2012;344:e1662</RefSource>
+                <PMID Version="1">22411921</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000367" MajorTopicYN="N">Age Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000369" MajorTopicYN="N">Aged, 80 and over</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000544" MajorTopicYN="N">Alzheimer Disease</DescriptorName>
+                <QualifierName UI="Q000453" MajorTopicYN="Y">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016022" MajorTopicYN="N">Case-Control Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015331" MajorTopicYN="N">Cohort Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016001" MajorTopicYN="N">Confidence Intervals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015994" MajorTopicYN="N">Incidence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009369" MajorTopicYN="Y">Neoplasms</DescriptorName>
+                <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+                <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+                <QualifierName UI="Q000401" MajorTopicYN="N">mortality</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016016" MajorTopicYN="N">Proportional Hazards Models</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012307" MajorTopicYN="N">Risk Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012737" MajorTopicYN="N">Sex Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012907" MajorTopicYN="N">Smoking</DescriptorName>
+                <QualifierName UI="Q000009" MajorTopicYN="Y">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015996" MajorTopicYN="N">Survival Rate</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>3</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>3</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>5</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">22411920</ArticleId>
+            <ArticleId IdType="pmc">PMC3647385</ArticleId>
+            <ArticleId IdType="doi">10.1136/bmj.e1442</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Nature. 1999 Jun 24;399(6738):784-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10391244</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Geriatr Soc. 2008 Sep;56(9):1687-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18691280</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Alzheimers Res Ther. 2010 Jan 22;2(1):1</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20122289</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Geriatr Soc. 2009 Mar;57(3):403-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19278395</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Epidemiology. 2008 May;19(3):440-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18414086</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 2008 May;118(5):1877-89</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18431510</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Pathol. 2004 May;164(5):1727-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15111319</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Epidemiol Biomarkers Prev. 2007 Jun;16(6):1260-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17548694</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Exp Gerontol. 2005 Jan-Feb;40(1-2):11-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15732191</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Neurol. 2002 Sep;52(3):276-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12205639</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 2004 Aug 18;23(16):3397-407</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15257284</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Mol Cell Biol. 2007 Nov;8(11):904-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17878917</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Prog Neurobiol. 2009 Sep;89(1):1-17</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19619927</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci Res. 2000 Jul 15;61(2):128-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10878584</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Geriatr Soc. 1992 Oct;40(10):1075</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1401685</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neurobiol Aging. 2006 Jul;27(7):918-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15950321</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Psychiatry. 1999 Fall;62(3):265-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10612117</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Neurosci. 2005 Jul;28(7):348-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15913799</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Epidemiology. 2002 Mar;13(2):157-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11880756</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Neurol. 1995 Nov;52(11):1074-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7487559</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Geriatr Soc. 1996 Oct;44(10):1210-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8856000</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Aging Sci. 2010 Dec;3(3):158-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20735350</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neurology. 2005 Mar 8;64(5):895-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15753432</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neurobiol Aging. 2007 Jan;28(1):69-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16384626</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mov Disord. 2007 Jul 15;22(9):1252-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17534943</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neurosci Biobehav Rev. 2011 Jan;35(3):729-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20869395</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mov Disord. 2005 Jun;20(6):719-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15704188</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Alzheimer Res. 2009 Jun;6(3):196-204</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19519301</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Psychiatr Res. 1975 Nov;12(3):189-98</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1202204</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neurobiol Aging. 2000 Nov-Dec;21(6):815-28</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11124425</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioessays. 2008 Aug;30(8):719-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18623069</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioessays. 2003 Feb;25(2):174-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12539244</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Geriatr Soc. 1991 Aug;39(8):840</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2071819</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neurology. 2010 Jan 12;74(2):106-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20032288</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Causes Control. 2010 May;21(5):697-707</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20054708</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2002 Feb 14;346(7):476-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11844848</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Carcinogenesis. 2009 Oct;30(10):1717-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19625347</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Intern Med. 2011 Feb 28;171(4):333-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20975015</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Biochem Sci. 2004 Apr;29(4):200-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15082314</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2003 Jul 31;424(6948):556-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12891359</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neurology. 2010 Sep 28;75(13):1216-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20922851</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neurology. 2001 May 22;56(10):1285-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11376174</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Cancer. 2005 Jan 17;92(1):201-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15583688</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Geriatr Soc. 1999 Feb;47(2):189-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9988290</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mech Ageing Dev. 2005 Oct;126(10):1019-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15936057</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neurology. 1984 Jul;34(7):939-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6610841</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Causes Control. 2007 Sep;18(7):705-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17562193</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Public Health Nations Health. 1951 Mar;41(3):279-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14819398</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer. 1991 Jan 1;67(1):1-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1845934</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1996 Apr 11;380(6574):544-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8606777</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

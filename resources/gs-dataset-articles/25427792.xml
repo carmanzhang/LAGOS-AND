@@ -1,0 +1,168 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">25427792</PMID>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>02</Month>
+            <Day>29</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>06</Month>
+            <Day>05</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1559-0259</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>15</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cardiovascular toxicology</Title>
+                <ISOAbbreviation>Cardiovasc. Toxicol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Total Flavones of Choerospondias axillaris Attenuate Cardiac Dysfunction and Myocardial Interstitial Fibrosis by Modulating NF-κB Signaling Pathway.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>283-9</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s12012-014-9298-3</ELocationID>
+            <Abstract>
+                <AbstractText>This study aimed to investigate the effect of total flavonoids of Choerospondias axillaris (TFC) on myocardial infarction (MI)-induced cardiac dysfunction, interstitial fibrosis and inflammatory reaction and further to clarify the potential signaling pathway involved. Rats were subjected to MI via coronary artery occlusion. The model establishment was confirmed by the occurrence of ST-segment elevation in electrocardiogram. Then, TFC was administrated at doses of 75, 150 and 300 mg/kg for 28 consecutive days (gavage). Body weight and heart weight were recorded. Hemodynamics, infarct size and myocardial fibrosis were examined. Blood samples were collected to determine tumor necrosis factor-α (TNF-α) and interleukin 6, 10 (IL-6, IL-10) levels. The expressions of matrix metalloproteinases-2, 9 (MMP-2, 9), phosphor-IKBα (p-IKBα) and transforming growth factor-β1 (TGF-β1) were assayed by Western blot. The results indicated that TFC significantly improved cardiac dysfunction, the heart coefficient and myocardial fibrosis in MI rat. TFC also decreased the levels of TNF-α and IL-6, but increased IL-10 content. Moreover, treatment with TFC protected the heart from chronic MI injury by decreasing the expressions of MMP-2, 9, TGF-β1 and p-IKBα. The results suggested that TFC attenuated cardiac dysfunction and myocardial interstitial fibrosis by modulating nuclear factor-kappa B (NF-κB) signaling pathway.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sun</LastName>
+                    <ForeName>Bei</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Yantaishan Hospital, Yantai, 264000, Shandong, People's Republic of China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xia</LastName>
+                    <ForeName>Qiumei</ForeName>
+                    <Initials>Q</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gao</LastName>
+                    <ForeName>Zhiyong</ForeName>
+                    <Initials>Z</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Cardiovasc Toxicol</MedlineTA>
+            <NlmUniqueID>101135818</NlmUniqueID>
+            <ISSNLinking>1530-7905</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004365">Drugs, Chinese Herbal</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D047309">Flavones</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016328">NF-kappa B</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D027926" MajorTopicYN="Y">Anacardiaceae</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004305" MajorTopicYN="N">Dose-Response Relationship, Drug</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004365" MajorTopicYN="N">Drugs, Chinese Herbal</DescriptorName>
+                <QualifierName UI="Q000302" MajorTopicYN="N">isolation &amp; purification</QualifierName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005355" MajorTopicYN="N">Fibrosis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D047309" MajorTopicYN="N">Flavones</DescriptorName>
+                <QualifierName UI="Q000302" MajorTopicYN="N">isolation &amp; purification</QualifierName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009203" MajorTopicYN="N">Myocardial Infarction</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+                <QualifierName UI="Q000517" MajorTopicYN="Y">prevention &amp; control</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009206" MajorTopicYN="N">Myocardium</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016328" MajorTopicYN="N">NF-kappa B</DescriptorName>
+                <QualifierName UI="Q000037" MajorTopicYN="N">antagonists &amp; inhibitors</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015398" MajorTopicYN="N">Signal Transduction</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>11</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>11</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>3</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">25427792</ArticleId>
+            <ArticleId IdType="doi">10.1007/s12012-014-9298-3</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

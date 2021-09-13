@@ -1,0 +1,301 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">15503964</PMID>
+        <DateCompleted>
+            <Year>2004</Year>
+            <Month>12</Month>
+            <Day>17</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>09</Month>
+            <Day>02</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0140-0118</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>42</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2004</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Medical &amp; biological engineering &amp; computing</Title>
+                <ISOAbbreviation>Med Biol Eng Comput</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Multiple-electrode nerve cuffs for low-velocity and velocity-selective neural recording.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>634-43</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>In the paper, a method using multiple-electrode nerve cuffs is presented that enables electroneurographic signals (ENG) to be recorded selectively by action potential velocity. The theory uses a one-dimensional model of the electrodes in the cuff. Using this model, the transfer function for a single tripole is derived, and it is shown that more than one tripole signal can be recorded from within a cuff. When many tripole signals are available and are temporally aligned by artificial delays and summed, there is a significant increase in the amplitude of the recorded action potential, depending on the cuff length and the action potential velocity, with the greatest gain occurring for low velocities. For example, a cuff was considered that was constrained by surgical considerations to 30 mm between the end electrodes. For action potentials with a velocity of 120 m s(-1), it was shown that, as the number of tripoles increased from one, the peak energy spectral density of the recorded output increased by a factor of about 1.6 with three tripoles, whereas, for 20 m s(-1), the increase was about 19, with ten tripoles. The time delays and summation act as a velocity-selective filter. With consideration of the energy spectral densities at frequencies where these are maximum (to give the best signal-to-noise ratio), the tuning curves are presented for these velocity-selective filters and show that useful velocity resolution is possible using this method. For a 30 mm cuff with nine tripoles, it is demonstrated that it is possible to resolve at least five distinct velocity bands in the range 20-120m s(-1).</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Taylor</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Electronic &amp; Electrical Engineering, University of Bath, UK. eesjtt@bath.ac.uk</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Donaldson</LastName>
+                    <ForeName>N</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Winter</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Med Biol Eng Comput</MedlineTA>
+            <NlmUniqueID>7704869</NlmUniqueID>
+            <ISSNLinking>0140-0118</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000200" MajorTopicYN="N">Action Potentials</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004567" MajorTopicYN="Y">Electrodes, Implanted</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008959" MajorTopicYN="Y">Models, Neurological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009431" MajorTopicYN="N">Neural Conduction</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012815" MajorTopicYN="N">Signal Processing, Computer-Assisted</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2004</Year>
+                <Month>10</Month>
+                <Day>27</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2004</Year>
+                <Month>12</Month>
+                <Day>18</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2004</Year>
+                <Month>10</Month>
+                <Day>27</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">15503964</ArticleId>
+            <ArticleId IdType="doi">10.1007/BF02347545</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Physiol. 1979 Jul;292:149-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">314974</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Urology. 1982 Dec;20(6):614-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7179629</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acta Neuropathol. 1998 Oct;96(4):365-78</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9797001</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Artif Organs. 1997 Mar;21(3):227-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9148712</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Joint Surg Am. 1975 Dec;57(8):1047-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1081538</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neurosurgery. 1985 Dec;17(6):974-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3908966</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IEEE Trans Biomed Eng. 2000 Jan;47(1):136-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10646289</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IEEE Trans Rehabil Eng. 1999 Jun;7(2):215-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10391592</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Med Eng Phys. 2004 Jul;26(6):531-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15234689</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Physiol. 1951 Sep;115(1):101-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14889433</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Urology. 1978 Oct;12(4):471-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">715978</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Theor Biol. 1971 Sep;32(3):539-58</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">5571123</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neurosurgery. 1977 Sep-Oct;1(2):228-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">308202</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Biomed Eng. 1994 Jan-Feb;22(1):23-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8060024</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biophys J. 1997 Jun;72(6):2457-69</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9168022</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IEEE Trans Biomed Eng. 1999 Jul;46(7):797-809</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10396898</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Joint Surg Am. 1985 Jun;67(5):792-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3873456</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IEEE Trans Biomed Eng. 1999 Jul;46(7):810-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10396899</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biophys J. 1976 Jun;16(6):655-68</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1276389</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Crit Rev Biomed Eng. 1991;19(1):47-111</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1893755</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1975 Apr 25;188(4186):373-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1118732</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IEEE Trans Biomed Eng. 1999 Jul;46(7):821-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10396900</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biol Cybern. 1979 Feb 2;32(1):25-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">216424</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IEEE Trans Biomed Eng. 2000 Sep;47(9):1281-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11008430</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Neurophysiol. 1977-1978;40(2-4):235-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">309315</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuromodulation. 2002 Jan;5(1):41-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22151781</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Brain Res. 1975 Aug 22;94(1):141-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1148860</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biophys J. 1962 Jan;2:11-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">13893367</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IEEE Trans Biomed Eng. 1976 Jul;23(4):329-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1278925</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

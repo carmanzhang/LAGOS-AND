@@ -1,0 +1,181 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21096462</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>03</Month>
+            <Day>29</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>09</Month>
+            <Day>28</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">2375-7477</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>2010</Volume>
+                    <PubDate>
+                        <Year>2010</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference</Title>
+                <ISOAbbreviation>Annu Int Conf IEEE Eng Med Biol Soc</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Home monitoring of patients with Parkinson's disease via wearable technology and a web-based application.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>4411-4</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1109/IEMBS.2010.5627124</ELocationID>
+            <Abstract>
+                <AbstractText>Objective long-term health monitoring can improve the clinical management of several medical conditions ranging from cardiopulmonary diseases to motor disorders. In this paper, we present our work toward the development of a home-monitoring system. The system is currently used to monitor patients with Parkinson's disease who experience severe motor fluctuations. Monitoring is achieved using wireless wearable sensors whose data are relayed to a remote clinical site via a web-based application. The work herein presented shows that wearable sensors combined with a web-based application provide reliable quantitative information that can be used for clinical decision making.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Patel</LastName>
+                    <ForeName>Shyamal</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physical Medicine and Rehabilitation, Harvard Medical School, Spaulding Rehabilitation Hospital, Boston, MA 02114, USA. spatel19@partners.org</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Bor-Rong</ForeName>
+                    <Initials>BR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Buckley</LastName>
+                    <ForeName>Thomas</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rednic</LastName>
+                    <ForeName>Ramona</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McClure</LastName>
+                    <ForeName>Doug</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tarsy</LastName>
+                    <ForeName>Daniel</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shih</LastName>
+                    <ForeName>Ludy</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dy</LastName>
+                    <ForeName>Jennifer</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Welsh</LastName>
+                    <ForeName>Matt</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bonato</LastName>
+                    <ForeName>Paolo</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Annu Int Conf IEEE Eng Med Biol Soc</MedlineTA>
+            <NlmUniqueID>101763872</NlmUniqueID>
+            <ISSNLinking>2375-7477</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000054" MajorTopicYN="Y">Acceleration</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003020" MajorTopicYN="N">Clothing</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006699" MajorTopicYN="N">Home Care Services</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020407" MajorTopicYN="N">Internet</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018670" MajorTopicYN="N">Monitoring, Ambulatory</DescriptorName>
+                <QualifierName UI="Q000295" MajorTopicYN="Y">instrumentation</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010300" MajorTopicYN="N">Parkinson Disease</DescriptorName>
+                <QualifierName UI="Q000175" MajorTopicYN="Y">diagnosis</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="Y">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012984" MajorTopicYN="Y">Software</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017216" MajorTopicYN="N">Telemedicine</DescriptorName>
+                <QualifierName UI="Q000295" MajorTopicYN="Y">instrumentation</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013686" MajorTopicYN="N">Telemetry</DescriptorName>
+                <QualifierName UI="Q000295" MajorTopicYN="Y">instrumentation</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014159" MajorTopicYN="N">Transducers</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014584" MajorTopicYN="N">User-Computer Interface</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>3</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21096462</ArticleId>
+            <ArticleId IdType="doi">10.1109/IEMBS.2010.5627124</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

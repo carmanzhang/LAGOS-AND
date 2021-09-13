@@ -1,0 +1,175 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21361738</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>09</Month>
+            <Day>26</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1875-9114</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>31</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Pharmacotherapy</Title>
+                <ISOAbbreviation>Pharmacotherapy</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Effect of colistin on phospholipid-based activated partial thromboplastin time clotting assay results in patients receiving concomitant heparin therapy.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>277-9</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1592/phco.31.3.277</ELocationID>
+            <Abstract>
+                <AbstractText Label="STUDY OBJECTIVE" NlmCategory="OBJECTIVE">To determine whether intravenous colistin therapy has an effect on the results of the phospholipid-based activated partial thromboplastin time (aPTT) clotting assays containing cephalin in patients receiving concomitant heparin therapy.</AbstractText>
+                <AbstractText Label="DESIGN" NlmCategory="METHODS">Retrospective medical record review.</AbstractText>
+                <AbstractText Label="SETTING" NlmCategory="METHODS">University-affiliated teaching institution.</AbstractText>
+                <AbstractText Label="PATIENTS" NlmCategory="METHODS">Thirty-six patients treated with intravenous colistin for at least 48 hours between January 1, 2005, and January 1, 2010, who were receiving heparin for at least 48 hours before colistin was started, and had aPTT tests performed at least 2 days before, during, and at least 2 days after treatment with colistin.</AbstractText>
+                <AbstractText Label="MEASUREMENTS AND MAIN RESULTS" NlmCategory="RESULTS">Repeated-measures analysis of variance testing was performed to determine if significant differences in aPTT results before, during, and after colistin therapy existed. Of a total of 120 courses of colistin therapy, only 36 met the inclusion criteria. The mean ± SD aPTT was 52.3 ± 20.4 seconds before administration of colistin, 51.1 ± 16.6 seconds during colistin therapy, and 51.3 ± 13.6 seconds after administration of colistin (p=0.9). Heparin infusion rates were adjusted 12 times and heparin withheld twice at least 2 days before colistin therapy was started, infusion rates were changed 8 times and heparin withheld once during colistin therapy, and infusion rates were changed 10 times and heparin withheld once at least 2 days after colistin therapy.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Colistin therapy had no significant effect on the cephalin-based aPTT testing results in patients receiving concomitant heparin therapy. Further analyses are required to confirm these findings.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Brown</LastName>
+                    <ForeName>Jack</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Schools of Pharmacy and Pharmaceutical Science, State University of New York at Buffalo, Buffalo, New York 14260, USA. JB322@buffalo.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aitken</LastName>
+                    <ForeName>Samuel L</ForeName>
+                    <Initials>SL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mackey</LastName>
+                    <ForeName>Melissa</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sawkar</LastName>
+                    <ForeName>Sonia</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ashley</LastName>
+                    <ForeName>Elizabeth Dodds</ForeName>
+                    <Initials>ED</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Pharmacotherapy</MedlineTA>
+            <NlmUniqueID>8111305</NlmUniqueID>
+            <ISSNLinking>0277-0008</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000900">Anti-Bacterial Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000925">Anticoagulants</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9005-49-6</RegistryNumber>
+                <NameOfSubstance UI="D006493">Heparin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>Z67X93HJG1</RegistryNumber>
+                <NameOfSubstance UI="D003091">Colistin</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000900" MajorTopicYN="N">Anti-Bacterial Agents</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000925" MajorTopicYN="N">Anticoagulants</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001777" MajorTopicYN="N">Blood Coagulation</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003091" MajorTopicYN="N">Colistin</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004347" MajorTopicYN="N">Drug Interactions</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006493" MajorTopicYN="N">Heparin</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007275" MajorTopicYN="N">Injections, Intravenous</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010314" MajorTopicYN="Y">Partial Thromboplastin Time</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>3</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>3</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>9</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21361738</ArticleId>
+            <ArticleId IdType="doi">10.1592/phco.31.3.277</ArticleId>
+            <ArticleId IdType="pii">10.1592/phco.31.3.277</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

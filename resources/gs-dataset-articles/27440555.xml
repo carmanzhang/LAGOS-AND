@@ -1,0 +1,121 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">27440555</PMID>
+        <DateCompleted>
+            <Year>2018</Year>
+            <Month>01</Month>
+            <Day>29</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>01</Month>
+            <Day>29</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1948-7185</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>7</Volume>
+                    <Issue>15</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Aug</Month>
+                        <Day>04</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The journal of physical chemistry letters</Title>
+                <ISOAbbreviation>J Phys Chem Lett</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Hydrophobic Association in Mixed Urea-TMAO Solutions.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>3052-9</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/acs.jpclett.6b01344</ELocationID>
+            <Abstract>
+                <AbstractText>The formation of a hydrophobic core is key to the folding and resulting function of most proteins in the cell. In several organisms, as well as in many in vitro experiments, protein folding is modulated by the presence of osmolytes, but the mechanism by which hydrophobic association occurs is not well understood. We present a study of the solvation thermodynamics of hydrophobic self-association in mixed-osmolyte urea-TMAO solutions, with neopentane as a model hydrophobic molecule. Using molecular dynamics simulations and the Kirkwood-Buff theory of solutions, we show that a sensitive balance between the TMAO-water and the TMAO-urea interactions governs the osmolyte-induced changes in hydrophobic association in mixed urea-TMAO solutions. This balance must be correctly incorporated in force-field parametrization because hydrophobic association can be either enhanced or prevented all together by slightly increasing or decreasing the osmolyte-water affinity and osmolyte-osmolyte self-affinity of TMAO molecules. </AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ganguly</LastName>
+                    <ForeName>Pritam</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry and Biochemistry, University of California at Santa Barbara , Santa Barbara, California 93106, United States.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physics, University of California at Santa Barbara , Santa Barbara, California 93106, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>van der Vegt</LastName>
+                    <ForeName>Nico F A</ForeName>
+                    <Initials>NF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Eduard-Zintl-Institut für Anorganische und Physikalische Chemie and Center of Smart Interfaces, Technische Universität Darmstadt , Alarich-Weiss-Straße 10, Darmstadt 64287, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shea</LastName>
+                    <ForeName>Joan-Emma</ForeName>
+                    <Initials>JE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry and Biochemistry, University of California at Santa Barbara , Santa Barbara, California 93106, United States.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physics, University of California at Santa Barbara , Santa Barbara, California 93106, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>07</Month>
+                <Day>27</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Phys Chem Lett</MedlineTA>
+            <NlmUniqueID>101526034</NlmUniqueID>
+            <ISSNLinking>1948-7185</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>7</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>7</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>7</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">27440555</ArticleId>
+            <ArticleId IdType="doi">10.1021/acs.jpclett.6b01344</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

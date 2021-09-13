@@ -1,0 +1,181 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">15895520</PMID>
+        <DateCompleted>
+            <Year>2005</Year>
+            <Month>09</Month>
+            <Day>29</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>19</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0301-4800</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>50</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2004</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of nutritional science and vitaminology</Title>
+                <ISOAbbreviation>J. Nutr. Sci. Vitaminol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Effects of seasonings on the stability of ascorbic acid in a cooking model system.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>431-7</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The thermolability of ascorbic acid (AA) in aqueous solution at 100 degrees C was assessed in the presence of various seasonings commonly used in Japanese-style cooking. A model system approximated Japanese cooking with regard to the concentrations of AA and seasonings and the heating time. The decrease of AA in the reaction system of this experiment was a first-order reaction with respect to the concentration of AA loss. Although kinetic constants for AA loss decreased with increasing concentrations of AA (25-400 microg/mL), the absolute amounts degraded were almost the same for all AA concentrations, suggesting that dissolved oxygen is one of main factors affecting the stability of AA solutions during heating at 100 degrees C. When each seasoning was added to AA solution, salt stabilized AA and Japanese alcohol-containing admixtures, such as sake and sweet sake (mirin), did not have a significant effect on the stability. Conversely, soy sauce, miso (fermented soybean paste) and broth powder from skipjack accelerated the decrease of AA in a concentration-dependent manner. The kinetic study suggested that oxygen was rapidly consumed and AA loss accelerated by addition of soy sauce or miso to AA solution. Consequently it is likely that a reaction mechanism shifts from aerobic to anaerobic and the forward reactions proceed. Of the constituents of Japanese seasonings, not only iron but also amino acids are involved in the acceleration of AA degradation. The presence of amino acids should be taken into account when considering the levels of AA in soups.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kishida</LastName>
+                    <ForeName>Etsu</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Life and Healtih Science, Hyogo University of Teacher Education, Hyogo 673-1494, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Maeda</LastName>
+                    <ForeName>Tomoko</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nishihama</LastName>
+                    <ForeName>Akiko</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kojo</LastName>
+                    <ForeName>Shosuke</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Masuzawa</LastName>
+                    <ForeName>Yasuo</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Japan</Country>
+            <MedlineTA>J Nutr Sci Vitaminol (Tokyo)</MedlineTA>
+            <NlmUniqueID>0402640</NlmUniqueID>
+            <ISSNLinking>0301-4800</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000596">Amino Acids</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D012996">Solutions</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>059QF0KO0R</RegistryNumber>
+                <NameOfSubstance UI="D014867">Water</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>451W47IQ8X</RegistryNumber>
+                <NameOfSubstance UI="D012965">Sodium Chloride</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>E1UOL152H7</RegistryNumber>
+                <NameOfSubstance UI="D007501">Iron</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>PQ6CK8PD0R</RegistryNumber>
+                <NameOfSubstance UI="D001205">Ascorbic Acid</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000596" MajorTopicYN="N">Amino Acids</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001205" MajorTopicYN="N">Ascorbic Acid</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003212" MajorTopicYN="Y">Condiments</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003296" MajorTopicYN="Y">Cooking</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004355" MajorTopicYN="N">Drug Stability</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006358" MajorTopicYN="Y">Hot Temperature</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007501" MajorTopicYN="N">Iron</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007564" MajorTopicYN="N" Type="Geographic">Japan</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012965" MajorTopicYN="N">Sodium Chloride</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012996" MajorTopicYN="N">Solutions</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D045730" MajorTopicYN="N">Soy Foods</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014867" MajorTopicYN="N">Water</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2005</Year>
+                <Month>5</Month>
+                <Day>18</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2005</Year>
+                <Month>9</Month>
+                <Day>30</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2005</Year>
+                <Month>5</Month>
+                <Day>18</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">15895520</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

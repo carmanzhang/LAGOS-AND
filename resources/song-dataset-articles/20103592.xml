@@ -1,0 +1,657 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20103592</PMID>
+        <DateCompleted>
+            <Year>2010</Year>
+            <Month>05</Month>
+            <Day>04</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1083-351X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>285</Volume>
+                    <Issue>15</Issue>
+                    <PubDate>
+                        <Year>2010</Year>
+                        <Month>Apr</Month>
+                        <Day>09</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of biological chemistry</Title>
+                <ISOAbbreviation>J Biol Chem</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>N-terminal domains of DELLA proteins are intrinsically unstructured in the absence of interaction with GID1/gibberellic acid receptors.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>11557-71</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1074/jbc.M109.027011</ELocationID>
+            <Abstract>
+                <AbstractText>The plant growth-repressing DELLA proteins (DELLAs) are known to represent a convergence point in integration of multiple developmental and environmental signals in planta, one of which is hormone gibberellic acid (GA). Binding of the liganded GA receptor (GID1/GA) to the N-terminal domain of DELLAs is required for GA-induced degradation of DELLAs via the ubiquitin-proteasome pathway, thus derepressing plant growth. However, the conformational changes of DELLAs upon binding to GID1/GA, which are the key to understanding the precise mechanism of GID1/GA-mediated degradation of DELLAs, remain unclear. Using biophysical, biochemical, and bioinformatics approaches, we demonstrated for the first time that the unbound N-terminal domains of DELLAs are intrinsically unstructured proteins under physiological conditions. Within the intrinsically disordered N-terminal domain of DELLAs, we have identified several molecular recognition features, sequences known to undergo disorder-to-order transitions upon binding to interacting proteins in intrinsically unstructured proteins. In accordance with the molecular recognition feature analyses, we have observed the binding-induced folding of N-terminal domains of DELLAs upon interaction with AtGID1/GA. Our results also indicate that DELLA proteins can be divided into two subgroups in terms of their molecular compactness and their interactions with monoclonal antibodies.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sun</LastName>
+                    <ForeName>Xiaolin</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>New Zealand Institute for Plant and Food Research, Private Bag 11 030, Palmerston North, New Zealand. Xiaolin.Sun@plantandfood.co.nz</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jones</LastName>
+                    <ForeName>William T</ForeName>
+                    <Initials>WT</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Harvey</LastName>
+                    <ForeName>Dawn</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Edwards</LastName>
+                    <ForeName>Patrick J B</ForeName>
+                    <Initials>PJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pascal</LastName>
+                    <ForeName>Steven M</ForeName>
+                    <Initials>SM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kirk</LastName>
+                    <ForeName>Christopher</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Considine</LastName>
+                    <ForeName>Thérèse</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sheerin</LastName>
+                    <ForeName>David J</ForeName>
+                    <Initials>DJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rakonjac</LastName>
+                    <ForeName>Jasna</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Oldfield</LastName>
+                    <ForeName>Christopher J</ForeName>
+                    <Initials>CJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xue</LastName>
+                    <ForeName>Bin</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dunker</LastName>
+                    <ForeName>A Keith</ForeName>
+                    <Initials>AK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Uversky</LastName>
+                    <ForeName>Vladimir N</ForeName>
+                    <Initials>VN</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 GM071714</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 LM007688</GrantID>
+                    <Acronym>LM</Acronym>
+                    <Agency>NLM NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>GM071714-01A2</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 LM007688-01A1</GrantID>
+                    <Acronym>LM</Acronym>
+                    <Agency>NLM NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>01</Month>
+                <Day>26</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Biol Chem</MedlineTA>
+            <NlmUniqueID>2985121R</NlmUniqueID>
+            <ISSNLinking>0021-9258</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000911">Antibodies, Monoclonal</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D029681">Arabidopsis Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C512225">GID1a protein, Arabidopsis</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D005875">Gibberellins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010940">Plant Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011956">Receptors, Cell Surface</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011994">Recombinant Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>BU0A7MWB6L</RegistryNumber>
+                <NameOfSubstance UI="C007842">gibberellic acid</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000595" MajorTopicYN="N">Amino Acid Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000911" MajorTopicYN="N">Antibodies, Monoclonal</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017360" MajorTopicYN="N">Arabidopsis</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D029681" MajorTopicYN="N">Arabidopsis Proteins</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018506" MajorTopicYN="N">Gene Expression Regulation, Plant</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005875" MajorTopicYN="N">Gibberellins</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008969" MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009154" MajorTopicYN="N">Mutation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010940" MajorTopicYN="N">Plant Proteins</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011485" MajorTopicYN="N">Protein Binding</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017510" MajorTopicYN="N">Protein Folding</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017434" MajorTopicYN="N">Protein Structure, Tertiary</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011956" MajorTopicYN="N">Receptors, Cell Surface</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011994" MajorTopicYN="N">Recombinant Proteins</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017386" MajorTopicYN="N">Sequence Homology, Amino Acid</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015398" MajorTopicYN="N">Signal Transduction</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>1</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>1</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2010</Year>
+                <Month>5</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20103592</ArticleId>
+            <ArticleId IdType="pii">M109.027011</ArticleId>
+            <ArticleId IdType="doi">10.1074/jbc.M109.027011</ArticleId>
+            <ArticleId IdType="pmc">PMC2857034</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Mol Biol. 2004 May 14;338(5):1015-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15111064</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Physiol. 2006 Oct;142(2):509-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16920880</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEBS J. 2005 Oct;272(20):5129-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16218947</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Physiol. 2007 Feb;143(2):987-1000</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17142481</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2004 Mar 26;337(3):635-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15019783</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Biochem. 2002 Jan;269(1):2-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11784292</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Cell. 2002 Dec;14(12):3191-200</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12468736</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2008 Jan 24;451(7177):475-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18216856</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant J. 2006 Jun;46(5):880-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16709201</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant J. 2005 Oct;44(1):88-99</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16167898</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2006 Nov 7;103(45):16764-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17075061</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Struct Biol. 2002 Feb;12(1):54-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11839490</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Inform Ser Workshop Genome Inform. 2000;11:161-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11700597</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 2007 Nov 27;46(47):13468-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17973494</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Plant Biol. 2004;55:197-223</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15377219</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2007 Jan;35(Database issue):D786-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17145717</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Graph Model. 2001;19(1):26-59</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11381529</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Proteomics. 2002 May;1(5):349-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12118076</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Plant Biol. 2008 Feb;11(1):9-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18077204</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 2005 Feb 15;44(6):1989-2000</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15697224</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 2002 May 28;41(21):6573-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12022860</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proteins. 2000 Nov 15;41(3):415-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11025552</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proteins. 2001 Jan 1;42(1):38-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11093259</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2008 Nov 27;456(7221):459-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19037309</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Cell. 2007 Apr;19(4):1209-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17416730</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Biol. 2008 May 6;18(9):650-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18450451</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 1993 Dec 7;32(48):13288-98</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8241185</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1999 Jul 15;400(6741):256-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10421366</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Cell. 2003 May;15(5):1120-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12724538</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Cell. 2001 Jul;13(7):1555-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11449051</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Physiol. 2002 Mar;128(3):822-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11891239</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Theor Appl Genet. 1980 Nov;58(6):257-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24301503</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2006 Oct 6;362(5):1043-59</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16935303</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2008 Nov 28;322(5906):1340-1</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19039128</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Recognit. 2005 Sep-Oct;18(5):343-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16094605</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Protein Expr Purif. 2008 Mar;58(1):168-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17949995</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2002 Oct 25;323(3):573-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12381310</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Phys Chem B. 2007 Oct 18;111(41):11884-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17887792</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Physiol. 2004 Jun;135(2):1008-19</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15173565</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Biophys Biophys Chem. 1988;17:145-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3293583</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Protein Sci. 2002 Apr;11(4):739-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11910019</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2008 Jan 24;451(7177):480-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18216857</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Development. 2004 Mar;131(5):1055-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14973286</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Cell. 2007 Jul;19(7):2140-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17644730</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2006 Jan 6;311(5757):91-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16400150</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 1992 Jun 20;225(4):1075-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1613791</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 2005 Sep 20;44(37):12454-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16156658</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Proteomics. 2002 Dec;1(12):930-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12543930</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2008 Nov 28;322(5906):1365-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19039133</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2005 Sep 29;437(7059):693-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16193045</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biophys J. 2007 Mar 1;92(5):1439-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17158572</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Proteome Res. 2007 Jun;6(6):2351-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17488107</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 2006 Jun 6;45(22):6873-88</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16734424</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Proteome Res. 2007 May;6(5):1917-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17391016</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Proteome Res. 2007 May;6(5):1899-916</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17391015</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Physiol. 2008 Jul;147(3):1126-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18502975</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Cell. 2002 Jan;14(1):87-100</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11826301</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Cell. 2006 Dec;18(12):3399-414</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17194763</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2008 Jul 1;36(Web Server issue):W197-201</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18463136</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Proteome Res. 2007 May;6(5):1882-98</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17391014</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 1998 Apr 28;37(17):5858-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9558319</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Dev. 1997 Dec 1;11(23):3194-205</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9389651</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

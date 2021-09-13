@@ -1,0 +1,129 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">12494496</PMID>
+        <DateCompleted>
+            <Year>2003</Year>
+            <Month>02</Month>
+            <Day>12</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>11</Month>
+            <Day>06</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1631-0691</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>325</Volume>
+                    <Issue>10</Issue>
+                    <PubDate>
+                        <Year>2002</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Comptes rendus biologies</Title>
+                <ISOAbbreviation>C R Biol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Source and nature of embryonic stem cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1003-7</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The originally described method of isolation of mouse ES cells was from implantationally-delayed blastocysts that were subsequently explanted into tissue culture. The cell colony arising from the ICM proliferation was disaggregated and cultures established on mitotically inactivated fibroblast feeder layers. The use of delayed blastocysts is advantageous, but not essential, and ES cells have been similarly derived by explantation of cleavage-stage embryos and also early embryonic epiblast. ES cells are probably not homologous to ICM cells, but may better match five-day epiblast.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Evans</LastName>
+                    <ForeName>Martin</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cardiff School of Biosciences, Cardiff University, Museum Avenue, PO Box 911, Cardiff CF10 3US, UK. evansmj@cf.ac.uk</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hunter</LastName>
+                    <ForeName>Susan</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>France</Country>
+            <MedlineTA>C R Biol</MedlineTA>
+            <NlmUniqueID>101140040</NlmUniqueID>
+            <ISSNLinking>1631-0691</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001755" MajorTopicYN="N">Blastocyst</DescriptorName>
+                <QualifierName UI="Q000166" MajorTopicYN="Y">cytology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018929" MajorTopicYN="N">Cell Culture Techniques</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002455" MajorTopicYN="N">Cell Division</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010064" MajorTopicYN="N">Embryo Implantation</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004622" MajorTopicYN="Y">Embryo, Mammalian</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013234" MajorTopicYN="N">Stem Cells</DescriptorName>
+                <QualifierName UI="Q000166" MajorTopicYN="Y">cytology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2002</Year>
+                <Month>12</Month>
+                <Day>24</Day>
+                <Hour>4</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2003</Year>
+                <Month>2</Month>
+                <Day>14</Day>
+                <Hour>4</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2002</Year>
+                <Month>12</Month>
+                <Day>24</Day>
+                <Hour>4</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">12494496</ArticleId>
+            <ArticleId IdType="pii">S1631-0691(02)01527-5</ArticleId>
+            <ArticleId IdType="doi">10.1016/s1631-0691(02)01527-5</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,174 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">16598728</PMID>
+        <DateCompleted>
+            <Year>2006</Year>
+            <Month>09</Month>
+            <Day>29</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>12</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0740-3194</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>55</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2006</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Magnetic resonance in medicine</Title>
+                <ISOAbbreviation>Magn Reson Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Respiration-induced B0 field fluctuation compensation in balanced SSFP: real-time approach for transition-band SSFP fMRI.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1197-201</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>In functional MRI (fMRI) the resonance frequency shift induced from respiration is a major source of physiological noise. In transition-band SSFP fMRI the respiration-induced resonance offset not only increases noise interference, it also shifts the activation band. This leads to a reduction in the contrast-to-noise ratio (CNR) and the potential for varying contrast levels during the experiment. A novel real-time method that compensates for the respiration-induced resonance offset frequency is presented. This method utilizes free induction decay (FID) phase information to measure the resonance offset. For compensation, one can update the resonant frequency in real time by changing the transmit RF pulse and receiver phases to track the measured offset. The results show decreased signal power in the respiration frequency band and increased numbers of activated voxels with higher Z-scores compared to uncompensated experiments.</AbstractText>
+                <CopyrightInformation>Copyright (c) 2006 Wiley-Liss, Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Jongho</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Magnetic Resonance Systems Research Laboratory, Department of Electrical Engineering, Stanford University, Stanford, California 94305-9510, USA. jonghoyi@mrsrl.stanford.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Santos</LastName>
+                    <ForeName>Juan M</ForeName>
+                    <Initials>JM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Conolly</LastName>
+                    <ForeName>Steven M</ForeName>
+                    <Initials>SM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Miller</LastName>
+                    <ForeName>Karla L</ForeName>
+                    <Initials>KL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hargreaves</LastName>
+                    <ForeName>Brian A</ForeName>
+                    <Initials>BA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pauly</LastName>
+                    <ForeName>John M</ForeName>
+                    <Initials>JM</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R21EB002969</GrantID>
+                    <Acronym>EB</Acronym>
+                    <Agency>NIBIB NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D023362">Evaluation Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Magn Reson Med</MedlineTA>
+            <NlmUniqueID>8505245</NlmUniqueID>
+            <ISSNLinking>0740-3194</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000465" MajorTopicYN="N">Algorithms</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016477" MajorTopicYN="Y">Artifacts</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001921" MajorTopicYN="N">Brain</DescriptorName>
+                <QualifierName UI="Q000033" MajorTopicYN="Y">anatomy &amp; histology</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001931" MajorTopicYN="N">Brain Mapping</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003199" MajorTopicYN="N">Computer Systems</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007089" MajorTopicYN="N">Image Enhancement</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007090" MajorTopicYN="N">Image Interpretation, Computer-Assisted</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016247" MajorTopicYN="N">Information Storage and Retrieval</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015203" MajorTopicYN="N">Reproducibility of Results</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012119" MajorTopicYN="Y">Respiration</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012680" MajorTopicYN="N">Sensitivity and Specificity</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2006</Year>
+                <Month>4</Month>
+                <Day>7</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2006</Year>
+                <Month>9</Month>
+                <Day>30</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2006</Year>
+                <Month>4</Month>
+                <Day>7</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">16598728</ArticleId>
+            <ArticleId IdType="doi">10.1002/mrm.20879</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

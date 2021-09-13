@@ -1,0 +1,167 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+        <PMID Version="1">23266909</PMID>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>06</Month>
+            <Day>06</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>12</Month>
+            <Day>02</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-6750</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>51</Volume>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Environment international</Title>
+                <ISOAbbreviation>Environ Int</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Predicting the microbial exposure risks in urban floods using GIS, building simulation, and microbial models.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>182-95</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.envint.2012.10.006</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S0160-4120(12)00230-9</ELocationID>
+            <Abstract>
+                <AbstractText>London is expected to experience more frequent periods of intense rainfall and tidal surges, leading to an increase in the risk of flooding. Damp and flooded dwellings can support microbial growth, including mould, bacteria, and protozoa, as well as persistence of flood-borne microorganisms. The amount of time flooded dwellings remain damp will depend on the duration and height of the flood, the contents of the flood water, the drying conditions, and the building construction, leading to particular properties and property types being prone to lingering damp and human pathogen growth or persistence. The impact of flooding on buildings can be simulated using Heat Air and Moisture (HAM) models of varying complexity in order to understand how water can be absorbed and dry out of the building structure. This paper describes the simulation of the drying of building archetypes representative of the English building stock using the EnergyPlus based tool 'UCL-HAMT' in order to determine the drying rates of different abandoned structures flooded to different heights and during different seasons. The results are mapped out using GIS in order to estimate the spatial risk across London in terms of comparative flood vulnerability, as well as for specific flood events. Areas of South and East London were found to be particularly vulnerable to long-term microbial exposure following major flood events.</AbstractText>
+                <CopyrightInformation>Copyright © 2012 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Taylor</LastName>
+                    <ForeName>Jonathon</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Bartlett School of Graduate Studies, UCL, London, United Kingdom. j.g.taylor@ucl.ac.uk</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Biddulph</LastName>
+                    <ForeName>Phillip</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Davies</LastName>
+                    <ForeName>Michael</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lai</LastName>
+                    <ForeName>Ka man</ForeName>
+                    <Initials>Km</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2012</Year>
+                <Month>12</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Environ Int</MedlineTA>
+            <NlmUniqueID>7807270</NlmUniqueID>
+            <ISSNLinking>0160-4120</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001419" MajorTopicYN="N">Bacteria</DescriptorName>
+                <QualifierName UI="Q000254" MajorTopicYN="Y">growth &amp; development</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004777" MajorTopicYN="Y">Environment</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055868" MajorTopicYN="N">Floods</DescriptorName>
+                <QualifierName UI="Q000706" MajorTopicYN="Y">statistics &amp; numerical data</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005658" MajorTopicYN="N">Fungi</DescriptorName>
+                <QualifierName UI="Q000254" MajorTopicYN="Y">growth &amp; development</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D040362" MajorTopicYN="Y">Geographic Information Systems</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008131" MajorTopicYN="N">London</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008954" MajorTopicYN="Y">Models, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018570" MajorTopicYN="N">Risk Assessment</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014871" MajorTopicYN="Y">Water Microbiology</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2012</Year>
+                <Month>08</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2012</Year>
+                <Month>10</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2012</Year>
+                <Month>10</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>12</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>12</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">23266909</ArticleId>
+            <ArticleId IdType="pii">S0160-4120(12)00230-9</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.envint.2012.10.006</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

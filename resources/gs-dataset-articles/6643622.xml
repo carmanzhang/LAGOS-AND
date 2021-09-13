@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">6643622</PMID>
+        <DateCompleted>
+            <Year>1984</Year>
+            <Month>01</Month>
+            <Day>07</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>12</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>277</Volume>
+                    <PubDate>
+                        <Year>1983</Year>
+                        <Month>Oct</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of chromatography</Title>
+                <ISOAbbreviation>J. Chromatogr.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Simultaneous derivatisation of carboxyl and hydroxyl groups of a new antiphlogistic drug for its determination by electron-capture gas chromatography.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>361-7</MedlinePgn>
+            </Pagination>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Degen</LastName>
+                    <ForeName>P H</ForeName>
+                    <Initials>PH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schneider</LastName>
+                    <ForeName>W</ForeName>
+                    <Initials>W</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>J Chromatogr</MedlineTA>
+            <NlmUniqueID>0427043</NlmUniqueID>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007192">Indenes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>ZY400R3BNT</RegistryNumber>
+                <NameOfSubstance UI="C039724">oxindanac</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001711" MajorTopicYN="N">Biotransformation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055598" MajorTopicYN="N">Chemical Phenomena</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002621" MajorTopicYN="N">Chemistry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002849" MajorTopicYN="N">Chromatography, Gas</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006868" MajorTopicYN="N">Hydrolysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007192" MajorTopicYN="N">Indenes</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="Y">analysis</QualifierName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000652" MajorTopicYN="N">urine</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013048" MajorTopicYN="N">Specimen Handling</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1983</Year>
+                <Month>10</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1983</Year>
+                <Month>10</Month>
+                <Day>14</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1983</Year>
+                <Month>10</Month>
+                <Day>14</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">6643622</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

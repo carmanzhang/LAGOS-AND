@@ -1,0 +1,544 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">24621579</PMID>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>05</Month>
+            <Day>29</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>9</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>New miRNA profiles accurately distinguish renal cell carcinomas and upper tract urothelial carcinomas from the normal kidney.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e91646</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0091646</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Upper tract urothelial carcinomas (UT-UC) can invade the pelvicalyceal system making differential diagnosis of the various histologically distinct renal cell carcinoma (RCC) subtypes and UT-UC, difficult. Correct diagnosis is critical for determining appropriate surgery and post-surgical treatments. We aimed to identify microRNA (miRNA) signatures that can accurately distinguish the most prevalent RCC subtypes and UT-UC form the normal kidney.</AbstractText>
+                <AbstractText Label="METHODS AND FINDINGS" NlmCategory="RESULTS">miRNA profiling was performed on FFPE tissue sections from RCC and UT-UC and normal kidney and 434 miRNAs were significantly deregulated in cancerous vs. the normal tissue. Hierarchical clustering distinguished UT-UCs from RCCs and classified the various RCC subtypes among them. qRT-PCR validated the deregulated expression profile for the majority of the miRNAs and ROC analysis revealed their capability to discriminate between tumour and normal kidney. An independent cohort of freshly frozen RCC and UT-UC samples was used to validate the deregulated miRNAs with the best discriminatory ability (AUC&gt;0.8, p&lt;0.001). Many of them were located within cytogenetic regions that were previously reported to be significantly aberrated. miRNA targets were predicted using the miRWalk algorithm and ingenuity pathway analysis identified the canonical pathways and curated networks of the deregulated miRNAs. Using the miRWalk algorithm, we further identified the top anti-correlated mRNA/miRNA pairs, between the deregulated miRNAs from our study and the top co-deregulated mRNAs among 5 independent ccRCC GEO datasets. The AB8/13 undifferentiated podocyte cells were used for functional assays using luciferase reporter constructs and the developmental transcription factor TFCP2L1 was proved to be a true target of miR-489, which was the second most upregulated miRNA in ccRCC.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">We identified novel miRNAs specific for each RCC subtype and UT-UC, we investigated their putative targets, the networks and pathways in which they participate and we functionally verified the true targets of the top deregulated miRNAs.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zaravinos</LastName>
+                    <ForeName>Apostolos</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Molecular Medicine Research Center and Laboratory of Molecular and Medical Genetics, Department of Biological Sciences, University of Cyprus, Nicosia, Cyprus. zaravinos.apostolos@ucy.ac.cy</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lambrou</LastName>
+                    <ForeName>George I</ForeName>
+                    <Initials>GI</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Choremeio Research Laboratory, First Department of Pediatrics, University of Athens, Athens, Greece.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mourmouras</LastName>
+                    <ForeName>Nikos</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Asklipieio General Hospital, Athens, Greece.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Katafygiotis</LastName>
+                    <ForeName>Patroklos</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Asklipieio General Hospital, Athens, Greece.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Papagregoriou</LastName>
+                    <ForeName>Gregory</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Molecular Medicine Research Center and Laboratory of Molecular and Medical Genetics, Department of Biological Sciences, University of Cyprus, Nicosia, Cyprus.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Giannikou</LastName>
+                    <ForeName>Krinio</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Genetics, Medical School, University of Athens, Athens, Greece.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Delakas</LastName>
+                    <ForeName>Dimitris</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Asklipieio General Hospital, Athens, Greece.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Deltas</LastName>
+                    <ForeName>Constantinos</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Molecular Medicine Research Center and Laboratory of Molecular and Medical Genetics, Department of Biological Sciences, University of Cyprus, Nicosia, Cyprus.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2014</Year>
+                <Month>03</Month>
+                <Day>12</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D035683">MicroRNAs</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="ErratumIn">
+                <RefSource>PLoS One. 2014;9(6):e100063</RefSource>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000369" MajorTopicYN="N">Aged, 80 and over</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002292" MajorTopicYN="N">Carcinoma, Renal Cell</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002869" MajorTopicYN="N">Chromosome Aberrations</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015331" MajorTopicYN="N">Cohort Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020869" MajorTopicYN="N">Gene Expression Profiling</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007668" MajorTopicYN="N">Kidney</DescriptorName>
+                <QualifierName UI="Q000166" MajorTopicYN="Y">cytology</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="Y">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007680" MajorTopicYN="N">Kidney Neoplasms</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D035683" MajorTopicYN="N">MicroRNAs</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019459" MajorTopicYN="N">Urothelium</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>12</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2014</Year>
+                <Month>02</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>3</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>3</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24621579</ArticleId>
+            <ArticleId IdType="doi">10.1371/journal.pone.0091646</ArticleId>
+            <ArticleId IdType="pii">PONE-D-13-51370</ArticleId>
+            <ArticleId IdType="pmc">PMC3951427</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Clin Oncol. 2009 Feb 10;27(5):746-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19124809</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Diagn. 2010 Sep;12(5):687-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20595629</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Pathol. 2007 Dec;213(4):392-401</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17922474</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2004 Mar 2;101(9):2999-3004</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14973191</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Genet Cytogenet. 1997 May;95(1):103-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9140459</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Semin Diagn Pathol. 2008 Nov;25(4):232-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19013890</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Urology. 2010 Apr;75(4):835-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20035975</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2012;7(6):e38298</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22745662</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Sci. 2013 Mar;104(3):304-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23176581</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Biochem. 2010 Jan;43(1-2):150-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19646430</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Oncol. 2007 Nov;31(5):1051-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17912430</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Actas Urol Esp. 2012 Jan;36(1):2-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22036956</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Pathol. 2010 Sep;222(1):41-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20593407</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2005 Jun 9;435(7043):834-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15944708</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Pathol. 1994 Aug;145(2):356-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7519827</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Surg Oncol. 2009 Oct;35(10):1119-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19443172</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Surg Pathol. 2007 May;31(5):673-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17460449</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Pharmacol. 2009 Aug;9(4):351-69</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19665429</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cancer Ther. 2013 Aug;12(8):1568-78</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23657944</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Cycle. 2011 Feb 1;10(3):507-17</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21270527</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2012 Oct 15;72(20):5273-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22926558</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer. 1997 Sep 1;80(5):987-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9307203</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Mol Med. 2009 Sep;13(9B):3918-28</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19228262</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BJU Int. 2014 May;113(5):813-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24180461</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2010;5(5):e10696</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20502531</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Oncol. 2013 Nov;43(5):1441-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23969530</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Cancer. 2006 Apr;6(4):259-69</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16557279</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncogene. 2007 Jun 14;26(28):4148-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17260024</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur Urol. 2006 Oct;50(4):786-93; discussion 793-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16697521</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Urol J. 2011 Winter;8(1):1-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21404194</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Cancer Res. 2012 Oct 15;18(20):5537-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23071355</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur Urol. 2011 Apr;59(4):584-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21269756</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2001 Jun 15;61(12):4815-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11406557</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Cancer. 2013 Aug 6;109(3):714-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23799849</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Oncol. 2013 Jun;7(3):732-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23587442</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2004;32(22):e188</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15616155</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Urol Oncol. 2007 Sep-Oct;25(5):387-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17826655</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Cancer Res. 2007 Aug 15;13(16):4667-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17699843</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Med Genet. 2002 Oct 30;115(3):164-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12407697</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Pathol. 2008 Dec;216(4):418-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18925646</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Chromosomes Cancer. 1991 Jul;3(4):249-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1958590</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cancer Res Clin Oncol. 2011 May;137(5):887-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20878529</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Urol. 2011 Sep;186(3):1077-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21784468</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur Urol. 2011 May;59(5):721-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21272993</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur Urol. 2010 Sep;58(3):398-406</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20633979</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Crit Rev Oncol Hematol. 2003 Aug;47(2):155-69</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12900009</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Urol. 2012 Aug;188(2):615-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22704449</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Cell Biol. 2011 Feb;3(1):44-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21278451</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Oncol. 2009 Jul;35(1):109-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19513557</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncoscience. 2014 Jan 03;1(2):117-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25594006</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cancer Res Clin Oncol. 2010 Jun;136(6):855-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19921256</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

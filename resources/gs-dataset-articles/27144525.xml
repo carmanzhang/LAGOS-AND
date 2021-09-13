@@ -1,0 +1,737 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">27144525</PMID>
+        <DateCompleted>
+            <Year>2017</Year>
+            <Month>12</Month>
+            <Day>29</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1949-2553</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>7</Volume>
+                    <Issue>21</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>May</Month>
+                        <Day>24</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Oncotarget</Title>
+                <ISOAbbreviation>Oncotarget</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Collecting duct carcinoma of the kidney is associated with CDKN2A deletion and SLC family gene up-regulation.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>29901-15</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.18632/oncotarget.9093</ELocationID>
+            <Abstract>
+                <AbstractText>The genetic landscape and molecular features of collecting duct carcinoma (CDC) of the kidney remain largely unknown. Herein, we performed whole exome sequencing (WES) and transcriptome sequencing (RNASeq) on 7 CDC samples (CDC1 -7). Among the 7 samples, 4 samples with matched non-tumor tissue were used for copy number analysis by SNP array data. No recurrent somatic SNVs were observed except for MLL, which was found to be mutated (p.V297I and p.F407C) in 2 samples. We identified somatic SNVs in 14 other cancer census genes including: ATM, CREBBP, PRDM1, CBFB, FBXW7, IKZF1, KDR, KRAS, NACA, NF2, NUP98, SS18, TP53, and ZNF521. SNP array data identified a CDKN2A homozygous deletion in 3 samples and SNV analysis showed a non-sense mutation of the CDKN2A gene with unknown somatic status. To estimate the recurrent rate of CDKN2A abnormalities, we performed FISH screening of additional samples and confirmed the frequent loss (62.5%) of CDKN2A expression. Since cisplatin based therapy is the common treatment option for CDC, we investigated the expression of solute carrier (SLC) family transporters and found 45% alteration. In addition, SLC7A11 (cystine transporter, xCT), a cisplatin resistance associated gene, was found to be overexpressed in 4 out of 5 (80%) cases of CDC tumors tested, as compared to matched non-tumor tissue. In summary, our study provides a comprehensive genomic analysis of CDC and identifies potential pathways suitable for targeted therapies. </AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Jianmin</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biostatistics &amp; Bioinformatics, Roswell Park Cancer Institute, Buffalo, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Papanicolau-Sengos</LastName>
+                    <ForeName>Antonios</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology and Center for Personalized Medicine, Roswell Park Cancer Institute, Buffalo, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chintala</LastName>
+                    <ForeName>Sreenivasulu</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Genitourinary Program, Roswell Park Cancer Institute, Buffalo, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Genitourinary Program, Indiana University-Simon Cancer Center, Indianapolis, IN, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wei</LastName>
+                    <ForeName>Lei</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biostatistics &amp; Bioinformatics, Roswell Park Cancer Institute, Buffalo, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Biao</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biostatistics &amp; Bioinformatics, Roswell Park Cancer Institute, Buffalo, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hu</LastName>
+                    <ForeName>Qiang</ForeName>
+                    <Initials>Q</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biostatistics &amp; Bioinformatics, Roswell Park Cancer Institute, Buffalo, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Miles</LastName>
+                    <ForeName>Kiersten Marie</ForeName>
+                    <Initials>KM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology and Center for Personalized Medicine, Roswell Park Cancer Institute, Buffalo, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Conroy</LastName>
+                    <ForeName>Jeffrey M</ForeName>
+                    <Initials>JM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology and Center for Personalized Medicine, Roswell Park Cancer Institute, Buffalo, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Glenn</LastName>
+                    <ForeName>Sean T</ForeName>
+                    <Initials>ST</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cancer Genetics, Roswell Park Cancer Institute, Buffalo, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Costantini</LastName>
+                    <ForeName>Manuela</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Regina Elena National Cancer Institute of Rome, Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Genetic and Clinical Pathology, University Campus BioMedico of Rome, Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biosciences, Biotechnologies and Biopharmaceutics, University of Bari, Bari, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Magi-Galluzzi</LastName>
+                    <ForeName>Cristina</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, Cleveland Clinic, Cleveland, OH, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Signoretti</LastName>
+                    <ForeName>Sabina</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology and Kidney Cancer Program, Dana Farber, Boston, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Choueiri</LastName>
+                    <ForeName>Toni</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology and Kidney Cancer Program, Dana Farber, Boston, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gallucci</LastName>
+                    <ForeName>Michele</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Regina Elena National Cancer Institute of Rome, Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sentinelli</LastName>
+                    <ForeName>Steno</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Urology, Regina Elena National Cancer Institute of Rome, Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fazio</LastName>
+                    <ForeName>Vito M</ForeName>
+                    <Initials>VM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Genetic and Clinical Pathology, University Campus BioMedico of Rome, Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Poeta</LastName>
+                    <ForeName>Maria Luana</ForeName>
+                    <Initials>ML</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biosciences, Biotechnologies and Biopharmaceutics, University of Bari, Bari, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Song</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biostatistics &amp; Bioinformatics, Roswell Park Cancer Institute, Buffalo, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Morrison</LastName>
+                    <ForeName>Carl</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology and Center for Personalized Medicine, Roswell Park Cancer Institute, Buffalo, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pili</LastName>
+                    <ForeName>Roberto</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Genitourinary Program, Roswell Park Cancer Institute, Buffalo, NY, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Genitourinary Program, Indiana University-Simon Cancer Center, Indianapolis, IN, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>P30 CA016056</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Oncotarget</MedlineTA>
+            <NlmUniqueID>101532965</NlmUniqueID>
+            <ISSNLinking>1949-2553</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D027182">Amino Acid Transport System y+</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C497422">MLL protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C118895">SLC7A11 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>149025-06-9</RegistryNumber>
+                <NameOfSubstance UI="D051788">Myeloid-Lymphoid Leukemia Protein</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.1.1.43</RegistryNumber>
+                <NameOfSubstance UI="D011495">Histone-Lysine N-Methyltransferase</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D027182" MajorTopicYN="N">Amino Acid Transport System y+</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002292" MajorTopicYN="N">Carcinoma, Renal Cell</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017353" MajorTopicYN="N">Gene Deletion</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005786" MajorTopicYN="N">Gene Expression Regulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011495" MajorTopicYN="N">Histone-Lysine N-Methyltransferase</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006720" MajorTopicYN="N">Homozygote</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017404" MajorTopicYN="N">In Situ Hybridization, Fluorescence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007668" MajorTopicYN="N">Kidney</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007680" MajorTopicYN="N">Kidney Neoplasms</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051788" MajorTopicYN="N">Myeloid-Lymphoid Leukemia Protein</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020641" MajorTopicYN="N">Polymorphism, Single Nucleotide</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017423" MajorTopicYN="N">Sequence Analysis, RNA</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015854" MajorTopicYN="N">Up-Regulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000073359" MajorTopicYN="N">Whole Exome Sequencing</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">CDKN2A</Keyword>
+            <Keyword MajorTopicYN="N">collecting duct carcinoma</Keyword>
+            <Keyword MajorTopicYN="N">solute carrier family genes</Keyword>
+        </KeywordList>
+        <CoiStatement>The authors do not have any conflicts of interest.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>12</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>04</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>5</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>5</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">27144525</ArticleId>
+            <ArticleId IdType="pii">9093</ArticleId>
+            <ArticleId IdType="doi">10.18632/oncotarget.9093</ArticleId>
+            <ArticleId IdType="pmc">PMC5058651</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Bioinformatics. 2015 Jan 15;31(2):166-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25260700</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochim Biophys Acta. 2003 Dec 5;1653(2):47-59</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14643924</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Tunis Med. 2011 Oct;89(10):792-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22076905</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sci Rep. 2014 Jun 11;4:5251</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24918694</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Front Microbiol. 2015 Feb 19;6:120</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25745420</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2013 Oct 22;8(10):e78137</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24167600</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>World J Gastroenterol. 2014 Aug 21;20(31):10825-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25152585</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anticancer Res. 2014 Feb;34(2):1027-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24511050</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Urol. 2013 Aug;190(2):458-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23434943</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antioxid Redox Signal. 2013 Feb 10;18(5):522-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22667998</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Oncol. 2013 Dec;24(12):2963-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24190963</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Drug Discov. 2015 Aug;14(8):543-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26111766</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2011 Mar 15;27(6):865-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21278191</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Lett. 2015 Nov 1;368(1):88-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26254540</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncotarget. 2014 Oct 15;5(19):9410-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25238260</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Oncol. 2013 Jun;20(3):e223-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23737692</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncogene. 2016 Mar 24;35(12):1541-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26119935</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BJU Int. 2009 Jun;103(12):1721-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19154479</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2014 Mar 17;9(3):e92028</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24637744</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Cancer Res. 2014 Apr 1;20(7):1990-2000</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24516043</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Biol Ther. 2016 May 3;17 (5):515-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26492332</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2015 Aug 18;112(33):E4600-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26229077</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2010 Jan 21;463(7279):360-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20054297</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur Urol. 2016 Sep;70(3):516-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26149668</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2011 Feb 1;71(3):1019-28</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21148071</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2013 Mar 15;73(6):1855-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23319806</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Onkologie. 2012;35(12):776-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23207624</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>World J Surg Oncol. 2011 Jul 13;9:73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21752265</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Med (Berl). 2013 Oct;91(10):1155-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23686260</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Carcinogenesis. 2013 Mar;34(3):694-702</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23222813</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Chemotherapy. 2010;56(3):223-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20551639</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Surg Pathol. 2012 Sep;36(9):1265-78</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22895263</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cancer Res. 2013 Sep;11(9):1061-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23709298</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Cancer. 2015 May 16;15:411</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25981639</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sci Signal. 2013 Apr 02;6(269):pl1</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23550210</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Can Urol Assoc J. 2015 Sep-Oct;9(9-10):E589-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26425219</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2011 Jan 27;469(7331):539-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21248752</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res Treat. 2014 Apr;46(2):141-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24851105</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Cancer Res. 2006 Jun 15;12(12):3716-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16778098</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Front Med (Lausanne). 2015 Jun 08;2:39</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26137461</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biomed Pharmacother. 2013 Apr;67(3):240-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23462296</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sci Rep. 2014 Sep 12;4:6347</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25213199</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur Urol. 2012 Dec;62(6):1013-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22771265</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sci Rep. 2015 Feb 11;5:8380</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25670024</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2016 Feb 25;530(7591):490-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26878238</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Chemother Pharmacol. 2009 Aug;64(3):463-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19104813</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Urol. 2009 Dec;182(6):2595-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19836761</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Urol. 2006 Jul;176(1):40-3; discussion 43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16753362</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Biol. 2010;11(9):R92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20858232</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 2014 Sep 15;34(18):3421-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25002527</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Discov. 2012 May;2(5):401-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22588877</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Cell. 2013 Oct 14;24(4):450-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24094812</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int Urol Nephrol. 2013 Aug;45(4):1017-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23686671</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Hepatol. 2011 May;54(5):1073-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21145871</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2009 Jul 15;25(14):1754-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19451168</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Aspects Med. 2013 Apr-Jun;34(2-3):108-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23506861</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Cell. 2002 Aug;2(2):103-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12204530</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mod Pathol. 2009 Jun;22 Suppl 2:S2-S23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19494850</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Expert Rev Anticancer Ther. 2012 Feb;12(2):271-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22316374</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2000 Nov 16;408(6810):307-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11099028</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2010 Sep;38(16):e164</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20601685</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Biol. 2014;15(12):550</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25516281</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

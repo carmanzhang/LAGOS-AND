@@ -1,0 +1,210 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">16003588</PMID>
+        <DateCompleted>
+            <Year>2006</Year>
+            <Month>04</Month>
+            <Day>26</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0897-1889</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>18</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2005</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of digital imaging</Title>
+                <ISOAbbreviation>J Digit Imaging</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Technical report on semiautomatic segmentation using the Adobe Photoshop.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>333-43</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The purpose of this research is to enable users to semiautomatically segment the anatomical structures in magnetic resonance images (MRIs), computerized tomographs (CTs), and other medical images on a personal computer. The segmented images are used for making 3D images, which are helpful to medical education and research. To achieve this purpose, the following trials were performed. The entire body of a volunteer was scanned to make 557 MRIs. On Adobe Photoshop, contours of 19 anatomical structures in the MRIs were semiautomatically drawn using MAGNETIC LASSO TOOL and manually corrected using either LASSO TOOL or DIRECT SELECTION TOOL to make 557 segmented images. In a similar manner, 13 anatomical structures in 8,590 anatomical images were segmented. Proper segmentation was verified by making 3D images from the segmented images. Semiautomatic segmentation using Adobe Photoshop is expected to be widely used for segmentation of anatomical structures in various medical images.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Park</LastName>
+                    <ForeName>Jin Seo</ForeName>
+                    <Initials>JS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Anatomy, Ajou University School of Medicine, 5 Woncheon-dong, Yeongtong-gu, Suwon, 443-749, South Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chung</LastName>
+                    <ForeName>Min Suk</ForeName>
+                    <Initials>MS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hwang</LastName>
+                    <ForeName>Sung Bae</ForeName>
+                    <Initials>SB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Yong Sook</ForeName>
+                    <Initials>YS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Har</LastName>
+                    <ForeName>Dong-Hwan</ForeName>
+                    <Initials>DH</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Digit Imaging</MedlineTA>
+            <NlmUniqueID>9100529</NlmUniqueID>
+            <ISSNLinking>0897-1889</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D019412" MajorTopicYN="N">Anatomy, Cross-Sectional</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007091" MajorTopicYN="Y">Image Processing, Computer-Assisted</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D021621" MajorTopicYN="N">Imaging, Three-Dimensional</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008279" MajorTopicYN="N">Magnetic Resonance Imaging</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011857" MajorTopicYN="Y">Radiographic Image Interpretation, Computer-Assisted</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011873" MajorTopicYN="Y">Radiology Information Systems</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012984" MajorTopicYN="Y">Software</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014057" MajorTopicYN="N">Tomography, X-Ray Computed</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2005</Year>
+                <Month>7</Month>
+                <Day>9</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2006</Year>
+                <Month>4</Month>
+                <Day>28</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2005</Year>
+                <Month>7</Month>
+                <Day>9</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">16003588</ArticleId>
+            <ArticleId IdType="doi">10.1007/s10278-005-6704-1</ArticleId>
+            <ArticleId IdType="pmc">PMC3046725</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Comput Med Imaging Graph. 2000 May-Jun;24(3):165-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10838010</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Med Image Anal. 2001 Sep;5(3):221-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11524228</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Zhonghua Yan Ke Za Zhi. 2000 Nov;36(6):410-2, 26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11853637</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biomed Sci Instrum. 2002;38:363-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12085633</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sheng Wu Yi Xue Gong Cheng Xue Za Zhi. 2002 Jun;19(2):239-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12224290</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Comput Med Imaging Graph. 2000 May-Jun;24(3):153-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10838009</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Med Inform Assoc. 1996 Mar-Apr;3(2):118-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8653448</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Digit Imaging. 1997 May;10(2):85-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9165423</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IEEE Trans Med Imaging. 2005 Mar;24(3):352-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15754985</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Comput Med Imaging Graph. 2000 May-Jun;24(3):127-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10838007</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Digit Imaging. 1995 Aug;8(3):105-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7488653</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

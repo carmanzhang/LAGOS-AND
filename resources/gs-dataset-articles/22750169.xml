@@ -1,0 +1,198 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">22750169</PMID>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>12</Month>
+            <Day>11</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-1026</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>432</Volume>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Aug</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Science of the total environment</Title>
+                <ISOAbbreviation>Sci. Total Environ.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Arsenic distribution and speciation in Daphnia pulex.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>243-50</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.scitotenv.2012.05.050</ELocationID>
+            <Abstract>
+                <AbstractText>Rat Lake, Yellowknife, Northwest Territories, is situated on arsenic-rich tailings from a historical gold mine. The abundant zooplankton species Daphnia pulex in this lake was used to study the impact of arsenic at the base of the freshwater food web; the speciation and distribution of arsenic in D. pulex and its food sources; and the origin of formation of organoarsenicals in freshwater systems. The arsenic concentration in lake water was measured as 0.25 mg L(-1), while the zooplankton organisms contained up to 35 mg kg(-1) d.w. arsenic. Plankton samples were analyzed for arsenic speciation, by using X-ray Absorption Near Edge Structure (XANES) on the whole, dried samples and High Performance Liquid Chromatography coupled to Inductively Coupled Plasma Mass Spectrometry (HPLC-ICP-MS) on water extracts. XANES data suggest that D. pulex mainly contain inorganic arsenicals with 56% of arsenic with +5 oxidation state and 10% of arsenic with +3 oxidation state, but also 34% of organoarsenic compounds that were identified with HPLC-ICP-MS as monomethylarsonate (MMA), dimethylarsinate (DMA), and arsenosugars. The most abundant of the organoarsenicals was the glycerol sugar (Sugar 1). X-ray Fluorescence (XRF) mapping of D. pulex for arsenic distribution showed that arsenic was mainly distributed in the gut of the animal, where its concentration was ten times higher than in the surrounding tissues. Moreover, the analysis of residues from extractions targeting water-soluble and lipid-soluble arsenicals suggested that part of the measured arsenic signal comes from ingested sediments, phytoplankton, or other food sources. These food sources contain inorganic arsenic only, with As(V)-O in phytoplankton and As(III)-S in sediments, suggesting the possibility that the organoarsenicals compounds detected in the tissues of the organism are created by the Daphnia.</AbstractText>
+                <CopyrightInformation>Crown Copyright © 2012. Published by Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Caumette</LastName>
+                    <ForeName>Guilhem</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Environmental Sciences Group, Royal Military College of Canada, P.O. Box 17000 Station Forces, Kingston, ON, Canada K7K 7B4.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Koch</LastName>
+                    <ForeName>Iris</ForeName>
+                    <Initials>I</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Moriarty</LastName>
+                    <ForeName>Maeve</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Reimer</LastName>
+                    <ForeName>Kenneth J</ForeName>
+                    <Initials>KJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2012</Year>
+                <Month>06</Month>
+                <Day>27</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Sci Total Environ</MedlineTA>
+            <NlmUniqueID>0330500</NlmUniqueID>
+            <ISSNLinking>0048-9697</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D001152">Arsenicals</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>N712M78A8G</RegistryNumber>
+                <NameOfSubstance UI="D001151">Arsenic</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001151" MajorTopicYN="N">Arsenic</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000493" MajorTopicYN="N">pharmacokinetics</QualifierName>
+                <QualifierName UI="Q000633" MajorTopicYN="Y">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001152" MajorTopicYN="N">Arsenicals</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000493" MajorTopicYN="N">pharmacokinetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002851" MajorTopicYN="N">Chromatography, High Pressure Liquid</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003621" MajorTopicYN="N">Daphnia</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004781" MajorTopicYN="Y">Environmental Exposure</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004784" MajorTopicYN="N">Environmental Monitoring</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020387" MajorTopicYN="N">Food Chain</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D060106" MajorTopicYN="N">Lakes</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013058" MajorTopicYN="N">Mass Spectrometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015873" MajorTopicYN="N" Type="Geographic">Northwest Territories</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010933" MajorTopicYN="N">Plankton</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014018" MajorTopicYN="N">Tissue Distribution</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D056928" MajorTopicYN="N">X-Ray Absorption Spectroscopy</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2012</Year>
+                <Month>01</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2012</Year>
+                <Month>03</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2012</Year>
+                <Month>05</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>7</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>7</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>12</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">22750169</ArticleId>
+            <ArticleId IdType="pii">S0048-9697(12)00732-2</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.scitotenv.2012.05.050</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

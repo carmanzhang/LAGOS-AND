@@ -1,0 +1,186 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+        <PMID Version="1">25912662</PMID>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>03</Month>
+            <Day>04</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>03</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-2380</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>48</Volume>
+                    <Issue>10</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Jul</Month>
+                        <Day>16</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of biomechanics</Title>
+                <ISOAbbreviation>J Biomech</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Finite element modeling of hyper-viscoelasticity of peripheral nerve ultrastructures.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1982-7</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jbiomech.2015.04.004</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S0021-9290(15)00220-1</ELocationID>
+            <Abstract>
+                <AbstractText>The mechanical characteristics of ultrastructures of rat sciatic nerves were investigated through animal experiments and finite element analyses. A custom-designed dynamic testing apparatus was used to conduct in vitro transverse compression experiments on the nerves. The optical coherence tomography (OCT) was utilized to record the cross-sectional images of nerve during the dynamic testing. Two-dimensional finite element models of the nerves were built based on their OCT images. A hyper-viscoelastic model was employed to describe the elastic and stress relaxation response of each ultrastructure of the nerve, namely the endoneurium, the perineurium and the epineurium. The first-order Ogden model was employed to describe the elasticity of each ultrastructure and a generalized Maxwell model for the relaxation. The inverse finite element analysis was used to estimate the material parameters of the ultrastructures. The results show the instantaneous shear modulus of the ultrastructures in decreasing order is perineurium, endoneurium, and epineurium. The FE model combined with the first-order Ogden model and the second-order Prony series is good enough for describing the compress-and-hold response of the nerve ultrastructures. The integration of OCT and the nonlinear finite element modeling may be applicable to study the viscoelasticity of peripheral nerve down to the ultrastructural level. </AbstractText>
+                <CopyrightInformation>Copyright © 2015 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Chang</LastName>
+                    <ForeName>Cheng-Tao</ForeName>
+                    <Initials>CT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Mechanical Engineering, National Cheng Kung University, Tainan, Taiwan, ROC.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Yu-Hsing</ForeName>
+                    <Initials>YH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Mechanical Engineering, National Cheng Kung University, Tainan, Taiwan, ROC.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lin</LastName>
+                    <ForeName>Chou-Ching K</ForeName>
+                    <Initials>CC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Medicine, National Cheng Kung University, Tainan, Taiwan, ROC.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ju</LastName>
+                    <ForeName>Ming-Shaung</ForeName>
+                    <Initials>MS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Mechanical Engineering, National Cheng Kung University, Tainan, Taiwan, ROC. Electronic address: msju@mail.ncku.edu.tw.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>04</Month>
+                <Day>15</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Biomech</MedlineTA>
+            <NlmUniqueID>0157375</NlmUniqueID>
+            <ISSNLinking>0021-9290</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001696" MajorTopicYN="N">Biomechanical Phenomena</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003430" MajorTopicYN="N">Cross-Sectional Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004548" MajorTopicYN="Y">Elasticity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020342" MajorTopicYN="Y">Finite Element Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008422" MajorTopicYN="N">Materials Testing</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017711" MajorTopicYN="N">Nonlinear Dynamics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010525" MajorTopicYN="N">Peripheral Nerves</DescriptorName>
+                <QualifierName UI="Q000648" MajorTopicYN="Y">ultrastructure</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D041623" MajorTopicYN="N">Tomography, Optical Coherence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014783" MajorTopicYN="N">Viscosity</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Hyper-viscoelasticity</Keyword>
+            <Keyword MajorTopicYN="N">Inverse finite element</Keyword>
+            <Keyword MajorTopicYN="N">Optical coherence tomography</Keyword>
+            <Keyword MajorTopicYN="N">Peripheral nerve tissues</Keyword>
+            <Keyword MajorTopicYN="N">Tissue engineering</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2014</Year>
+                <Month>07</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2015</Year>
+                <Month>03</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>04</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>4</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>4</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>3</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">25912662</ArticleId>
+            <ArticleId IdType="pii">S0021-9290(15)00220-1</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jbiomech.2015.04.004</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

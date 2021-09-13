@@ -1,0 +1,157 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">19846814</PMID>
+        <DateCompleted>
+            <Year>2009</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>19</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1943-7722</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>132</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2009</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>American journal of clinical pathology</Title>
+                <ISOAbbreviation>Am J Clin Pathol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Flow cytometric immunophenotyping and minimal residual disease analysis in multiple myeloma.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>728-32</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1309/AJCP1GYI7EHQYUYK</ELocationID>
+            <Abstract>
+                <AbstractText>Presence of normal plasma cells (PCs), hemodilution of bone marrow aspirate, and changes in the immunophenotype are important considerations in minimal residual disease (MRD) assessment in multiple myeloma (MM). We evaluated 124 subjects-107 with MM, 11 with Hodgkin lymphoma, and 6 allogeneic stem cell transplantation donors-for the immunophenotype of neoplastic, reactive, and normal PCs respectively. Of the patients with MM, 36 were evaluated for MRD and 23 for a change in immunophenotype after chemotherapy. The immunophenotype of normal and reactive PCs was similar and differed from that of neoplastic PCs with respect to CD19, CD45, CD56, CD52, CD20, and CD117. At least 2 antigens were aberrantly expressed in all cases and 3 in 90.7% of MM cases. A change in the immunoprofile of PCs was observed in 18 (78%) of 23 cases. By using flow cytometry, we detected MRD in all samples, and a neoplastic PC index (percentage of neoplastic PCs/total bone marrow PCs) of less than 30 could differentiate immunofixation (IFx)- from IFx+ samples (complete and partial responders, respectively).</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gupta</LastName>
+                    <ForeName>Ritu</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory Oncology Unit, Dr. B.R. AIRCH, All India Institute of Medical Sciences, New Delhi.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bhaskar</LastName>
+                    <ForeName>Archana</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kumar</LastName>
+                    <ForeName>Lalit</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sharma</LastName>
+                    <ForeName>Atul</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jain</LastName>
+                    <ForeName>Paresh</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Am J Clin Pathol</MedlineTA>
+            <NlmUniqueID>0370470</NlmUniqueID>
+            <ISSNLinking>0002-9173</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D015703">Antigens, CD</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014408">Biomarkers, Tumor</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D015703" MajorTopicYN="N">Antigens, CD</DescriptorName>
+                <QualifierName UI="Q000096" MajorTopicYN="Y">biosynthesis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014408" MajorTopicYN="N">Biomarkers, Tumor</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="Y">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005434" MajorTopicYN="N">Flow Cytometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016130" MajorTopicYN="N">Immunophenotyping</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009101" MajorTopicYN="N">Multiple Myeloma</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="Y">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018365" MajorTopicYN="N">Neoplasm, Residual</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="Y">pathology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2009</Year>
+                <Month>10</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2009</Year>
+                <Month>10</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2009</Year>
+                <Month>11</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">19846814</ArticleId>
+            <ArticleId IdType="pii">132/5/728</ArticleId>
+            <ArticleId IdType="doi">10.1309/AJCP1GYI7EHQYUYK</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

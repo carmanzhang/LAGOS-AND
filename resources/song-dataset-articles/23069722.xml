@@ -1,0 +1,131 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">23069722</PMID>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>05</Month>
+            <Day>07</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2012</Year>
+            <Month>11</Month>
+            <Day>01</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1538-9235</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>89</Volume>
+                    <Issue>11</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Optometry and vision science : official publication of the American Academy of Optometry</Title>
+                <ISOAbbreviation>Optom Vis Sci</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Corneal refractive index-hydration relationship by objective refractometry.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1641-6</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1097/OPX.0b013e31826c5dde</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">To compare an objective (VCH-1) with a manual subjective Abbé refractometer (MSAR) and evaluate the refractive index (RI)-hydration (H) relationship for the corneal stroma.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Epithelial and endothelial layers were removed from a fresh postmortem ovine corneal buttons. RI was measured at both surfaces using (i) MSAR then (ii) VCH-1. The sample was weighed, slowly dehydrated under controlled conditions (2 h), and RI measures were repeated. Sample was oven dried (90°C) for 3 d to obtain dry weight and hydration at each episode of RI measurement.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Average difference between individual pairs of measurements obtained using the two refractometers (ΔRI) was 0.00071 (standard deviation ± 0.0029, 95% confidence interval ± 0.0058). Root mean square difference between measurements obtained by the refractometers was 0.0024. There was no relationship between ΔRI and the mean of each measurement pair (r = 0.201, n = 40, p = 0.214). Linear regression revealed a significant relationship between RI and reciprocal of H at both surfaces as follows: anterior (i) RI = 1.355 + 0.111/H (r = -0.852, n = 20, p = &lt;0.001), (ii) RI = 1.357 + 0.105/H (r = -0.849, n = 20, p = &lt;0.001) and posterior (i) RI = 1.353 + 0.085/H (r = -0.882, n = 20, p = &lt;0.001), (ii) RI = 1.350 + 0.088/H (r = -0.813, n = 20, p = &lt;0.001).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">VCH-1 measurements are in good agreement with MSAR. RI at the anterior stroma was consistently higher suggesting hydration is lower by 1.10 units (6%) compared with the posterior stroma. Dehydration increased RI at both surfaces by similar rates. Current hypothetical models are useful for predicting RI from H for the posterior, but not the anterior, stroma.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Patel</LastName>
+                    <ForeName>Sudi</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Development and Innovation Department, VISSUM, Instituto Oftalmologico de Alicante, Alicante, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Alió</LastName>
+                    <ForeName>Jorge L</ForeName>
+                    <Initials>JL</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D003160">Comparative Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Optom Vis Sci</MedlineTA>
+            <NlmUniqueID>8904931</NlmUniqueID>
+            <ISSNLinking>1040-5488</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003315" MajorTopicYN="N">Cornea</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004195" MajorTopicYN="N">Disease Models, Animal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012029" MajorTopicYN="Y">Refraction, Ocular</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012030" MajorTopicYN="N">Refractive Errors</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012031" MajorTopicYN="N">Refractometry</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012756" MajorTopicYN="N">Sheep</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>10</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>10</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">23069722</ArticleId>
+            <ArticleId IdType="doi">10.1097/OPX.0b013e31826c5dde</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

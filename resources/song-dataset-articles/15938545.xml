@@ -1,0 +1,200 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">15938545</PMID>
+        <DateCompleted>
+            <Year>2005</Year>
+            <Month>06</Month>
+            <Day>23</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>11</Month>
+            <Day>09</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1380-7870</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>11</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2005</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Lifetime data analysis</Title>
+                <ISOAbbreviation>Lifetime Data Anal</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Semiparametric proportional odds models for spatially correlated survival data.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>175-91</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The last decade has witnessed major developments in Geographical Information Systems (GIS) technology resulting in the need for statisticians to develop models that account for spatial clustering and variation. In public health settings, epidemiologists and health-care professionals are interested in discerning spatial patterns in survival data that might exist among the counties. This paper develops a Bayesian hierarchical model for capturing spatial heterogeneity within the framework of proportional odds. This is deemed more appropriate when a substantial percentage of subjects enjoy prolonged survival. We discuss the implementation issues of our models, perform comparisons among competing models and illustrate with data from the SEER (Surveillance Epidemiology and End Results) database of the National Cancer Institute, paying particular attention to the underlying spatial story.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Banerjee</LastName>
+                    <ForeName>Sudipto</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Biostatistics, University of Minnesota, Minneapolis, MN 55455, USA. sudiptob@biostat.umn.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dey</LastName>
+                    <ForeName>Dipak K</ForeName>
+                    <Initials>DK</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Lifetime Data Anal</MedlineTA>
+            <NlmUniqueID>9516348</NlmUniqueID>
+            <ISSNLinking>1380-7870</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001499" MajorTopicYN="N">Bayes Theorem</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001943" MajorTopicYN="N">Breast Neoplasms</DescriptorName>
+                <QualifierName UI="Q000401" MajorTopicYN="N">mortality</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016000" MajorTopicYN="Y">Cluster Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D040362" MajorTopicYN="N">Geographic Information Systems</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007484" MajorTopicYN="N" Type="Geographic">Iowa</DescriptorName>
+                <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008390" MajorTopicYN="N">Markov Chains</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015233" MajorTopicYN="Y">Models, Statistical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011336" MajorTopicYN="Y">Probability</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016019" MajorTopicYN="Y">Survival Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015996" MajorTopicYN="N">Survival Rate</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2005</Year>
+                <Month>6</Month>
+                <Day>9</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2005</Year>
+                <Month>6</Month>
+                <Day>24</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2005</Year>
+                <Month>6</Month>
+                <Day>9</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">15938545</ArticleId>
+            <ArticleId IdType="doi">10.1007/s10985-004-0382-z</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Lifetime Data Anal. 2000 Sep;6(3):207-28</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10949859</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biometrics. 2002 Jun;58(2):287-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12071401</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Stat Med. 1992 Jun 15;11(8):983-1007</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1496200</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biostatistics. 2003 Jan;4(1):123-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12925334</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lifetime Data Anal. 2001 Mar;7(1):39-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11280846</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biometrics. 2002 Jun;58(2):316-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12071404</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biometrics. 1995 Sep;51(3):843-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7548703</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Stat Methods Med Res. 1994;3(3):244-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7820294</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biometrics. 1999 Dec;55(4):1162-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11315063</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biometrics. 1999 Jun;55(2):637-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11318227</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

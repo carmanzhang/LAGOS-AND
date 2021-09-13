@@ -1,0 +1,573 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">23020625</PMID>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>03</Month>
+            <Day>28</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1471-2164</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>13</Volume>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Sep</Month>
+                        <Day>28</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>BMC genomics</Title>
+                <ISOAbbreviation>BMC Genomics</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A duck RH panel and its potential for assisting NGS genome assembly.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>513</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/1471-2164-13-513</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Owing to the low cost of the high throughput Next Generation Sequencing (NGS) technology, more and more species have been and will be sequenced. However, de novo assemblies of large eukaryotic genomes thus produced are composed of a large number of contigs and scaffolds of medium to small size, having no chromosomal assignment. Radiation hybrid (RH) mapping is a powerful tool for building whole genome maps and has been used for several animal species, to help assign sequence scaffolds to chromosomes and determining their order.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">We report here a duck whole genome RH panel obtained by fusing female duck embryonic fibroblasts irradiated at a dose of 6,000 rads, with HPRT-deficient Wg3hCl2 hamster cells. The ninety best hybrids, having an average retention of 23.6% of the duck genome, were selected for the final panel. To allow the genotyping of large numbers of markers, as required for whole genome mapping, without having to cultivate the hybrid clones on a large scale, three different methods involving Whole Genome Amplification (WGA) and/or scaling down PCR volumes by using the Fluidigm BioMark(TM) Integrated Fluidic Circuits (IFC) Dynamic Array(TM) for genotyping were tested. RH maps of APL12 and APL22 were built, allowing the detection of intrachromosomal rearrangements when compared to chicken. Finally, the panel proved useful for checking the assembly of sequence scaffolds and for mapping EST located on one of the smallest microchromosomes.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The Fluidigm BioMark(TM) Integrated Fluidic Circuits (IFC) Dynamic Array(TM) genotyping by quantitative PCR provides a rapid and cost-effective method for building RH linkage groups. Although the vast majority of genotyped markers exhibited a picture coherent with their associated scaffolds, a few of them were discordant, pinpointing potential assembly errors. Comparative mapping with chicken chromosomes GGA21 and GGA11 allowed the detection of the first chromosome rearrangements on microchromosomes between duck and chicken. As in chicken, the smallest duck microchromosomes appear missing in the assembly and more EST data will be needed for mapping them. Altogether, this underlines the added value of RH mapping to improve genome assemblies.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Rao</LastName>
+                    <ForeName>Man</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>UMR INRA/ENVT Laboratoire de Génétique Cellulaire, INRA, Castanet-Tolosan 31326, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Morisson</LastName>
+                    <ForeName>Mireille</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Faraut</LastName>
+                    <ForeName>Thomas</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bardes</LastName>
+                    <ForeName>Suzanne</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fève</LastName>
+                    <ForeName>Katia</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Labarthe</LastName>
+                    <ForeName>Emmanuelle</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fillon</LastName>
+                    <ForeName>Valérie</ForeName>
+                    <Initials>V</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Huang</LastName>
+                    <ForeName>Yinhua</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Ning</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vignal</LastName>
+                    <ForeName>Alain</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2012</Year>
+                <Month>09</Month>
+                <Day>28</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>BMC Genomics</MedlineTA>
+            <NlmUniqueID>100965258</NlmUniqueID>
+            <ISSNLinking>1471-2164</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D005819">Genetic Markers</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002460" MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002645" MajorTopicYN="N">Chickens</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006224" MajorTopicYN="N">Cricetinae</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004372" MajorTopicYN="N">Ducks</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005347" MajorTopicYN="N">Fibroblasts</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005819" MajorTopicYN="N">Genetic Markers</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D060005" MajorTopicYN="N">Genotyping Techniques</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D021101" MajorTopicYN="N">Radiation Hybrid Mapping</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017422" MajorTopicYN="N">Sequence Analysis, DNA</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2012</Year>
+                <Month>01</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2012</Year>
+                <Month>08</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>10</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>10</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>3</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">23020625</ArticleId>
+            <ArticleId IdType="pii">1471-2164-13-513</ArticleId>
+            <ArticleId IdType="doi">10.1186/1471-2164-13-513</ArticleId>
+            <ArticleId IdType="pmc">PMC3496577</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>BMC Res Notes. 2008 Jun 05;1:21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18710479</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Genomics. 2011;12:447</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21906286</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genomics. 1992 May;13(1):95-103</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1577497</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2008;3(2):e1662</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18301740</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 1999 May 1;27(9):1966-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10198428</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genomics. 1996 Apr 1;33(1):57-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8617510</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genomics. 1992 Jul;13(3):718-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1639399</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Chromosome Res. 2004;12(7):715-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15505406</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2010 Jan 21;463(7279):311-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20010809</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Genomics. 2011;12:150</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21410945</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cytogenet Genome Res. 2003;103(1-2):173-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15004483</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Biol. 2011;12(3):R31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21453517</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2006 Dec 1;22(23):2971-2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17021158</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Biol. 2010;8(9). pii: e1000475. doi: 10.1371/journal.pbio.1000475</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20838655</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cytogenet Genome Res. 2009;126(1-2):21-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20016154</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anim Genet. 2006 Dec;37(6):599-600</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17121612</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 1998 Aug 1;26(15):3562-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9671819</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Genomics. 2011;12:144</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21388556</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genet Sel Evol. 2002 Jul-Aug;34(4):521-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12270108</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2008 Oct;36(18):e116</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18710881</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cytogenet Cell Genet. 1992;59(1):48-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1733673</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Influenza Other Respir Viruses. 2009 Jul;3(4):121-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19627369</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2000 Oct 13;290(5490):331-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11030650</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mamm Genome. 2000 May;11(5):360-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10790534</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2010 Apr 1;464(7289):757-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20360741</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Soc Trans. 2009 Apr;37(Pt 2):450-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19290880</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cytogenet Genome Res. 2007;117(1-4):14-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17675840</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Evol Biol. 2012;12:45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22462721</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2005 Apr 15;21(8):1703-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15598829</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cytogenet Genome Res. 2002;96(1-4):97-112</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12438785</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2006 Apr 21;312(5772):384-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16627734</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Methods Mol Biol. 2008;422:65-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18629661</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Genomics. 2008;9:129</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18366813</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2009 Dec;41(12):1275-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19881527</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1992 Jul 1;89(13):5847-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1631067</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genetics. 2006 May;173(1):287-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16510785</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2009 Oct 16;326(5951):433-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19713493</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2010 Mar 25;464(7288):587-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20220755</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Genet. 2005 Aug;6(8):643-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16012527</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 1994 Sep;8(1):70-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7987395</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hereditas. 2010 Apr;147(2):103-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20536549</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Res. 2010 Apr;20(4):503-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20357050</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1991 Sep 1;88(17):7477-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1881887</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2005 Sep;79(17):11269-79</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16103179</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2002 Apr 16;99(8):5261-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11959976</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Methods Mol Biol. 2008;439:1-18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18370092</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Genomics. 2006;7:101</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16669996</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Genomics. 2009;10:357</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19656363</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cytogenet Genome Res. 2007;117(1-4):64-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17675846</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genet Sel Evol. 1984;16(3):261-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22879165</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anim Genet. 2007 Jun;38(3):303-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17539975</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2007 Jan 15;23(2):e50-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17237105</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2008 Jan;36(Database issue):D485-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17981845</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Hered. 2002 Jan-Feb;93(1):77-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12011185</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Genomics. 2008;9:168</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18410676</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Genomics. 2010;11:616</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21050458</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Biol Evol. 2001 Feb;18(2):206-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11158379</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Theriogenology. 2004 Jan 15;61(2-3):573-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14662153</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Pathog. 2008;4(8):e1000127</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18704172</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2010 Dec 15;26(24):3035-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21076149</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Res. 2010 Feb;20(2):265-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20019144</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

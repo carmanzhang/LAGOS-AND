@@ -1,0 +1,171 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">12554082</PMID>
+        <DateCompleted>
+            <Year>2003</Year>
+            <Month>05</Month>
+            <Day>19</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>08</Month>
+            <Day>22</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0166-6851</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>126</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2003</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Molecular and biochemical parasitology</Title>
+                <ISOAbbreviation>Mol Biochem Parasitol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Molecular analysis of repetitive DNA elements from Entamoeba histolytica, which encode small RNAs and contain matrix/scaffold attachment recognition sequences.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>35-42</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>We have isolated two DNA elements-Eh MRS1 and Eh MRS2-from Entamoeba histolytica, which contain the eukaryotic consensus Scaffold/Matrix Attachment Region (S/MAR) bipartite recognition sequences. Both these sequences bind to high salt extractable nuclear proteins and insoluble nuclear matrix proteins in E. histolytica HM1:IMSS, suggesting that the predicted S/MAR recognition sequences may indeed function as scaffold attachment regions in E. histolytica. Sequence analysis shows that Eh MRS1 and Eh MRS2 contain internal tandem repeats ranging from units of 8-11bp and are themselves present as independent arrays of tandemly repeating units of approximately 1100bp each. Eh MRS1 and Eh MRS2 are localised on different chromosomes in E. histolytica HM1:IMSS. Both Eh MRS1 and Eh MRS2 also code for small molecular weight RNAs of unknown function. Thus, two unique sequences-Eh MRS1 and Eh MRS2-demonstrate very similar properties, suggesting that they belong to a superfamily of genomic elements, which may function as scaffold or matrix attachment sites in Entamoeba.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Banerjee</LastName>
+                    <ForeName>Sulagna</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry, Bose Institute, P1/12 CIT Scheme VIIM, Calcutta 700054, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lohia</LastName>
+                    <ForeName>Anuradha</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Mol Biochem Parasitol</MedlineTA>
+            <NlmUniqueID>8006324</NlmUniqueID>
+            <ISSNLinking>0166-6851</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D036961">Matrix Attachment Region Binding Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D034521">Nuclear Matrix-Associated Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D018510">RNA, Helminth</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D012342">RNA, Small Nuclear</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001483" MajorTopicYN="N">Base Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002875" MajorTopicYN="N">Chromosomes</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004748" MajorTopicYN="N">Entamoeba histolytica</DescriptorName>
+                <QualifierName UI="Q000166" MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D036961" MajorTopicYN="N">Matrix Attachment Region Binding Proteins</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008957" MajorTopicYN="N">Models, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015530" MajorTopicYN="N">Nuclear Matrix</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D034521" MajorTopicYN="N">Nuclear Matrix-Associated Proteins</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018510" MajorTopicYN="N">RNA, Helminth</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012342" MajorTopicYN="N">RNA, Small Nuclear</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012091" MajorTopicYN="N">Repetitive Sequences, Nucleic Acid</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016415" MajorTopicYN="N">Sequence Alignment</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2003</Year>
+                <Month>1</Month>
+                <Day>30</Day>
+                <Hour>4</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2003</Year>
+                <Month>5</Month>
+                <Day>20</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2003</Year>
+                <Month>1</Month>
+                <Day>30</Day>
+                <Hour>4</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">12554082</ArticleId>
+            <ArticleId IdType="pii">S016668510200244X</ArticleId>
+            <ArticleId IdType="doi">10.1016/s0166-6851(02)00244-x</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

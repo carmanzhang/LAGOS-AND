@@ -1,0 +1,178 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">16494515</PMID>
+        <DateCompleted>
+            <Year>2006</Year>
+            <Month>04</Month>
+            <Day>12</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>09</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0033-7587</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>165</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2006</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Radiation research</Title>
+                <ISOAbbreviation>Radiat Res</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>DNA repair defect in AT cells and their hypersensitivity to low-dose-rate radiation.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>277-82</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Ataxia telangiectasia (AT) and normal cells immortalized with the human telomerase gene were irradiated in non-proliferative conditions with high- (2 Gy/min) or low-dose-rate (0.3 mGy/min) radiation. While normal cells showed a higher resistance after irradiation at a low dose rate than a high dose rate, AT cells showed virtually the same survival after low- and high-dose-rate irradiation. Although the frequency of micronuclei induced by low-dose-rate radiation was greatly reduced in normal cells, it was not reduced significantly in AT cells. The number of gamma-H2AX foci increased in proportion to the dose in both AT and normal cells after high-dose-rate irradiation. Although few gamma-H2AX foci were observed after low-dose-rate irradiation in normal cells, significant and dose-dependent numbers of gamma-H2AX foci were observed in AT cells even after low-dose-rate irradiation, indicating that DNA damage was not completely repaired during low-dose-rate irradiation. Significant phosphorylation of ATM proteins was detected in normal cells after low-dose-rate irradiation, suggesting that the activation of ATM plays an important role in the repair of DNA damage during low-dose-rate irradiation. In conclusion, AT cells may not be able to repair some fraction of DNA damage and are severely affected by low-dose-rate radiation.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Nakamura</LastName>
+                    <ForeName>Hideaki</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Central Laboratory and Radiation Biology, Aichi Cancer Center Research Institute, Nagoya 464-8681, Japan. hnakumu@aichi-cc.jp</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yasui</LastName>
+                    <ForeName>Yoshihiro</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Saito</LastName>
+                    <ForeName>Noriko</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tachibana</LastName>
+                    <ForeName>Akira</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Komatsu</LastName>
+                    <ForeName>Kenshi</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ishizaki</LastName>
+                    <ForeName>Kanji</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Radiat Res</MedlineTA>
+            <NlmUniqueID>0401245</NlmUniqueID>
+            <ISSNLinking>0033-7587</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C468783">H2AX protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D006657">Histones</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9007-49-2</RegistryNumber>
+                <NameOfSubstance UI="D004247">DNA</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CitationSubset>S</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001260" MajorTopicYN="N">Ataxia Telangiectasia</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002460" MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002467" MajorTopicYN="N">Cell Nucleus</DescriptorName>
+                <QualifierName UI="Q000528" MajorTopicYN="N">radiation effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002470" MajorTopicYN="N">Cell Survival</DescriptorName>
+                <QualifierName UI="Q000528" MajorTopicYN="N">radiation effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004247" MajorTopicYN="N">DNA</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000528" MajorTopicYN="Y">radiation effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004249" MajorTopicYN="N">DNA Damage</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000528" MajorTopicYN="Y">radiation effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004260" MajorTopicYN="N">DNA Repair</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000528" MajorTopicYN="Y">radiation effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006657" MajorTopicYN="N">Histones</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010766" MajorTopicYN="N">Phosphorylation</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2006</Year>
+                <Month>2</Month>
+                <Day>24</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2006</Year>
+                <Month>4</Month>
+                <Day>13</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2006</Year>
+                <Month>2</Month>
+                <Day>24</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">16494515</ArticleId>
+            <ArticleId IdType="pii">RR3519</ArticleId>
+            <ArticleId IdType="doi">10.1667/rr3519.1</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

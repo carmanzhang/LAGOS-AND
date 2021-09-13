@@ -1,0 +1,201 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">25194729</PMID>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>10</Month>
+            <Day>24</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2014</Year>
+            <Month>09</Month>
+            <Day>08</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0236-5383</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>65</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Acta biologica Hungarica</Title>
+                <ISOAbbreviation>Acta. Biol. Hung.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Classification of heart rate signals of healthy and pathological subjects using threshold based symbolic entropy.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>252-64</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1556/ABiol.65.2014.3.2</ELocationID>
+            <Abstract>
+                <AbstractText>The dynamical fluctuations of biological signals provide a unique window to construe the underlying mechanism of the biological systems in health and disease. Recent research evidences suggest that a wide class of diseases appear to degrade the biological complexity and adaptive capacity of the system. Heart rate signals are one of the most important biological signals that have widely been investigated during the last two and half decades. Recent studies suggested that heart rate signals fluctuate in a complex manner. Various entropy based complexity analysis measures have been developed for quantifying the valuable information that may be helpful for clinical monitoring and for early intervention. This study is focused on determining HRV dynamics to distinguish healthy subjects from patients with certain cardiac problems using symbolic time series analysis technique. For that purpose, we have employed recently developed threshold based symbolic entropy to cardiac inter-beat interval time series of healthy, congestive heart failure and atrial fibrillation subjects. Normalized Corrected Shannon Entropy (NCSE) was used to quantify the dynamics of heart rate signals by continuously varying threshold values. A rule based classifier was implemented for classification of different groups by selecting threshold values for the optimal separation. The findings indicated that there is reduction in the complexity of pathological subjects as compared to healthy ones at wide range of threshold values. The results also demonstrated that complexity decreased with disease severity. </AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Aziz</LastName>
+                    <ForeName>Wajid</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Azad Kashmir Department of Computer Sciences and Information Technology 13100 Azad Kashmir Pakistan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rafique</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Azad Jammu and Kashmir Muzaffarbad Department of Physics 13100 Azad Kashmir Pakistan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ahmad</LastName>
+                    <ForeName>I</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Azad Jammu and Kashmir Muzaffarbad Department of Mathematics 13100 Azad Kashmir Pakistan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Arif</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Um-Alqura University College of Computer and Information System, Al-Abidiyya Building P.O. Box 715 Makkah Saudi Arabia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Habib</LastName>
+                    <ForeName>Nazneen</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Azad Jammu and Kashmir Muzaffarbad Department of Sociology and Rural Development 13100 Azad Kashmir Pakistan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nadeem</LastName>
+                    <ForeName>M S A</ForeName>
+                    <Initials>MS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Azad Kashmir Department of Computer Sciences and Information Technology 13100 Azad Kashmir Pakistan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Hungary</Country>
+            <MedlineTA>Acta Biol Hung</MedlineTA>
+            <NlmUniqueID>8404358</NlmUniqueID>
+            <ISSNLinking>0236-5383</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001281" MajorTopicYN="N">Atrial Fibrillation</DescriptorName>
+                <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="Y">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016022" MajorTopicYN="N">Case-Control Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004562" MajorTopicYN="Y">Electrocardiography</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015716" MajorTopicYN="N">Electrocardiography, Ambulatory</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019277" MajorTopicYN="N">Entropy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006333" MajorTopicYN="N">Heart Failure</DescriptorName>
+                <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="Y">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006339" MajorTopicYN="Y">Heart Rate</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011237" MajorTopicYN="N">Predictive Value of Tests</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012720" MajorTopicYN="N">Severity of Illness Index</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012815" MajorTopicYN="Y">Signal Processing, Computer-Assisted</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013997" MajorTopicYN="N">Time Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055815" MajorTopicYN="N">Young Adult</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">HRV analysis</Keyword>
+            <Keyword MajorTopicYN="N">biological signals</Keyword>
+            <Keyword MajorTopicYN="N">complexity</Keyword>
+            <Keyword MajorTopicYN="N">optimal variability</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>9</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>9</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">25194729</ArticleId>
+            <ArticleId IdType="pii">EL7U2065723K7000</ArticleId>
+            <ArticleId IdType="doi">10.1556/ABiol.65.2014.3.2</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,188 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20833399</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>02</Month>
+            <Day>23</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>12</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-3778</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>1217</Volume>
+                    <Issue>51</Issue>
+                    <PubDate>
+                        <Year>2010</Year>
+                        <Month>Dec</Month>
+                        <Day>17</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of chromatography. A</Title>
+                <ISOAbbreviation>J Chromatogr A</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Isotachophoresis-based sample preparation of cellulases in sugarcane juice using bovine serum albumin as a model protein.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>8026-31</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.chroma.2010.08.047</ELocationID>
+            <Abstract>
+                <AbstractText>The foremost requirement of quantification of cellulases expressed in genetically modified sugarcane is an efficient sample clean-up. This work investigates the feasibility of isotachophoresis for this purpose. An electrolyte system comprising a leading electrolyte of 10mM formic acid at pH 9.0 and a terminating electrolyte of 10mM β-alanine was devised and used to perform isotachophoresis of cellulases. The use of a simple front cutting method removed a majority of interfering species in the juice, thereby resulting in the formation of a distinct zone of desired proteins. In comparison to techniques such as ultrafiltration and liming, the analysis time and loss of desired proteins was lower when the sample was prepared by using isotachophoresis. Hence, isotachophoresis was an ideal choice for purification of the proteins in question from the remaining components in the juice.</AbstractText>
+                <CopyrightInformation>Copyright © 2010 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gupta</LastName>
+                    <ForeName>Ruchi</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Electrical and Electronics Engineering, The University of Manchester, PO Box 88, Sackville Street Building, Sackville Street, Manchester, M60 1QD, UK. ruchi.gupta@postgrad.manchester.ac.uk</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Baldock</LastName>
+                    <ForeName>Sara J</ForeName>
+                    <Initials>SJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fielden</LastName>
+                    <ForeName>Peter R</ForeName>
+                    <Initials>PR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Prest</LastName>
+                    <ForeName>Jeff E</ForeName>
+                    <Initials>JE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Grieve</LastName>
+                    <ForeName>Bruce D</ForeName>
+                    <Initials>BD</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D023362">Evaluation Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>08</Month>
+                <Day>24</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>J Chromatogr A</MedlineTA>
+            <NlmUniqueID>9318488</NlmUniqueID>
+            <ISSNLinking>0021-9673</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010940">Plant Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>27432CM55Q</RegistryNumber>
+                <NameOfSubstance UI="D012710">Serum Albumin, Bovine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.2.1.-</RegistryNumber>
+                <NameOfSubstance UI="D044602">Cellulases</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001628" MajorTopicYN="N">Beverages</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D044602" MajorTopicYN="N">Cellulases</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+                <QualifierName UI="Q000302" MajorTopicYN="Y">isolation &amp; purification</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004586" MajorTopicYN="N">Electrophoresis</DescriptorName>
+                <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+                <QualifierName UI="Q000592" MajorTopicYN="N">standards</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010940" MajorTopicYN="N">Plant Proteins</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+                <QualifierName UI="Q000302" MajorTopicYN="Y">isolation &amp; purification</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012015" MajorTopicYN="N">Reference Standards</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D031786" MajorTopicYN="N">Saccharum</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000201" MajorTopicYN="Y">enzymology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012710" MajorTopicYN="N">Serum Albumin, Bovine</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+                <QualifierName UI="Q000302" MajorTopicYN="Y">isolation &amp; purification</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2010</Year>
+                <Month>04</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2010</Year>
+                <Month>08</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2010</Year>
+                <Month>08</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>9</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>9</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>2</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20833399</ArticleId>
+            <ArticleId IdType="pii">S0021-9673(10)01133-7</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.chroma.2010.08.047</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

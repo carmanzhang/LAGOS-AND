@@ -1,0 +1,166 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">19149165</PMID>
+        <DateCompleted>
+            <Year>2009</Year>
+            <Month>05</Month>
+            <Day>29</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>11</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0001-6209</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>48</Volume>
+                    <Issue>11</Issue>
+                    <PubDate>
+                        <Year>2008</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Wei sheng wu xue bao = Acta microbiologica Sinica</Title>
+                <ISOAbbreviation>Wei Sheng Wu Xue Bao</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Isolation of a metsulfuron-methyl-resistant bacteria and cloning and expression of the acetohydroxyacid synthase genes ilvlH].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1493-8</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="UNLABELLED">Acetohydroxyacid synthase (EC 4.1.3.18) is the enzyme that catalyses the first step in the synthesis of the branched-chain amino acids valine, leucine and isoleucine in plant, fungi and bacteria, and also is target of the sulfonylurea, imidazolinone, triazolopyrimidine and other acetohydroxyacid synthase inhibitor herbicides.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">The purpose of this study is to get the resistant gene, prepare a functional bacteria with acetohydroxyacid synthase, and investigate the relationship between the mutation sites of the acetohydroxyacid synthase and the herbicides-resistant.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">A metsulfuron-methyl-resistant bacterium Lm10 was isolated from metsulfuron-methyl contaminated soil. Acetohydroxyacid synthase genes ilvIH was amplified from the genome DNA of strains Lm10 by PCR. The ilvI and ilvH were cloned into the bacterial expression vector pET29a(+) respectively.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Strain Lm10 was identified preliminarily as Pseudomonas sp.. It can endure 14000 micromol/L metsulfuron-methyl and showed cross resistance to diffenent acetohydroxyacid synthase inhibitor herbicids, such as chlorsulfuron, imazethapyr, flumetsulam and penoxsulam. The alignment result of the ilvIH amino acid sequence showed that ilvI of strains Lm10 differed from that of strain KT2440 by 6 sites, While the ilvH of the two strains were the same. The gene ilvI and ilvH were functional expressed in the Escherichia coli strain BL21(DE3) respectively. The expressed production pET-I displayed acetohydroxyacid synthase activity and showed resistance to high concentration of metsulfuron-methyl.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The ilvI displayed acetohydroxyacid synthase activity. The 6 different sites in ilvI of strains Lml0 probably led to herbicids resistance.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sun</LastName>
+                    <ForeName>Xiaofei</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Lab of Microbiological Engineering of Agricultural Environment, Ministry of Agriculture, Microbiology Department, College of Life Science, Nanjing Agricultural University, Nanjing 210095, China. sun2005116035@163.com.cn</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Huang</LastName>
+                    <ForeName>Xing</ForeName>
+                    <Initials>X</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Bo</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Shunpeng</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>He</LastName>
+                    <ForeName>Jian</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+            </AuthorList>
+            <Language>chi</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>China</Country>
+            <MedlineTA>Wei Sheng Wu Xue Bao</MedlineTA>
+            <NlmUniqueID>21610860R</NlmUniqueID>
+            <ISSNLinking>0001-6209</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D001190">Arylsulfonates</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>2589ET7417</RegistryNumber>
+                <NameOfSubstance UI="C050296">metsulfuron methyl</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.2.1.6</RegistryNumber>
+                <NameOfSubstance UI="D000095">Acetolactate Synthase</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000095" MajorTopicYN="N">Acetolactate Synthase</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000595" MajorTopicYN="N">Amino Acid Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001190" MajorTopicYN="N">Arylsulfonates</DescriptorName>
+                <QualifierName UI="Q000633" MajorTopicYN="Y">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001419" MajorTopicYN="N">Bacteria</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000302" MajorTopicYN="N">isolation &amp; purification</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003001" MajorTopicYN="N">Cloning, Molecular</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004351" MajorTopicYN="Y">Drug Resistance</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015870" MajorTopicYN="N">Gene Expression</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008826" MajorTopicYN="N">Microbial Sensitivity Tests</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008969" MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2009</Year>
+                <Month>1</Month>
+                <Day>20</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2009</Year>
+                <Month>1</Month>
+                <Day>20</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2009</Year>
+                <Month>5</Month>
+                <Day>30</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">19149165</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

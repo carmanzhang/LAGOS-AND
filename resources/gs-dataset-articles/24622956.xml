@@ -1,0 +1,474 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">24622956</PMID>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>01</Month>
+            <Day>21</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1619-7089</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>41</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>European journal of nuclear medicine and molecular imaging</Title>
+                <ISOAbbreviation>Eur. J. Nucl. Med. Mol. Imaging</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Imaging of HER3-expressing xenografts in mice using a (99m)Tc(CO) 3-HEHEHE-Z HER3:08699 affibody molecule.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1450-9</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s00259-014-2733-7</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">Human epidermal growth factor receptor type 3 (HER3) is a transmembrane receptor tyrosine kinase belonging to the HER (ErbB) receptor family. Membranous expression of HER3 is associated with trastuzumab resistance in breast cancer and the transition to androgen independence in prostate cancer. Imaging of HER3 expression in malignant tumors may provide important diagnostic information that can influence patient management. Affibody molecules with low picomolar affinity to HER3 were recently selected. The aim of this study was to investigate the feasibility of HER3 imaging using radiolabeled Affibody molecules.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">A HER3-binding Affibody molecule, Z08699, with a HEHEHE-tag on N-terminus was labeled with (99m)Tc(CO)3 using an IsoLink kit. In vitro and in vivo binding specificity and the cellular processing of the labeled binder were evaluated. Biodistribution of (99m)Tc(CO)3-HEHEHE-Z08699 was studied over time in mice bearing HER3-expressing xenografts.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">HEHEHE-Z08699 was labeled with (99m)Tc(CO)3 with an isolated yield of &gt;80 % and a purity of &gt;99 %. Binding of (99m)Tc(CO)3-HEHEHE-Z08699 was specific to BT474 and MCF7 (breast cancer), and LS174T (colon cancer) cells. Cellular processing showed rapid binding and relatively quick internalization of the receptor/Affibody molecule complex (70 % of cell-associated radioactivity was internalized after 24 h). The tumor targeting was receptor mediated and the excretion was predominantly renal. Receptor-mediated uptake was also found in the liver, lung, stomach, intestine, and salivary glands. At 4 h pi, tumor-to-blood ratios were 7 ± 3 for BT474, and 6 ± 2 for LS174T xenografts. LS174T tumors were visualized by microSPECT 4 h pi.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The results of this study suggest the feasibility of HER3-imaging in malignant tumors using Affibody molecules.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Orlova</LastName>
+                    <ForeName>Anna</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Preclinical PET Platform, Department of Medicinal Chemistry, Uppsala University, Uppsala, Sweden, anna.orlova@pet.medchem.uu.se.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Malm</LastName>
+                    <ForeName>Magdalena</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rosestedt</LastName>
+                    <ForeName>Maria</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Varasteh</LastName>
+                    <ForeName>Zohreh</ForeName>
+                    <Initials>Z</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Andersson</LastName>
+                    <ForeName>Ken</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Selvaraju</LastName>
+                    <ForeName>Ram Kumar</ForeName>
+                    <Initials>RK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Altai</LastName>
+                    <ForeName>Mohamed</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Honarvar</LastName>
+                    <ForeName>Hadis</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Strand</LastName>
+                    <ForeName>Joanna</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ståhl</LastName>
+                    <ForeName>Stefan</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tolmachev</LastName>
+                    <ForeName>Vladimir</ForeName>
+                    <Initials>V</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Löfblom</LastName>
+                    <ForeName>John</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2014</Year>
+                <Month>03</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Eur J Nucl Med Mol Imaging</MedlineTA>
+            <NlmUniqueID>101140988</NlmUniqueID>
+            <ISSNLinking>1619-7070</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D015609">Organotechnetium Compounds</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011993">Recombinant Fusion Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.10.1</RegistryNumber>
+                <NameOfSubstance UI="C581292">ERBB3 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.10.1</RegistryNumber>
+                <NameOfSubstance UI="D020893">Receptor, ErbB-3</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D045744" MajorTopicYN="N">Cell Line, Tumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002471" MajorTopicYN="Y">Cell Transformation, Neoplastic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004355" MajorTopicYN="N">Drug Stability</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015972" MajorTopicYN="Y">Gene Expression Regulation, Neoplastic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015609" MajorTopicYN="N">Organotechnetium Compounds</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000493" MajorTopicYN="N">pharmacokinetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020893" MajorTopicYN="N">Receptor, ErbB-3</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011993" MajorTopicYN="N">Recombinant Fusion Proteins</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014018" MajorTopicYN="N">Tissue Distribution</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015899" MajorTopicYN="N">Tomography, Emission-Computed, Single-Photon</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2014</Year>
+                <Month>02</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>3</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>3</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>1</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24622956</ArticleId>
+            <ArticleId IdType="doi">10.1007/s00259-014-2733-7</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Eur J Nucl Med Mol Imaging. 2010 Mar;37(3):613-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19838701</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Sci. 2010 May;101(5):1133-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20219074</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Radiat Oncol Biol Phys. 2004 Mar 1;58(3):903-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14967450</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2006 Apr 15;66(8):4339-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16618759</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Nucl Med. 2010 Jun;51(6):892-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20484419</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2007 Mar 1;67(5):2178-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17332348</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Cancer. 2009 Jul;9(7):463-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19536107</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Nucl Med Mol Imaging. 2011 Mar;38(3):531-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21069318</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Nucl Med. 2014 Feb;55(2):294-300</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24408895</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Protein Eng Des Sel. 2011 Apr;24(4):385-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21177282</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2008 Mar 7;376(5):1388-402</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18207161</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioconjug Chem. 2010 Nov 17;21(11):2013-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20964447</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Immunol Endocr Metab Agents Med Chem. 2011 Jun;11(2):131-149</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21603064</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Pharm Des. 2008;14 (28):2999-3019</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18991715</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioconjug Chem. 2008 Jan;19(1):235-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18163536</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Med Chem. 2013 Jun 27;56(12):4966-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23692562</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEBS Lett. 2010 Jun 18;584(12):2670-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20388508</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biotechnol J. 2011 Sep;6(9):1115-29</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21786423</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Nucl Med. 2012 Jun;53(6):953-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22586147</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Nucl Med. 2005 Dec;46(12 ):1940-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16330555</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Sci. 2010 Sep;101(9):2011-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20626753</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Mol Cell Biol. 2001 Feb;2(2):127-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11252954</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Nucl Med. 2006 Mar;47(3):512-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16513621</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2011 Mar 22;108(12):5021-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21385943</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Pharm Des. 2013;19(5):808-17</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22973952</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncologist. 2007 Dec;12 (12 ):1379-89</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18165614</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Cancer. 2007 Aug 20;97(4):453-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17667926</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Cancer. 2008 Dec 15;123(12):2939-49</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18803287</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Pharmacol. 2005 Aug;68(2):502-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15908515</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2013 May 10;8(5):e62791</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23675426</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Cancer. 2008 Nov 4;99(9):1415-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18841159</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Natl Cancer Inst. 2013 Feb 20;105(4):266-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23221996</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncotarget. 2012 Aug;3(8):744-58</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22889873</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet Oncol. 2010 Oct;11(10):992-1000</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20667780</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Biother Radiopharm. 2008 Aug;23(4):435-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18771347</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Biotechnol. 1999 Sep;17(9):897-901</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10471933</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Tumour Biol. 2012 Jun;33(3):607-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22270450</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Exp Cell Res. 2010 Apr 15;316(7):1083-100</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20064507</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Nucl Med. 2014 May;55(5):730-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24665085</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Nucl Med Mol Imaging. 2013 Feb;40(3):439-49</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23179942</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

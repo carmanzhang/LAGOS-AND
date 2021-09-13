@@ -1,0 +1,200 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20348876</PMID>
+        <DateCompleted>
+            <Year>2010</Year>
+            <Month>10</Month>
+            <Day>22</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2012</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1476-5500</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>17</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>2010</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cancer gene therapy</Title>
+                <ISOAbbreviation>Cancer Gene Ther</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Antisense HIF-1alpha prevents acquired tumor resistance to angiostatin gene therapy.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>532-40</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1038/cgt.2010.7</ELocationID>
+            <Abstract>
+                <AbstractText>Angiostatin is a naturally occurring inhibitor of angiogenesis that is being developed as a drug to fight cancer. In this study we reveal that EL-4 tumors established in mice rapidly develop resistance to angiostatin gene therapy by upregulating hypoxia-inducible pathways. Angiostatin initially delayed tumor growth for 6 days by reducing blood vessel density. However, tumors quickly responded by upregulating the production of hypoxia-inducible factor-1alpha (HIF-1alpha) and its effector vascular endothelial growth factor (VEGF) in response to increasing tumor hypoxia, leading to restored angiogenesis and rapid tumor growth. Theoretically, blockade of HIF-1 should prevent resistance to anti-angiogenic therapy by preventing a tumor from responding to induced hypoxia. Antisense HIF-1alpha inhibited the expression of HIF-1alpha and of the HIF-1 effectors VEGF, glucose transporter-1 and lactate dehydrogenase. As a monotherapy, it was effective in eradicating small 0.1 cm diameter tumors, but only delayed the growth of large 0.4 cm diameter tumors. In contrast, timed injection of a combination of angiostatin and antisense HIF-1alpha plasmids completely eradicated large EL-4 tumors within 2 weeks, and prevented upregulation of hypoxia-inducible pathways induced by angiostatin. The data indicate that blocking hypoxia-inducible pathways by antisense HIF-1alpha can circumvent hypoxia-induced drug resistance and thereby augment the efficacy of anti-angiogenic therapies.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sun</LastName>
+                    <ForeName>X</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular Medicine and Pathology, Faculty of Medical and Health Sciences, University of Auckland, Auckland, New Zealand.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vale</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jiang</LastName>
+                    <ForeName>X</ForeName>
+                    <Initials>X</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gupta</LastName>
+                    <ForeName>R</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Krissansen</LastName>
+                    <ForeName>G W</ForeName>
+                    <Initials>GW</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <Agency>Wellcome Trust</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>03</Month>
+                <Day>26</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Cancer Gene Ther</MedlineTA>
+            <NlmUniqueID>9432230</NlmUniqueID>
+            <ISSNLinking>0929-1903</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016373">DNA, Antisense</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C497443">Hif1a protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D051795">Hypoxia-Inducible Factor 1, alpha Subunit</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>86090-08-6</RegistryNumber>
+                <NameOfSubstance UI="D043168">Angiostatins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D043168" MajorTopicYN="N">Angiostatins</DescriptorName>
+                <QualifierName UI="Q000096" MajorTopicYN="N">biosynthesis</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D045744" MajorTopicYN="N">Cell Line, Tumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016373" MajorTopicYN="N">DNA, Antisense</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015972" MajorTopicYN="N">Gene Expression Regulation, Neoplastic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015316" MajorTopicYN="N">Genetic Therapy</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051795" MajorTopicYN="N">Hypoxia-Inducible Factor 1, alpha Subunit</DescriptorName>
+                <QualifierName UI="Q000096" MajorTopicYN="N">biosynthesis</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008223" MajorTopicYN="N">Lymphoma</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000628" MajorTopicYN="Y">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008810" MajorTopicYN="N">Mice, Inbred C57BL</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010957" MajorTopicYN="N">Plasmids</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013953" MajorTopicYN="N">Thymus Neoplasms</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000628" MajorTopicYN="Y">therapy</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>3</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>3</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20348876</ArticleId>
+            <ArticleId IdType="pii">cgt20107</ArticleId>
+            <ArticleId IdType="doi">10.1038/cgt.2010.7</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,189 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">17972588</PMID>
+        <DateCompleted>
+            <Year>2008</Year>
+            <Month>01</Month>
+            <Day>09</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2008</Year>
+            <Month>02</Month>
+            <Day>06</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1001-5302</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>32</Volume>
+                    <Issue>15</Issue>
+                    <PubDate>
+                        <Year>2007</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica</Title>
+                <ISOAbbreviation>Zhongguo Zhong Yao Za Zhi</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Effects of kaixinsan on behavior and expression of p-CREB in hippocampus of chronic stress rats].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1555-8</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To study the effects of kaixinsan on behavior and expression of p-CREB in hippocampus of the chronic stress rats.</AbstractText>
+                <AbstractText Label="METHOD" NlmCategory="METHODS">The male Wistar rats which gained the similar scores by Open-field test were selected, then the depression model rat was produced by separation and chronic unpredictable mild stress. Open-field test was performed to detect the behavior of rats and immunohistochemistry was used to observe the changes of p-CREB expression in hippocampus.</AbstractText>
+                <AbstractText Label="RESULT" NlmCategory="RESULTS">On the 22nd day, the body weight and sacchar-intake of the depression model rats were all lower than those of the normal rats and the body weight and sacchar-intake of the rats treated by drugs were higher compared with model rats (P &lt; 0.01). The depressive behavior in kaixinsan 4 g x kg(-1) group was significantly improved compared with the model group, the crossing scores and rearing scores were all increased (P &lt; 0.01) and the expression of p-CREB in CA1, CA3 and DG in hippocampus was higher than that in the model group (P &lt; 0.05 and P &lt; 0.01).</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Kaixinsan might improve depressive behavior by increasing expression of p-CREB in CA1, CA3 and DG in hippocampus of the chronic stress rats.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Jin-liang</ForeName>
+                    <Initials>JL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Dept. of Clinical Pharmacology, General Hospital of PLA, Beijing 100853, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Ping</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tu</LastName>
+                    <ForeName>Hai-hua</ForeName>
+                    <Initials>HH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Zhong-xiao</ForeName>
+                    <Initials>ZX</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Gui-yun</ForeName>
+                    <Initials>GY</Initials>
+                </Author>
+            </AuthorList>
+            <Language>chi</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D004740">English Abstract</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>China</Country>
+            <MedlineTA>Zhongguo Zhong Yao Za Zhi</MedlineTA>
+            <NlmUniqueID>8913656</NlmUniqueID>
+            <ISSNLinking>1001-5302</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000928">Antidepressive Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D017362">Cyclic AMP Response Element-Binding Protein</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004338">Drug Combinations</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004365">Drugs, Chinese Herbal</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000928" MajorTopicYN="N">Antidepressive Agents</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001522" MajorTopicYN="N">Behavior, Animal</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017362" MajorTopicYN="N">Cyclic AMP Response Element-Binding Protein</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003863" MajorTopicYN="Y">Depression</DescriptorName>
+                <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004338" MajorTopicYN="N">Drug Combinations</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004365" MajorTopicYN="N">Drugs, Chinese Herbal</DescriptorName>
+                <QualifierName UI="Q000302" MajorTopicYN="N">isolation &amp; purification</QualifierName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006624" MajorTopicYN="N">Hippocampus</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010946" MajorTopicYN="N">Plants, Medicinal</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011897" MajorTopicYN="N">Random Allocation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017208" MajorTopicYN="N">Rats, Wistar</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013315" MajorTopicYN="N">Stress, Psychological</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2007</Year>
+                <Month>11</Month>
+                <Day>2</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2008</Year>
+                <Month>1</Month>
+                <Day>10</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2007</Year>
+                <Month>11</Month>
+                <Day>2</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">17972588</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

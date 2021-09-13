@@ -1,0 +1,635 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">23288163</PMID>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>04</Month>
+            <Day>10</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1524-4636</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>33</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Arteriosclerosis, thrombosis, and vascular biology</Title>
+                <ISOAbbreviation>Arterioscler. Thromb. Vasc. Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Pericytes from infantile hemangioma display proangiogenic properties and dysregulated angiopoietin-1.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>501-9</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1161/ATVBAHA.112.300929</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">Infantile hemangioma (IH) is a rapidly growing vascular tumor affecting newborns. It is composed of immature endothelial cells and pericytes that proliferate into a disorganized mass of blood vessels. We isolated pericytes from IH (Hem-pericytes) to test our hypothesis that Hem-pericytes are unable to stabilize blood vessels.</AbstractText>
+                <AbstractText Label="METHODS AND RESULTS" NlmCategory="RESULTS">We injected pericytes in vivo, in combination with endothelial cells, and found that Hem-pericytes formed more microvessels compared with control retinal pericytes. We, thereby, analyzed proangiogenic properties of the Hem-pericytes. They grew fast in vitro, and were unable to stabilize endothelial cell growth and migration, and expressed high levels of vascular endothelial growth factor-A compared with retinal pericytes. Hem-pericytes from proliferating phase IH showed lower contractility in vitro, compared with Hem-pericytes from the involuting phase and retinal pericytes. Consistent with a diminished ability to stabilize endothelium, angiopoietin 1 was reduced in Hem-pericytes compared with retinal pericytes. Normal retinal pericytes in which angiopoietin 1 was silenced produced conditioned medium that stimulated endothelial cell proliferation and migration.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">We report the first successful isolation of patient-derived pericytes from IH tissue. Hem-pericytes exhibited proangiogenic properties and low levels of angiopoietin 1, consistent with a diminished ability to stabilize blood vessels in IH.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Boscolo</LastName>
+                    <ForeName>Elisa</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Vascular Biology Program and Department of Surgery, Boston Children's Hospital, Harvard Medical School, Boston, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mulliken</LastName>
+                    <ForeName>John B</ForeName>
+                    <Initials>JB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bischoff</LastName>
+                    <ForeName>Joyce</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>P30 CA006516</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 HL096384</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>HL096384-01</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>01</Month>
+                <Day>03</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Arterioscler Thromb Vasc Biol</MedlineTA>
+            <NlmUniqueID>9505803</NlmUniqueID>
+            <ISSNLinking>1079-5642</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C467630">ANGPT1 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D042683">Angiopoietin-1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D015415">Biomarkers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D017077">Culture Media, Conditioned</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D012333">RNA, Messenger</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C467484">VEGFA protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D042461">Vascular Endothelial Growth Factor A</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D042683" MajorTopicYN="N">Angiopoietin-1</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015415" MajorTopicYN="N">Biomarkers</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002450" MajorTopicYN="N">Cell Communication</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002465" MajorTopicYN="N">Cell Movement</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D049109" MajorTopicYN="N">Cell Proliferation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002469" MajorTopicYN="N">Cell Separation</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002478" MajorTopicYN="N">Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017077" MajorTopicYN="N">Culture Media, Conditioned</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015536" MajorTopicYN="N">Down-Regulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006391" MajorTopicYN="N">Hemangioma</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D061307" MajorTopicYN="N">Human Umbilical Vein Endothelial Cells</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000637" MajorTopicYN="N">transplantation</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007223" MajorTopicYN="N">Infant</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007231" MajorTopicYN="N">Infant, Newborn</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008819" MajorTopicYN="N">Mice, Nude</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009389" MajorTopicYN="Y">Neovascularization, Pathologic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020286" MajorTopicYN="N">Pericytes</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+                <QualifierName UI="Q000637" MajorTopicYN="N">transplantation</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D034622" MajorTopicYN="N">RNA Interference</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012333" MajorTopicYN="N">RNA, Messenger</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012171" MajorTopicYN="N">Retinal Vessels</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013997" MajorTopicYN="N">Time Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014162" MajorTopicYN="N">Transfection</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D042461" MajorTopicYN="N">Vascular Endothelial Growth Factor A</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>1</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>1</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>4</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">23288163</ArticleId>
+            <ArticleId IdType="pii">ATVBAHA.112.300929</ArticleId>
+            <ArticleId IdType="doi">10.1161/ATVBAHA.112.300929</ArticleId>
+            <ArticleId IdType="pmc">PMC3573237</ArticleId>
+            <ArticleId IdType="mid">NIHMS435906</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Clin Invest. 2011 Jun;121(6):2278-89</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21606590</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Pathol. 2001 Apr;158(4):1181-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11290533</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 2002 Aug 15;21(16):4307-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12169633</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 1999 Jan;103(2):159-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9916127</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood. 2007 Jun 1;109(11):4761-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17327403</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1997 Jul 11;277(5323):242-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9211853</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Med. 2008 Nov;14(11):1236-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18931684</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Dev Biol. 2011;55(3):261-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21710434</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Methods Enzymol. 2008;443:315-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18772023</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Pathol. 2002 Apr;160(4):1381-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11943723</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Dev Biol. 2003 Dec 1;264(1):275-88</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14623248</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Development. 1998 May;125(9):1591-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9521897</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cold Spring Harb Perspect Med. 2011 Sep;1(1):a006460</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22229118</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood. 2009 Dec 3;114(24):5091-101</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19822899</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1995 Jul 6;376(6535):70-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7596437</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2005 Jan 7;307(5706):58-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15637262</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2003 Jun 15;63(12):3370-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12810673</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2008 Jun 12;358(24):2649-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18550886</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Cell. 2004 Nov;6(5):507-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15542434</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lab Invest. 2002 Apr;82(4):387-401</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11950897</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microvasc Res. 1998 Jul;56(1):1-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9683559</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biol. 2006 Oct 9;175(1):179-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17030988</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Dev Cell. 2011 Aug 16;21(2):193-215</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21839917</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Pathol. 2003 Oct;201(2):296-302</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14517847</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Tissue Res. 2003 Oct;314(1):61-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12915980</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood. 2011 Sep 8;118(10):2906-17</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21778339</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Mol Cell Biol. 2001 Apr;2(4):257-67</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11283723</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Mol Med. 2013 Jan;19(1):31-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23182855</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Semin Vasc Surg. 1993 Dec;6(4):204-18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8305975</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2010 Jun 15;70(12):5109-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20501841</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 1996 Dec 27;87(7):1181-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8980225</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2007 Aug 1;67(15):7358-67</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17671206</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FASEB J. 2005 Dec;19(14):2035-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16215210</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2003 Jun 15;63(12):3403-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12810677</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Pathol. 2009 May;174(5):1638-49</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19349369</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Mol Cell Biol. 2009 Mar;10(3):165-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19234476</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Virchows Arch A Pathol Anat Histol. 1982;396(1):103-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6289512</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2010 Mar 18;362(11):1005-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20237346</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1997 Jul 4;277(5322):55-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9204896</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Pathol. 2011 Nov;179(5):2266-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21945324</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2008 Dec 11;456(7223):809-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18997771</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Surg. 1942 Jul;116(1):26-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17858068</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 2008 Jul;118(7):2592-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18535669</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2000 Mar 1;60(5):1388-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10728704</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Angiogenesis. 2009;12(2):197-207</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19430954</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood. 2005 Sep 1;106(5):1525-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15905185</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Pathol. 2007 Aug;171(2):693-701</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17556591</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cutan Pathol. 1993 Aug;20(4):330-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7693777</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Pathol. 2001 Dec;159(6):2271-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11733376</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2009 Jan;41(1):118-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19079259</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anat Histol Embryol. 1999 Jul;28(3):157-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10458020</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Pathol. 2002 Mar;160(3):985-1000</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11891196</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Development. 1999 Jun;126(14):3047-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10375497</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Pathol. 1990 Apr;136(4):771-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2158236</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 1996 Dec 27;87(7):1171-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8980224</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer. 2005 Nov 15;104(10):2104-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16208706</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1999 Dec 24;286(5449):2511-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10617467</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biol. 2001 Apr 30;153(3):543-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11331305</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 2003 Oct;112(8):1142-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14561699</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Horm Metab Res. 2005 Apr;37 Suppl 1:39-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15918109</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 2001 Mar;107(6):745-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11254674</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arterioscler Thromb Vasc Biol. 2011 Oct;31(10):2181-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21757656</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,517 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">24681953</PMID>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>06</Month>
+            <Day>10</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1476-5594</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>34</Volume>
+                    <Issue>10</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Mar</Month>
+                        <Day>05</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Oncogene</Title>
+                <ISOAbbreviation>Oncogene</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Persistent STAT5 activation in myeloid neoplasms recruits p53 into gene regulation.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1323-32</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1038/onc.2014.60</ELocationID>
+            <Abstract>
+                <AbstractText>STAT (Signal Transducer and Activator of Transcription) transcription factors are constitutively activated in most hematopoietic cancers. We previously identified a target gene, LPP/miR-28 (LIM domain containing preferred translocation partner in lipoma), induced by constitutive activation of STAT5, but not by transient cytokine-activated STAT5. miR-28 exerts negative effects on thrombopoietin receptor signaling and platelet formation. Here, we demonstrate that, in transformed hematopoietic cells, STAT5 and p53 must be synergistically bound to chromatin for induction of LPP/miR-28 transcription. Genome-wide association studies show that both STAT5 and p53 are co-localized on the chromatin at 463 genomic positions in proximal promoters. Chromatin binding of p53 is dependent on persistent STAT5 activation at these proximal promoters. The transcriptional activity of selected promoters bound by STAT5 and p53 was significantly changed upon STAT5 or p53 inhibition. Abnormal expression of several STAT5-p53 target genes (LEP, ATP5J, GTF2A2, VEGFC, NPY1R and NPY5R) is frequently detected in platelets of myeloproliferative neoplasm (MPN) patients, but not in platelets from healthy controls. In conclusion, persistently active STAT5 can recruit normal p53, like in the case of MPN cells, but also p53 mutants, such as p53 M133K in human erythroleukemia cells, leading to pathologic gene expression that differs from canonical STAT5 or p53 transcriptional programs. </AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Girardot</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1] Ludwig Institute for Cancer Research, Brussels, Belgium [2] de Duve Institute, Université catholique de Louvain, Brussels, Belgium [3] Institute of Molecular Genetics, CNRS UMR5535, Université de Montpellier, Montpellier, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pecquet</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1] Ludwig Institute for Cancer Research, Brussels, Belgium [2] de Duve Institute, Université catholique de Louvain, Brussels, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chachoua</LastName>
+                    <ForeName>I</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1] Ludwig Institute for Cancer Research, Brussels, Belgium [2] de Duve Institute, Université catholique de Louvain, Brussels, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Van Hees</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1] Ludwig Institute for Cancer Research, Brussels, Belgium [2] de Duve Institute, Université catholique de Louvain, Brussels, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Guibert</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biotechnology and Cell Signalling, UMR 7242, Université de Strasbourg, CNRS, ESBS, Illkirch Cedex, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ferrant</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Hematology, Cliniques Universitaires Saint-Luc, Brussels, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Knoops</LastName>
+                    <ForeName>L</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1] Ludwig Institute for Cancer Research, Brussels, Belgium [2] de Duve Institute, Université catholique de Louvain, Brussels, Belgium [3] Department of Hematology, Cliniques Universitaires Saint-Luc, Brussels, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Baxter</LastName>
+                    <ForeName>E J</ForeName>
+                    <Initials>EJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cambridge Institute for Medical Research, University of Cambridge, Cambridge, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Beer</LastName>
+                    <ForeName>P A</ForeName>
+                    <Initials>PA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cambridge Institute for Medical Research, University of Cambridge, Cambridge, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Giraudier</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1] Institut Gustave Roussy, INSERM U1009, Villejuif, France [2] AP-HP, Université Paris XII, Laboratoire d'Hématologie, PRB Cellulothèque hématologie, Hôpital Henri Mondor, Créteil, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Moriggl</LastName>
+                    <ForeName>R</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Ludwig Boltzmann Institute for Cancer Research, Vienna, Austria.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vainchenker</LastName>
+                    <ForeName>W</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institut Gustave Roussy, INSERM U1009, Villejuif, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Green</LastName>
+                    <ForeName>A R</ForeName>
+                    <Initials>AR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Cambridge Institute for Medical Research, University of Cambridge, Cambridge, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Constantinescu</LastName>
+                    <ForeName>S N</ForeName>
+                    <Initials>SN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1] Ludwig Institute for Cancer Research, Brussels, Belgium [2] de Duve Institute, Université catholique de Louvain, Brussels, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>12765</GrantID>
+                    <Agency>Cancer Research UK</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>F 2807</GrantID>
+                    <Agency>Austrian Science Fund FWF</Agency>
+                    <Country>Austria</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>F 4707</GrantID>
+                    <Agency>Austrian Science Fund FWF</Agency>
+                    <Country>Austria</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2014</Year>
+                <Month>03</Month>
+                <Day>31</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Oncogene</MedlineTA>
+            <NlmUniqueID>8711562</NlmUniqueID>
+            <ISSNLinking>0950-9232</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D050799">STAT5 Transcription Factor</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016159">Tumor Suppressor Protein p53</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001665" MajorTopicYN="N">Binding Sites</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D045744" MajorTopicYN="N">Cell Line, Tumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016000" MajorTopicYN="N">Cluster Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020869" MajorTopicYN="N">Gene Expression Profiling</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015973" MajorTopicYN="Y">Gene Expression Regulation, Leukemic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007951" MajorTopicYN="N">Leukemia, Myeloid</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011401" MajorTopicYN="N">Promoter Regions, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011485" MajorTopicYN="N">Protein Binding</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D021381" MajorTopicYN="N">Protein Transport</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D050799" MajorTopicYN="N">STAT5 Transcription Factor</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016159" MajorTopicYN="N">Tumor Suppressor Protein p53</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">EMS68729</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2012</Year>
+                <Month>07</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2014</Year>
+                <Month>01</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2014</Year>
+                <Month>01</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>4</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>4</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24681953</ArticleId>
+            <ArticleId IdType="pii">onc201460</ArticleId>
+            <ArticleId IdType="doi">10.1038/onc.2014.60</ArticleId>
+            <ArticleId IdType="pmc">PMC4924606</ArticleId>
+            <ArticleId IdType="mid">EMS68729</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2003 Jul 8;100(14):8424-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12826609</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2013 Dec 19;369(25):2379-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24325356</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Cell. 2005 Apr;7(4):387-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15837627</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2000 Jul 13;406(6792):207-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10910364</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1995 Apr 11;92(8):3313-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7724559</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2013 Apr 1;73(7):2052-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23400594</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2013 Dec 19;369(25):2391-405</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24325359</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Biol. 2007 Aug 7;17(15):1298-307</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17656095</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Immunity. 2012 Apr 20;36(4):503-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22520844</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood. 2013 May 30;121(22):4541-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23596048</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2009 Oct 8;461(7265):819-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19783980</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood. 2012 Apr 12;119(15):3539-49</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22144185</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 1996 Oct;16(10):5691-700</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8816482</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood. 2002 Dec 1;100(12):3990-4000</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12393587</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncogene. 2007 Oct 11;26(46):6653-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17471233</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Endocrinol. 1998 Aug 25;143(1-2):143-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9806359</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncogene. 2012 Mar 8;31(10 ):1323-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21785463</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2004 Dec 24;279(52):54724-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15498775</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2010 Dec;42(12):1093-100</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21057502</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Cancer. 2004 Feb;4(2):97-105</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14964307</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2005 Apr 8;280(14):13364-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15677477</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood. 2012 Apr 12;119(15):3550-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22234689</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Biophys Res Commun. 1991 Jul 31;178(2):793-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1830479</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2005 Apr 28;352(17):1779-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15858187</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood. 2012 May 17;119(20):4625-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22378845</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 2005 Mar 19-25;365(9464):1054-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15781101</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Cell. 2011 Feb 15;19(2):283-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21316606</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood. 2010 Jul 22;116(3):437-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20445018</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAKSTAT. 2012 Jul 1;1(3):203-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24058773</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2005 Apr 28;434(7037):1144-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15793561</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Protoc. 2009;4(1):44-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19131956</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Biochem Sci. 2008 Mar;33(3):122-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18291658</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1990 Aug 24;249(4971):912-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2144057</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2004 Feb 13;279(7):5811-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14602726</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2006 Sep;38(9):1071-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16892059</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Endocrinol. 1997 Jun 20;130(1-2):69-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9220023</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cytokine. 2009 Dec;48(3):203-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19665393</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

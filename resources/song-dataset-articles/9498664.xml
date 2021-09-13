@@ -1,0 +1,151 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">9498664</PMID>
+        <DateCompleted>
+            <Year>1998</Year>
+            <Month>03</Month>
+            <Day>31</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>08</Month>
+            <Day>31</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1387-2273</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>705</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>1998</Year>
+                        <Month>Jan</Month>
+                        <Day>23</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of chromatography. B, Biomedical sciences and applications</Title>
+                <ISOAbbreviation>J Chromatogr B Biomed Sci Appl</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Chromatographic estimation of iothalamate and p-aminohippuric acid to measure glomerular filtration rate and effective renal plasma flow in humans.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>3-9</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Iothalamate (IOT) clearance and p-aminohippuric acid (PAH) clearance are used for estimation of glomerular filtration rate (GFR) and effective renal plasma flow (ERPF). A simple and rapid method is described for simultaneous determination of IOT and PAH in the same chromatogram in the serum and urine of humans. The mobile phase consisted of methanol-50 mM sodium monobasic phosphate with 0.5 mM tetrabutyl ammonium hydrogen sulfate (18:82, v/v), pumped at a rate of 0.8 ml/min on a C18 reversed-phase column. Samples of serum and urine were deproteinized with two volumes of acetonitrile containing the internal standard, p-aminobenzoic acid (PABA). The UV detector was set at 254 nm and peak height ratios of PAH or IOT to PABA were calculated with an integrator. Precision and accuracy were within 15% for both PAH and IOT. The recovery of PAH in urine and serum were 94% and 91%, respectively. For IOT the corresponding recoveries were 93% and 92%, respectively. This method clearly distinguishes acetyl-PAH from PAH and has been validated in healthy volunteers.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Agarwal</LastName>
+                    <ForeName>R</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, R.L. Roudebush VA Medical Center 111N, Indianapolis, IN 46202, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>MO1-RR00750</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>J Chromatogr B Biomed Sci Appl</MedlineTA>
+            <NlmUniqueID>9714109</NlmUniqueID>
+            <ISSNLinking>1387-2273</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D003287">Contrast Media</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>16CHD79MIX</RegistryNumber>
+                <NameOfSubstance UI="D007483">Iothalamic Acid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>Y79XT83BJ9</RegistryNumber>
+                <NameOfSubstance UI="D010130">p-Aminohippuric Acid</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002851" MajorTopicYN="N">Chromatography, High Pressure Liquid</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003287" MajorTopicYN="N">Contrast Media</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="Y">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005919" MajorTopicYN="N">Glomerular Filtration Rate</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007483" MajorTopicYN="N">Iothalamic Acid</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="Y">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017596" MajorTopicYN="Y">Renal Plasma Flow, Effective</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015203" MajorTopicYN="N">Reproducibility of Results</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010130" MajorTopicYN="N">p-Aminohippuric Acid</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+                <QualifierName UI="Q000652" MajorTopicYN="Y">urine</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1998</Year>
+                <Month>3</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1998</Year>
+                <Month>3</Month>
+                <Day>14</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1998</Year>
+                <Month>3</Month>
+                <Day>14</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">9498664</ArticleId>
+            <ArticleId IdType="doi">10.1016/s0378-4347(97)00497-0</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

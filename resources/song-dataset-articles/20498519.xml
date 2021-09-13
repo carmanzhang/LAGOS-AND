@@ -1,0 +1,106 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">20498519</PMID>
+        <DateCompleted>
+            <Year>2010</Year>
+            <Month>08</Month>
+            <Day>24</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2010</Year>
+            <Month>05</Month>
+            <Day>25</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1361-6528</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>21</Volume>
+                    <Issue>24</Issue>
+                    <PubDate>
+                        <Year>2010</Year>
+                        <Month>Jun</Month>
+                        <Day>18</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Nanotechnology</Title>
+                <ISOAbbreviation>Nanotechnology</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Direct-write fabrication of a nanoscale digital logic element on a single nanowire.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>245306</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1088/0957-4484/21/24/245306</ELocationID>
+            <Abstract>
+                <AbstractText>In this paper we report on the 'direct-write' fabrication and electrical characteristics of a nanoscale logic inverter, integrating enhancement-mode (E-mode) and depletion-mode (D-mode) field-effect transistors (FETs) on a single zinc oxide (ZnO) nanowire. 'Direct-writing' of platinum metal electrodes and a dielectric layer is executed on individual single-crystalline ZnO nanowires using either a focused electron beam (FEB) or a focused ion beam (FIB). We fabricate a top-gate FET structure, in which the gate electrode wraps around the ZnO nanowire, resulting in a more efficient gate response than the conventional back-gate nanowire transistors. For E-mode device operation, the gate electrode (platinum) is deposited directly onto the ZnO nanowire by a FEB, which creates a Schottky barrier and in turn a fully depleted channel. Conversely, sandwiching an insulating layer between the FIB-deposited gate electrode and the nanowire channel makes D-mode operation possible. Integrated E- and D-mode FETs on a single nanowire exhibit the characteristics of a direct-coupled FET logic (DCFL) inverter with a high gain and noise margin.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Roy</LastName>
+                    <ForeName>Somenath</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Bioengineering and Nanotechnology, 31 Biopolis Way, 138669, Singapore. sroy@ibn.a-star.edu.sg</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gao</LastName>
+                    <ForeName>Zhiqiang</ForeName>
+                    <Initials>Z</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>05</Month>
+                <Day>25</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Nanotechnology</MedlineTA>
+            <NlmUniqueID>101241272</NlmUniqueID>
+            <ISSNLinking>0957-4484</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>5</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>5</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2010</Year>
+                <Month>5</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20498519</ArticleId>
+            <ArticleId IdType="pii">S0957-4484(10)48040-X</ArticleId>
+            <ArticleId IdType="doi">10.1088/0957-4484/21/24/245306</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

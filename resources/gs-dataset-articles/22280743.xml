@@ -1,0 +1,105 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">22280743</PMID>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>04</Month>
+            <Day>25</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2012</Year>
+            <Month>01</Month>
+            <Day>27</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1089-7690</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>136</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Jan</Month>
+                        <Day>21</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of chemical physics</Title>
+                <ISOAbbreviation>J Chem Phys</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Correlation potentials for molecular bond dissociation within the self-consistent random phase approximation.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>034106</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1063/1.3676174</ELocationID>
+            <Abstract>
+                <AbstractText>Self-consistent correlation potentials for H(2) and LiH for various inter-atomic separations are obtained within the random phase approximation (RPA) of density functional theory. The RPA correlation potential shows a peak at the bond midpoint, which is an exact feature of the true correlation potential, but lacks another exact feature: the step important to preserve integer charge on the atomic fragments in the dissociation limit. An analysis of the RPA energy functional in terms of fractional charge is given which confirms these observations. We find that the RPA misses the derivative discontinuity at odd integer particle numbers but explicitly eliminates the fractional spin error in the exact-exchange functional. The latter finding explains the improved total energy in the dissociation limit.</AbstractText>
+                <CopyrightInformation>© 2012 American Institute of Physics</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hellgren</LastName>
+                    <ForeName>Maria</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Max-Planck-Institut für Mikrostrukturphysik, Weinberg 2, 06120 Halle (Saale), Germany. hellgren@mpi-halle.de</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rohr</LastName>
+                    <ForeName>Daniel R</ForeName>
+                    <Initials>DR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gross</LastName>
+                    <ForeName>E K U</ForeName>
+                    <Initials>EK</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Chem Phys</MedlineTA>
+            <NlmUniqueID>0375360</NlmUniqueID>
+            <ISSNLinking>0021-9606</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">22280743</ArticleId>
+            <ArticleId IdType="doi">10.1063/1.3676174</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

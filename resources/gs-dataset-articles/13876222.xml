@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+        <PMID Version="1">13876222</PMID>
+        <DateCompleted>
+            <Year>1998</Year>
+            <Month>11</Month>
+            <Day>01</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>12</Month>
+            <Day>01</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0012-1762</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>33(Special)</Volume>
+                    <PubDate>
+                        <Year>1961</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>El Dia medico</Title>
+                <ISOAbbreviation>Dia Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Uropepsinogen and emotional overload].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2514-6</MedlinePgn>
+            </Pagination>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>CANNATA</LastName>
+                    <ForeName>B</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>CASTRO</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>ALONSO</LastName>
+                    <ForeName>A S</ForeName>
+                    <Initials>AS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>SUAREZ</LastName>
+                    <ForeName>J R</ForeName>
+                    <Initials>JR</Initials>
+                </Author>
+            </AuthorList>
+            <Language>spa</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Argentina</Country>
+            <MedlineTA>Dia Med</MedlineTA>
+            <NlmUniqueID>0370663</NlmUniqueID>
+            <ISSNLinking>0012-1762</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>9001-10-9</RegistryNumber>
+                <NameOfSubstance UI="D020116">Pepsinogen A</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.-</RegistryNumber>
+                <NameOfSubstance UI="D010450">Endopeptidases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.99.-</RegistryNumber>
+                <NameOfSubstance UI="C100308">uropepsin</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>OM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D004644" MajorTopicYN="Y">Emotions</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010450" MajorTopicYN="Y">Endopeptidases</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020116" MajorTopicYN="Y">Pepsinogen A</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NLM">
+            <Keyword MajorTopicYN="Y">EMOTIONS</Keyword>
+            <Keyword MajorTopicYN="Y">UROPEPSIN</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1961</Year>
+                <Month>10</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1961</Year>
+                <Month>10</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1961</Year>
+                <Month>10</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">13876222</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

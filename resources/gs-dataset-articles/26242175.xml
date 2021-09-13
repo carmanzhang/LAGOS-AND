@@ -1,0 +1,515 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">26242175</PMID>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>05</Month>
+            <Day>04</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1471-2164</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>16</Volume>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Aug</Month>
+                        <Day>05</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>BMC genomics</Title>
+                <ISOAbbreviation>BMC Genomics</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Comparison and evaluation of two exome capture kits and sequencing platforms for variant calling.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>581</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/s12864-015-1796-6</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">To promote the clinical application of next-generation sequencing, it is important to obtain accurate and consistent variants of target genomic regions at low cost. Ion Proton, the latest updated semiconductor-based sequencing instrument from Life Technologies, is designed to provide investigators with an inexpensive platform for human whole exome sequencing that achieves a rapid turnaround time. However, few studies have comprehensively compared and evaluated the accuracy of variant calling between Ion Proton and Illumina sequencing platforms such as HiSeq 2000, which is the most popular sequencing platform for the human genome. The Ion Proton sequencer combined with the Ion TargetSeq Exome Enrichment Kit together make up TargetSeq-Proton, whereas SureSelect-Hiseq is based on the Agilent SureSelect Human All Exon v4 Kit and the HiSeq 2000 sequencer.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Here, we sequenced exonic DNA from four human blood samples using both TargetSeq-Proton and SureSelect-HiSeq. We then called variants in the exonic regions that overlapped between the two exome capture kits (33.6 Mb). The rates of shared variant loci called by two sequencing platforms were from 68.0 to 75.3% in four samples, whereas the concordance of co-detected variant loci reached 99%. Sanger sequencing validation revealed that the validated rate of concordant single nucleotide polymorphisms (SNPs) (91.5%) was higher than the SNPs specific to TargetSeq-Proton (60.0%) or specific to SureSelect-HiSeq (88.3%). With regard to 1-bp small insertions and deletions (InDels), the Sanger sequencing validated rates of concordant variants (100.0%) and SureSelect-HiSeq-specific (89.6%) were higher than those of TargetSeq-Proton-specific (15.8%).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">In the sequencing of exonic regions, a combination of using of two sequencing strategies (SureSelect-HiSeq and TargetSeq-Proton) increased the variant calling specificity for concordant variant loci and the sensitivity for variant loci called by any one platform. However, for the sequencing of platform-specific variants, the accuracy of variant calling by HiSeq 2000 was higher than that of Ion Proton, specifically for the InDel detection. Moreover, the variant calling software also influences the detection of SNPs and, specifically, InDels in Ion Proton exome sequencing.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Guoqiang</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Core Genomic Facility and CAS Key Laboratory of Genome Sciences &amp; Information, Beijing Institute of Genomics, Chinese Academy of Sciences, Beijing, 100101, China. zhanggq@big.ac.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Jianfeng</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Core Genomic Facility and CAS Key Laboratory of Genome Sciences &amp; Information, Beijing Institute of Genomics, Chinese Academy of Sciences, Beijing, 100101, China. wangjf@big.ac.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Jin</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Core Genomic Facility and CAS Key Laboratory of Genome Sciences &amp; Information, Beijing Institute of Genomics, Chinese Academy of Sciences, Beijing, 100101, China. yangjin@big.ac.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Wenjie</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Core Genomic Facility and CAS Key Laboratory of Genome Sciences &amp; Information, Beijing Institute of Genomics, Chinese Academy of Sciences, Beijing, 100101, China. wjli@big.ac.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Deng</LastName>
+                    <ForeName>Yutian</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Core Genomic Facility and CAS Key Laboratory of Genome Sciences &amp; Information, Beijing Institute of Genomics, Chinese Academy of Sciences, Beijing, 100101, China. dengyt@big.ac.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Jing</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Core Genomic Facility and CAS Key Laboratory of Genome Sciences &amp; Information, Beijing Institute of Genomics, Chinese Academy of Sciences, Beijing, 100101, China. lijing@big.ac.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Huang</LastName>
+                    <ForeName>Jun</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Core Genomic Facility and CAS Key Laboratory of Genome Sciences &amp; Information, Beijing Institute of Genomics, Chinese Academy of Sciences, Beijing, 100101, China. huangjun@big.ac.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hu</LastName>
+                    <ForeName>Songnian</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Core Genomic Facility and CAS Key Laboratory of Genome Sciences &amp; Information, Beijing Institute of Genomics, Chinese Academy of Sciences, Beijing, 100101, China. husn@big.ac.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Bing</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Core Genomic Facility and CAS Key Laboratory of Genome Sciences &amp; Information, Beijing Institute of Genomics, Chinese Academy of Sciences, Beijing, 100101, China. zhangbing@big.ac.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R03 AA020101</GrantID>
+                    <Acronym>AA</Acronym>
+                    <Agency>NIAAA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D003160">Comparative Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>08</Month>
+                <Day>05</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>BMC Genomics</MedlineTA>
+            <NlmUniqueID>100965258</NlmUniqueID>
+            <ISSNLinking>1471-2164</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D059472" MajorTopicYN="N">Exome</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015894" MajorTopicYN="N">Genome, Human</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D059014" MajorTopicYN="N">High-Throughput Nucleotide Sequencing</DescriptorName>
+                <QualifierName UI="Q000191" MajorTopicYN="N">economics</QualifierName>
+                <QualifierName UI="Q000295" MajorTopicYN="Y">instrumentation</QualifierName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020641" MajorTopicYN="N">Polymorphism, Single Nucleotide</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017422" MajorTopicYN="N">Sequence Analysis, DNA</DescriptorName>
+                <QualifierName UI="Q000191" MajorTopicYN="N">economics</QualifierName>
+                <QualifierName UI="Q000295" MajorTopicYN="Y">instrumentation</QualifierName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2014</Year>
+                <Month>07</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>07</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>8</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>8</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>5</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26242175</ArticleId>
+            <ArticleId IdType="doi">10.1186/s12864-015-1796-6</ArticleId>
+            <ArticleId IdType="pii">10.1186/s12864-015-1796-6</ArticleId>
+            <ArticleId IdType="pmc">PMC4524363</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Nature. 2009 Aug 20;460(7258):1011-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19587683</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2010 Jan 14;463(7278):191-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20016485</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Med. 2014 Oct 28;6(10):89</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25426171</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Comput Biol. 2013 Apr;9(4):e1003031</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23592973</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Biol. 2011;12(9):R97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21958622</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2010 Nov;42(11):931-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20972442</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Res. 2011 Jun;21(6):830-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21460062</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Protoc Bioinformatics. 2013;43:11.10.1-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25431634</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2008 Jun;40(6):722-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18438408</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Res. 2010 Sep;20(9):1297-303</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20644199</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2009 Sep 10;461(7261):272-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19684571</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Genet. 2011 Jun;12(6):443-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21587300</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Med. 2013 Mar 27;5(3):28</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23537139</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2010 Mar 1;26(5):589-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20080505</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Cancer. 2014 Nov 11;111(10):2014-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25314059</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Biotechnol. 2011 Oct;29(10):908-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21947028</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Genet. 2011 Jun;7(6):e1002084</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21695231</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2011 Jun;43(6):527-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21552266</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Methods. 2014 Oct;11(10):1033-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25128977</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hum Mol Genet. 2010 Oct 15;19(R2):R131-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20858594</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2010 May 27;465(7297):473-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20505728</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2011 May;43(5):491-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21478889</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Res. 2009 Sep;19(9):1527-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19546169</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2010;5(10):e13630</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21049026</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hum Genet. 2013 Oct;132(10):1153-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23757002</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2010 May;42(5):400-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20364138</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Res. 2011 Jun;21(6):936-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20980556</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2008 Nov 6;456(7218):60-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18987735</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2010 Apr 1;362(13):1181-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20220177</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genet Med. 2013 Dec;15(12):948-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23680767</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hum Mol Genet. 2005 Jan 1;14(1):59-69</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15525656</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Res. 2008 Jul;18(7):1143-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18326688</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Methods. 2009 Jan;6(1):99-103</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19043412</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2010 Oct 28;467(7319):1061-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20981092</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2009 Jul 15;25(14):1754-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19451168</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Res. 2013 Jan;23(1):195-200</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22972939</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2014;9(3):e92192</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24651575</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Genomics. 2014;15:449</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24912484</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2010 Jan;42(1):30-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19915526</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2010 Sep;42(9):790-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20711175</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Genet. 2010 Jun;6(6):e1000991</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20577567</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Genet. 2011 Nov;12(11):745-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21946919</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Expert Rev Mol Diagn. 2010 Oct;10(7):875-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20964608</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Genet. 2011 Mar;7(3):e1002027</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21455487</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2008 Nov 6;456(7218):53-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18987734</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Res. 2006 Sep;16(9):1182-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16902084</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Genomics Hum Genet. 2012;13:1-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22657391</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2010 Dec 16;468(7326):973-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21107323</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Genomics. 2014;15:673</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25109789</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Genet. 2013;14:6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23418865</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

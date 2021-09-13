@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">22400692</PMID>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>05</Month>
+            <Day>23</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2012</Year>
+            <Month>03</Month>
+            <Day>09</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1550-2376</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>85</Volume>
+                    <Issue>1 Pt 2</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Physical review. E, Statistical, nonlinear, and soft matter physics</Title>
+                <ISOAbbreviation>Phys Rev E Stat Nonlin Soft Matter Phys</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Mesoscopic approach to granular crystal dynamics.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>016604</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>We present a mesoscopic approach to granular crystal dynamics, which comprises a three-dimensional finite-element model and a one-dimensional regularized contact model. The approach investigates the role of vibrational-energy trapping effects in the dynamic behavior of one-dimensional chains of particles in contact (i.e., granular crystals), under small to moderate impact velocities. The only inputs of the models are the geometry and the elastic material properties of the individual particles that form the system. We present detailed verification results and validate the model comparing its predictions with experimental data. This approach provides a physically sound, first-principles description of dissipative losses in granular systems.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gonzalez</LastName>
+                    <ForeName>Marcial</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Graduate Aerospace Laboratories, California Institute of Technology, Pasadena, California 91125, USA. marcialg@rci.rutgers.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Jinkyu</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Daraio</LastName>
+                    <ForeName>Chiara</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ortiz</LastName>
+                    <ForeName>Michael</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2012</Year>
+                <Month>01</Month>
+                <Day>30</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Phys Rev E Stat Nonlin Soft Matter Phys</MedlineTA>
+            <NlmUniqueID>101136452</NlmUniqueID>
+            <ISSNLinking>1539-3755</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2011</Year>
+                <Month>06</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2011</Year>
+                <Month>11</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>3</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>3</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>3</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">22400692</ArticleId>
+            <ArticleId IdType="doi">10.1103/PhysRevE.85.016604</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

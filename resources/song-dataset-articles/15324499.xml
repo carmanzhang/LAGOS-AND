@@ -1,0 +1,167 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">15324499</PMID>
+        <DateCompleted>
+            <Year>2004</Year>
+            <Month>09</Month>
+            <Day>28</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2011</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0003-7028</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>58</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>2004</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Applied spectroscopy</Title>
+                <ISOAbbreviation>Appl Spectrosc</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Chemical segregation and reduction of Raman background interference using drop coating deposition.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>929-33</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>A new application of the recently described drop coating deposition Raman (DCDR) method facilitates the segregation and independent spectral characterization of mixture components. The quality of the normal (un-enhanced) Raman spectra are significantly improved as a result of reduced spectral interference from fluorescent impurities and buffer compounds. Fluorescence of commercial amino acid (O-phospho-L-serine) and protein (myoglobin) samples is reduced by over an order of magnitude using DCDR, more effectively than prolonged photo-bleaching. Furthermore, DCDR is used to obtain high-quality Raman spectra of proteins, lysozyme, and insulin, derived from solutions with up to 1000-fold excess buffer concentration. Possible thermodynamic and kinetic contributions to the observed segregation phenomena are discussed.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Dongmao</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Purdue University, Department of Chemistry, West Lafayette, Indiana 47907, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mrozek</LastName>
+                    <ForeName>Melissa F</ForeName>
+                    <Initials>MF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xie</LastName>
+                    <ForeName>Yong</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ben-Amotz</LastName>
+                    <ForeName>Dor</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Appl Spectrosc</MedlineTA>
+            <NlmUniqueID>0372406</NlmUniqueID>
+            <ISSNLinking>0003-7028</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000596">Amino Acids</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007328">Insulin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009211">Myoglobin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>17885-08-4</RegistryNumber>
+                <NameOfSubstance UI="D010768">Phosphoserine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.2.1.17</RegistryNumber>
+                <NameOfSubstance UI="D009113">Muramidase</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000596" MajorTopicYN="N">Amino Acids</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007328" MajorTopicYN="N">Insulin</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007536" MajorTopicYN="N">Isomerism</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009113" MajorTopicYN="N">Muramidase</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009211" MajorTopicYN="N">Myoglobin</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010768" MajorTopicYN="N">Phosphoserine</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013059" MajorTopicYN="N">Spectrum Analysis, Raman</DescriptorName>
+                <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013816" MajorTopicYN="N">Thermodynamics</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2004</Year>
+                <Month>8</Month>
+                <Day>25</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2004</Year>
+                <Month>9</Month>
+                <Day>29</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2004</Year>
+                <Month>8</Month>
+                <Day>25</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">15324499</ArticleId>
+            <ArticleId IdType="doi">10.1366/0003702041655430</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

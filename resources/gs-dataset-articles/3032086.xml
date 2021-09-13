@@ -1,0 +1,228 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">3032086</PMID>
+        <DateCompleted>
+            <Year>1987</Year>
+            <Month>04</Month>
+            <Day>29</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>05</Month>
+            <Day>08</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0066-4804</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>31</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>1987</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Antimicrobial agents and chemotherapy</Title>
+                <ISOAbbreviation>Antimicrob. Agents Chemother.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Therapeutic implications of inhibition versus killing of Mycobacterium avium complex by antimicrobial agents.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>117-20</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Patients with the acquired immune deficiency syndrome (AIDS) with disseminated Mycobacterium avium infection have responded poorly to treatment with rifabutine (Ansamycin) and clofazimine, in spite of the good in vitro response of M. avium to these antimicrobial agents. We compared the ability of these and other antimicrobial agents to kill versus the ability to inhibit the growth of strains of the M. avium complex isolated from patients with AIDS. Killing curve experiments showed that the concentrations of rifabutine and clofazimine needed to kill two log units of M. avium are at least 32 times greater than the concentrations needed to inhibit growth. Little or no killing occurred at concentrations of these antimicrobial agents that are achievable in serum. In contrast, five of seven strains tested were killed by ciprofloxacin at concentrations that can be achieved in serum. Ciprofloxacin should be studied further for possible use in the treatment of M. avium infections.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yajko</LastName>
+                    <ForeName>D M</ForeName>
+                    <Initials>DM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nassos</LastName>
+                    <ForeName>P S</ForeName>
+                    <Initials>PS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hadley</LastName>
+                    <ForeName>W K</ForeName>
+                    <Initials>WK</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D003160">Comparative Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Antimicrob Agents Chemother</MedlineTA>
+            <NlmUniqueID>0315061</NlmUniqueID>
+            <ISSNLinking>0066-4804</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D012294">Rifamycins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>1W306TDA6S</RegistryNumber>
+                <NameOfSubstance UI="D017828">Rifabutin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>5E8K9I0O4U</RegistryNumber>
+                <NameOfSubstance UI="D002939">Ciprofloxacin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>D959AE5USF</RegistryNumber>
+                <NameOfSubstance UI="D002991">Clofazimine</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CitationSubset>X</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000163" MajorTopicYN="N">Acquired Immunodeficiency Syndrome</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002939" MajorTopicYN="N">Ciprofloxacin</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002991" MajorTopicYN="N">Clofazimine</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009162" MajorTopicYN="N">Mycobacterium avium</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName UI="Q000254" MajorTopicYN="N">growth &amp; development</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017828" MajorTopicYN="N">Rifabutin</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012294" MajorTopicYN="N">Rifamycins</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014376" MajorTopicYN="N">Tuberculosis</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+                <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+                <QualifierName UI="Q000382" MajorTopicYN="N">microbiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1987</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1987</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1987</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">3032086</ArticleId>
+            <ArticleId IdType="pmc">PMC174666</ArticleId>
+            <ArticleId IdType="doi">10.1128/aac.31.1.117</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Annu Rev Microbiol. 1985;39:347-69</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3904604</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Intern Med. 1985 Nov;103(5):738-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2996410</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antimicrob Agents Chemother. 1985 Jul;28(1):74-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2931047</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Chest. 1984 Feb;85(2):197-202</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6607153</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antimicrob Agents Chemother. 1986 Mar;29(3):405-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2940971</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antimicrob Agents Chemother. 1986 Mar;29(3):386-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2940969</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antimicrob Agents Chemother. 1985 Oct;28(4):570-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4073881</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antimicrob Agents Chemother. 1985 Sep;28(3):440-1</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4073865</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am Rev Respir Dis. 1985 Dec;132(6):1278-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4073667</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am Rev Respir Dis. 1982 Sep;126(3):586-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6289711</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Rev Infect Dis. 1981 Sep-Oct;3(5):885-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7339820</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lepr Rev. 1979 Jun;50(2):135-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">396428</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

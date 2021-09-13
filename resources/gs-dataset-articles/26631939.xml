@@ -1,0 +1,793 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">26631939</PMID>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>12</Month>
+            <Day>13</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2045-2322</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>5</Volume>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Dec</Month>
+                        <Day>03</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Scientific reports</Title>
+                <ISOAbbreviation>Sci Rep</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>microRNA targeting of the P2X7 purinoceptor opposes a contralateral epileptogenic focus in the hippocampus.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>17486</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1038/srep17486</ELocationID>
+            <Abstract>
+                <AbstractText>The ATP-gated ionotropic P2X7 receptor (P2X7R) modulates glial activation, cytokine production and neurotransmitter release following brain injury. Levels of the P2X7R are increased in experimental and human epilepsy but the mechanisms controlling P2X7R expression remain poorly understood. Here we investigated P2X7R responses after focal-onset status epilepticus in mice, comparing changes in the damaged, ipsilateral hippocampus to the spared, contralateral hippocampus. P2X7R-gated inward currents were suppressed in the contralateral hippocampus and P2rx7 mRNA was selectively uploaded into the RNA-induced silencing complex (RISC), suggesting microRNA targeting. Analysis of RISC-loaded microRNAs using a high-throughput platform, as well as functional assays, suggested the P2X7R is a target of microRNA-22. Inhibition of microRNA-22 increased P2X7R expression and cytokine levels in the contralateral hippocampus after status epilepticus and resulted in more frequent spontaneous seizures in mice. The major pro-inflammatory and hyperexcitability effects of microRNA-22 silencing were prevented in P2rx7(-/-) mice or by treatment with a specific P2X7R antagonist. Finally, in vivo injection of microRNA-22 mimics transiently suppressed spontaneous seizures in mice. The present study supports a role for post-transcriptional regulation of the P2X7R and suggests therapeutic targeting of microRNA-22 may prevent inflammation and development of a secondary epileptogenic focus in the brain. </AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Jimenez-Mateos</LastName>
+                    <ForeName>Eva M</ForeName>
+                    <Initials>EM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physiology &amp;Medical Physics, Royal College of Surgeons in Ireland, Dublin, Ireland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Arribas-Blazquez</LastName>
+                    <ForeName>Marina</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Toxicology and Pharmacology, Faculty of Veterinary Medicine, Universidad Complutense de Madrid, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sanz-Rodriguez</LastName>
+                    <ForeName>Amaya</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physiology &amp;Medical Physics, Royal College of Surgeons in Ireland, Dublin, Ireland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Concannon</LastName>
+                    <ForeName>Caoimhin</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physiology &amp;Medical Physics, Royal College of Surgeons in Ireland, Dublin, Ireland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Olivos-Ore</LastName>
+                    <ForeName>Luis A</ForeName>
+                    <Initials>LA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Toxicology and Pharmacology, Faculty of Veterinary Medicine, Universidad Complutense de Madrid, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Reschke</LastName>
+                    <ForeName>Cristina R</ForeName>
+                    <Initials>CR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physiology &amp;Medical Physics, Royal College of Surgeons in Ireland, Dublin, Ireland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mooney</LastName>
+                    <ForeName>Claire M</ForeName>
+                    <Initials>CM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physiology &amp;Medical Physics, Royal College of Surgeons in Ireland, Dublin, Ireland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mooney</LastName>
+                    <ForeName>Catherine</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physiology &amp;Medical Physics, Royal College of Surgeons in Ireland, Dublin, Ireland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lugara</LastName>
+                    <ForeName>Eleonora</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physiology &amp;Medical Physics, Royal College of Surgeons in Ireland, Dublin, Ireland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Morgan</LastName>
+                    <ForeName>James</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physiology &amp;Medical Physics, Royal College of Surgeons in Ireland, Dublin, Ireland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Langa</LastName>
+                    <ForeName>Elena</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physiology &amp;Medical Physics, Royal College of Surgeons in Ireland, Dublin, Ireland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jimenez-Pacheco</LastName>
+                    <ForeName>Alba</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physiology &amp;Medical Physics, Royal College of Surgeons in Ireland, Dublin, Ireland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Silva</LastName>
+                    <ForeName>Luiz Fernando Almeida</ForeName>
+                    <Initials>LF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physiology &amp;Medical Physics, Royal College of Surgeons in Ireland, Dublin, Ireland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mesuret</LastName>
+                    <ForeName>Guillaume</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physiology &amp;Medical Physics, Royal College of Surgeons in Ireland, Dublin, Ireland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Boison</LastName>
+                    <ForeName>Detlev</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Robert S. Dow Neurobiology Laboratories, Legacy Research Institute, Portland, OR, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Miras-Portugal</LastName>
+                    <ForeName>M Teresa</ForeName>
+                    <Initials>MT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry, Faculty of Veterinary Medicine, Universidad Complutense de Madrid, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Letavic</LastName>
+                    <ForeName>Michael</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Janssen Research &amp;Development, LLC, Neuroscience, 3210 Merryfield Row, San Diego, CA 92121, San Diego, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Artalejo</LastName>
+                    <ForeName>Antonio R</ForeName>
+                    <Initials>AR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Toxicology and Pharmacology, Faculty of Veterinary Medicine, Universidad Complutense de Madrid, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bhattacharya</LastName>
+                    <ForeName>Anindya</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Janssen Research &amp;Development, LLC, Neuroscience, 3210 Merryfield Row, San Diego, CA 92121, San Diego, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Diaz-Hernandez</LastName>
+                    <ForeName>Miguel</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry, Faculty of Veterinary Medicine, Universidad Complutense de Madrid, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Henshall</LastName>
+                    <ForeName>David C</ForeName>
+                    <Initials>DC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physiology &amp;Medical Physics, Royal College of Surgeons in Ireland, Dublin, Ireland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Engel</LastName>
+                    <ForeName>Tobias</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physiology &amp;Medical Physics, Royal College of Surgeons in Ireland, Dublin, Ireland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>12</Month>
+                <Day>03</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Sci Rep</MedlineTA>
+            <NlmUniqueID>101563288</NlmUniqueID>
+            <ISSNLinking>2045-2322</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D035683">MicroRNAs</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C574876">Mirn22 microRNA, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D034743">RNA-Induced Silencing Complex</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D058486">Receptors, Purinergic P2X7</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001253" MajorTopicYN="N">Astrocytes</DescriptorName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004569" MajorTopicYN="N">Electroencephalography</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005786" MajorTopicYN="N">Gene Expression Regulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006624" MajorTopicYN="N">Hippocampus</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007249" MajorTopicYN="N">Inflammation</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008810" MajorTopicYN="N">Mice, Inbred C57BL</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D035683" MajorTopicYN="N">MicroRNAs</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D034622" MajorTopicYN="N">RNA Interference</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D034743" MajorTopicYN="N">RNA-Induced Silencing Complex</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D058486" MajorTopicYN="N">Receptors, Purinergic P2X7</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013226" MajorTopicYN="N">Status Epilepticus</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>07</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>30</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>12</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>12</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>12</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26631939</ArticleId>
+            <ArticleId IdType="pii">srep17486</ArticleId>
+            <ArticleId IdType="doi">10.1038/srep17486</ArticleId>
+            <ArticleId IdType="pmc">PMC4668358</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Epilepsia. 2013 Sep;54(9):1551-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23808395</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>RNA. 2009 Mar;15(3):493-501</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19176604</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Mol Life Sci. 2012 Sep;69(18):3127-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22535415</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2012;7(5):e35921</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22615744</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2014 Apr;42(7):4629-39</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24464996</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Epilepsia. 2011 Dec;52(12):2315-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21955106</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Front Mol Neurosci. 2013 Nov 12;6:37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24282394</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Pharmacol Sci. 2014 Oct;35(10):537-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25223574</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Neurol. 2011 Jan;7(1):31-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21135885</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2012;7(9):e44789</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23028621</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2012 Dec 28;287(53):44628-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23139414</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Neurosci. 2014 Feb;37(2):55-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24355813</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci. 2012 Apr 18;32(16):5678-87</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22514329</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2003 Sep 25;349(13):1257-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14507951</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncogene. 2010 Sep 2;29(35):4980-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20562918</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Med. 2012 Jul;18(7):1087-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22683779</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci. 2009 Mar 25;29(12):3781-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19321774</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2013;8(1):e54222</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23349832</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2014 Jan;42(Database issue):D68-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24275495</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2015 Jul 2;162(1):96-107</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26140593</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biochem. 2015 Feb;116(2):233-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25186498</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Epilepsy Behav. 2015 Jul;48:4-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26037843</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 2013 Jul;33(14):2706-17</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23671190</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Neurosci. 2010 May;13(5):584-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20418874</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 2011 May;121(5):2037-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21505260</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Biotechnol. 2013 Jul;31(7):577</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23839128</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Biochem. 2010;79:351-79</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20533884</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Pharmacol. 2013 Oct;170(3):624-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23889535</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Genet. 2011 Jan;12(1):19-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21116305</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Neurosci. 2003 Oct;6(10):1079-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14502289</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Epilepsy Res. 2013 Jan;103(1):2-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23219031</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Brain Struct Funct. 2015 Jul;220(4):2387-99</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24874920</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neurobiol Dis. 2008 Dec;32(3):442-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18804535</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Brain. 2013 Feb;136(Pt 2):577-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23361066</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Brain Res. 2008 Jun 5;1213:140-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18455706</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biomark Med. 2014;8(3):413-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24712433</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2010 Oct 29;285(44):34288-98</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20813842</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2004 Jan 23;116(2):281-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14744438</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Brain Behav Immun. 2008 Feb;22(2):234-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17905568</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci Res. 2002 Sep 1;69(5):614-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12210827</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neurosurg Focus. 2012 Mar;32(3):E9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22380863</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2014;9(8):e105521</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25148080</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2012 Apr 27;149(3):515-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22541426</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci. 1996 Jun 15;16(12):3827-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8656277</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Methods. 2015 Feb;12(2):115-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25633503</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2013;8(1):e53464</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23308228</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2013;8(12):e80707</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24312495</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2014 Jan 9;505(7482):223-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24317693</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Prog Neurobiol. 2008 Mar;84(3):249-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18249058</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2008 Oct 17;283(42):28274-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18682393</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Front Cell Neurosci. 2013 Nov 26;7:237</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24324404</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurochem. 2002 Jun;81(6):1196-211</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12068068</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Death Differ. 2015 Jan;22(1):22-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25190144</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAMA Neurol. 2015 Aug;72(8):882-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26052981</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>CNS Neurosci Ther. 2014 Jun;20(6):556-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24750893</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Neurol. 2014 Apr;27(2):199-205</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24553459</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gene Ther. 2011 Dec;18(12):1104-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21525952</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Immunol. 2005 Aug;5(8):629-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16034365</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Neurosci. 2002 Feb;19(2):272-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11860279</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neurosci Lett. 2011 Jan 25;488(3):252-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21094214</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2013 Dec 6;342(6163):1254-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24311694</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Drug Discov. 2008 Jul;7(7):575-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18591979</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Neurosci. 2014 Aug;17(8):1040-2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25017011</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2014 Jul 3;158(1):15-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24995975</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biol. 1997 Dec 29;139(7):1635-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9412459</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FASEB J. 2012 Apr;26(4):1616-28</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22198387</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci. 2002 Jul 15;22(14):5938-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12122056</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Brain Res. 2006 May 17;1089(1):171-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16635480</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Brain. 2009 Dec;132(Pt 12):3342-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19952055</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2012 Jan 24;109(4):E197-205</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22167804</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Physiol Rev. 2002 Oct;82(4):1013-67</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12270951</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Brain. 2015 Mar;138(Pt 3):616-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25552301</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Epilepsy Res. 2009 Feb;83(2-3):157-67</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19084381</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

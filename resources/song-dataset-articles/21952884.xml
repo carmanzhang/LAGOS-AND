@@ -1,0 +1,302 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21952884</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>12</Month>
+            <Day>15</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-1123</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>22</Volume>
+                    <Issue>10</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of the American Society for Mass Spectrometry</Title>
+                <ISOAbbreviation>J Am Soc Mass Spectrom</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Evidence of molecular fragmentation inside the charged droplets produced by electrospray process.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1707-17</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s13361-011-0188-7</ELocationID>
+            <Abstract>
+                <AbstractText>The behavior of the analyte molecules inside the neutral core of the charged droplet produced by the electrospray (ES) process is not unambiguously known to date. We have identified interesting molecular transformations of two suitably chosen analytes inside the ES droplets. The highly stable Ni(II) complex of 1,8-dimethyl-1,3,6,8,10,13-hexaazacyclotetradecane (1) that consists of a positive charge at the metal center, and the allyl pendant armed tertiary amine containing macrocycle 3,4,5:12,13,14-dipyridine-2,6,11,15-tetramethyl-1,7,10,16-tetraallyl-1,4,7,10,13,16-hexaazacyclooctadeca-3,13-diene (M(4p)) have been studied by ESI mass spectrometry as the model analytes. We have shown that these two molecules are not representatively transferred from solution to gas phase by ESI; rather, they undergo fragmentation inside the charged droplets. The results indicated that a charged analyte such as 1 was possibly unstable inside the neutral core of the ES droplet and undergoes fragmentation due to the Coulombic repulsion imparted by the surface protons. Brownian motion of the neutral analyte such as M(4p) inside the droplet, on the other hand, may lead to proton attachment on interaction with the charged surface causing destabilization that leads to fragmentation of M(4p) and release of resonance stabilized allyl cations from the core of the droplet. Detailed solvent dependence and collision-induced dissociation (CID) studies provided compelling evidences that the fragmentation of the analytes indeed occurs inside the charged ES droplets. A viable model of molecular transformations inside the ES droplet was proposed based on these results to rationalize the behavior of the analyte molecules inside the charged ES droplets.</AbstractText>
+                <CopyrightInformation>© American Society for Mass Spectrometry, 2011</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Banerjee</LastName>
+                    <ForeName>Shibdas</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemical Sciences, Tata Institute of Fundamental Research, Homi Bhabha Road, Mumbai 400005, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Prakash</LastName>
+                    <ForeName>Halan</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mazumdar</LastName>
+                    <ForeName>Shyamalava</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>07</Month>
+                <Day>07</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Am Soc Mass Spectrom</MedlineTA>
+            <NlmUniqueID>9010412</NlmUniqueID>
+            <ISSNLinking>1044-0305</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D005740">Gases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007477">Ions</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009942">Organometallic Compounds</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>7OV03QG267</RegistryNumber>
+                <NameOfSubstance UI="D009532">Nickel</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D005740" MajorTopicYN="N">Gases</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007477" MajorTopicYN="N">Ions</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008958" MajorTopicYN="N">Models, Molecular</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009532" MajorTopicYN="N">Nickel</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009942" MajorTopicYN="N">Organometallic Compounds</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D021241" MajorTopicYN="N">Spectrometry, Mass, Electrospray Ionization</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2011</Year>
+                <Month>06</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2011</Year>
+                <Month>06</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>9</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>9</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21952884</ArticleId>
+            <ArticleId IdType="doi">10.1007/s13361-011-0188-7</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Am Soc Mass Spectrom. 1993 Jul;4(7):524-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24227639</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem J. 2001 May 1;355(Pt 3):545-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11311115</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Mass Spectrom. 2000 Nov;11(11):951-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11073258</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Chem Soc. 2003 Feb 26;125(8):2319-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12590562</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anal Biochem. 2006 Jan 1;348(1):139-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16298327</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1995 Mar 28;92(7):2451-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7708663</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anal Chem. 2005 Aug 15;77(16):5370-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16097782</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mass Spectrom. 2010 Oct;45(10):1212-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20872902</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Chem Soc. 2003 Jun 18;125(24):7238-49</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12797797</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anal Chim Acta. 2009 Feb 2;633(1):109-18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19110124</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Chem Soc. 2004 Apr 21;126(15):4786-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15080676</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Rapid Commun Mass Spectrom. 2002;16(5):355-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11857718</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anal Chem. 1999 Dec 1;71(23):5288-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21662726</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Mass Spectrom. 2005 Sep;16(9):1409-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16006142</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Mass Spectrom. 2010 Aug;21(8):1275-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20547071</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mass Spectrom. 2000 Jul;35(7):763-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10934430</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anal Chem. 2001 Apr 1;73(7):1455-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11321294</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Chem Soc. 2001 Apr 18;123(15):3577-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11472129</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Mass Spectrom. 2001 Jun;12(6):716-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11401162</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anal Chem. 2007 Apr 15;79(8):3105-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17378541</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2008 Nov 25;105(47):18145-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19033474</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1989 Oct 6;246(4926):64-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2675315</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

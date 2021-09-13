@@ -1,0 +1,159 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">22118280</PMID>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>03</Month>
+            <Day>13</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0091-679X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>106</Volume>
+                    <PubDate>
+                        <Year>2011</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Methods in cell biology</Title>
+                <ISOAbbreviation>Methods Cell Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>In situ hybridization of embryos with antisense RNA probes.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>253-70</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/B978-0-12-544172-8.00009-8</ELocationID>
+            <Abstract>
+                <AbstractText>Detection of transcripts in situ is a rapid means by which gene expression can be characterized in many systems. In the nematode, Caenorhabditis elegans, the ease with which transgenics can be made and the general reliability of reporter fusion expression patterns, have made this technique comparatively less popular than in other systems. There are, however, still applications in which in situ hybridization is desired, such as for maternally expressed genes, or in related species without established transgene methods. The most frequently used method of in situ hybridization uses DNA probes and formaldehyde fixation. A newer approach that permits single-transcript detection has been reported and will not be described here (Raj and Tyagi, 2010). Rather, we describe an alternative protocol that uses RNA probes with a different fixative. This approach has been applied to C. elegans and related nematodes, providing reliable, sensitive detection of endogenous transcripts.</AbstractText>
+                <CopyrightInformation>Copyright © 2011 Elsevier Inc. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Broitman-Maduro</LastName>
+                    <ForeName>Gina</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biology, University of California at Riverside, Riverside, California, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Maduro</LastName>
+                    <ForeName>Morris F</ForeName>
+                    <Initials>MF</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Methods Cell Biol</MedlineTA>
+            <NlmUniqueID>0373334</NlmUniqueID>
+            <ISSNLinking>0091-679X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D005404">Fixatives</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D015347">RNA Probes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016372">RNA, Antisense</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>Y4S76JWI15</RegistryNumber>
+                <NameOfSubstance UI="D000432">Methanol</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017173" MajorTopicYN="N">Caenorhabditis elegans</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004625" MajorTopicYN="N">Embryo, Nonmammalian</DescriptorName>
+                <QualifierName UI="Q000166" MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005404" MajorTopicYN="N">Fixatives</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005614" MajorTopicYN="N">Freeze Fracturing</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017403" MajorTopicYN="N">In Situ Hybridization</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000432" MajorTopicYN="N">Methanol</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015347" MajorTopicYN="N">RNA Probes</DescriptorName>
+                <QualifierName UI="Q000138" MajorTopicYN="N">chemical synthesis</QualifierName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016372" MajorTopicYN="N">RNA, Antisense</DescriptorName>
+                <QualifierName UI="Q000138" MajorTopicYN="N">chemical synthesis</QualifierName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016707" MajorTopicYN="N">Tissue Fixation</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>11</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>11</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>3</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">22118280</ArticleId>
+            <ArticleId IdType="pii">B978-0-12-544172-8.00009-8</ArticleId>
+            <ArticleId IdType="doi">10.1016/B978-0-12-544172-8.00009-8</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,97 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">16642814</PMID>
+        <DateCompleted>
+            <Year>2006</Year>
+            <Month>06</Month>
+            <Day>21</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>05</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0001-4966</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>119</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2006</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of the Acoustical Society of America</Title>
+                <ISOAbbreviation>J Acoust Soc Am</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Elastic wave propagation in sinusoidally corrugated waveguides.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2006-17</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The ultrasonic wave propagation in sinusoidally corrugated waveguides is studied in this paper. Periodically corrugated waveguides are gaining popularity in the field of vibration control and for designing structures with desired acoustic band gaps. Currently only numerical method (Boundary Element Method or Finite Element Method) based packages (e.g., PZFlex) are in principle capable of modeling ultrasonic fields in complex structures with rapid change of curvatures at the interfaces and boundaries but no analyses have been reported. However, the packages are very CPU intensive; it requires a huge amount of computation memory and time for its execution. In this paper a new semi-analytical technique called Distributed Point Source Method (DPSM) is used to model the ultrasonic field in sinusoidally corrugated waveguides immersed in water where the interface curvature changes rapidly. DPSM results are compared with analytical solutions. It is found that when a narrow ultrasonic beam hits the corrugation peaks at an angle, the wave propagates in the backward direction in waveguides with high corrugation depth. However, in waveguides with small corrugation the wave propagates in the forward direction. The forward and backward propagation phenomenon is found to be independent of the signal frequency and depends on the degree of corrugation.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Banerjee</LastName>
+                    <ForeName>Sourav</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Civil Engineering and Engineering Mechanics, University of Arizona, Tucson, Arizona 85721, USA. sourav@email.arizona.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kundu</LastName>
+                    <ForeName>Tribikram</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Acoust Soc Am</MedlineTA>
+            <NlmUniqueID>7503051</NlmUniqueID>
+            <ISSNLinking>0001-4966</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2006</Year>
+                <Month>4</Month>
+                <Day>29</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2006</Year>
+                <Month>4</Month>
+                <Day>29</Day>
+                <Hour>9</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2006</Year>
+                <Month>4</Month>
+                <Day>29</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">16642814</ArticleId>
+            <ArticleId IdType="doi">10.1121/1.2172170</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

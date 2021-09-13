@@ -1,0 +1,254 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">8858583</PMID>
+        <DateCompleted>
+            <Year>1997</Year>
+            <Month>02</Month>
+            <Day>25</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>07</Month>
+            <Day>25</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0950-382X</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>21</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>1996</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Molecular microbiology</Title>
+                <ISOAbbreviation>Mol Microbiol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The clp (CS31A) operon is negatively controlled by Lrp, ClpB, and L-alanine at the transcriptional level.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>281-92</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Biosynthesis of the Escherichia coli CS31A surface antigen was subject to phase-variation control and repressed by L-alanine. Nucleotide sequence analysis of the clp operon, encoding the biosynthesis of CS31A, revealed the presence of a regulatory gene, clpB. The amino acid sequence of the regulatory protein ClpB showed similarity to the primary structure of PapB, FaeB and AfaA, involved in the regulation of expression of Pap, K88, and Afa-3 fimbriae, respectively. The clp regulatory region contained two deoxyadenosine methylase sites (GATC-I and GATC-II). The leucine-responsive regulatory protein (Lrp) was required for specific methylation inhibition of the GATC-II site. The activity of the clp promoter was monitored in a clp-lacZYA single-copy fusion. The cloned DNA used in this study did not contain a related papl gene. In these conditions, we showed, as expected, that phase variation did not occur. However, transcription of the clp operon was negatively controlled by ClpB and Lrp, and was maximal in the absence of Dam methylase. In the presence of AfaF, a Papl equivalent, the phase-variation control was restored. We concluded that two regulatory mechanisms were superimposed to control the clp expression. Phase variation, mediated by Lrp and a Papl equivalent, controlled the number of cells producing CS31A in a single colony. The second mechanism, described in this report, was mediated by ClpB and Lrp and controls the level of CS31A produced by a single cell. Furthermore, we showed that L-alanine reduced, by about twofold, the clp promoter activity independently of a Papl equivalent, ClpB, Lrp or Dam methylase. In addition, the presence of L-alanine prevented the phase-variation control mediated by AfaF.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Martin</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratoire de Microbiologie, Institut National de la Recherche Agronomique, Saint-Genès-Champanelie, France. cmartin@clermont.inra.fr</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>GENBANK</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>L48184</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <PublicationTypeList>
+                <PublicationType UI="D003160">Comparative Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Mol Microbiol</MedlineTA>
+            <NlmUniqueID>8712028</NlmUniqueID>
+            <ISSNLinking>0950-382X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000942">Antigens, Bacterial</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D001426">Bacterial Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004269">DNA, Bacterial</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004268">DNA-Binding Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D029968">Escherichia coli Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D006360">Heat-Shock Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C497278">Lrp protein, E coli</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014157">Transcription Factors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>138791-20-5</RegistryNumber>
+                <NameOfSubstance UI="D051756">Leucine-Responsive Regulatory Protein</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>144998-09-4</RegistryNumber>
+                <NameOfSubstance UI="C071730">clpG protein, E coli</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.1.1.72</RegistryNumber>
+                <NameOfSubstance UI="C058693">Dam methyltransferase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.1.1.72</RegistryNumber>
+                <NameOfSubstance UI="D015265">Site-Specific DNA-Methyltransferase (Adenine-Specific)</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.1.1.72</RegistryNumber>
+                <NameOfSubstance UI="C499294">dam protein, E coli</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.21.92</RegistryNumber>
+                <NameOfSubstance UI="D049071">Endopeptidase Clp</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.6.1.3</RegistryNumber>
+                <NameOfSubstance UI="C069775">ClpB protein, E coli</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>GMW67QNF9C</RegistryNumber>
+                <NameOfSubstance UI="D007930">Leucine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>OF5P57N2ZX</RegistryNumber>
+                <NameOfSubstance UI="D000409">Alanine</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000409" MajorTopicYN="N">Alanine</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000595" MajorTopicYN="N">Amino Acid Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000942" MajorTopicYN="Y">Antigens, Bacterial</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001426" MajorTopicYN="N">Bacterial Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001483" MajorTopicYN="N">Base Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002874" MajorTopicYN="N">Chromosome Mapping</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004269" MajorTopicYN="N">DNA, Bacterial</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004268" MajorTopicYN="N">DNA-Binding Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D049071" MajorTopicYN="N">Endopeptidase Clp</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004926" MajorTopicYN="N">Escherichia coli</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D029968" MajorTopicYN="Y">Escherichia coli Proteins</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015964" MajorTopicYN="N">Gene Expression Regulation, Bacterial</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005798" MajorTopicYN="N">Genes, Bacterial</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005809" MajorTopicYN="N">Genes, Regulator</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006360" MajorTopicYN="N">Heat-Shock Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007930" MajorTopicYN="N">Leucine</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051756" MajorTopicYN="N">Leucine-Responsive Regulatory Protein</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008969" MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009876" MajorTopicYN="Y">Operon</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017386" MajorTopicYN="N">Sequence Homology, Amino Acid</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015265" MajorTopicYN="N">Site-Specific DNA-Methyltransferase (Adenine-Specific)</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014157" MajorTopicYN="Y">Transcription Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014158" MajorTopicYN="N">Transcription, Genetic</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1996</Year>
+                <Month>7</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1996</Year>
+                <Month>7</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1996</Year>
+                <Month>7</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">8858583</ArticleId>
+            <ArticleId IdType="doi">10.1046/j.1365-2958.1996.00651.x</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

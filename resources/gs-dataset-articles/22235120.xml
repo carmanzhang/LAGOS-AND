@@ -1,0 +1,532 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">22235120</PMID>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>05</Month>
+            <Day>01</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1083-351X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>287</Volume>
+                    <Issue>11</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Mar</Month>
+                        <Day>09</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of biological chemistry</Title>
+                <ISOAbbreviation>J. Biol. Chem.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Structural insight into unique cardiac myosin-binding protein-C motif: a partially folded domain.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>8254-62</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1074/jbc.M111.309591</ELocationID>
+            <Abstract>
+                <AbstractText>The structural role of the unique myosin-binding motif (m-domain) of cardiac myosin-binding protein-C remains unclear. Functionally, the m-domain is thought to directly interact with myosin, whereas phosphorylation of the m-domain has been shown to modulate interactions between myosin and actin. Here we utilized NMR to analyze the structure and dynamics of the m-domain in solution. Our studies reveal that the m-domain is composed of two subdomains, a largely disordered N-terminal portion containing three known phosphorylation sites and a more ordered and folded C-terminal portion. Chemical shift analyses, d(NN)(i, i + 1) NOEs, and (15)N{(1)H} heteronuclear NOE values show that the C-terminal subdomain (residues 315-351) is structured with three well defined helices spanning residues 317-322, 327-335, and 341-348. The tertiary structure was calculated with CS-Rosetta using complete (13)C(α), (13)C(β), (13)C', (15)N, (1)H(α), and (1)H(N) chemical shifts. An ensemble of 20 acceptable structures was selected to represent the C-terminal subdomain that exhibits a novel three-helix bundle fold. The solvent-exposed face of the third helix was found to contain the basic actin-binding motif LK(R/K)XK. In contrast, (15)N{(1)H} heteronuclear NOE values for the N-terminal subdomain are consistent with a more conformationally flexible region. Secondary structure propensity scores indicate two transient helices spanning residues 265-268 and 293-295. The presence of both transient helices is supported by weak sequential d(NN)(i, i + 1) NOEs. Thus, the m-domain consists of an N-terminal subdomain that is flexible and largely disordered and a C-terminal subdomain having a three-helix bundle fold, potentially providing an actin-binding platform.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Howarth</LastName>
+                    <ForeName>Jack W</ForeName>
+                    <Initials>JW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular Genetics, Biochemistry, and Microbiology, University of Cincinnati College of Medicine, Cincinnati, Ohio 45267, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ramisetti</LastName>
+                    <ForeName>Srinivas</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nolan</LastName>
+                    <ForeName>Kristof</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sadayappan</LastName>
+                    <ForeName>Sakthivel</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rosevear</LastName>
+                    <ForeName>Paul R</ForeName>
+                    <Initials>PR</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>PDB</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>2LHU</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 HL105826</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 HL105826-01</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01HL105826</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2012</Year>
+                <Month>01</Month>
+                <Day>10</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Biol Chem</MedlineTA>
+            <NlmUniqueID>2985121R</NlmUniqueID>
+            <ISSNLinking>0021-9258</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D002352">Carrier Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C079567">myosin-binding protein C</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D020816" MajorTopicYN="N">Amino Acid Motifs</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002352" MajorTopicYN="N">Carrier Proteins</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010766" MajorTopicYN="N">Phosphorylation</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017510" MajorTopicYN="Y">Protein Folding</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017434" MajorTopicYN="N">Protein Structure, Tertiary</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>5</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">22235120</ArticleId>
+            <ArticleId IdType="pii">M111.309591</ArticleId>
+            <ArticleId IdType="doi">10.1074/jbc.M111.309591</ArticleId>
+            <ArticleId IdType="pmc">PMC3318737</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Biophys J. 2011 Oct 19;101(8):1968-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22004751</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2011 Sep 23;412(3):379-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21821050</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2011 Dec 16;414(5):735-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22041450</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 1999 Dec 17;294(5):1299-310</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10600386</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anal Biochem. 2000 Dec 15;287(2):252-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11112271</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2001 Aug 28;98(18):10037-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11517324</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proteins. 2003 Feb 15;50(3):437-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12557186</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 2003 May 6;107(17):2227-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12707239</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2003 Aug 15;331(3):713-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12899839</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Gen Physiol. 2003 Dec;122(6):761-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14638934</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Res. 2004 Apr;14(2):95-110</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15115610</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circ Res. 2004 May 14;94(9):1249-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15059932</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2004 Jul 1;32(Web Server issue):W668-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15215473</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 1973 Mar 15;74(4):653-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4269687</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1983 Jul 10;258(13):8395-401</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6134729</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 1992 Jul 10;70(1):81-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1623524</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biomol NMR. 1994 Mar;4(2):171-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8019132</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Methods Enzymol. 1994;239:363-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7830591</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Biochem. 1996 Jan 15;235(1-2):317-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8631348</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 1997 Mar 13;336(11):775-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9052657</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circ Res. 1998 Jan 9-23;82(1):130-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9440712</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Sci. 1999 Jan;112 ( Pt 1):69-79</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9841905</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biomol NMR. 1999 Mar;13(3):289-302</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10212987</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1999 Jun 11;274(24):16681-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10358006</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEBS Lett. 1999 Jun 25;453(3):254-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10405155</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 1999 Sep 17;292(2):195-202</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10493868</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 2005 Feb 22;111(7):906-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15699252</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2005 Jun 1;21(11):2787-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15797907</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2005 Jul 1;33(Web Server issue):W36-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15980489</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2005 Jul 1;33(Web Server issue):W382-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15980494</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circ Res. 2005 Nov 25;97(11):1156-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16224063</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEBS Lett. 2006 Mar 20;580(7):1789-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16513117</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proteomics. 2006 Jul;6(14):4176-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16791825</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2006 Nov 7;103(45):16918-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17075052</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Protein Sci. 2006 Dec;15(12):2795-804</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17088319</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2007 Jul;35(Web Server issue):W375-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17452350</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Cell Cardiol. 2007 Aug;43(2):223-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17560599</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2007 Oct 26;373(3):706-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17854829</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEBS Lett. 2008 Feb 6;582(3):434-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18201573</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2008 Apr 4;377(4):1186-99</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18313073</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2008 Mar 25;105(12):4685-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18326625</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Gen Physiol. 2008 Nov;132(5):575-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18955596</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2008 Nov 25;105(47):18360-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19011110</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2009 Feb;41(2):187-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19151713</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Protoc. 2009;4(3):363-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19247286</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2009 May 1;284(18):12318-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19269976</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biomol NMR. 2009 Aug;44(4):213-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19548092</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Muscle Res Cell Motil. 2009 Dec;30(7-8):303-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20217194</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Cell Cardiol. 2010 May;48(5):866-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19962384</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Biol. 2010;8(6):e1000387</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20532239</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Cell Cardiol. 2010 Dec;49(6):1003-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20850451</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2011 Jan 21;286(3):2008-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21071444</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Struct Biol. 2011 Apr;174(1):44-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21163356</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circ Res. 2011 Mar 18;108(6):751-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21415409</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2011 Jul 8;410(2):214-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21601575</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circ Res. 2011 Jul 8;109(2):141-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21597010</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2011 Nov 11;413(5):908-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21978665</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

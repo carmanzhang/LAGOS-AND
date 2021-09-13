@@ -1,0 +1,163 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">15327409</PMID>
+        <DateCompleted>
+            <Year>2004</Year>
+            <Month>11</Month>
+            <Day>01</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>30</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0085-2538</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>66</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2004</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Kidney international</Title>
+                <ISOAbbreviation>Kidney Int</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Transferrin saturation with intravenous irons: an in vitro study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1139-44</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Iron deficiency anemia in chronic kidney disease is commonly treated with one of three intravenous irons-iron dextran, iron sucrose, or iron gluconate. Substantial pharmacologic differences between drugs exist, but their ability to saturate transferrin has not been compared. Drugs that may lead to rapid transferrin saturation may lead to greater efficacy but also increased toxicity if transferring-mediated uptake of iron is the basis of this toxicity.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We studied the in vitro ability of the three intravenous irons to donate iron to transferrin. Transferrin saturation was studied by direct visualization of the transferrin bands by urea polyacrylamide gel electrophoresis (PAGE), as well as a functional assay that evaluated the ability of iron to half saturate transferrin in a dose-dependent (0 to 100 microg/mL) and time-dependent (15 to 180 min) manner. Half-maximal dose (EC(50)) of iron needed to saturate transferrin was evaluated.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Nondextran irons were able to saturate transferrin in a dose-dependent and time-dependent manner. There was more rapid transferrin saturation with iron gluconate compared to iron sucrose. The slope of the EC(50) versus dose iron gluconate titration curve was -0.021 nmol/microg/mL (95% CI -0.025 to -0.017, P &lt; 0.0001), for iron sucrose -0.006 nmol/microg/mL (95% CI -0.010 to -0.002, P= 0.002), and for iron dextran -0.001 nmol/microg/mL (95% CI -0.004 to 0.003, P &gt; 0.2). The least square mean EC(50) computed for mean iron concentration was 5.95 nmol for iron gluconate (95% CI 5.82 to 6.08), 6.73 nmol for iron sucrose (95% CI 6.59 to 6.86), and 7.24 nmol for iron dextran (95% CI 7.11 to 7.38). Similar results were seen for the time-dependent transferrin saturation (drug x time interaction, F 6.0, P &lt; 0.01). Urea PAGE analysis showed similar results as the functional assay.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Substantial heterogeneity in direct iron transfer from iron pharmaceuticals in vitro suggests that differences may exist in safety and efficacy of these drugs in vivo. In vivo studies are needed to compare the safety and efficacy of existing nondextran parenteral irons to better define the therapeutic ratio.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Agarwal</LastName>
+                    <ForeName>Rajiv</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Indiana University School of Medicine, and VA Medical Center, Indianapolis, Indiana 46202, USA. ragarwal@iupui.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Kidney Int</MedlineTA>
+            <NlmUniqueID>0323470</NlmUniqueID>
+            <ISSNLinking>0085-2538</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D005290">Ferric Compounds</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014168">Transferrin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9004-66-4</RegistryNumber>
+                <NameOfSubstance UI="D007505">Iron-Dextran Complex</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>E1UOL152H7</RegistryNumber>
+                <NameOfSubstance UI="D007501">Iron</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>FZ7NYF5N8L</RegistryNumber>
+                <NameOfSubstance UI="D000077605">Ferric Oxide, Saccharated</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>QLZ991V4A2</RegistryNumber>
+                <NameOfSubstance UI="D005937">Glucaric Acid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>W108RK810P</RegistryNumber>
+                <NameOfSubstance UI="C035552">ferric gluconate</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D005290" MajorTopicYN="N">Ferric Compounds</DescriptorName>
+                <QualifierName UI="Q000493" MajorTopicYN="Y">pharmacokinetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000077605" MajorTopicYN="N">Ferric Oxide, Saccharated</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005937" MajorTopicYN="N">Glucaric Acid</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D066298" MajorTopicYN="N">In Vitro Techniques</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007262" MajorTopicYN="N">Infusions, Intravenous</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007501" MajorTopicYN="N">Iron</DescriptorName>
+                <QualifierName UI="Q000493" MajorTopicYN="Y">pharmacokinetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007505" MajorTopicYN="N">Iron-Dextran Complex</DescriptorName>
+                <QualifierName UI="Q000493" MajorTopicYN="N">pharmacokinetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017186" MajorTopicYN="N">Titrimetry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014168" MajorTopicYN="N">Transferrin</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2004</Year>
+                <Month>8</Month>
+                <Day>26</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2004</Year>
+                <Month>11</Month>
+                <Day>2</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2004</Year>
+                <Month>8</Month>
+                <Day>26</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">15327409</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1523-1755.2004.00864.x</ArticleId>
+            <ArticleId IdType="pii">S0085-2538(15)50165-8</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,461 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">22077951</PMID>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>12</Month>
+            <Day>13</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1478-6362</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>13</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Arthritis research &amp; therapy</Title>
+                <ISOAbbreviation>Arthritis Res. Ther.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Integrins and their ligands in rheumatoid arthritis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>244</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/ar3464</ELocationID>
+            <Abstract>
+                <AbstractText>Integrins play an important role in cell adhesion to the extracellular matrix and other cells. Upon ligand binding, signaling is initiated and several intracellular pathways are activated. This leads to a wide variety of effects, depending on cell type. Integrin activation has been linked to proliferation, secretion of matrix-degrading enzymes, cytokine production, migration, and invasion. Dysregulated integrin expression is often found in malignant disease. Tumors use integrins to evade apoptosis or metastasize, indicating that integrin signaling has to be tightly controlled. During the course of rheumatoid arthritis, the synovial tissue is infiltrated by immune cells that secrete large amounts of cytokines. This pro-inflammatory milieu leads to an upregulation of integrin receptors and their ligands in the synovial tissue. As a consequence, integrin signaling is enhanced, leading to enhanced production of matrix-degrading enzymes and cytokines. Furthermore, in analogy to invading tumors, synovial fibroblasts start invading and degrading cartilage, thereby generating extracellular matrix debris that can further activate integrins.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lowin</LastName>
+                    <ForeName>Torsten</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Experimental Rheumatology and Neuroendocrine Immunology, Department of Internal Medicine, University Hospital Regensburg, Franz-Josef Strauß Allee 11, 93053 Regensburg, Germany. torsten.lowin@klinik.uni-regensburg.de</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Straub</LastName>
+                    <ForeName>Rainer H</ForeName>
+                    <Initials>RH</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>10</Month>
+                <Day>28</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Arthritis Res Ther</MedlineTA>
+            <NlmUniqueID>101154438</NlmUniqueID>
+            <ISSNLinking>1478-6354</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016207">Cytokines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016023">Integrins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D008024">Ligands</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001172" MajorTopicYN="N">Arthritis, Rheumatoid</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002448" MajorTopicYN="N">Cell Adhesion</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016207" MajorTopicYN="N">Cytokines</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005109" MajorTopicYN="N">Extracellular Matrix</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016023" MajorTopicYN="N">Integrins</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008024" MajorTopicYN="N">Ligands</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011485" MajorTopicYN="N">Protein Binding</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>11</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>11</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>12</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">22077951</ArticleId>
+            <ArticleId IdType="pii">ar3464</ArticleId>
+            <ArticleId IdType="doi">10.1186/ar3464</ArticleId>
+            <ArticleId IdType="pmc">PMC3308078</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1995 Aug 1;92(16):7411-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7638207</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Pathol. 2003 May;162(5):1399-402</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12707022</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Rheum Dis Clin North Am. 1995 Aug;21(3):715-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8619096</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>APMIS. 1996 Feb;104(2):81-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8619919</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 1996 Oct 1;157(7):3153-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8816427</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Rheumatol. 1996 Aug;23(8):1338-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8856611</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Rheum Dis. 2002 Nov;61 Suppl 2:ii96-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12379637</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Immunol. 2011 Jul;41(7):2113-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21557212</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Inflammation. 2003 Apr;27(2):107-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12797550</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biol. 1989 Aug;109(2):877-89</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2547805</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 1990 Aug 1;145(3):785-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1695644</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biol. 1990 Dec;111(6 Pt 1):2795-800</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1703545</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Biophys Res Commun. 1992 Feb 14;182(3):1025-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1540151</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arthritis Rheum. 1992 May;35(5):541-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1374251</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Immunol. 1992 Nov;22(11):2879-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1385154</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arthritis Rheum. 1993 Feb;36(2):137-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7679271</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Exp Cell Res. 1993 May;206(1):167-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8387021</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2000 Mar 1;164(5):2684-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10679109</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 2000 Mar;105(6):721-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10727440</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Rheumatol. 2001 Mar;28(3):478-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11296945</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biol. 2001 Oct 29;155(3):459-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11684710</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Immunol Rev. 2002 Aug;186:37-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12234360</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Sci. 2002 Oct 15;115(Pt 20):3861-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12244123</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Immunol Immunopathol. 1993 Sep;68(3):311-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8103722</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Autoimmunity. 1993;16(1):69-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8136468</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Rheumatol. 1994 Mar;13(1):90-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8187452</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Virchows Arch. 1994;425(2):171-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7524977</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1997 Dec 9;94(25):13612-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9391074</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Rheum Dis. 1997 Dec;56(12):729-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9496152</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 1999 Feb 1;162(3):1772-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9973441</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 1999 Feb 15;162(4):2353-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9973515</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arthritis Res Ther. 2005;7(1):R118-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15642131</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Death Differ. 2005 Aug;12(8):1021-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15933741</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arthritis Rheum. 2005 Oct;52(10):2960-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16200575</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Rheum Dis. 2006 Jun;65(6):721-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16249227</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mod Rheumatol. 2006;16(4):197-205</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16906368</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Rheum Dis. 2007 Apr;66(4):446-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17124250</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Immunol. 2007 Jul;44(15):3732-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17521731</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bone Miner Metab. 2007;25(6):337-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17968485</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arthritis Res Ther. 2007;9(4):R63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17615072</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IET Syst Biol. 2008 Jan;2(1):8-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18248081</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microsc Res Tech. 2008 May;71(5):349-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18219670</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2009;4(2):e4449</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19212436</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2009 Jul 1;183(1):359-69</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19542447</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arthritis Rheum. 2009 Dec;60(12):3623-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19950288</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Med. 2010;61:35-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19719397</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Immunol Rev. 2010 Jan;233(1):233-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20193003</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2010 Apr 1;184(7):3917-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20190141</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Immunol. 2010 Oct;40(10):2710-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20806289</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Immunol. 1995 Sep;25(9):2701-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7589148</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

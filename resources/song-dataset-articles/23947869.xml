@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">23947869</PMID>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>09</Month>
+            <Day>19</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>08</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1089-7690</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>139</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Aug</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of chemical physics</Title>
+                <ISOAbbreviation>J Chem Phys</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Simulation of transport around the coexistence region of a binary fluid.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>064505</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1063/1.4817777</ELocationID>
+            <Abstract>
+                <AbstractText>We use Monte Carlo and molecular dynamics simulations to study phase behavior and transport properties in a symmetric binary fluid where particles interact via Lennard-Jones potential. Our results for the critical behavior of collective transport properties, with particular emphasis on bulk viscosity, is understood via appropriate application of finite-size scaling technique. It appears that the critical enhancements in these quantities are visible far above the critical point. This result is consistent with an earlier report from computer simulations where, however, the authors do not quantify the critical singularity. </AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Roy</LastName>
+                    <ForeName>Sutapa</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Theoretical Sciences Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, Jakkur P.O., Bangalore 560064, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Das</LastName>
+                    <ForeName>Subir K</ForeName>
+                    <Initials>SK</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Chem Phys</MedlineTA>
+            <NlmUniqueID>0375360</NlmUniqueID>
+            <ISSNLinking>0021-9606</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>8</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">23947869</ArticleId>
+            <ArticleId IdType="doi">10.1063/1.4817777</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

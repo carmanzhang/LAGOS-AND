@@ -1,0 +1,501 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">26799421</PMID>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>12</Month>
+            <Day>30</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>02</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1949-2553</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>7</Volume>
+                    <Issue>9</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Mar</Month>
+                        <Day>01</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Oncotarget</Title>
+                <ISOAbbreviation>Oncotarget</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>PARP1 inhibition radiosensitizes HNSCC cells deficient in homologous recombination by disabling the DNA replication fork elongation response.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>9732-41</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.18632/oncotarget.6947</ELocationID>
+            <Abstract>
+                <AbstractText>There is a need to develop new, more efficient therapies for head and neck cancer (HNSCC) patients. It is currently unclear whether defects in DNA repair genes play a role in HNSCCs' resistance to therapy. PARP1 inhibitors (PARPi) were found to be &quot;synthetic lethal&quot; in cancers deficient in BRCA1/2 with impaired homologous recombination. Since tumors rarely have these particular mutations, there is considerable interest in finding alternative determinants of PARPi sensitivity. Effectiveness of combined irradiation and PARPi olaparib was evaluated in ten HNSCC cell lines, subdivided into HR-proficient and HR-deficient cell lines using a GFP-based reporter assay. Both groups were equally sensitive to PARPi alone. Combined treatment revealed stronger synergistic interactions in the HR-deficient group. Because HR is mainly active in S-Phase, replication processes were analyzed. A stronger impact of treatment on replication processes (p = 0.04) and an increased number of radial chromosomes (p = 0.003) were observed in the HR-deficient group. We could show that radiosensitization by inhibition of PARP1 strongly correlates with HR competence in a replication-dependent manner. Our observations indicate that PARP1 inhibitors are promising candidates for enhancing the therapeutic ratio achieved by radiotherapy via disabling DNA replication processes in HR-deficient HNSCCs. </AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wurster</LastName>
+                    <ForeName>Stephanie</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Radiobiology and Experimental Radiooncology, Center of Oncology, University Medical Center Hamburg-Eppendorf, Hamburg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hennes</LastName>
+                    <ForeName>Fabian</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Radiobiology and Experimental Radiooncology, Center of Oncology, University Medical Center Hamburg-Eppendorf, Hamburg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Parplys</LastName>
+                    <ForeName>Ann C</ForeName>
+                    <Initials>AC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Radiobiology and Experimental Radiooncology, Center of Oncology, University Medical Center Hamburg-Eppendorf, Hamburg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Seelbach</LastName>
+                    <ForeName>Jasna I</ForeName>
+                    <Initials>JI</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Radiobiology and Experimental Radiooncology, Center of Oncology, University Medical Center Hamburg-Eppendorf, Hamburg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mansour</LastName>
+                    <ForeName>Wael Y</ForeName>
+                    <Initials>WY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Radiobiology and Experimental Radiooncology, Center of Oncology, University Medical Center Hamburg-Eppendorf, Hamburg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Tumor Biology Department, National Cancer Institute, Cairo University, Cairo, Egypt.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zielinski</LastName>
+                    <ForeName>Alexandra</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Radiobiology and Experimental Radiooncology, Center of Oncology, University Medical Center Hamburg-Eppendorf, Hamburg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Petersen</LastName>
+                    <ForeName>Cordula</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiotherapy and Radiooncology, University Medical Center Hamburg-Eppendorf, Hamburg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Clauditz</LastName>
+                    <ForeName>Till S</ForeName>
+                    <Initials>TS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, University Medical Center Hamburg-Eppendorf, Hamburg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Münscher</LastName>
+                    <ForeName>Adrian</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Otorhinolaryngology and Head and Neck Surgery, University Medical Center Hamburg-Eppendorf, Hamburg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Friedl</LastName>
+                    <ForeName>Anna A</ForeName>
+                    <Initials>AA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, Ludwig Maximilians University, Munich, Germany.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Clinical Cooperation Group 'Personalized Radiotherapy of Head and Neck Cancer', Helmholtz Center Munich, Neuherberg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Borgmann</LastName>
+                    <ForeName>Kerstin</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Radiobiology and Experimental Radiooncology, Center of Oncology, University Medical Center Hamburg-Eppendorf, Hamburg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Oncotarget</MedlineTA>
+            <NlmUniqueID>101532965</NlmUniqueID>
+            <ISSNLinking>1949-2553</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010793">Phthalazines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010879">Piperazines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000067856">Poly(ADP-ribose) Polymerase Inhibitors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011838">Radiation-Sensitizing Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.4.2.30</RegistryNumber>
+                <NameOfSubstance UI="C499320">PARP1 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.4.2.30</RegistryNumber>
+                <NameOfSubstance UI="D000071137">Poly (ADP-Ribose) Polymerase-1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>WOH1JD9AR8</RegistryNumber>
+                <NameOfSubstance UI="C531550">olaparib</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D002294" MajorTopicYN="N">Carcinoma, Squamous Cell</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000628" MajorTopicYN="Y">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D045744" MajorTopicYN="N">Cell Line, Tumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004260" MajorTopicYN="N">DNA Repair</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004261" MajorTopicYN="N">DNA Replication</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006258" MajorTopicYN="N">Head and Neck Neoplasms</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000628" MajorTopicYN="Y">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D059765" MajorTopicYN="N">Homologous Recombination</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010793" MajorTopicYN="N">Phthalazines</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010879" MajorTopicYN="N">Piperazines</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000071137" MajorTopicYN="N">Poly (ADP-Ribose) Polymerase-1</DescriptorName>
+                <QualifierName UI="Q000037" MajorTopicYN="Y">antagonists &amp; inhibitors</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000067856" MajorTopicYN="N">Poly(ADP-ribose) Polymerase Inhibitors</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011838" MajorTopicYN="N">Radiation-Sensitizing Agents</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000077195" MajorTopicYN="N">Squamous Cell Carcinoma of Head and Neck</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">PARP1 inhibition</Keyword>
+            <Keyword MajorTopicYN="N">homologous recombination</Keyword>
+            <Keyword MajorTopicYN="N">ionizing radiation</Keyword>
+            <Keyword MajorTopicYN="N">replication stress</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>07</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>12</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>1</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>1</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>12</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26799421</ArticleId>
+            <ArticleId IdType="pii">6947</ArticleId>
+            <ArticleId IdType="doi">10.18632/oncotarget.6947</ArticleId>
+            <ArticleId IdType="pmc">PMC4891080</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Nat Commun. 2013;4:2993</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24356582</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2015 Jul 7;112(27):8409-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26100884</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Radiother Oncol. 2015 Sep;116(3):358-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25981132</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oral Oncol. 2014 Mar;50(3):196-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24315737</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Commun. 2014 Nov 17;5:5496</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25400221</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell. 2010 Feb 26;37(4):492-502</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20188668</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Head Neck. 2010 Mar;32(3):381-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19672867</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Radiother Oncol. 2014 Oct;113(1):139-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25245558</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Radiother Oncol. 2014 Dec;113(3):345-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25467050</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>DNA Repair (Amst). 2014 Dec;24:87-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25288561</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cancer Ther. 2011 Oct;10(10):1949-58</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21825006</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Cancer Res. 2014 Sep 15;20(18):4816-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24963051</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Cycle. 2015 ;14 (19):3190-202</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26317153</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 2015 Mar;35(5):856-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25535335</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Commun. 2013;4:2578</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24153426</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cancer Ther. 2010 Jun;9(6):1775-87</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20530711</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Otolaryngol Head Neck Surg. 2003 Jan;129(1):106-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12525204</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2005 Apr 14;434(7035):913-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15829966</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Radiother Oncol. 2012 Mar;102(3):466-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22326574</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Oncol. 2014 Dec;8(8):1616-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25028150</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Cancer Res. 2007 May 15;13(10):3033-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17505006</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 2009 Sep 2;28(17):2601-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19629035</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Radiat Oncol Biol Phys. 2008 Nov 15;72(4):1188-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18954712</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 2001 Apr;21(8):2858-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11283264</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2012 Jun 1;72 (11):2814-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22447567</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cancer Ther. 2006 Mar;5(3):564-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16546970</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Semin Radiat Oncol. 2009 Jan;19(1):53-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19028346</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2012 Aug;40(15):7347-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22573178</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Semin Radiat Oncol. 2010 Oct;20(4):274-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20832020</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 1998 Jan 15;17(2):598-608</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9430650</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Mol Life Sci. 2005 Apr;62(7-8):731-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15868398</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2005 Apr 14;434(7035):917-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15829967</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncotarget. 2014 Jul 15;5(13):5076-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24970803</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2008 Jul;36(12 ):4088-98</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18539610</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2009 Oct 22;461(7267):1071-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19847258</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Cancer. 2011 Apr;11(4):239-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21430696</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

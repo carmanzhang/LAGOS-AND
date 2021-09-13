@@ -1,0 +1,165 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">22453433</PMID>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>08</Month>
+            <Day>01</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>10</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1094-4087</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>20</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Mar</Month>
+                        <Day>26</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Optics express</Title>
+                <ISOAbbreviation>Opt Express</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Transmission of PM-QPSK and PS-QPSK with different fiber span lengths.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>7544-54</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1364/OE.20.007544</ELocationID>
+            <Abstract>
+                <AbstractText>We perform experimental and numerical investigations of the transmission reach of polarization-switched QPSK (PS-QPSK) and polarization-multiplexed QPSK (PM-QPSK) for three different fiber span lengths: 83, 111 and 136 km. In the experimental comparison we investigate the performance of PS-QPSK at 20 Gbaud and PM-QPSK at the same bit rate (60 Gbit/s) and at the same symbol rate, both the single channel case and a WDM system with 9 channels on a 50 GHz grid. We show that PS-QPSK gives significant benefits in transmission reach for all span lengths. Compared to PM-QPSK, use of PS-QPSK increases the reach with more than 41% for the same symbol rate and 21% for the same bit rate. In the numerical simulations we use the same data rates as in the experiment. The simulation results agree well with the experimental findings, but the transmission reach is longer due to the absence of various non-ideal effects and higher back-to-back sensitivity. Apart from using data coded in the absolute phase in the simulations, we also investigate differentially coded PS-QPSK for the first time and compare with PM-QPSK with differential coding. The power efficiency advantage of PS-QPSK then increases with approximately 0.3 dB at a bit error rate of 10⁻³, resulting in a further relative transmission reach improvement over PM-QPSK. Both the experimental and the numerical results indicate that PS-QPSK has slightly higher tolerance to inter-channel nonlinear crosstalk than PM-QPSK.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sjödin</LastName>
+                    <ForeName>Martin</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microtechnology and Nanoscience, Chalmers University of Technology, Kemivägen 9, SE-41296 Göteborg, Sweden. martin.sjodin@chalmers.se</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Puttnam</LastName>
+                    <ForeName>Ben J</ForeName>
+                    <Initials>BJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Johannisson</LastName>
+                    <ForeName>Pontus</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shinada</LastName>
+                    <ForeName>Satoshi</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wada</LastName>
+                    <ForeName>Naoya</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Andrekson</LastName>
+                    <ForeName>Peter A</ForeName>
+                    <Initials>PA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Karlsson</LastName>
+                    <ForeName>Magnus</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Opt Express</MedlineTA>
+            <NlmUniqueID>101137103</NlmUniqueID>
+            <ISSNLinking>1094-4087</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D003198" MajorTopicYN="N">Computer Simulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017076" MajorTopicYN="N">Computer-Aided Design</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004867" MajorTopicYN="N">Equipment Design</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019544" MajorTopicYN="N">Equipment Failure Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005336" MajorTopicYN="N">Fiber Optic Technology</DescriptorName>
+                <QualifierName UI="Q000295" MajorTopicYN="Y">instrumentation</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007834" MajorTopicYN="Y">Lasers</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008027" MajorTopicYN="N">Light</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008962" MajorTopicYN="N">Models, Theoretical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012542" MajorTopicYN="N">Scattering, Radiation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012815" MajorTopicYN="N">Signal Processing, Computer-Assisted</DescriptorName>
+                <QualifierName UI="Q000295" MajorTopicYN="Y">instrumentation</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013685" MajorTopicYN="N">Telecommunications</DescriptorName>
+                <QualifierName UI="Q000295" MajorTopicYN="Y">instrumentation</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>3</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>3</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>8</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">22453433</ArticleId>
+            <ArticleId IdType="pii">230434</ArticleId>
+            <ArticleId IdType="doi">10.1364/OE.20.007544</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

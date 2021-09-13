@@ -1,0 +1,111 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">19809442</PMID>
+        <DateCompleted>
+            <Year>2010</Year>
+            <Month>02</Month>
+            <Day>03</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>11</Month>
+            <Day>25</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1748-3395</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>4</Volume>
+                    <Issue>10</Issue>
+                    <PubDate>
+                        <Year>2009</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Nature nanotechnology</Title>
+                <ISOAbbreviation>Nat Nanotechnol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>It's not just about nanotoxicology.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>615</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1038/nnano.2009.280</ELocationID>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Jones</LastName>
+                    <ForeName>Richard</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physics and Astronomy at the University of Sheffield, UK. r.a.l.jones@sheffield.ac.uk</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Nat Nanotechnol</MedlineTA>
+            <NlmUniqueID>101283273</NlmUniqueID>
+            <ISSNLinking>1748-3387</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D002980" MajorTopicYN="N">Climate</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004787" MajorTopicYN="N">Environmental Pollution</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D049329" MajorTopicYN="N">Nanostructures</DescriptorName>
+                <QualifierName UI="Q000633" MajorTopicYN="Y">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D036103" MajorTopicYN="N">Nanotechnology</DescriptorName>
+                <QualifierName UI="Q000941" MajorTopicYN="Y">ethics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006113" MajorTopicYN="N">United Kingdom</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2009</Year>
+                <Month>10</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2009</Year>
+                <Month>10</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2010</Year>
+                <Month>2</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">19809442</ArticleId>
+            <ArticleId IdType="pii">nnano.2009.280</ArticleId>
+            <ArticleId IdType="doi">10.1038/nnano.2009.280</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

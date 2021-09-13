@@ -1,0 +1,473 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">5523457</PMID>
+        <DateCompleted>
+            <Year>1972</Year>
+            <Month>03</Month>
+            <Day>02</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>30</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0023-2173</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>48</Volume>
+                    <Issue>17</Issue>
+                    <PubDate>
+                        <Year>1970</Year>
+                        <Month>Sep</Month>
+                        <Day>01</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Klinische Wochenschrift</Title>
+                <ISOAbbreviation>Klin. Wochenschr.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[The possibility of stimulation and suppression of renin secretion by sodium deprivation and sodium loading in primary and renal hypertension].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1024-33</MedlinePgn>
+            </Pagination>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Klaus</LastName>
+                    <ForeName>D</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bocskor</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fleischer</LastName>
+                    <ForeName>K</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Simsch</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+            </AuthorList>
+            <Language>ger</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <VernacularTitle>Stimulier- und Supprimierbarkeit der Reninsekretion durch Natriumentzug bzw. Natriumbelastung bei primärer und renaler Hypertonie.</VernacularTitle>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Klin Wochenschr</MedlineTA>
+            <NlmUniqueID>2985205R</NlmUniqueID>
+            <ISSNLinking>0023-2173</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D008901">Mineralocorticoids</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>7LXU5N7ZO5</RegistryNumber>
+                <NameOfSubstance UI="D005665">Furosemide</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9NEZ333N27</RegistryNumber>
+                <NameOfSubstance UI="D012964">Sodium</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.23.15</RegistryNumber>
+                <NameOfSubstance UI="D012083">Renin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>RWP5GA015D</RegistryNumber>
+                <NameOfSubstance UI="D011188">Potassium</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D003937" MajorTopicYN="N">Diagnosis, Differential</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005665" MajorTopicYN="N">Furosemide</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005921" MajorTopicYN="N">Glomerulonephritis</DescriptorName>
+                <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006929" MajorTopicYN="N">Hyperaldosteronism</DescriptorName>
+                <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006973" MajorTopicYN="N">Hypertension</DescriptorName>
+                <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006977" MajorTopicYN="N">Hypertension, Renal</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008901" MajorTopicYN="N">Mineralocorticoids</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011188" MajorTopicYN="N">Potassium</DescriptorName>
+                <QualifierName UI="Q000652" MajorTopicYN="N">urine</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011704" MajorTopicYN="N">Pyelonephritis</DescriptorName>
+                <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012083" MajorTopicYN="N">Renin</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012964" MajorTopicYN="N">Sodium</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName UI="Q000652" MajorTopicYN="N">urine</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1970</Year>
+                <Month>9</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1970</Year>
+                <Month>9</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1970</Year>
+                <Month>9</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">5523457</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>JAMA. 1968 Aug 12;205(7):497-502</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">5695306</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Schweiz Med Wochenschr. 1968 Dec 14;98(50):1959-68</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">5706282</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circ Res. 1956 Mar;4(2):205-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">13293821</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 1968 Mar;28(3):359-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">5642688</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 1957 Oct;36(10):1460-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">13475484</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 1967 Sep;36(3):387-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4227326</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 1968 Jan;37(1):27-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4294498</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Internist (Berl). 1968 Apr 25;9(3):119-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4387031</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Med. 1967 Sep;43(3):371-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4292238</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Dtsch Med Wochenschr. 1969 May 16;94(20):1049-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4305855</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol. 1969 Apr;216(4):693-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">5775865</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circ Res. 1966 Oct;19(4):851-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">5917853</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 1969 Sep;29(9):1168-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4390114</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 1969 May;39(5):685-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">5787319</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Klin Wochenschr. 1969 Mar 15;47(6):318-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4313054</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol. 1968 Oct;215(4):908-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">5676393</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Can Med Assoc J. 1964 Jan 25;90:194-201</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14111716</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 1968 Nov;38(5):965-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">5697693</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acta Endocrinol (Copenh). 1969 Nov;62(3):399-410</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">5395006</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Intern Med. 1969 Feb;123(2):131-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4303266</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 1969 Jan;39(1):48-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4302539</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Klin Wochenschr. 1969 May 15;47(10):518-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">5382533</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Klin Wochenschr. 1967 Jul 1;45(13):657-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4297843</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Intern Med. 1969 Apr;123(4):366-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">5778117</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol. 1965 Sep;209(3):659-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">5837752</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 1969 May 22;280(21):1141-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">5782122</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 1961 Feb;40:408-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">13715311</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 1967 Apr;46(4):599-605</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6021207</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acta Med Scand. 1968 Dec;184(6):517-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">5709337</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Klin Wochenschr. 1966 Mar 1;44(5):233-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">5983835</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol. 1968 Jan;214(1):15-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4169054</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Postgrad Med J. 1966 Mar;42(485):153-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4286073</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Schweiz Med Wochenschr. 1968 Jan 20;98(3):65-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4299459</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Med Welt. 1968 Oct 19;42:2259-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">5730691</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Dtsch Med Wochenschr. 1967 Nov 17;92(46):2114-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4294569</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Helv Med Acta. 1969 Jan;34(5):386-400</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">5766169</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Schweiz Med Wochenschr. 1961 Jul 29;91:869-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">13789878</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br Med J. 1966 Dec 10;2(5527):1430-1</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">5333102</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Intern Med. 1967 Oct;120(4):444-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6058099</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol. 1964 Sep;207:537-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14220020</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arztl Forsch. 1969 May 10;23(5):160-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">5409316</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Klin Wochenschr. 1969 Jul 1;47(13):688-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">5382548</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Circulation. 1969 Sep;40(3):357-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">5810892</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Verh Dtsch Ges Inn Med. 1967;73:604-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">5591812</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Dtsch Med Wochenschr. 1969 Apr 11;94(15):760-4 passim</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">5777258</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nephron. 1965;2(2):95-106</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4284015</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol. 1967 Mar;212(3):651-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6020540</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol. 1967 Sep;213(3):701-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6036787</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lab Invest. 1966 Sep;15(9):1409-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4162162</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

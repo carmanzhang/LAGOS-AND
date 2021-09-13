@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+        <PMID Version="1">14410976</PMID>
+        <DateCompleted>
+            <Year>1998</Year>
+            <Month>11</Month>
+            <Day>01</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>12</Month>
+            <Day>01</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0010-1087</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>27</Volume>
+                    <PubDate>
+                        <Year>1960</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Transactions &amp; studies of the College of Physicians of Philadelphia</Title>
+                <ISOAbbreviation>Trans Stud Coll Physicians Phila</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Historical aspects of the development of live virus vaccines in polimyelitis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>95-106</MedlinePgn>
+            </Pagination>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>KOPROWSKI</LastName>
+                    <ForeName>H</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Trans Stud Coll Physicians Phila</MedlineTA>
+            <NlmUniqueID>7506084</NlmUniqueID>
+            <ISSNLinking>0010-1087</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014612">Vaccines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014613">Vaccines, Attenuated</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>OM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D011051" MajorTopicYN="N">Poliomyelitis</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014612" MajorTopicYN="N">Vaccines</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="Y">complications</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014613" MajorTopicYN="Y">Vaccines, Attenuated</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NLM">
+            <Keyword MajorTopicYN="Y">POLIOMYELITIS/immunology</Keyword>
+            <Keyword MajorTopicYN="Y">VACCINES/complications</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1960</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1960</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1960</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">14410976</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,199 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">18501223</PMID>
+        <DateCompleted>
+            <Year>2008</Year>
+            <Month>06</Month>
+            <Day>12</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1555-7162</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>121</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2008</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The American journal of medicine</Title>
+                <ISOAbbreviation>Am J Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Gastrointestinal and cardiovascular risks of nonsteroidal anti-inflammatory drugs.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>464-74</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.amjmed.2008.01.045</ELocationID>
+            <Abstract>
+                <AbstractText>Nonsteroidal anti-inflammatory drugs (NSAIDs) are widely prescribed but can have serious gastrointestinal (GI) and cardiovascular side effects, which have led to the withdrawal of some of these drugs and continuing uncertainty about the best approach to patients requiring NSAID therapy, particularly in those with GI or cardiovascular risk factors. To define the risks to the GI and cardiovascular systems associated with NSAID therapy, we have undertaken a series of systematic reviews of original articles published between January 1995 and December 2006. In this article we describe the mechanisms and patterns of GI and cardiovascular side effects in NSAID-taking patients and identify a range of drug and patient factors that contribute to an increased risk of adverse events. We conclude that NSAID therapy should not be started unless it is essential, and that Helicobacter pylori eradication should be considered in patients at increased GI risk. We discuss the use of gastroprotective agents and provide practical advice to help physicians assess and balance both cardiovascular and GI risks and benefits in their prescribing decisions.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Jones</LastName>
+                    <ForeName>Roger</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of General Practice and Primary Care, King's College London School of Medicine, London, UK. roger.jones@kcl.ac.uk</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rubin</LastName>
+                    <ForeName>Greg</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Berenbaum</LastName>
+                    <ForeName>Francis</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Scheiman</LastName>
+                    <ForeName>James</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Am J Med</MedlineTA>
+            <NlmUniqueID>0267200</NlmUniqueID>
+            <ISSNLinking>0002-9343</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000894">Anti-Inflammatory Agents, Non-Steroidal</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D052246">Cyclooxygenase 2 Inhibitors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D054328">Proton Pump Inhibitors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0E43V0BB57</RegistryNumber>
+                <NameOfSubstance UI="D016595">Misoprostol</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.14.99.1</RegistryNumber>
+                <NameOfSubstance UI="D011451">Prostaglandin-Endoperoxide Synthases</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000894" MajorTopicYN="N">Anti-Inflammatory Agents, Non-Steroidal</DescriptorName>
+                <QualifierName UI="Q000009" MajorTopicYN="Y">adverse effects</QualifierName>
+                <QualifierName UI="Q000145" MajorTopicYN="N">classification</QualifierName>
+                <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002319" MajorTopicYN="N">Cardiovascular System</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D052246" MajorTopicYN="N">Cyclooxygenase 2 Inhibitors</DescriptorName>
+                <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+                <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016099" MajorTopicYN="N">Endoscopy, Gastrointestinal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D041981" MajorTopicYN="N">Gastrointestinal Tract</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016481" MajorTopicYN="N">Helicobacter Infections</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016480" MajorTopicYN="N">Helicobacter pylori</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016595" MajorTopicYN="N">Misoprostol</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011451" MajorTopicYN="N">Prostaglandin-Endoperoxide Synthases</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D054328" MajorTopicYN="N">Proton Pump Inhibitors</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018570" MajorTopicYN="N">Risk Assessment</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>98</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2007</Year>
+                <Month>06</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2007</Year>
+                <Month>12</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2008</Year>
+                <Month>01</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2008</Year>
+                <Month>5</Month>
+                <Day>27</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2008</Year>
+                <Month>6</Month>
+                <Day>13</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2008</Year>
+                <Month>5</Month>
+                <Day>27</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">18501223</ArticleId>
+            <ArticleId IdType="pii">S0002-9343(08)00228-3</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.amjmed.2008.01.045</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

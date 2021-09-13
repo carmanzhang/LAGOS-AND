@@ -1,0 +1,564 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">19014619</PMID>
+        <DateCompleted>
+            <Year>2009</Year>
+            <Month>03</Month>
+            <Day>04</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1471-2105</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>9</Volume>
+                    <PubDate>
+                        <Year>2008</Year>
+                        <Month>Nov</Month>
+                        <Day>17</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>BMC bioinformatics</Title>
+                <ISOAbbreviation>BMC Bioinformatics</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>mtDNAmanager: a Web-based tool for the management and quality analysis of mitochondrial DNA control-region sequences.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>483</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/1471-2105-9-483</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">For the past few years, scientific controversy has surrounded the large number of errors in forensic and literature mitochondrial DNA (mtDNA) data. However, recent research has shown that using mtDNA phylogeny and referring to known mtDNA haplotypes can be useful for checking the quality of sequence data.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">We developed a Web-based bioinformatics resource &quot;mtDNAmanager&quot; that offers a convenient interface supporting the management and quality analysis of mtDNA sequence data. The mtDNAmanager performs computations on mtDNA control-region sequences to estimate the most-probable mtDNA haplogroups and retrieves similar sequences from a selected database. By the phased designation of the most-probable haplogroups (both expected and estimated haplogroups), mtDNAmanager enables users to systematically detect errors whilst allowing for confirmation of the presence of clear key diagnostic mutations and accompanying mutations. The query tools of mtDNAmanager also facilitate database screening with two options of &quot;match&quot; and &quot;include the queried nucleotide polymorphism&quot;. In addition, mtDNAmanager provides Web interfaces for users to manage and analyse their own data in batch mode.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The mtDNAmanager will provide systematic routines for mtDNA sequence data management and analysis via easily accessible Web interfaces, and thus should be very useful for population, medical and forensic studies that employ mtDNA analysis. mtDNAmanager can be accessed at http://mtmanager.yonsei.ac.kr.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Hwan Young</ForeName>
+                    <Initials>HY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Forensic Medicine, Yonsei University College of Medicine, Seoul, Korea. hylee192@yuhs.ac</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Song</LastName>
+                    <ForeName>Injee</ForeName>
+                    <Initials>I</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ha</LastName>
+                    <ForeName>Eunho</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cho</LastName>
+                    <ForeName>Sung-Bae</ForeName>
+                    <Initials>SB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Woo Ick</ForeName>
+                    <Initials>WI</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shin</LastName>
+                    <ForeName>Kyoung-Jin</ForeName>
+                    <Initials>KJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2008</Year>
+                <Month>11</Month>
+                <Day>17</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>BMC Bioinformatics</MedlineTA>
+            <NlmUniqueID>100965194</NlmUniqueID>
+            <ISSNLinking>1471-2105</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004272">DNA, Mitochondrial</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001483" MajorTopicYN="N">Base Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019295" MajorTopicYN="N">Computational Biology</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004272" MajorTopicYN="N">DNA, Mitochondrial</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D030541" MajorTopicYN="Y">Databases, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006239" MajorTopicYN="N">Haplotypes</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020407" MajorTopicYN="Y">Internet</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019901" MajorTopicYN="N">Locus Control Region</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008969" MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010802" MajorTopicYN="N">Phylogeny</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012107" MajorTopicYN="N">Research Design</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012984" MajorTopicYN="Y">Software</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2008</Year>
+                <Month>09</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2008</Year>
+                <Month>11</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2008</Year>
+                <Month>11</Month>
+                <Day>19</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2009</Year>
+                <Month>3</Month>
+                <Day>5</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2008</Year>
+                <Month>11</Month>
+                <Day>19</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">19014619</ArticleId>
+            <ArticleId IdType="pii">1471-2105-9-483</ArticleId>
+            <ArticleId IdType="doi">10.1186/1471-2105-9-483</ArticleId>
+            <ArticleId IdType="pmc">PMC2621369</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Forensic Sci Int. 2000 May 15;110(2):79-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10808096</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 1999 Oct;23(2):147</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10508508</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Legal Med. 2001 Oct;115(2):64-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11724431</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Biol Evol. 2002 Oct;19(10):1737-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12270900</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Hum Genet. 2002 Nov;71(5):1150-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12384858</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Hum Genet. 2002 Nov;71(5):1082-111</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12395296</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Legal Med. 2003 Aug;117(4):218-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12845447</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Forensic Sci Int Genet. 2008 Sep;2(4):e61-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19083830</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Forensic Sci Int Genet. 2008 Jun;2(3):e45-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19083815</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Hum Genet. 2003 Sep;73(3):671-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12870132</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hum Genet. 2003 Oct;113(5):391-405</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12938036</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Hum Genet. 2003 Nov;73(5):1178-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14574647</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Hum Genet. 2004 Mar;74(3):454-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14872407</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Hum Genet. 2004 May;74(5):827-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15077202</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2004 Sep 3;305(5689):1402-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15353782</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Genet. 2004 Aug 31;5:26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15339343</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Hum Genet. 2004 Nov;75(5):910-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15382008</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Hum Genet. 2004 Nov;75(5):752-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15457403</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Res. 2004 Oct;14(10A):1832-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15466285</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Biol Evol. 2004 Nov;21(11):2012-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15254257</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Hum Genet. 2004 Dec;75(6):966-78</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15467980</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Legal Med. 2004 Oct;118(5):267-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15257464</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Legal Med. 2004 Oct;118(5):294-306</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15248073</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2005 Feb 11;307(5711):845-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15705827</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Biol Evol. 2005 Mar;22(3):725-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15548747</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Hum Genet. 2005 May;76(5):883-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15791543</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Biol Evol. 2005 Jun;22(6):1506-17</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15814828</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2005 May 13;308(5724):1034-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15890885</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Biophys Res Commun. 2005 Sep 30;335(3):891-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16102729</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2005 Sep 13;102(37):13034-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16150714</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Bioinformatics. 2005;6 Suppl 4:S4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16351753</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Legal Med. 2006 Jan;120(1):5-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16177905</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Hum Genet. 2006 Mar;78(3):487-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16404693</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Biol Evol. 2006 Mar;23(3):683-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16361303</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hum Mol Genet. 2006 Jul 1;15(13):2076-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16714301</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Genomics. 2006;7:151</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16776823</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Legal Med. 2006 Sep;120(5):310-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16871406</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Biol Evol. 2006 Oct;23(10):1966-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16855009</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Genet. 2006;7:42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16893451</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Biol Evol. 2006 Dec;23(12):2480-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16982817</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Electrophoresis. 2006 Nov;27(22):4408-18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17058303</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Hum Genet. 2007 Jan;80(1):29-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17160892</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2006 Dec 15;314(5806):1767-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17170302</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Biol Evol. 2007 Feb;24(2):436-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17099056</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Forensic Sci Int. 2007 Mar 2;166(2-3):164-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16829006</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2007;2(2):e248</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17327912</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2007 May 22;104(21):8726-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17496137</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Legal Med. 2007 Sep;121(5):377-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17186294</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Forensic Sci Int. 2007 Oct 25;172(2-3):218-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17331686</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Forensic Sci Int. 2007 Oct 25;172(2-3):171-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17336475</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Hum Genet. 2007 Nov;81(5):1025-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17924343</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2007;2(11):e1141</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17989774</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Hum Genet. 2008 Mar;72(Pt 2):228-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18205894</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2008;3(3):e1764</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18335039</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Biol Evol. 2008 Jun;25(6):1209-18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18359946</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Biol Evol. 2008 Aug;25(8):1651-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18477584</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Forensic Sci Int Genet. 2007 Jun;1(2):88-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19083735</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Forensic Sci Int Genet. 2008 Jan;2(1):e9-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19083782</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Forensic Sci Int Genet. 2008 Mar;2(2):e19-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19083798</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Biol Evol. 2004 Dec;21(12):2265-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15317881</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Forensic Sci Int. 1994 Feb;64(2-3):125-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8175083</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Hum Genet. 1999 Jan;64(1):232-49</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9915963</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Hum Genet. 2001 Mar;68(3):723-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11179019</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

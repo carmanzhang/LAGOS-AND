@@ -1,0 +1,185 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">15157097</PMID>
+        <DateCompleted>
+            <Year>2004</Year>
+            <Month>08</Month>
+            <Day>16</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>11</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0006-2960</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>43</Volume>
+                    <Issue>21</Issue>
+                    <PubDate>
+                        <Year>2004</Year>
+                        <Month>Jun</Month>
+                        <Day>01</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biochemistry</Title>
+                <ISOAbbreviation>Biochemistry</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Structural analysis of botulinum neurotoxin type E catalytic domain and its mutant Glu212--&gt;Gln reveals the pivotal role of the Glu212 carboxylate in the catalytic pathway.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>6637-44</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The seven serotypes of botulinum neurotoxins (A-G) produced by Clostridium botulinum share significant sequence homology and structural similarity. The functions of their individual domains and the modes of action are also similar. However, the substrate specificity and the peptide bond cleavage selectivity of their catalytic domains are different. The reason for this unique specificity of botulinum neurotoxins is still baffling. If an inhibitor leading to a therapeutic drug common to all serotypes is to be developed, it is essential to understand the differences in their three-dimensional structures that empower them with this unique characteristic. Accordingly, high-resolution structures of all serotypes are required, and toward achieving this goal the crystal structure of the catalytic domain of C. botulinum neurotoxin type E has been determined to 2.1 A resolution. The crystal structure of the inactive mutant Glu212--&gt;Gln of this protein has also been determined. While the overall conformation is unaltered in the active site, the position of the nucleophilic water changes in the mutant, thereby causing it to lose its ability to activate the catalytic reaction. The structure explains the importance of the nucleophilic water and the charge on Glu212. The structural differences responsible for the loss of activity of the mutant provide a common model for the catalytic pathway of Clostridium neurotoxins since Glu212 is conserved and has a similar role in all serotypes. This or a more nonconservative mutant (e.g., Glu212--&gt;Ala) could provide a novel, genetically modified protein vaccine for botulinum.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Agarwal</LastName>
+                    <ForeName>Rakhi</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Biology Department, Brookhaven National Laboratory, Upton, New York 11973, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Eswaramoorthy</LastName>
+                    <ForeName>Subramaniam</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kumaran</LastName>
+                    <ForeName>Desigan</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Binz</LastName>
+                    <ForeName>Thomas</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Swaminathan</LastName>
+                    <ForeName>Subramanyam</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>PDB</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>1T3A</AccessionNumber>
+                        <AccessionNumber>1T3C</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Biochemistry</MedlineTA>
+            <NlmUniqueID>0370623</NlmUniqueID>
+            <ISSNLinking>0006-2960</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0RH81L854J</RegistryNumber>
+                <NameOfSubstance UI="D005973">Glutamine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>3KX376GY7L</RegistryNumber>
+                <NameOfSubstance UI="D018698">Glutamic Acid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.24.69</RegistryNumber>
+                <NameOfSubstance UI="D001905">Botulinum Toxins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>T579M564JY</RegistryNumber>
+                <NameOfSubstance UI="C096326">botulinum toxin type E</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000595" MajorTopicYN="N">Amino Acid Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001905" MajorTopicYN="N">Botulinum Toxins</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020134" MajorTopicYN="N">Catalytic Domain</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018360" MajorTopicYN="N">Crystallography, X-Ray</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018698" MajorTopicYN="N">Glutamic Acid</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005973" MajorTopicYN="N">Glutamine</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008958" MajorTopicYN="N">Models, Molecular</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008969" MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017354" MajorTopicYN="Y">Point Mutation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011487" MajorTopicYN="N">Protein Conformation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017386" MajorTopicYN="N">Sequence Homology, Amino Acid</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2004</Year>
+                <Month>5</Month>
+                <Day>26</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2004</Year>
+                <Month>8</Month>
+                <Day>18</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2004</Year>
+                <Month>5</Month>
+                <Day>26</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">15157097</ArticleId>
+            <ArticleId IdType="doi">10.1021/bi036278w</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

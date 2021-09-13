@@ -1,0 +1,147 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">22511806</PMID>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>11</Month>
+            <Day>19</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2012</Year>
+            <Month>07</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1460-2431</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>63</Volume>
+                    <Issue>11</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of experimental botany</Title>
+                <ISOAbbreviation>J Exp Bot</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Association mapping in forest trees and fruit crops.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>4045-60</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1093/jxb/ers105</ELocationID>
+            <Abstract>
+                <AbstractText>Association mapping (AM), also known as linkage disequilibrium (LD) mapping, is a viable approach to overcome limitations of pedigree-based quantitative trait loci (QTL) mapping. In AM, genotypic and phenotypic correlations are investigated in unrelated individuals. Unlike QTL mapping, AM takes advantage of both LD and historical recombination present within the gene pool of an organism, thus utilizing a broader reference population. In plants, AM has been used in model species with available genomic resources. Pursuing AM in tree species requires both genotyping and phenotyping of large populations with unique architectures. Recently, genome sequences and genomic resources for forest and fruit crops have become available. Due to abundance of single nucleotide polymorphisms (SNPs) within a genome, along with availability of high-throughput resequencing methods, SNPs can be effectively used for genotyping trees. In addition to DNA polymorphisms, copy number variations (CNVs) in the form of deletions, duplications, and insertions also play major roles in control of expression of phenotypic traits. Thus, CNVs could provide yet another valuable resource, beyond those of microsatellite and SNP variations, for pursuing genomic studies. As genome-wide SNP data are generated from high-throughput sequencing efforts, these could be readily reanalysed to identify CNVs, and subsequently used for AM studies. However, forest and fruit crops possess unique architectural and biological features that ought to be taken into consideration when collecting genotyping and phenotyping data, as these will also dictate which AM strategies should be pursued. These unique features as well as their impact on undertaking AM studies are outlined and discussed.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Khan</LastName>
+                    <ForeName>M Awais</ForeName>
+                    <Initials>MA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Natural Resources &amp; Environmental Sciences, University of Illinois, Urbana, IL 61801 USA. awais@illinois.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Korban</LastName>
+                    <ForeName>Schuyler S</ForeName>
+                    <Initials>SS</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2012</Year>
+                <Month>04</Month>
+                <Day>17</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Exp Bot</MedlineTA>
+            <NlmUniqueID>9882906</NlmUniqueID>
+            <ISSNLinking>0022-0957</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010940">Plant Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D002874" MajorTopicYN="N">Chromosome Mapping</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018556" MajorTopicYN="N">Crops, Agricultural</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000254" MajorTopicYN="N">growth &amp; development</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005638" MajorTopicYN="N">Fruit</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000254" MajorTopicYN="N">growth &amp; development</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015810" MajorTopicYN="Y">Linkage Disequilibrium</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010940" MajorTopicYN="N">Plant Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D040641" MajorTopicYN="N">Quantitative Trait Loci</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014197" MajorTopicYN="N">Trees</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000254" MajorTopicYN="N">growth &amp; development</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>4</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>4</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>12</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">22511806</ArticleId>
+            <ArticleId IdType="pii">ers105</ArticleId>
+            <ArticleId IdType="doi">10.1093/jxb/ers105</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,157 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">9522001</PMID>
+        <DateCompleted>
+            <Year>1998</Year>
+            <Month>06</Month>
+            <Day>25</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>10</Month>
+            <Day>20</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1055-0496</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>7</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>1998</Year>
+                        <Season>Winter</Season>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The American journal on addictions</Title>
+                <ISOAbbreviation>Am J Addict</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Diagnosis of personality disorders in cocaine-dependent individuals.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1-6</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The authors explored the relationship between personality disorder (PD) and cocaine use. Diagnostic interviews for PD were performed at baseline and 12 weeks (study termination) in 47 cocaine-dependent individuals entering a pharmacologic treatment trial; 68% met criteria for a PD at baseline, 51% at study termination. In comparing baseline and termination PD, 22 individuals had no change in the number of PDs, 6 had more, and 17 had fewer. The group with an increase in the number of PD diagnoses had more positive urine drug screens than either of the other groups and more cocaine use by self-report. Personality disorders appear to be common in cocaine-dependent individuals but may be affected by cocaine use and withdrawal.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sonne</LastName>
+                    <ForeName>S C</ForeName>
+                    <Initials>SC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry and Behavioral Sciences, Medical University of South Carolina, Charleston 29425-0742, USA. sonnesc@musc.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brady</LastName>
+                    <ForeName>K T</ForeName>
+                    <Initials>KT</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016430">Clinical Trial</PublicationType>
+                <PublicationType UI="D003160">Comparative Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Am J Addict</MedlineTA>
+            <NlmUniqueID>9208821</NlmUniqueID>
+            <ISSNLinking>1055-0496</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D018712">Analgesics, Non-Narcotic</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016578">Crack Cocaine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>33CM23913M</RegistryNumber>
+                <NameOfSubstance UI="D002220">Carbamazepine</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000553" MajorTopicYN="N">Ambulatory Care</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018712" MajorTopicYN="N">Analgesics, Non-Narcotic</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002220" MajorTopicYN="N">Carbamazepine</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019970" MajorTopicYN="N">Cocaine-Related Disorders</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+                <QualifierName UI="Q000523" MajorTopicYN="N">psychology</QualifierName>
+                <QualifierName UI="Q000534" MajorTopicYN="Y">rehabilitation</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016578" MajorTopicYN="Y">Crack Cocaine</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004311" MajorTopicYN="N">Double-Blind Method</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010554" MajorTopicYN="N">Personality Disorders</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+                <QualifierName UI="Q000175" MajorTopicYN="Y">diagnosis</QualifierName>
+                <QualifierName UI="Q000523" MajorTopicYN="N">psychology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011569" MajorTopicYN="N">Psychiatric Status Rating Scales</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1998</Year>
+                <Month>4</Month>
+                <Day>2</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1998</Year>
+                <Month>4</Month>
+                <Day>2</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1998</Year>
+                <Month>4</Month>
+                <Day>2</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">9522001</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

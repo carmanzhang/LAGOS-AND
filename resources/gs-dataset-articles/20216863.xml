@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">20216863</PMID>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>10</Month>
+            <Day>02</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>10</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1559-128X</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>19</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>1980</Year>
+                        <Month>Feb</Month>
+                        <Day>01</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Applied optics</Title>
+                <ISOAbbreviation>Appl Opt</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>High-power phosphate-glass laser system: design and performance characteristics.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>409-19</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1364/AO.19.000409</ELocationID>
+            <Abstract>
+                <AbstractText>A one-beam prototype of a large twenty-four-beam phosphate-glass laser system has been built and tested. Basic design characteristics include Nd-doped phosphate glass, rod amplifiers up to 90-mm diam, the propagation of a circularly polarized beam, extensive spatial filtering and imaging, and the use of large-aperture Pockels cells. The prototype system has demonstrated focusable power in excess of 750 GW/beam at 50-psec full width at half-maximum (FWHM) pulse duration and has delivered 165 J of focusable energy in a 500-psec (FWHM) pulse. Maximum beam brightness has been measured to be 4 x 10(19) W/cm(2) .sr at a firing rate of 2 shots/hr. Peak-to-background energy contrast of 10(8) has been achieved with this system. A detailed description of the system design and performance is presented.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Seka</LastName>
+                    <ForeName>W</ForeName>
+                    <Initials>W</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Soures</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lewis</LastName>
+                    <ForeName>O</ForeName>
+                    <Initials>O</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bunkenburg</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brown</LastName>
+                    <ForeName>D</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jacobs</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mourou</LastName>
+                    <ForeName>G</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zimmermann</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Appl Opt</MedlineTA>
+            <NlmUniqueID>0247660</NlmUniqueID>
+            <ISSNLinking>1559-128X</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>3</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1980</Year>
+                <Month>2</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1980</Year>
+                <Month>2</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20216863</ArticleId>
+            <ArticleId IdType="pii">23726</ArticleId>
+            <ArticleId IdType="doi">10.1364/AO.19.000409</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

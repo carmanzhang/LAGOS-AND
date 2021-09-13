@@ -1,0 +1,154 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">16103787</PMID>
+        <DateCompleted>
+            <Year>2005</Year>
+            <Month>09</Month>
+            <Day>07</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>07</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0002-9629</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>330</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2005</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The American journal of the medical sciences</Title>
+                <ISOAbbreviation>Am J Med Sci</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The role of statins in chronic kidney disease.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>69-81</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Chronic kidney disease is associated with cardiovascular event rates that are at least as high as in patients with established atherosclerotic cardiovascular disease or in those with diabetes mellitus. Chronic kidney disease is therefore considered a cardiovascular disease risk equivalent. Treatment of dyslipidemia, which is very common in this population and reflects the pattern seen in the metabolic syndrome, reduces cardiovascular events in patients with chronic kidney disease. Thus, patients with chronic kidney disease should be evaluated and treated for dyslipidemia. Dyslipidemia is a risk factor for the development of impaired kidney function. Dyslipidemia is also associated with progressive renal disease in subjects with no overt renal disease, as well as those with diabetic and nondiabetic kidney disease. Although definitive randomized controlled trials are lacking, the collective evidence suggests that treatment of dyslipidemia is associated with less decline in renal function. The use of potent statins in high doses can lead to transient proteinuria via impairment of proximal tubular receptor--mediated endocytosis, in a dose-dependent manner. Over the long term, however, the use of statins results in a reduction in proteinuria and in the rate of decline of renal function. Several large definitive trials that are currently underway to examine the safety and efficacy of statins in cardiovascular and renal protection should provide more definitive answers on the role of these drugs in this very high risk population.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Agarwal</LastName>
+                    <ForeName>Rajiv</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, Department of Medicine, Indiana University School of Medicine, Indianapolis, 46202, USA. ragarwal@iupui.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Curley</LastName>
+                    <ForeName>Timothy M</ForeName>
+                    <Initials>TM</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D017418">Meta-Analysis</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Am J Med Sci</MedlineTA>
+            <NlmUniqueID>0370506</NlmUniqueID>
+            <ISSNLinking>0002-9629</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D019161">Hydroxymethylglutaryl-CoA Reductase Inhibitors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D008055">Lipids</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001161" MajorTopicYN="N">Arteriosclerosis</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002318" MajorTopicYN="N">Cardiovascular Diseases</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002986" MajorTopicYN="N">Clinical Trials as Topic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019161" MajorTopicYN="N">Hydroxymethylglutaryl-CoA Reductase Inhibitors</DescriptorName>
+                <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006949" MajorTopicYN="N">Hyperlipidemias</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007676" MajorTopicYN="N">Kidney Failure, Chronic</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D050356" MajorTopicYN="N">Lipid Metabolism</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008055" MajorTopicYN="N">Lipids</DescriptorName>
+                <QualifierName UI="Q000633" MajorTopicYN="N">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016032" MajorTopicYN="N">Randomized Controlled Trials as Topic</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>82</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2005</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2005</Year>
+                <Month>9</Month>
+                <Day>8</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2005</Year>
+                <Month>8</Month>
+                <Day>17</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">16103787</ArticleId>
+            <ArticleId IdType="pii">S0002-9629(15)32947-5</ArticleId>
+            <ArticleId IdType="doi">10.1097/00000441-200508000-00004</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

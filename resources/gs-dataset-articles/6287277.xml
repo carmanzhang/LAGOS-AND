@@ -1,0 +1,203 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">6287277</PMID>
+        <DateCompleted>
+            <Year>1982</Year>
+            <Month>10</Month>
+            <Day>12</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>11</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0028-0836</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>298</Volume>
+                    <Issue>5877</Issue>
+                    <PubDate>
+                        <Year>1982</Year>
+                        <Month>Aug</Month>
+                        <Day>26</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Nature</Title>
+                <ISOAbbreviation>Nature</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>DNA precursors in chemical mutagenesis: a novel application of DNA sequencing.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>863-5</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Recently, we have shown that deoxyribonucleoside residues in the cellular DNA precursor pool are generally more susceptible to methylation than are residues within the DNA duplex. The N-1 position of adenosine, for example, was found to be at least 13,000 times more susceptible to methylation by N-methyl-N-nitrosourea (MNU) than the same site in the DNA. These results suggest that potential sites for alkylation in the double-strand duplex are relatively inaccessible to direct alkylation in vivo. Many of these sites are probably protected from alkylation not only by their position in the interstices of the DNA helix, but also by further in vivo 'packaging' of the DNA in chromatin. We have now used DNA sequencing to demonstrate the incorporation properties of products of the reaction of MNU with dATP and of deoxy-N4-hydroxycytidine triphosphate during DNA replication in vitro by phage T4 DNA polymerase and the 'Klenow' fragment of Escherichia coli pol I. The results suggest that DNA precursor nucleotides due to their greater availability for alkylation, may offer routes for the introduction of alkylated residues into double-stranded DNA.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Topal</LastName>
+                    <ForeName>M D</ForeName>
+                    <Initials>MD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hutchison</LastName>
+                    <ForeName>C A</ForeName>
+                    <Initials>CA</Initials>
+                    <Suffix>3rd</Suffix>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Baker</LastName>
+                    <ForeName>M S</ForeName>
+                    <Initials>MS</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="N">
+                <Grant>
+                    <GrantID>CA 28632</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>GM 21313</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>GM 24798</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Nature</MedlineTA>
+            <NlmUniqueID>0410462</NlmUniqueID>
+            <ISSNLinking>0028-0836</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004277">DNA, Single-Stranded</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D003838">Deoxyadenine Nucleotides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D003845">Deoxycytosine Nucleotides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009153">Mutagens</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009607">Nitrosourea Compounds</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>684-93-5</RegistryNumber>
+                <NameOfSubstance UI="D008770">Methylnitrosourea</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>78232-33-4</RegistryNumber>
+                <NameOfSubstance UI="C021203">N(4)-hydroxydeoxycytidine triphosphate</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.7.-</RegistryNumber>
+                <NameOfSubstance UI="D004256">DNA Polymerase I</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.21.-</RegistryNumber>
+                <NameOfSubstance UI="D004262">DNA Restriction Enzymes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>K8KCC8SH6N</RegistryNumber>
+                <NameOfSubstance UI="C026600">2'-deoxyadenosine triphosphate</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000478" MajorTopicYN="N">Alkylation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001483" MajorTopicYN="N">Base Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004256" MajorTopicYN="N">DNA Polymerase I</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004261" MajorTopicYN="N">DNA Replication</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004262" MajorTopicYN="N">DNA Restriction Enzymes</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004277" MajorTopicYN="N">DNA, Single-Stranded</DescriptorName>
+                <QualifierName UI="Q000096" MajorTopicYN="N">biosynthesis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003838" MajorTopicYN="N">Deoxyadenine Nucleotides</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003845" MajorTopicYN="N">Deoxycytosine Nucleotides</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008770" MajorTopicYN="N">Methylnitrosourea</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009153" MajorTopicYN="N">Mutagens</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009607" MajorTopicYN="N">Nitrosourea Compounds</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1982</Year>
+                <Month>8</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1982</Year>
+                <Month>8</Month>
+                <Day>26</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1982</Year>
+                <Month>8</Month>
+                <Day>26</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">6287277</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

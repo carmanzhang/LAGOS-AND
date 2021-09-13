@@ -1,0 +1,217 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">19081099</PMID>
+        <DateCompleted>
+            <Year>2009</Year>
+            <Month>03</Month>
+            <Day>20</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">0021-9673</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>1216</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2009</Year>
+                        <Month>Jan</Month>
+                        <Day>02</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of chromatography. A</Title>
+                <ISOAbbreviation>J Chromatogr A</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Performance optimization in electric field gradient focusing.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>159-64</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.chroma.2008.11.031</ELocationID>
+            <Abstract>
+                <AbstractText>Electric field gradient focusing (EFGF) is a technique used to simultaneously separate and concentrate biomacromolecules, such as proteins, based on the opposing forces of an electric field gradient and a hydrodynamic flow. Recently, we reported EFGF devices fabricated completely from copolymers functionalized with poly(ethylene glycol), which display excellent resistance to protein adsorption. However, the previous devices did not provide the predicted linear electric field gradient and stable current. To improve performance, Tris-HCl buffer that was previously doped in the hydrogel was replaced with a phosphate buffer containing a salt (i.e., potassium chloride, KCl) with high mobility ions. The new devices exhibited stable current, good reproducibility, and a linear electric field distribution in agreement with the shaped gradient region design due to improved ion transport in the hydrogel. The field gradient was calculated based on theory to be approximately 5.76 V/cm(2) for R-phycoerythrin when the applied voltage was 500 V. The effect of EFGF separation channel dimensions was also investigated; a narrower focused band was achieved in a smaller diameter channel. The relationship between the bandwidth and channel diameter is consistent with theory. Three model proteins were resolved in an EFGF channel of this design. The improved device demonstrated 14,000-fold concentration of a protein sample (from 2 ng/mL to 27 microg/mL).</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sun</LastName>
+                    <ForeName>Xuefei</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry and Biochemistry, Brigham Young University, Provo, UT 84602, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Farnsworth</LastName>
+                    <ForeName>Paul B</ForeName>
+                    <Initials>PB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tolley</LastName>
+                    <ForeName>H Dennis</ForeName>
+                    <Initials>HD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Warnick</LastName>
+                    <ForeName>Karl F</ForeName>
+                    <Initials>KF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Woolley</LastName>
+                    <ForeName>Adam T</ForeName>
+                    <Initials>AT</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Milton L</ForeName>
+                    <Initials>ML</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 GM064547-01A1</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2008</Year>
+                <Month>11</Month>
+                <Day>19</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>J Chromatogr A</MedlineTA>
+            <NlmUniqueID>9318488</NlmUniqueID>
+            <ISSNLinking>0021-9673</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D020100">Hydrogels</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007477">Ions</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010710">Phosphates</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011506">Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>023C2WHX2V</RegistryNumber>
+                <NameOfSubstance UI="D014325">Tromethamine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>11016-17-4</RegistryNumber>
+                <NameOfSubstance UI="D010799">Phycoerythrin</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D004586" MajorTopicYN="N">Electrophoresis</DescriptorName>
+                <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020100" MajorTopicYN="N">Hydrogels</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007477" MajorTopicYN="N">Ions</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007525" MajorTopicYN="N">Isoelectric Focusing</DescriptorName>
+                <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010710" MajorTopicYN="N">Phosphates</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010799" MajorTopicYN="N">Phycoerythrin</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011506" MajorTopicYN="N">Proteins</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="Y">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012680" MajorTopicYN="N">Sensitivity and Specificity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013997" MajorTopicYN="N">Time Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014325" MajorTopicYN="N">Tromethamine</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2008</Year>
+                <Month>09</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2008</Year>
+                <Month>11</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2008</Year>
+                <Month>11</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2008</Year>
+                <Month>12</Month>
+                <Day>17</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2008</Year>
+                <Month>12</Month>
+                <Day>17</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2009</Year>
+                <Month>3</Month>
+                <Day>21</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">19081099</ArticleId>
+            <ArticleId IdType="pii">S0021-9673(08)02016-5</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.chroma.2008.11.031</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

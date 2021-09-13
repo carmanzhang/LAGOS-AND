@@ -1,0 +1,149 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">8932482</PMID>
+        <DateCompleted>
+            <Year>1997</Year>
+            <Month>02</Month>
+            <Day>13</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>07</Month>
+            <Day>09</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0008-4263</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>86</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <MedlineDate>1995 Nov-Dec</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Canadian journal of public health = Revue canadienne de sante publique</Title>
+                <ISOAbbreviation>Can J Public Health</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Carbon monoxide exposure in automobile garages: evaluation of mechanics].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>414-7</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Carbon monoxyde (CO) exposure is an occupational hazard for car mechanics. Following two cases of CO poisoning and a preliminary environmental assessment of four car dealerships, a descriptive study was initiated in 76 car dealer repair shops in the Quebec City area to evaluate CO exposure. Alveolar CO of 496 mechanics and ambient CO in 47 car dealer repair shops were measured: 44.6% of non smoker workers had an alveolar CO level greater than 27 ppm which is equivalent to a 5% level of carboxyhemoglobin (HbCO). Ambient CO was greater than 35 ppm in 42.6% of car repair shops, a level considered a risk for chronic health effects. The following measures were proposed to car dealership owners to reduce mechanics' exposure to CO: 1) Install or improve local or general ventilation systems, 2) improve the layout of the repair shops, and 3) prohibit running of car engines without proper connection to the ventilation system.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gourdeau</LastName>
+                    <ForeName>P</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departement de medecine du travail, CLSC Haute-Ville, Quebec, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Parent</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Soulard</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+            </AuthorList>
+            <Language>fre</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D004740">English Abstract</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <VernacularTitle>Exposition a l'oxyde de carbone dans les garages d'automobiles: evaluation chez les mecaniciens.</VernacularTitle>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>Can J Public Health</MedlineTA>
+            <NlmUniqueID>0372714</NlmUniqueID>
+            <ISSNLinking>0008-4263</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000395">Air Pollutants, Occupational</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D001335">Vehicle Emissions</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>7U1EE4V452</RegistryNumber>
+                <NameOfSubstance UI="D002248">Carbon Monoxide</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000395" MajorTopicYN="N">Air Pollutants, Occupational</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="Y">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001336" MajorTopicYN="N">Automobiles</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002248" MajorTopicYN="N">Carbon Monoxide</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="Y">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002249" MajorTopicYN="N">Carbon Monoxide Poisoning</DescriptorName>
+                <QualifierName UI="Q000517" MajorTopicYN="Y">prevention &amp; control</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004784" MajorTopicYN="Y">Environmental Monitoring</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009784" MajorTopicYN="N">Occupational Diseases</DescriptorName>
+                <QualifierName UI="Q000517" MajorTopicYN="Y">prevention &amp; control</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001335" MajorTopicYN="N">Vehicle Emissions</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="Y">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014691" MajorTopicYN="N">Ventilation</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1995</Year>
+                <Month>11</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1995</Year>
+                <Month>11</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1995</Year>
+                <Month>11</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">8932482</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

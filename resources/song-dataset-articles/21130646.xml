@@ -1,0 +1,153 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21130646</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>04</Month>
+            <Day>21</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2011</Year>
+            <Month>01</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-2976</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>102</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Bioresource technology</Title>
+                <ISOAbbreviation>Bioresour Technol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Application of rbcL based molecular diversity analysis to algae in wastewater treatment plants.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>3619-22</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.biortech.2010.10.125</ELocationID>
+            <Abstract>
+                <AbstractText>The molecular diversity of algae in the final clarifier or denitrification filter outfall from three wastewater treatment plants (WWTPs) with activated sludge based treatment was analyzed using the rbcL gene as a phylogenetic marker. The rbcL gene encodes the large subunit of the CO(2) fixing enzyme RuBisCO. Among algae identified at the WWTPs were diatoms, green algae, cyanobacteria, Eustigmatophyceae, and unknown heterokonts. A high level of diversity was observed within WWTPs with 19-24 unique rbcL sequences detected at each plant. Algae composition also varied between treatment plants. Our results show that the rbcL gene can be used as a phylogenetic marker for algae diversity analysis in a wastewater treatment context.</AbstractText>
+                <CopyrightInformation>Copyright © 2010 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ghosh</LastName>
+                    <ForeName>Sudeshna</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Civil and Environmental Engineering, University of Michigan, Ann Arbor, MI 48109, USA. sudghosh@umich.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Love</LastName>
+                    <ForeName>Nancy G</ForeName>
+                    <Initials>NG</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>31</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Bioresour Technol</MedlineTA>
+            <NlmUniqueID>9889523</NlmUniqueID>
+            <ISSNLinking>0960-8524</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>EC 4.1.1.39</RegistryNumber>
+                <NameOfSubstance UI="C101625">RbcL protein, plastid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 4.1.1.39</RegistryNumber>
+                <NameOfSubstance UI="D012273">Ribulose-Bisphosphate Carboxylase</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000458" MajorTopicYN="N">Cyanobacteria</DescriptorName>
+                <QualifierName UI="Q000145" MajorTopicYN="Y">classification</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012273" MajorTopicYN="N">Ribulose-Bisphosphate Carboxylase</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013045" MajorTopicYN="N">Species Specificity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014871" MajorTopicYN="Y">Water Microbiology</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018508" MajorTopicYN="N">Water Purification</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2010</Year>
+                <Month>06</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21130646</ArticleId>
+            <ArticleId IdType="pii">S0960-8524(10)01781-5</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.biortech.2010.10.125</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

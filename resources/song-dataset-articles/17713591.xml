@@ -1,0 +1,200 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">17713591</PMID>
+        <DateCompleted>
+            <Year>2010</Year>
+            <Month>06</Month>
+            <Day>28</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>09</Month>
+            <Day>30</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1687-4145</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <PubDate>
+                        <Year>2007</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>EURASIP journal on bioinformatics &amp; systems biology</Title>
+                <ISOAbbreviation>EURASIP J Bioinform Syst Biol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A novel signal processing measure to identify exact and inexact tandem repeat patterns in DNA sequences.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>43596</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The identification and analysis of repetitive patterns are active areas of biological and computational research. Tandem repeats in telomeres play a role in cancer and hypervariable trinucleotide tandem repeats are linked to over a dozen major neurodegenerative genetic disorders. In this paper, we present an algorithm to identify the exact and inexact repeat patterns in DNA sequences based on orthogonal exactly periodic subspace decomposition technique. Using the new measure our algorithm resolves the problems like whether the repeat pattern is of period P or its multiple (i.e., 2P, 3P, etc.), and several other problems that were present in previous signal-processing-based algorithms. We present an efficient algorithm of O(NL(w) log L(w)), where N is the length of DNA sequence and L(w) is the window length, for identifying repeats. The algorithm operates in two stages. In the first stage, each nucleotide is analyzed separately for periodicity, and in the second stage, the periodic information of each nucleotide is combined together to identify the tandem repeats. Datasets having exact and inexact repeats were taken up for the experimental purpose. The experimental result shows the effectiveness of the approach.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gupta</LastName>
+                    <ForeName>Ravi</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Electronics and Computer Engineering, Indian Institute of Technology-Roorkee, Roorkee, Uttaranchal, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sarthi</LastName>
+                    <ForeName>Divya</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mittal</LastName>
+                    <ForeName>Ankush</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Singh</LastName>
+                    <ForeName>Kuldip</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>EURASIP J Bioinform Syst Biol</MedlineTA>
+            <NlmUniqueID>101263720</NlmUniqueID>
+            <ISSNLinking>1687-4145</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2006</Year>
+                <Month>09</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2006</Year>
+                <Month>11</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2006</Year>
+                <Month>12</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2007</Year>
+                <Month>8</Month>
+                <Day>24</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2007</Year>
+                <Month>8</Month>
+                <Day>24</Day>
+                <Hour>9</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2007</Year>
+                <Month>8</Month>
+                <Day>24</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">17713591</ArticleId>
+            <ArticleId IdType="doi">10.1155/2007/43596</ArticleId>
+            <ArticleId IdType="pmc">PMC3171338</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Comput Biol. 2001;8(1):1-18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11339903</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2001;17 Suppl 1:S5-S12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11472987</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Cancer Res. 2001 Oct;7(10):2953-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11595681</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2001 Nov 15;29(22):4633-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11713313</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biosci. 2002 Feb;27(1 Suppl 1):53-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11927777</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2002;18 Suppl 1:S31-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12169528</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 1999 Jan 15;27(2):573-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9862982</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2004 Jun 12;20(9):1405-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14976032</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Leg Med (Tokyo). 2005 Jul;7(4):244-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15939656</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1995 Apr 25;92(9):3809-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7731988</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1995 Jun 6;92(12):5465-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7777532</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Comput Appl Biosci. 1997 Jun;13(3):263-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9183531</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2003 Jul 1;31(13):3672-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12824391</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

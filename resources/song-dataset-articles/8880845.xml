@@ -1,0 +1,155 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">8880845</PMID>
+        <DateCompleted>
+            <Year>1997</Year>
+            <Month>03</Month>
+            <Day>06</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>08</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0304-3959</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>66</Volume>
+                    <Issue>2-3</Issue>
+                    <PubDate>
+                        <Year>1996</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Pain</Title>
+                <ISOAbbreviation>Pain</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Deriving dichotomous outcome measures from continuous data in randomised controlled trials of analgesics.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>229-37</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Reports of RCTs of analgesics frequently describe results of studies in the form of mean derived indices, rather than using discontinuous events--such as number or proportion of patients with 50% pain relief. Because mean data inadequately describe information with a non-normal distribution, combining mean data in systematic reviews may compromise the results. Showing that dichotomous data can reliably be derived from mean data, at least in acute pain models, indicates that more meaningful overviews or meta-analysis may be possible. This study investigated the relationship between continuous and dichotomous analgesic measures in a set of individual patient data, and then used that relationship to derive dichotomous from continuous information in randomised controlled trials (RCTs) of analgesics. Individual patient information from 13 RCTs of parallel-group and crossover design in acute postoperative pain was used to calculate the percentage of the maximum possible pain relief score (%maxTOTPAR) and the proportion of patients with greater than 50% pain relief (&gt; 50%maxTOTPAR) for the different treatments. The relationship between the measures was investigated in 45 actual treatments and 10,000 treatments simulated using the underlying actual distribution; 1283 patients had 45 separate treatments. Mean %maxTOTPAR correlated with the proportion of patients with &gt; 50%maxTOTPAR (r2 = 0.90). The relationship calculated from all the 45 treatments predicted to within three patients the number of patients with more than 50% pain relief in 42 of 45 treatments, and 98.8% of 10,000 simulated treatments. For seven effective treatments, actual numbers-needed-to-treat (NNT) to achieve &gt; 50%maxTOTPAR compared with placebo were very similar to those derived from calculated data.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Moore</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Oxford Pain Relief Unit, University of Oxford, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McQuay</LastName>
+                    <ForeName>H</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gavaghan</LastName>
+                    <ForeName>D</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <Agency>Wellcome Trust</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Pain</MedlineTA>
+            <NlmUniqueID>7508686</NlmUniqueID>
+            <ISSNLinking>0304-3959</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000700">Analgesics</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000700" MajorTopicYN="N">Analgesics</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003198" MajorTopicYN="N">Computer Simulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004311" MajorTopicYN="N">Double-Blind Method</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015201" MajorTopicYN="N">Meta-Analysis as Topic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010146" MajorTopicYN="N">Pain</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010147" MajorTopicYN="N">Pain Measurement</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010149" MajorTopicYN="N">Pain, Postoperative</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+                <QualifierName UI="Q000523" MajorTopicYN="N">psychology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016032" MajorTopicYN="N">Randomized Controlled Trials as Topic</DescriptorName>
+                <QualifierName UI="Q000706" MajorTopicYN="Y">statistics &amp; numerical data</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012107" MajorTopicYN="N">Research Design</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1996</Year>
+                <Month>8</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1996</Year>
+                <Month>8</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1996</Year>
+                <Month>8</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">8880845</ArticleId>
+            <ArticleId IdType="pii">0304-3959(96)03032-1</ArticleId>
+            <ArticleId IdType="doi">10.1016/0304-3959(96)03032-1</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

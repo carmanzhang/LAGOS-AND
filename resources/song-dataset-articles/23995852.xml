@@ -1,0 +1,180 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">23995852</PMID>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>04</Month>
+            <Day>07</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1364-548X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>49</Volume>
+                    <Issue>80</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Oct</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Chemical communications (Cambridge, England)</Title>
+                <ISOAbbreviation>Chem Commun (Camb)</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A graphene oxide-based platform for the assay of RNA synthesis by RNA polymerase using a fluorescent peptide nucleic acid probe.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>9203-5</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1039/c3cc45750h</ELocationID>
+            <Abstract>
+                <AbstractText>We report a simple, direct fluorometric assay based on graphene oxide (GO) for RNA polymerase-mediated RNA synthesis. In principle, fluorescent peptide nucleic acid (PNA) probes were designed, and annealed with RNA products and the resultant RNA-PNA hybrids induced the recovery of fluorescence intensity of the PNA probes adsorbed onto the GO surface. </AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Park</LastName>
+                    <ForeName>Joon Soo</ForeName>
+                    <Initials>JS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Bioscience and Biotechnology, Konkuk University, Seoul 143-701, Republic of Korea. kimde@konkuk.ac.kr.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Baek</LastName>
+                    <ForeName>Ahruem</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Park</LastName>
+                    <ForeName>Il-Soo</ForeName>
+                    <Initials>IS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jun</LastName>
+                    <ForeName>Bong-Hyun</ForeName>
+                    <Initials>BH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Dong-Eun</ForeName>
+                    <Initials>DE</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>08</Month>
+                <Day>30</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Chem Commun (Camb)</MedlineTA>
+            <NlmUniqueID>9610838</NlmUniqueID>
+            <ISSNLinking>1359-7345</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D005456">Fluorescent Dyes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010087">Oxides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D020135">Peptide Nucleic Acids</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>63231-63-0</RegistryNumber>
+                <NameOfSubstance UI="D012313">RNA</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>7782-42-5</RegistryNumber>
+                <NameOfSubstance UI="D006108">Graphite</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.7.6</RegistryNumber>
+                <NameOfSubstance UI="D012321">DNA-Directed RNA Polymerases</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D012321" MajorTopicYN="N">DNA-Directed RNA Polymerases</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005456" MajorTopicYN="N">Fluorescent Dyes</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005470" MajorTopicYN="N">Fluorometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006108" MajorTopicYN="N">Graphite</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009693" MajorTopicYN="N">Nucleic Acid Hybridization</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010087" MajorTopicYN="N">Oxides</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020135" MajorTopicYN="N">Peptide Nucleic Acids</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012313" MajorTopicYN="N">RNA</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>4</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">23995852</ArticleId>
+            <ArticleId IdType="doi">10.1039/c3cc45750h</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

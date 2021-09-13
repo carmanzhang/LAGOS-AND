@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">27137284</PMID>
+        <DateCompleted>
+            <Year>2018</Year>
+            <Month>01</Month>
+            <Day>04</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>10</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1094-4087</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>24</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Apr</Month>
+                        <Day>18</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Optics express</Title>
+                <ISOAbbreviation>Opt Express</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Viewing zone duplication of multi-projection 3D display system using uniaxial crystal.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>8458-70</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1364/OE.24.008458</ELocationID>
+            <Abstract>
+                <AbstractText>We propose a novel multiplexing technique for increasing the viewing zone of a multi-view based multi-projection 3D display system by employing double refraction in uniaxial crystal. When linearly polarized images from projector pass through the uniaxial crystal, two possible optical paths exist according to the polarization states of image. Therefore, the optical paths of the image could be changed, and the viewing zone is shifted in a lateral direction. The polarization modulation of the image from a single projection unit enables us to generate two viewing zones at different positions. For realizing full-color images at each viewing zone, a polarization-based temporal multiplexing technique is adopted with a conventional polarization switching device of liquid crystal (LC) display. Through experiments, a prototype of a ten-view multi-projection 3D display system presenting full-colored view images is implemented by combining five laser scanning projectors, an optically clear calcite (CaCO&lt;sub&gt;3&lt;/sub&gt;) crystal, and an LC polarization rotator. For each time sequence of temporal multiplexing, the luminance distribution of the proposed system is measured and analyzed. </AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Chang-Kun</ForeName>
+                    <Initials>CK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Park</LastName>
+                    <ForeName>Soon-Gi</ForeName>
+                    <Initials>SG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Moon</LastName>
+                    <ForeName>Seokil</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Byoungho</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Opt Express</MedlineTA>
+            <NlmUniqueID>101137103</NlmUniqueID>
+            <ISSNLinking>1094-4087</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>5</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>5</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>5</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">27137284</ArticleId>
+            <ArticleId IdType="pii">338945</ArticleId>
+            <ArticleId IdType="doi">10.1364/OE.24.008458</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

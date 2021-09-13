@@ -1,0 +1,525 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20462959</PMID>
+        <DateCompleted>
+            <Year>2010</Year>
+            <Month>12</Month>
+            <Day>16</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1939-4586</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>21</Volume>
+                    <Issue>13</Issue>
+                    <PubDate>
+                        <Year>2010</Year>
+                        <Month>Jul</Month>
+                        <Day>01</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Molecular biology of the cell</Title>
+                <ISOAbbreviation>Mol. Biol. Cell</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Unregulated ARF6 activation in epithelial cysts generates hyperactive signaling endosomes and disrupts morphogenesis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2355-66</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1091/mbc.E09-09-0824</ELocationID>
+            <Abstract>
+                <AbstractText>Tumor development in glandular tissues is associated with structural alterations in the hollow ducts and spherical structures that comprise such tissues. We describe a signaling axis involving sustained activation of the GTP-binding protein, ARF6, that provokes dramatic changes in the organization of epithelial cysts, reminiscent of tumorigenic glandular phenotypes. In reconstituted basement membrane cultures of renal epithelial cysts, enhanced ARF6 activation induces the formation of cell-filled glandular structures with multiple lumens and disassembled cadherin-based cell-cell contacts. All of these alterations are accompanied by growth factor receptor internalization into signaling endosomes and reversed by blocking ARF6 activation or receptor endocytosis. Receptor localization in signaling endosomes results in hyperactive extracellular signal-regulated kinase signaling leading to Bcl-2 stabilization and aberrant cysts. Similarly, formation of hyperproliferative and disorganized mammary acini induced by chronic stimulation of colony-stimulating factor 1 receptor is coupled to endogenous ARF6 activation and constitutive receptor internalization and is reversed by ARF6 inhibition. These findings identify a previously unrecognized link between ARF6-regulated receptor internalization and events that drive dramatic alterations in cyst morphogenesis providing new mechanistic insight into the molecular processes that can promote epithelial glandular disruption.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Tushir</LastName>
+                    <ForeName>Jogender S</ForeName>
+                    <Initials>JS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biological Sciences, University of Notre Dame, Notre Dame, IN 46556, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Clancy</LastName>
+                    <ForeName>James</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Warren</LastName>
+                    <ForeName>Andrew</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wrobel</LastName>
+                    <ForeName>Carolyn</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brugge</LastName>
+                    <ForeName>Joan S</ForeName>
+                    <Initials>JS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>D'Souza-Schorey</LastName>
+                    <ForeName>Crislyn</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 CA105134</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>05</Month>
+                <Day>12</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Mol Biol Cell</MedlineTA>
+            <NlmUniqueID>9201390</NlmUniqueID>
+            <ISSNLinking>1059-1524</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D019253">Proto-Oncogene Proteins c-bcl-2</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.11.24</RegistryNumber>
+                <NameOfSubstance UI="D048049">Extracellular Signal-Regulated MAP Kinases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.4.4</RegistryNumber>
+                <NameOfSubstance UI="D010739">Phospholipase D</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.6.5.2</RegistryNumber>
+                <NameOfSubstance UI="D020727">ADP-Ribosylation Factors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.6.5.2</RegistryNumber>
+                <NameOfSubstance UI="C116692">ADP-ribosylation factor 6</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D020727" MajorTopicYN="N">ADP-Ribosylation Factors</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002460" MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004285" MajorTopicYN="N">Dogs</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011992" MajorTopicYN="N">Endosomes</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004789" MajorTopicYN="N">Enzyme Activation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004847" MajorTopicYN="N">Epithelial Cells</DescriptorName>
+                <QualifierName UI="Q000166" MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004848" MajorTopicYN="N">Epithelium</DescriptorName>
+                <QualifierName UI="Q000033" MajorTopicYN="N">anatomy &amp; histology</QualifierName>
+                <QualifierName UI="Q000196" MajorTopicYN="Y">embryology</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D048049" MajorTopicYN="N">Extracellular Signal-Regulated MAP Kinases</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D042361" MajorTopicYN="N">Mammary Glands, Human</DescriptorName>
+                <QualifierName UI="Q000033" MajorTopicYN="N">anatomy &amp; histology</QualifierName>
+                <QualifierName UI="Q000196" MajorTopicYN="N">embryology</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009024" MajorTopicYN="N">Morphogenesis</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010739" MajorTopicYN="N">Phospholipase D</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019253" MajorTopicYN="N">Proto-Oncogene Proteins c-bcl-2</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015398" MajorTopicYN="N">Signal Transduction</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>5</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>5</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20462959</ArticleId>
+            <ArticleId IdType="pii">E09-09-0824</ArticleId>
+            <ArticleId IdType="doi">10.1091/mbc.e09-09-0824</ArticleId>
+            <ArticleId IdType="pmc">PMC2893997</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Nat Cell Biol. 2007 Aug;9(8):954-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17632505</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Cancer. 2004 Feb;4(2):118-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14964308</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2000 Apr 14;275(15):10761-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10753867</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Cell Biol. 2000 Aug;10(8):343-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10884687</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2000 Jul 14;275(28):21648-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10801801</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Death Differ. 2000 Jul;7(7):654-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10889510</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Biophys Res Commun. 2001 Mar16;281(5):1337-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11243883</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 2001 Sep 3;20(17):4973-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11532961</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biochem. 2002 Mar;131(3):301-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11872157</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Mol Cell Biol. 2002 Jul;3(7):531-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12094219</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2002 Jul 26;277(30):27210-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12016212</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2002 Oct 4;111(1):29-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12372298</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEBS Lett. 2002 Oct 30;531(1):65-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12401205</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Cell Biol. 2002 Dec;4(12):929-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12447393</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2003 May 9;278(19):17395-400</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12609992</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Methods. 2003 Jul;30(3):256-68</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12798140</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biol. 2004 Apr 26;165(2):263-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15117969</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2004 Apr 27;101(17):6647-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15087504</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Med. 1989;40:173-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2543266</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochim Biophys Acta. 1994 May 27;1198(1):11-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8199193</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 1994 Jun 15;54(12):3120-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8205527</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 1995 Oct 20;83(2):279-87</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7585945</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Kidney Int. 1999 Jan;55(1):168-78</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9893125</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Med. 1999 Jun 7;189(11):1815-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10359585</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Cell Biol. 2005 Jan;15(1):19-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15653074</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mammary Gland Biol Neoplasia. 2004 Oct;9(4):297-310</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15838601</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 2005 Jun;25(11):4591-601</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15899862</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Cancer. 2005 Sep;5(9):675-88</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16148884</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Cell Biol. 2005 Oct;17(5):499-508</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16107313</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Biol. 2006 Feb 7;16(3):R91-2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16461271</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Mol Cell Biol. 2006 May;7(5):347-58</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16633337</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Cell Biol. 2006 May;8(5):477-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16622417</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Dev Cell. 2006 Jun;10(6):839-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16740485</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2006 Jun 9;281(23):15862-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16595654</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEBS Lett. 2006 Oct 16;580(24):5647-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16996503</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2007 Jan 26;128(2):383-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17254974</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Methods. 2007 Apr;4(4):359-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17396127</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 2007 Apr 4;26(7):1806-19</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17363898</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2007 Jul 27;282(30):21746-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17540765</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Crit Rev Oncog. 2007 Aug;13(1):39-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17956217</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Cell Biol. 2008 Jan;10(1):85-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18084281</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Cycle. 2008 Jan 1;7(1):57-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18196964</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Metastasis Rev. 2008 Mar;27(1):85-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18175071</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biol. 2008 Nov 17;183(4):625-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19001128</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2009 Feb 1;69(3):794-801</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19155310</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2009 Mar 15;69(6):2201-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19276388</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cancer Res. 2003 Sep;1(11):789-800</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14517341</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Cell Biol. 2003 Dec;15(6):753-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14644202</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biol. 2003 Dec 8;163(5):1111-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14662749</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Cell Biol. 2007 Aug;19(4):436-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17662591</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

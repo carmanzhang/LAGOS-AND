@@ -1,0 +1,146 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">14697760</PMID>
+        <DateCompleted>
+            <Year>2004</Year>
+            <Month>08</Month>
+            <Day>26</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>11</Month>
+            <Day>08</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1568-7864</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>3</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2004</Year>
+                        <Month>Jan</Month>
+                        <Day>05</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>DNA repair</Title>
+                <ISOAbbreviation>DNA Repair (Amst)</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>RecA mediated initial alignment of homologous DNA molecules displays apparent first order kinetics with little effect of heterology.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>61-5</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The mechanism and determinants of RecA mediated initial alignment of homologous DNA molecules were studied by performing Monte Carlo simulations of the dynamics of DNA molecules. The simulation procedure was used to assess the effect of heterologous DNA and dilution on the rate of formation and yield of homologous alignments. The results show that the apparent first order kinetic behavior and the impact of heterologous DNA, reported in literature [J. Biol. Chem. 261 (1986) 1025], can be observed even if the conversion of the initially aligned molecules into a stable joint is not rate-determining. The present study is the first step towards developing rigorous computational models to describe the process of homologous recombination, and theoretical frameworks to retrieve biophysical parameters of strand pairing and exchange proteins from in vitro assays of joint molecule formation.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Patel</LastName>
+                    <ForeName>Shwetal</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemical Engineering, University of Delaware, Newark, DE 19716, USA. spatel6@mednet.swmed.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Edwards</LastName>
+                    <ForeName>Jeremy S</ForeName>
+                    <Initials>JS</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>DNA Repair (Amst)</MedlineTA>
+            <NlmUniqueID>101139138</NlmUniqueID>
+            <ISSNLinking>1568-7856</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004269">DNA, Bacterial</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004268">DNA-Binding Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.7.-</RegistryNumber>
+                <NameOfSubstance UI="D011938">Rec A Recombinases</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D003198" MajorTopicYN="N">Computer Simulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004269" MajorTopicYN="Y">DNA, Bacterial</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004268" MajorTopicYN="N">DNA-Binding Proteins</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007700" MajorTopicYN="N">Kinetics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008962" MajorTopicYN="Y">Models, Theoretical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009010" MajorTopicYN="N">Monte Carlo Method</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011938" MajorTopicYN="N">Rec A Recombinases</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011995" MajorTopicYN="Y">Recombination, Genetic</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2003</Year>
+                <Month>12</Month>
+                <Day>31</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2004</Year>
+                <Month>8</Month>
+                <Day>27</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2003</Year>
+                <Month>12</Month>
+                <Day>31</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">14697760</ArticleId>
+            <ArticleId IdType="pii">S1568786403002039</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.dnarep.2003.09.009</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

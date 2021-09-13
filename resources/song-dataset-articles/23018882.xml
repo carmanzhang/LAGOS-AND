@@ -1,0 +1,170 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">23018882</PMID>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>04</Month>
+            <Day>26</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1521-3765</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>18</Volume>
+                    <Issue>46</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Nov</Month>
+                        <Day>12</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Chemistry (Weinheim an der Bergstrasse, Germany)</Title>
+                <ISOAbbreviation>Chemistry</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Bispalladacycle-catalyzed Michael addition of in situ formed azlactones to enones.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>14792-804</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/chem.201202455</ELocationID>
+            <Abstract>
+                <AbstractText>The development and further evolution of the first catalytic asymmetric conjugate additions of azlactones as activated amino acid derivatives to enones is described. Whereas the first-generation approach started from isolated azlactones, in the second-generation approach the azlactones could be generated in situ starting from racemic N-benzoylated amino acids. The third evolution stage could make use of racemic unprotected α-amino acids to directly form highly enantioenriched and diastereomerically pure masked quaternary amino acid products bearing an additional tertiary stereocenter. The step-economic transformations were accomplished by cooperative activation by using a robust planar chiral bis-Pd catalyst, a Brønsted acid (HOAc or BzOH; Ac=acetyl, Bz=benzoyl), and a Brønsted base (NaOAc). In particular the second- and third-generation approaches provide a rapid and divergent access to biologically interesting unnatural quaternary amino acid derivatives from inexpensive bulk chemicals. In that way highly enantioenriched acyclic α-amino acids, α-alkyl proline, and α-alkyl pyroglutamic acid derivatives could be prepared in diastereomerically pure form. In addition, a unique way is presented to prepare diastereomerically pure bicyclic dipeptides in just two steps from unprotected tertiary α-amino acids.</AbstractText>
+                <CopyrightInformation>Copyright © 2012 WILEY-VCH Verlag GmbH &amp; Co. KGaA, Weinheim.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Weber</LastName>
+                    <ForeName>Manuel</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institut für Organische Chemie, Universität Stuttgart, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jautze</LastName>
+                    <ForeName>Sascha</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Frey</LastName>
+                    <ForeName>Wolfgang</ForeName>
+                    <Initials>W</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Peters</LastName>
+                    <ForeName>René</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2012</Year>
+                <Month>09</Month>
+                <Day>27</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Chemistry</MedlineTA>
+            <NlmUniqueID>9513783</NlmUniqueID>
+            <ISSNLinking>0947-6539</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000596">Amino Acids</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>5TWQ1V240M</RegistryNumber>
+                <NameOfSubstance UI="D010165">Palladium</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9DLQ4CIU6V</RegistryNumber>
+                <NameOfSubstance UI="D011392">Proline</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>SZB83O1W42</RegistryNumber>
+                <NameOfSubstance UI="D011761">Pyrrolidonecarboxylic Acid</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000596" MajorTopicYN="N">Amino Acids</DescriptorName>
+                <QualifierName UI="Q000138" MajorTopicYN="Y">chemical synthesis</QualifierName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002384" MajorTopicYN="N">Catalysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015394" MajorTopicYN="N">Molecular Structure</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010165" MajorTopicYN="N">Palladium</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011392" MajorTopicYN="N">Proline</DescriptorName>
+                <QualifierName UI="Q000138" MajorTopicYN="Y">chemical synthesis</QualifierName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011761" MajorTopicYN="N">Pyrrolidonecarboxylic Acid</DescriptorName>
+                <QualifierName UI="Q000138" MajorTopicYN="Y">chemical synthesis</QualifierName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013237" MajorTopicYN="N">Stereoisomerism</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2012</Year>
+                <Month>07</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>9</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>9</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>4</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">23018882</ArticleId>
+            <ArticleId IdType="doi">10.1002/chem.201202455</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

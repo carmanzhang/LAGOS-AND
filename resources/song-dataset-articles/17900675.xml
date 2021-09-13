@@ -1,0 +1,365 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">17900675</PMID>
+        <DateCompleted>
+            <Year>2008</Year>
+            <Month>04</Month>
+            <Day>09</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">0091-3057</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>88</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2008</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Pharmacology, biochemistry, and behavior</Title>
+                <ISOAbbreviation>Pharmacol Biochem Behav</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Rat strain differences in startle gating-disruptive effects of apomorphine occur with both acoustic and visual prepulses.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>306-11</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Prepulse inhibition of startle (PPI) is an operational measure of sensorimotor gating that is impaired in schizophrenia and is disrupted in rats by dopamine (DA) agonists like apomorphine (APO). Using acoustic prepulses and acoustic startle pulses, previous studies have demonstrated heritable strain differences between Sprague Dawley (SD) and Long Evans (LE) rats in the sensitivity to the PPI-disruptive effects of APO. As PPI deficits in schizophrenia are evident with both uni- and cross-modal stimuli, we tested whether strain differences in the gating-disruptive effects of APO occur with a cross-modal visual and acoustic stimulus combination. APO caused a dose-dependent disruption of both acoustic and visual PPI in SD rats. Compared to LE rats, SD rats were more sensitive to the PPI-disruptive effects of APO with both acoustic and visual PPI. These findings suggest that SD vs. LE strain differences in PPI APO sensitivity are mediated outside of the auditory system, within higher circuitry that regulates or processes multi-modal information. The present findings provide further validation for this heritable model of impaired sensorimotor gating in schizophrenia, which can be detected across multiple sensory modalities.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Weber</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, UCSD School of Medicine, La Jolla, CA 92037-0804, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Swerdlow</LastName>
+                    <ForeName>N R</ForeName>
+                    <Initials>NR</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>MH01436</GrantID>
+                    <Acronym>MH</Acronym>
+                    <Agency>NIMH NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 MH068366</GrantID>
+                    <Acronym>MH</Acronym>
+                    <Agency>NIMH NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 MH068366-04</GrantID>
+                    <Acronym>MH</Acronym>
+                    <Agency>NIMH NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>K02 MH001436-10</GrantID>
+                    <Acronym>MH</Acronym>
+                    <Agency>NIMH NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>MH68366</GrantID>
+                    <Acronym>MH</Acronym>
+                    <Agency>NIMH NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>K02 MH001436</GrantID>
+                    <Acronym>MH</Acronym>
+                    <Agency>NIMH NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D003160">Comparative Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2007</Year>
+                <Month>09</Month>
+                <Day>07</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Pharmacol Biochem Behav</MedlineTA>
+            <NlmUniqueID>0367050</NlmUniqueID>
+            <ISSNLinking>0091-3057</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D018491">Dopamine Agonists</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>N21FAR7B4S</RegistryNumber>
+                <NameOfSubstance UI="D001058">Apomorphine</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000161" MajorTopicYN="N">Acoustic Stimulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000704" MajorTopicYN="N">Analysis of Variance</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001058" MajorTopicYN="N">Apomorphine</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018491" MajorTopicYN="N">Dopamine Agonists</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008027" MajorTopicYN="N">Light</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009043" MajorTopicYN="N">Motor Activity</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010775" MajorTopicYN="N">Photic Stimulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020318" MajorTopicYN="N">Rats, Long-Evans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017207" MajorTopicYN="N">Rats, Sprague-Dawley</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013216" MajorTopicYN="N">Reflex, Startle</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013045" MajorTopicYN="N">Species Specificity</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2007</Year>
+                <Month>07</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2007</Year>
+                <Month>08</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2007</Year>
+                <Month>08</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2007</Year>
+                <Month>9</Month>
+                <Day>29</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2008</Year>
+                <Month>4</Month>
+                <Day>10</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2007</Year>
+                <Month>9</Month>
+                <Day>29</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">17900675</ArticleId>
+            <ArticleId IdType="pii">S0091-3057(07)00268-7</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.pbb.2007.08.014</ArticleId>
+            <ArticleId IdType="pmc">PMC2266874</ArticleId>
+            <ArticleId IdType="mid">NIHMS38653</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Psychopharmacology (Berl). 2001 Jul;156(2-3):234-58</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11549226</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Psychiatry. 2000 Oct;157(10):1660-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11007721</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuropsychopharmacology. 2006 Apr;31(4):721-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16123742</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Psychophysiology. 2005 Sep;42(5):588-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16176381</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Med. 2005 Jul;2(7):e212</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16033310</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neurosci Lett. 2005 Sep 9;385(2):143-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15950381</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Pharmacol Exp Ther. 2005 Feb;312(2):733-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15494551</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Psychiatry. 2005 Jan;10(1):40-68; image 5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15263907</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biol Psychiatry. 1996 Jan 1;39(1):33-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8719124</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Psychopharmacology (Berl). 1995 Jul;120(2):117-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7480542</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Psychopharmacology (Berl). 1995 Feb;117(3):267-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7770602</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Gen Psychiatry. 1992 Mar;49(3):206-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1567275</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Psychophysiology. 1978 Jul;15(4):339-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">693742</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Psychol Anim Behav Process. 1976 Jan;2(1):28-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1249525</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Psychophysiology. 1975 May;12(3):238-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1153628</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Psychopharmacology (Berl). 2004 Aug;174(4):452-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15300359</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Psychopharmacology (Berl). 2004 Aug;174(4):441-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15300358</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pharmacol Biochem Behav. 2004 Feb;77(2):291-302</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14751457</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Psychiatry. 2003 Apr;160(4):636-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12668349</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuropsychopharmacology. 2003 Apr;28(4):640-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12655308</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pharmacol Biochem Behav. 2001 Oct-Nov;70(2-3):219-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11701191</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biol Psychiatry. 2001 Oct 15;50(8):578-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11690592</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Schizophr Bull. 2007 Jan;33(1):69-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17135482</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Brain Res. 2006 Nov 13;1119(1):203-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16979142</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,165 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21751937</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>12</Month>
+            <Day>06</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>06</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1744-7682</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>11</Volume>
+                    <Issue>9</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Expert opinion on biological therapy</Title>
+                <ISOAbbreviation>Expert Opin Biol Ther</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>DiaPep277 peptide therapy in the context of other immune intervention trials in type 1 diabetes.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1233-40</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1517/14712598.2011.599319</ELocationID>
+            <Abstract>
+                <AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">Type 1 diabetes (T1D) is characterized by the autoimmune destruction of pancreatic β-cells. The aim of immune intervention is to arrest this autoimmune attack. DiaPep277, a major T-cell epitope of heat shock protein 60 (hsp60), has been shown to be effective in the modulation of the immune response in recent onset T1D and is the main focus of this review in the context of other ongoing trials using different approaches.</AbstractText>
+                <AbstractText Label="AREAS COVERED" NlmCategory="METHODS">The authors performed a literature search of Pubmed listed publications (from the last 10 years) and a website search of the company licensing DiaPep277. DiaPep277 has been investigated in Phase I - III trials in humans. Phase II trials showed a significant preservation of β-cell function in adult T1D patients (but not children) with an absence of adverse effects and not accompanied by lower glycosylated haemoglobin (HbA1c) levels or reduced daily insulin requirement compared with placebo-treated patients.</AbstractText>
+                <AbstractText Label="EXPERT OPINION" NlmCategory="CONCLUSIONS">Administration of DiaPep277 is safe and represents a promising therapeutic strategy in patients with recent-onset T1D. The results of two large Phase III trials will tell us whether this therapy may change our current approach to treating T1D patients at diagnosis.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Tuccinardi</LastName>
+                    <ForeName>Dario</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University Campus Bio-Medico, Via Álvaro del Portillo, 21 - 00128, Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fioriti</LastName>
+                    <ForeName>Elvira</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Manfrini</LastName>
+                    <ForeName>Silvia</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>D'Amico</LastName>
+                    <ForeName>Eugenio</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pozzilli</LastName>
+                    <ForeName>Paolo</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>07</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Expert Opin Biol Ther</MedlineTA>
+            <NlmUniqueID>101125414</NlmUniqueID>
+            <ISSNLinking>1471-2598</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D018834">Chaperonin 60</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C447781">DiaPep 277</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010446">Peptide Fragments</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018834" MajorTopicYN="N">Chaperonin 60</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002986" MajorTopicYN="N">Clinical Trials as Topic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003922" MajorTopicYN="N">Diabetes Mellitus, Type 1</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D050417" MajorTopicYN="N">Insulin-Secreting Cells</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010446" MajorTopicYN="N">Peptide Fragments</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>7</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>7</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>13</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21751937</ArticleId>
+            <ArticleId IdType="doi">10.1517/14712598.2011.599319</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

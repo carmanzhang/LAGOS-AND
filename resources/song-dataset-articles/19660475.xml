@@ -1,0 +1,740 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">19660475</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>02</Month>
+            <Day>24</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1095-8541</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>261</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2009</Year>
+                        <Month>Nov</Month>
+                        <Day>21</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of theoretical biology</Title>
+                <ISOAbbreviation>J Theor Biol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Modeling sequence evolution in acute HIV-1 infection.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>341-60</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jtbi.2009.07.038</ELocationID>
+            <Abstract>
+                <AbstractText>We describe a mathematical model and Monte Carlo (MC) simulation of viral evolution during acute infection. We consider both synchronous and asynchronous processes of viral infection of new target cells. The model enables an assessment of the expected sequence diversity in new HIV-1 infections originating from a single transmitted viral strain, estimation of the most recent common ancestor (MRCA) of the transmitted viral lineage, and estimation of the time to coalesce back to the MRCA. We also calculate the probability of the MRCA being the transmitted virus or an evolved variant. Excluding insertions and deletions, we assume HIV-1 evolves by base substitution without selection pressure during the earliest phase of HIV-1 infection prior to the immune response. Unlike phylogenetic methods that follow a lineage backwards to coalescence, we compare the observed data to a model of the diversification of a viral population forward in time. To illustrate the application of these methods, we provide detailed comparisons of the model and simulations results to 306 envelope sequences obtained from eight newly infected subjects at a single time point. The data from 68 patients were in good agreement with model predictions, and hence compatible with a single-strain infection evolving under no selection pressure. The diversity of the samples from the other two patients was too great to be explained by the model, suggesting multiple HIV-1-strains were transmitted. The model can also be applied to longitudinal patient data to estimate within-host viral evolutionary parameters.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Ha Youn</ForeName>
+                    <Initials>HY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Theoretical Biology and Biophysics, Los Alamos National Laboratory, Los Alamos, NM 87545, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Giorgi</LastName>
+                    <ForeName>Elena E</ForeName>
+                    <Initials>EE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Keele</LastName>
+                    <ForeName>Brandon F</ForeName>
+                    <Initials>BF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gaschen</LastName>
+                    <ForeName>Brian</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Athreya</LastName>
+                    <ForeName>Gayathri S</ForeName>
+                    <Initials>GS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Salazar-Gonzalez</LastName>
+                    <ForeName>Jesus F</ForeName>
+                    <Initials>JF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pham</LastName>
+                    <ForeName>Kimmy T</ForeName>
+                    <Initials>KT</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Goepfert</LastName>
+                    <ForeName>Paul A</ForeName>
+                    <Initials>PA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kilby</LastName>
+                    <ForeName>J Michael</ForeName>
+                    <Initials>JM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Saag</LastName>
+                    <ForeName>Michael S</ForeName>
+                    <Initials>MS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Delwart</LastName>
+                    <ForeName>Eric L</ForeName>
+                    <Initials>EL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Busch</LastName>
+                    <ForeName>Michael P</ForeName>
+                    <Initials>MP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hahn</LastName>
+                    <ForeName>Beatrice H</ForeName>
+                    <Initials>BH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shaw</LastName>
+                    <ForeName>George M</ForeName>
+                    <Initials>GM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Korber</LastName>
+                    <ForeName>Bette T</ForeName>
+                    <Initials>BT</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bhattacharya</LastName>
+                    <ForeName>Tanmoy</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Perelson</LastName>
+                    <ForeName>Alan S</ForeName>
+                    <Initials>AS</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>P30 AI027767</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 OD011095</GrantID>
+                    <Acronym>OD</Acronym>
+                    <Agency>NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P30-AI078498</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U01 AI067854</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>AI028433</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>AI083115</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>RR06555</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R37 AI028433</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>AI67854</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AI028433</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 RR006555</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U19 AI067854</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 RR006555-17</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AI083115</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P30 AI078498</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R37 AI028433-18</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>AI27767</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U19 AI067854-04</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2009</Year>
+                <Month>08</Month>
+                <Day>04</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Theor Biol</MedlineTA>
+            <NlmUniqueID>0376342</NlmUniqueID>
+            <ISSNLinking>0022-5193</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="ErratumIn">
+                <RefSource>J Theor Biol. 2012 Mar 21;297:187</RefSource>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000208" MajorTopicYN="N">Acute Disease</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019143" MajorTopicYN="Y">Evolution, Molecular</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014644" MajorTopicYN="N">Genetic Variation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015658" MajorTopicYN="N">HIV Infections</DescriptorName>
+                <QualifierName UI="Q000821" MajorTopicYN="Y">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015497" MajorTopicYN="N">HIV-1</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008957" MajorTopicYN="Y">Models, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009010" MajorTopicYN="N">Monte Carlo Method</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010802" MajorTopicYN="N">Phylogeny</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2009</Year>
+                <Month>04</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2009</Year>
+                <Month>07</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2009</Year>
+                <Month>07</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2009</Year>
+                <Month>8</Month>
+                <Day>8</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2009</Year>
+                <Month>8</Month>
+                <Day>8</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">19660475</ArticleId>
+            <ArticleId IdType="pii">S0022-5193(09)00350-6</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jtbi.2009.07.038</ArticleId>
+            <ArticleId IdType="pmc">PMC2760689</ArticleId>
+            <ArticleId IdType="mid">NIHMS142119</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Theor Biol. 2000 Apr 7;203(3):285-301</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10716909</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genetics. 2007 Jan;175(1):155-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16510781</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Heredity (Edinb). 1997 Apr;78 ( Pt 4):417-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9134707</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Theor Biol. 2005 Sep 21;236(2):137-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16005307</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Evol. 1994 Jul;39(1):105-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8064867</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 1995 Aug;69(8):5087-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7541846</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2008 Apr;82(8):3952-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18256145</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2003 Mar 20;422(6929):307-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12646921</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2004 Mar;78(5):2426-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14963138</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Med. 1999 Sep 20;190(6):841-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10499922</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 1999 Nov 20;354(9192):1782-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10577640</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2007 Nov 27;104(48):19079-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18025463</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Math Biosci. 1998 Jan 15;147(2):173-205</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9433062</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>AIDS. 2000 Oct 20;14(15):2283-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11089616</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 1993 Jun;67(6):3345-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8497055</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 1991 Apr 4;324(14):954-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1900576</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Med. 2009 May 11;206(5):1117-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19414559</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2003 Apr;77(8):5037-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12663814</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Pathog. 2007 Oct 26;3(10):1477-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17967058</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Acquir Immune Defic Syndr. 2005 Jun 1;39(2):133-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15905727</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1996 Mar 15;271(5255):1582-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8599114</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Pathog. 2005 Sep;1(1):e6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16201018</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Biol Evol. 2004 Oct;21(10):1902-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15215321</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2008 May 27;105(21):7552-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18490657</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>AIDS. 2002 Jan 25;16(2):189-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11807302</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1997 Mar 4;94(5):1862-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9050870</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Intern Med. 1996 Aug 15;125(4):257-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8678387</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol Methods. 2005 Mar;124(1-2):95-104</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15664056</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 1999 Dec;73(12):10489-502</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10559367</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Biol. 2006 May;4(5):e88</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16683862</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2005 May;79(10):6528-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15858037</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2009 Apr;83(8):3556-67</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19193811</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2006 Jul;80(13):6525-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16775339</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>AIDS Res Hum Retroviruses. 2002 May 20;18(8):567-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12036486</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Theor Biol. 1998 Dec 21;195(4):451-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9837702</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Indian J Med Res. 1977 Jul;66(1):120-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">924577</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>AIDS. 2000 Oct 20;14(15):2333-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11089621</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2004 Mar 26;303(5666):2019-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15044802</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1992 Feb 28;255(5048):1134-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1546316</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biometrics. 2005 Mar;61(1):106-17</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15737083</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>AIDS. 1999 Feb 4;13(2):155-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10202821</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2004 Jul;78(13):7279-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15194805</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Biol Evol. 2005 May;22(5):1185-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15703244</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMJ. 1988 Nov 26;297(6660):1363-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3146367</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2000 Jun 9;288(5472):1789-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10846155</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Evol Biol. 2006;6:28</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16556318</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2004 Oct;78(20):11208-18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15452240</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Math Biosci. 2001 Apr;170(2):187-98</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11292498</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2003 Aug;77(15):8448-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12857914</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2006 Oct;80(19):9586-98</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16973562</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2005 May;79(10):6523-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15858036</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>AIDS Res Hum Retroviruses. 1996 Mar 1;12(4):307-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8906991</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1996 Apr 26;272(5261):537-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8614801</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2003 Apr 1;100(7):4144-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12644702</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2005 Sep 15;437(7057):376-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16056220</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Hum Genet. 2006 Nov;79(5):910-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17033967</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>AIDS. 2003 Sep 5;17(13):1871-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12960819</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genetics. 1998 May;149(1):429-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9584114</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Evol Biol. 2007;7:214</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17996036</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>AIDS. 1999 Feb 25;13(3):351-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10199225</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genetics. 1991 Oct;129(2):555-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1743491</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2009 Jul;83(14):7151-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19439465</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 1997 Oct;71(10):7518-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9311831</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Immunol. 2004 Nov;4(11):868-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15516966</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

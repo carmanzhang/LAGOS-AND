@@ -1,0 +1,523 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">27938364</PMID>
+        <DateCompleted>
+            <Year>2017</Year>
+            <Month>02</Month>
+            <Day>03</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1746-6148</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>12</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Dec</Month>
+                        <Day>09</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>BMC veterinary research</Title>
+                <ISOAbbreviation>BMC Vet. Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Procalcitonin as a biomarker in equine chronic pneumopathies.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>281</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Procalcitonin (PCT), a precursor protein of the hormone calcitonin, is a sensitive inflammatory marker in human medicine, which is primarily used for diagnosis of bacterial sepsis, but is also useful in diagnosis of exacerbation of asthma and COPD. In this study, PCT was evaluated as a potential biomarker for different chronic pneumopathies in the horse using an equine specific ELISA in comparison to established clinical markers and different interleukins. Sixty-four horses were classified as free of respiratory disease, recurrent airway obstruction (RAO), inflammatory airway disease (IAD) or chronic interstitial pneumopathy (CIP) using a scoring system. PCT concentrations were measured in plasma (n = 17) and in the cell-free supernatant of bronchoalveolar lavage (n = 64). PCT concentrations were correlated to interleukins IL-1ß and IL-6 in BALF, clinical findings and BALF cytology.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The median PCT concentrations in plasma were increased in respiratory disease (174.46 ng/ml, n = 7) compared to controls (13.94 ng/ml, n = 10, P = 0.05) and correlated to PCT in BALF supernatant (rs = 0.48). Compared to controls (5.49 ng/ml, n = 15), median PCT concentrations in BALF supernatant correlated to the overall clinical score (rs = 0.32, P = 0.007) and were significantly increased in RAO (13.40 ng/ml, n = 21) and IAD (16.89 ng/ml, n = 16), while no differences were found for CIP (12.02 ng/ml, n = 12). No significant increases were found for IL-1 and IL-6 between controls and respiratory disease in general as well as different disease groups.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Although some correlations were found between PCT in plasma, BALF supernatant and clinical scores, PCT in BALF does not seem to be a superior marker compared to established clinical markers. PCT in plasma seems to be more promising and a greater number of samples should be evaluated in further studies.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Barton</LastName>
+                    <ForeName>Ann Kristin</ForeName>
+                    <Initials>AK</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-3333-9647</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Equine Clinic, Freie Universitaet Berlin, Oertzenweg 19b, 10163, Berlin, Germany. Ann-Kristin.Barton@fu-berlin.de.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pelli</LastName>
+                    <ForeName>Anna</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Equine Clinic, Freie Universitaet Berlin, Oertzenweg 19b, 10163, Berlin, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rieger</LastName>
+                    <ForeName>Martin</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Research unit microbe-plant interactions, Helmholtz Zentrum Muenchen, Ingolstädter Landstraße 1, 85764, Neuherberg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gehlen</LastName>
+                    <ForeName>Heidrun</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Equine Clinic, Freie Universitaet Berlin, Oertzenweg 19b, 10163, Berlin, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D003160">Comparative Study</PublicationType>
+                <PublicationType UI="D023362">Evaluation Studies</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>12</Month>
+                <Day>09</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>BMC Vet Res</MedlineTA>
+            <NlmUniqueID>101249759</NlmUniqueID>
+            <ISSNLinking>1746-6148</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D015415">Biomarkers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D053583">Interleukin-1beta</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D015850">Interleukin-6</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011498">Protein Precursors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9007-12-9</RegistryNumber>
+                <NameOfSubstance UI="D002116">Calcitonin</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015415" MajorTopicYN="N">Biomarkers</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002116" MajorTopicYN="N">Calcitonin</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004797" MajorTopicYN="N">Enzyme-Linked Immunosorbent Assay</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006734" MajorTopicYN="N">Horse Diseases</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006736" MajorTopicYN="N">Horses</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D053583" MajorTopicYN="N">Interleukin-1beta</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015850" MajorTopicYN="N">Interleukin-6</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011498" MajorTopicYN="N">Protein Precursors</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012140" MajorTopicYN="N">Respiratory Tract Diseases</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000662" MajorTopicYN="Y">veterinary</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Biomarker</Keyword>
+            <Keyword MajorTopicYN="N">Chronic interstitial pneumopathy</Keyword>
+            <Keyword MajorTopicYN="N">Horse</Keyword>
+            <Keyword MajorTopicYN="N">Inflammatory airway disease</Keyword>
+            <Keyword MajorTopicYN="N">Procalcitonin</Keyword>
+            <Keyword MajorTopicYN="N">Recurrent airway obstruction</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>12</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>12</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>12</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>2</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">27938364</ArticleId>
+            <ArticleId IdType="doi">10.1186/s12917-016-0912-4</ArticleId>
+            <ArticleId IdType="pii">10.1186/s12917-016-0912-4</ArticleId>
+            <ArticleId IdType="pmc">PMC5148850</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Vet Intern Med. 2007 Mar-Apr;21(2):356-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17427403</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Chem Lab Med. 1999 Aug;37(8):789-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10536927</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Crit Care Med. 2002 Oct;30(10 ):2313-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12394961</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Crit Care Med. 1998 Jun;26(6):1001-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9635646</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vet Res Commun. 2007 Aug;31 Suppl 1:313-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17682903</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Med Today. 1999 Jul;5(7):286-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10377518</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infection. 1997 Nov-Dec;25(6):329-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9427049</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vet Immunol Immunopathol. 2002 Mar;85(3-4):147-58</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11943316</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Lab Med. 2014 Jul;34(4):263-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24982830</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Vet Res. 2008 Feb 23;4:8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18294392</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2015 Apr 22;10(4):e0123584</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25901797</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Equine Vet J. 2001 Jan;33(1):5-19</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11191611</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Crit Care Med. 2000 Nov;28(11):3659-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11098970</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Crit Care Med. 2000 Apr;28(4):977-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10809269</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Am Thorac Soc. 2013 Dec;10 Suppl:S214-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24313775</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Lab Clin Med. 1999 Jul;134(1):49-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10402059</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vet Immunol Immunopathol. 2013 Dec 15;156(3-4):190-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24176614</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 2005 Jan;43(1):120-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15634959</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Endocrinol. 2003 Jan 31;199(1-2):119-28</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12581884</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 2001 Jan;86(1):396-404</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11232031</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vet Clin North Am Equine Pract. 2015 Apr;31(1):137-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25770067</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Med Sci. 2014 May;347(5):393-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24270077</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Vet Intern Med. 2008 Jul-Aug;22(4):1014-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18498323</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vet Clin North Am Equine Pract. 2011 Apr;27(1):35-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21392652</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Crit Care Med. 2001 Sep;29(9):1690-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11546966</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Chest. 2000 Feb;117(2 Suppl):10S-4S</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10673467</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Vet Intern Med. 2012 Nov-Dec;26(6):1419-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22925172</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anesthesiology. 2002 Jan;96(1):74-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11753005</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Equine Vet J. 2014 May;46(3):276-88</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24164473</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Equine Vet J. 2005 Nov;37(6):541-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16295932</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Chron Obstruct Pulmon Dis. 2015 Apr 13;10 :767-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25926728</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Enferm Infecc Microbiol Clin. 2014 Apr;32(4):225-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24182623</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Crit Care. 2013 Dec;28(6):970-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24216331</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Hosp Med. 2013 Feb;8(2):61-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23086568</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cytokine Growth Factor Rev. 2002 Aug-Oct;13(4-5):323-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12220547</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Intensive Care Med. 2010 May;36(5):790-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20217042</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Vet Res. 2001 Jan;62(1):7-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11197564</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Infect Dis. 2013 Dec 17;13:596</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24341820</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Vet Intern Med. 2012 Jan-Feb;26(1):153-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22168153</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vet Immunol Immunopathol. 2011 Mar 15;140(1-2):82-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21194756</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Crit Care Med. 2000 Feb;28(2):458-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10708183</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Shock. 2000 Jul;14 (1):73-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10909897</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vet Immunol Immunopathol. 2008 Apr 15;122(3-4):256-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18243337</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Chem Lab Med. 2013 Sep;51(9):e213-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23612545</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anal Bioanal Chem. 2014 Sep;406(22):5507-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24928115</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Res Vet Sci. 2012 Oct;93(2):1006-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22136797</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Surg Infect (Larchmt). 2001 Fall;2(3):193-202; discussion 202-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12593709</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Dan Med J. 2012 Mar;59(3):A4357</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22381083</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Vet Intern Med. 2005 Mar-Apr;19(2):223-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15822568</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Clin Biochem. 2008 May;45(Pt 3):293-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18482918</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

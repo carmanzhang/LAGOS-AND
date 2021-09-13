@@ -1,0 +1,323 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">27052535</PMID>
+        <DateCompleted>
+            <Year>2017</Year>
+            <Month>06</Month>
+            <Day>09</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>12</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1541-6100</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>146</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>05</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of nutrition</Title>
+                <ISOAbbreviation>J. Nutr.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Nondigestible Fructans Alter Gastrointestinal Barrier Function, Gene Expression, Histomorphology, and the Microbiota Profiles of Diet-Induced Obese C57BL/6J Mice.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>949-56</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.3945/jn.115.227504</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND">Obesity is associated with compromised intestinal barrier function and shifts in gastrointestinal microbiota that may contribute to inflammation. Fiber provides benefits, but impacts of fiber type are not understood.</AbstractText>
+                <AbstractText Label="OBJECTIVE">We aimed to determine the impact of cellulose compared with fructans on the fecal microbiota and gastrointestinal physiology in obese mice.</AbstractText>
+                <AbstractText Label="METHODS">Eighteen-wk-old male diet-induced obese C57BL/6J mice (n = 6/group; 40.5 g) were fed high-fat diets (45% kcal fat) containing 5% cellulose (control), 10% cellulose, 10% short-chain fructooligosaccharides (scFOS), or 10% inulin for 4 wk. Cecal and colon tissues were collected to assess barrier function, histomorphology, and gene expression. Fecal DNA extracts were subjected to 16S ribosomal RNA amplicon-based Illumina MiSeq sequencing to assess microbiota.</AbstractText>
+                <AbstractText Label="RESULTS">Body weight gain was greater (P &lt; 0.05) in scFOS-fed than in 10% cellulose-fed mice. Both groups of fructan-fed mice had greater (P &lt; 0.05) cecal crypt depth (scFOS: 141 μm; inulin: 145 μm) than both groups of cellulose-fed mice (5% and 10%: 109 μm). Inulin-fed mice had greater (P &lt; 0.05) cecal transmural resistance (101 Ω × cm(2)) than 5% cellulose-fed controls (45 Ω × cm(2)). Inulin-fed mice had lower (P &lt; 0.05) colonic mRNA abundance of Ocln (0.41) and Mct1 (0.35) than those fed 10% cellulose (Ocln: 1.28; Mct1: 0.90). Fructan and cellulose groups had different UniFrac distances of fecal microbiota (P &lt; 0.05) and α diversity, which demonstrated lower (P &lt; 0.01) species richness in fructan-fed mice. Mice fed scFOS had greater (P &lt; 0.05) Actinobacteria (15.9%) and Verrucomicrobia (Akkermansia) (17.0%) than 5% controls (Actinobacteria: 0.07%; Akkermansia: 0.08%). Relative abundance of Akkermansia was positively correlated (r = 0.56, P &lt; 0.01) with cecal crypt depth.</AbstractText>
+                <AbstractText Label="CONCLUSIONS">Fructans markedly shifted gut microbiota and improved intestinal physiology in obese mice, but the mechanisms by which they affect gut integrity and inflammation in the obese are still unknown.</AbstractText>
+                <CopyrightInformation>© 2016 American Society for Nutrition.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Tzu-Wen</ForeName>
+                    <Initials>TW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nutritional Sciences.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cephas</LastName>
+                    <ForeName>Kimberly D</ForeName>
+                    <Initials>KD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nutritional Sciences.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Holscher</LastName>
+                    <ForeName>Hannah D</ForeName>
+                    <Initials>HD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Animal Sciences, and Department of Food Science and Human Nutrition, University of Illinois at Urbana-Champaign, Urbana, IL.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kerr</LastName>
+                    <ForeName>Katherine R</ForeName>
+                    <Initials>KR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nutritional Sciences.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mangian</LastName>
+                    <ForeName>Heather F</ForeName>
+                    <Initials>HF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nutritional Sciences.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tappenden</LastName>
+                    <ForeName>Kelly A</ForeName>
+                    <Initials>KA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nutritional Sciences, Department of Food Science and Human Nutrition, University of Illinois at Urbana-Champaign, Urbana, IL.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Swanson</LastName>
+                    <ForeName>Kelly S</ForeName>
+                    <Initials>KS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nutritional Sciences, Department of Animal Sciences, and ksswanso@illinois.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D003160">Comparative Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>04</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Nutr</MedlineTA>
+            <NlmUniqueID>0404243</NlmUniqueID>
+            <ISSNLinking>0022-3166</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004043">Dietary Fiber</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D005630">Fructans</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D027501">Monocarboxylic Acid Transporters</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D062793">Occludin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C568986">Ocln protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009844">Oligosaccharides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D012333">RNA, Messenger</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D027981">Symporters</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C421223">monocarboxylate transport protein 1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9004-34-6</RegistryNumber>
+                <NameOfSubstance UI="D002482">Cellulose</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9005-80-5</RegistryNumber>
+                <NameOfSubstance UI="D007444">Inulin</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001419" MajorTopicYN="N">Bacteria</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000254" MajorTopicYN="N">growth &amp; development</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002482" MajorTopicYN="N">Cellulose</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D059305" MajorTopicYN="N">Diet, High-Fat</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004043" MajorTopicYN="N">Dietary Fiber</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005243" MajorTopicYN="N">Feces</DescriptorName>
+                <QualifierName UI="Q000382" MajorTopicYN="N">microbiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005630" MajorTopicYN="N">Fructans</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000069196" MajorTopicYN="N">Gastrointestinal Microbiome</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015870" MajorTopicYN="N">Gene Expression</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007249" MajorTopicYN="N">Inflammation</DescriptorName>
+                <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007408" MajorTopicYN="N">Intestinal Absorption</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007413" MajorTopicYN="N">Intestinal Mucosa</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007420" MajorTopicYN="N">Intestine, Large</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007444" MajorTopicYN="N">Inulin</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008810" MajorTopicYN="N">Mice, Inbred C57BL</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008820" MajorTopicYN="N">Mice, Obese</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D027501" MajorTopicYN="N">Monocarboxylic Acid Transporters</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009765" MajorTopicYN="Y">Obesity</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+                <QualifierName UI="Q000382" MajorTopicYN="N">microbiology</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D062793" MajorTopicYN="N">Occludin</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009844" MajorTopicYN="N">Oligosaccharides</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+                <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012333" MajorTopicYN="N">RNA, Messenger</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D027981" MajorTopicYN="N">Symporters</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015430" MajorTopicYN="N">Weight Gain</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="Y">fiber</Keyword>
+            <Keyword MajorTopicYN="Y">gut microbiota</Keyword>
+            <Keyword MajorTopicYN="Y">intestinal permeability</Keyword>
+            <Keyword MajorTopicYN="Y">obesity</Keyword>
+            <Keyword MajorTopicYN="Y">tight junctions</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>02</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>4</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>4</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>6</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">27052535</ArticleId>
+            <ArticleId IdType="pii">jn.115.227504</ArticleId>
+            <ArticleId IdType="doi">10.3945/jn.115.227504</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

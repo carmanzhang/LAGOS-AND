@@ -1,0 +1,144 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">16323563</PMID>
+        <DateCompleted>
+            <Year>2006</Year>
+            <Month>01</Month>
+            <Day>24</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>11</Month>
+            <Day>09</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0334-1763</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>16</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2005</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Reviews in the neurosciences</Title>
+                <ISOAbbreviation>Rev Neurosci</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Cortical oscillatory activity and the dynamics of auditory memory processing.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>239-54</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Oscillatory activity in the gamma-band range (&gt;30 Hz) has been proposed as a correlate of cortical network synchronization. In human electroencephalogram (EEG), enhanced gamma-band activity (GBA) has been found in relation to processes ranging from visual gestalt perception to selective attention, learning and memory. We used statistical probability mapping to investigate oscillatory signals in magnetoencephalogram (MEG) during different types of auditory processing. GBA at frequencies between 50-90 Hz was increased over posterior parietal areas during auditory spatial processing and over anterior temporal/inferior frontal regions during auditory pattern processing. GBA followed early auditory cortex responses after about 130 ms, suggesting serial processing along the putative auditory dorsal and ventral streams. During short-term memory tasks, additional frontal gamma amplitude enhancements were observed, and coherence was increased between putative sensory storage regions and prefrontal networks. These empirical findings have raised some questions concerning research on oscillatory activity. In contrast to EEG, in which gamma responses are spectrally and topographically widely distributed, activity in MEG shows more narrow distribution. This could be attributable to the higher sensitivity of MEG to smaller, more local networks that may synchronize at higher frequencies. In addition, the significance of different dominant frequencies within the gamma range still has to be elucidated. Finally, there have been suggestions of a link between GBA and hemodynamic measures of brain activity which should be explored further. In summary, oscillatory activity in MEG may provide unique information about both the activity of local networks and cortico-cortical integration.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kaiser</LastName>
+                    <ForeName>Jochen</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Medical Psychology, Johann Wolfgang Goethe-University, Frankfurt am Main, Germany. j.kaiser@med.uni-frankfurt.de</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lutzenberger</LastName>
+                    <ForeName>Werner</ForeName>
+                    <Initials>W</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Rev Neurosci</MedlineTA>
+            <NlmUniqueID>8711016</NlmUniqueID>
+            <ISSNLinking>0334-1763</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001307" MajorTopicYN="N">Auditory Perception</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001683" MajorTopicYN="N">Biological Clocks</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002540" MajorTopicYN="N">Cerebral Cortex</DescriptorName>
+                <QualifierName UI="Q000033" MajorTopicYN="N">anatomy &amp; histology</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004569" MajorTopicYN="N">Electroencephalography</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005072" MajorTopicYN="N">Evoked Potentials, Auditory</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015225" MajorTopicYN="N">Magnetoencephalography</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008568" MajorTopicYN="N">Memory</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009415" MajorTopicYN="N">Nerve Net</DescriptorName>
+                <QualifierName UI="Q000033" MajorTopicYN="N">anatomy &amp; histology</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009434" MajorTopicYN="N">Neural Pathways</DescriptorName>
+                <QualifierName UI="Q000033" MajorTopicYN="N">anatomy &amp; histology</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>109</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2005</Year>
+                <Month>12</Month>
+                <Day>6</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2006</Year>
+                <Month>1</Month>
+                <Day>25</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2005</Year>
+                <Month>12</Month>
+                <Day>6</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">16323563</ArticleId>
+            <ArticleId IdType="doi">10.1515/revneuro.2005.16.3.239</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

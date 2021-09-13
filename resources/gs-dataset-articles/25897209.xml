@@ -1,0 +1,221 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">25897209</PMID>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>09</Month>
+            <Day>13</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1177-8881</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>9</Volume>
+                    <PubDate>
+                        <Year>2015</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Drug design, development and therapy</Title>
+                <ISOAbbreviation>Drug Des Devel Ther</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Targeting the hypoxia pathway to treat pancreatic cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2029-31</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2147/DDDT.S80888</ELocationID>
+            <Abstract>
+                <AbstractText>The correlation between hypoxia and pancreatic cancer has long been discussed. Hao's research team made many efforts on revealing the oncogenic function of hypoxic inducible factor-1 (HIF-1) in pancreatic cancer progression and development in recent years. Based on their research, they linked micro-environmental regulation of pancreatic cancer and its clinical significance. Hao's research team suggests it is a promising approach to target HIF-1 for the management of pancreatic cancer progression and invasion. </AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Erickson</LastName>
+                    <ForeName>Lori A</ForeName>
+                    <Initials>LA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Laboratory Medicine and Pathology, Mayo Clinic, Rochester, MN, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Highsmith</LastName>
+                    <ForeName>W Edward</ForeName>
+                    <Initials>WE</Initials>
+                    <Suffix>Jr</Suffix>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Laboratory Medicine and Pathology, Mayo Clinic, Rochester, MN, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fei</LastName>
+                    <ForeName>Peiwen</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Hawaii Cancer Center, University of Hawaii, Honolulu, HI, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Jun</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Laboratory Medicine and Pathology, Mayo Clinic, Rochester, MN, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 CA188251</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>04</Month>
+                <Day>08</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>New Zealand</Country>
+            <MedlineTA>Drug Des Devel Ther</MedlineTA>
+            <NlmUniqueID>101475745</NlmUniqueID>
+            <ISSNLinking>1177-8881</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000970">Antineoplastic Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D051793">Hypoxia-Inducible Factor 1</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000970" MajorTopicYN="N">Antineoplastic Agents</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000860" MajorTopicYN="N">Hypoxia</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051793" MajorTopicYN="N">Hypoxia-Inducible Factor 1</DescriptorName>
+                <QualifierName UI="Q000037" MajorTopicYN="Y">antagonists &amp; inhibitors</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010190" MajorTopicYN="N">Pancreatic Neoplasms</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">HIF-1</Keyword>
+            <Keyword MajorTopicYN="N">hypoxia</Keyword>
+            <Keyword MajorTopicYN="N">pancreatic cancer</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>4</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>4</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>9</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">25897209</ArticleId>
+            <ArticleId IdType="doi">10.2147/DDDT.S80888</ArticleId>
+            <ArticleId IdType="pii">dddt-9-2029</ArticleId>
+            <ArticleId IdType="pmc">PMC4396576</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>PLoS One. 2012;7(8):e43399</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22952674</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biochem. 2013 Nov;114(11):2603-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23857671</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2014;9(3):e92824</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24662981</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anticancer Res. 2003 Nov-Dec;23(6C):4721-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14981919</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2014 Sep 25;159(1):80-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25259922</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2015 Jan 1;75(1):111-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25385028</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Biol Ther. 2011 Sep 1;12(5):383-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21709439</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2014 May 1;74(9):2455-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24599125</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

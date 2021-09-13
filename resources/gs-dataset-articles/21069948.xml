@@ -1,0 +1,448 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21069948</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>01</Month>
+            <Day>28</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>12</Month>
+            <Day>01</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1424-9634</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>10</Volume>
+                    <PubDate>
+                        <Year>2010</Year>
+                        <Month>Nov</Month>
+                        <Day>12</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cancer immunity</Title>
+                <ISOAbbreviation>Cancer Immun.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Lysis of aminobisphosphonate-sensitized MCF-7 breast tumor cells by Vγ9Vδ2 T cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>10</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Aminobisphosphonates are drugs administered for the treatment of bone resorption. They can indirectly activate peripheral γδ T cells and render tumor cells susceptible to lysis by Vγ9Vδ2 T cells. We have investigated the molecules involved in conjugate formation and killing of aminobisphosphonate-treated MCF-7 breast tumor cells by Vγ9Vδ2 T cells. Lysis of aminobisphosphonate (Pamidronate and Zoledronate)-treated MCF-7 tumor cells by Vγ9Vδ2 T cells was assessed by chromium release assays and time-lapse video microscopy. MCF-7 breast cancer cells were chosen as aminobisphosphonates are employed to alleviate bone resorption in this malignancy. Cell cycle profile and expression of MICA, ICAM-I and FasL on aminobisphosphonate-sensitized MCF-7 breast tumor cells was confirmed by flow cytometry. Involvement of γδ TCR and NKG2D in mediating cytotoxicity of aminobisphosphonate-treated MCF-7 breast tumor cells by Vγ9Vδ2 T cells was assessed using blocking antibodies in chromium release assays. MCF-7 tumor cells pretreated with Pamidronate and Zoledronate were efficiently lysed by Vγ9Vδ2 T cells. Pamidronate and Zoledronate treatment of MCF-7 cells induced S phase arrest and did not alter expression of MICA, ICAM-I and FasL. Blocking γδ TCR and NKG2D on Vγ9Vδ2 T cells inhibited lysis of Pamidronate and Zoledronate-treated MCF-7 cells. Inhibiting the perforin-granzyme pathway in Vγ9Vδ2 T cells using concanamycin A reduced their ability to lyse aminobisphosphonate-treated MCF-7 cells. Vγ9Vδ2 T cells form strong conjugates with aminobisphosphonate-treated MCF-7 breast tumor cells. γδ TCR, NKG2D and perforin-granzyme pathway are involved in the lysis of MCF-7 breast tumor cells treated with aminobisphosphonates by Vγ9Vδ2 T cells.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Dhar</LastName>
+                    <ForeName>Swati</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Advanced Centre for Treatment, Research and Education in Cancer, Tata Memorial Centre, Navi Mumbai, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chiplunkar</LastName>
+                    <ForeName>Shubhada V</ForeName>
+                    <Initials>SV</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>12</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Cancer Immun</MedlineTA>
+            <NlmUniqueID>101119871</NlmUniqueID>
+            <ISSNLinking>1424-9634</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D050071">Bone Density Conservation Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004164">Diphosphonates</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007093">Imidazoles</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>6XC1PAD3KF</RegistryNumber>
+                <NameOfSubstance UI="D000077211">Zoledronic Acid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>OYY3447OMC</RegistryNumber>
+                <NameOfSubstance UI="D000077268">Pamidronate</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D050071" MajorTopicYN="N">Bone Density Conservation Agents</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001943" MajorTopicYN="N">Breast Neoplasms</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+                <QualifierName UI="Q000628" MajorTopicYN="Y">therapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D045744" MajorTopicYN="N">Cell Line, Tumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003602" MajorTopicYN="N">Cytotoxicity, Immunologic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004164" MajorTopicYN="N">Diphosphonates</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007093" MajorTopicYN="N">Imidazoles</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016219" MajorTopicYN="N">Immunotherapy, Adoptive</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008213" MajorTopicYN="N">Lymphocyte Activation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000077268" MajorTopicYN="N">Pamidronate</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016176" MajorTopicYN="N">T-Lymphocyte Subsets</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013601" MajorTopicYN="N">T-Lymphocytes</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000077211" MajorTopicYN="N">Zoledronic Acid</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2010</Year>
+                <Month>05</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>2</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21069948</ArticleId>
+            <ArticleId IdType="pii">100809</ArticleId>
+            <ArticleId IdType="pmc">PMC2999943</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Int J Cancer. 2005 Aug 10;116(1):94-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15756684</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Leukemia. 2005 Apr;19(4):664-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15744346</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2005 Oct 15;175(8):5481-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16210656</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Endocr Relat Cancer. 2006 Mar;13(1):7-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16601276</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Cancer. 2006 Sep 15;119(6):1368-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16619219</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Urol. 2006 Nov;176(5):2255-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17070308</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Biophys Res Commun. 2007 Mar 9;354(2):613-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17250803</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Immunol Rev. 2007 Feb;215:123-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17291284</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Immunol Lett. 2007 May 15;110(1):42-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17451812</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Immunol Immunother. 2007 Aug;56(8):1285-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17265022</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Oncol. 2007 Aug;31(2):285-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17611684</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Scand J Immunol. 2007 Aug-Sep;66(2-3):320-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17635809</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2007 Aug 1;67(15):7450-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17671215</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncol Rep. 2007 Nov;18(5):1291-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17914587</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Immunol Immunother. 2008 Apr;57(4):531-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17764010</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lung Cancer. 2008 Feb;59(2):180-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17900752</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Apoptosis. 2008 Jun;13(6):782-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18437576</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Mol Immunol. 2008 Jun;5(3):161-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18582397</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Cancer Res. 2008 Jul 1;14(13):4232-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18594005</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Immunol. 2009 May;39(5):1361-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19404979</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2009 Jun 1;182(11):7287-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19454726</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Pharmacol. 2009 Jul 15;78(2):133-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19464430</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Pharmacol. 2009 Jun;157(3):427-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19371349</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Exp Hematol. 2009 Aug;37(8):956-68</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19409955</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Biophys Res Commun. 1999 Nov 2;264(3):813-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10544014</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood. 2000 Jul 15;96(2):384-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10887096</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2001 May 1;166(9):5508-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11313389</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Immunity. 2001 Jul;15(1):83-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11485740</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2001 Nov 1;167(9):5092-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11673519</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2002 Nov 1;62(21):6178-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12414645</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Med. 2003 Jan 20;197(2):163-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12538656</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer. 2003 Feb 1;97(3 Suppl):840-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12548584</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Immunol Lett. 2003 Mar 3;86(1):113-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12600753</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood. 2003 Jul 1;102(1):200-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12623838</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMJ. 2003 Aug 30;327(7413):469</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12946966</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood. 2003 Sep 15;102(6):2310-1</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12959943</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Pharm Des. 2003;9(32):2643-58</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14529538</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur Urol. 2004 Apr;45(4):521-8; discussion 528-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15041119</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol Methods. 1997 Jun 23;205(1):19-28</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9236911</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 1999 Mar 4;340(9):737-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10068336</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Biophys Res Commun. 1999 Oct 14;264(1):108-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10527849</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2005 Aug 15;175(4):2144-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16081780</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

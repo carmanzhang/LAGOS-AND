@@ -1,0 +1,263 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">17592850</PMID>
+        <DateCompleted>
+            <Year>2007</Year>
+            <Month>09</Month>
+            <Day>05</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">0002-7863</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>129</Volume>
+                    <Issue>28</Issue>
+                    <PubDate>
+                        <Year>2007</Year>
+                        <Month>Jul</Month>
+                        <Day>18</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of the American Chemical Society</Title>
+                <ISOAbbreviation>J Am Chem Soc</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Exploiting temperature-dependent substrate promiscuity for nucleoside analogue activation by thymidine kinase from Thermotoga maritima.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>8714-5</MedlinePgn>
+            </Pagination>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lutz</LastName>
+                    <ForeName>Stefan</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry, Emory University, 1515 Dickey Drive, Atlanta, Georgia 30322, USA. sal2@emory.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lichter</LastName>
+                    <ForeName>Joseph</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Lingfeng</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 GM069958</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P30 AI050409</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 GM069958-03</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>GM69958</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>AI050409</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 GM069958-04</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2007</Year>
+                <Month>06</Month>
+                <Day>26</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Am Chem Soc</MedlineTA>
+            <NlmUniqueID>7503056</NlmUniqueID>
+            <ISSNLinking>0002-7863</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009705">Nucleosides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.1.21</RegistryNumber>
+                <NameOfSubstance UI="D013937">Thymidine Kinase</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D007700" MajorTopicYN="N">Kinetics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009705" MajorTopicYN="N">Nucleosides</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010766" MajorTopicYN="N">Phosphorylation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013379" MajorTopicYN="Y">Substrate Specificity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013696" MajorTopicYN="Y">Temperature</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020124" MajorTopicYN="N">Thermotoga maritima</DescriptorName>
+                <QualifierName UI="Q000201" MajorTopicYN="Y">enzymology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013937" MajorTopicYN="N">Thymidine Kinase</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2007</Year>
+                <Month>6</Month>
+                <Day>27</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2007</Year>
+                <Month>9</Month>
+                <Day>6</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2007</Year>
+                <Month>6</Month>
+                <Day>27</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">17592850</ArticleId>
+            <ArticleId IdType="doi">10.1021/ja0734391</ArticleId>
+            <ArticleId IdType="pmc">PMC2085358</ArticleId>
+            <ArticleId IdType="mid">NIHMS26394</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Mol Biol. 2007 May 25;369(1):129-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17407781</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Biophys Res Commun. 1991 Apr 30;176(2):586-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2025274</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1998 Jun 23;95(13):7406-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9636162</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 1965 May;4:884-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14337705</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEBS J. 2007 Feb;274(3):727-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17288553</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Microbiol. 2005 Dec;8(6):649-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16257257</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Biochem. 1973 Feb 1;32(3):537-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4692223</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2004 Dec 28;101(52):17970-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15611477</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Chem Soc. 2004 Jan 21;126(2):543-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14719951</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Struct Biol. 2003 Jul;10(7):513-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12808445</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Chem Soc. 2002 Jul 17;124(28):8190-1</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12105890</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleosides Nucleotides Nucleic Acids. 2001 Apr-Jul;20(4-7):1225-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11562990</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Chem Biol. 2005 Apr;9(2):166-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15811801</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

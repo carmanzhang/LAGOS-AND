@@ -1,0 +1,242 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">14975160</PMID>
+        <DateCompleted>
+            <Year>2004</Year>
+            <Month>04</Month>
+            <Day>29</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1471-2156</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>4 Suppl 1</Volume>
+                    <PubDate>
+                        <Year>2003</Year>
+                        <Month>Dec</Month>
+                        <Day>31</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>BMC genetics</Title>
+                <ISOAbbreviation>BMC Genet</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Linkage mapping of total cholesterol level in a young cohort via nonparametric regression.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>S92</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Compared to model-based approaches, nonparametric methods for quantitative trait loci mapping are more robust to deviations in distributional assumptions. In this study, we modify a nonparametric regression method and the &quot;contrast function&quot;- based regression method to analyze total cholesterol level in the younger cohort (the offspring generation) of the Genetic Analysis Workshop 13 simulated data set.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">We obtained significant evidence of linkage near four of the six non-sex-specific genes in at least 30% of the replicates.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The proposed nonparametric method seems to be a powerful robust alternative to distribution-based methods.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ghosh</LastName>
+                    <ForeName>Saurabh</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Washington University School of Medicine, St, Louis, Missouri, USA. saurabh@isical.ac.in</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bertelsen</LastName>
+                    <ForeName>Sarah</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Reich</LastName>
+                    <ForeName>Theodore</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>U10 AA008401</GrantID>
+                    <Acronym>AA</Acronym>
+                    <Agency>NIAAA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U10AA08401</GrantID>
+                    <Acronym>AA</Acronym>
+                    <Agency>NIAAA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U10AA08403</GrantID>
+                    <Acronym>AA</Acronym>
+                    <Agency>NIAAA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2003</Year>
+                <Month>12</Month>
+                <Day>31</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>BMC Genet</MedlineTA>
+            <NlmUniqueID>100966978</NlmUniqueID>
+            <ISSNLinking>1471-2156</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>97C5T2UQ7J</RegistryNumber>
+                <NameOfSubstance UI="D002784">Cholesterol</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D002318" MajorTopicYN="N">Cardiovascular Diseases</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002784" MajorTopicYN="N">Cholesterol</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002874" MajorTopicYN="N">Chromosome Mapping</DescriptorName>
+                <QualifierName UI="Q000706" MajorTopicYN="Y">statistics &amp; numerical data</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002878" MajorTopicYN="N">Chromosomes, Human, Pair 1</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002880" MajorTopicYN="N">Chromosomes, Human, Pair 11</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002884" MajorTopicYN="N">Chromosomes, Human, Pair 15</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002893" MajorTopicYN="N">Chromosomes, Human, Pair 3</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002897" MajorTopicYN="N">Chromosomes, Human, Pair 7</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015331" MajorTopicYN="N">Cohort Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005796" MajorTopicYN="N">Genes</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008040" MajorTopicYN="N">Genetic Linkage</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015894" MajorTopicYN="N">Genome, Human</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008137" MajorTopicYN="N">Longitudinal Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D040641" MajorTopicYN="N">Quantitative Trait Loci</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012044" MajorTopicYN="N">Regression Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018709" MajorTopicYN="N">Statistics, Nonparametric</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2004</Year>
+                <Month>2</Month>
+                <Day>21</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2004</Year>
+                <Month>4</Month>
+                <Day>30</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2004</Year>
+                <Month>2</Month>
+                <Day>21</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">14975160</ArticleId>
+            <ArticleId IdType="doi">10.1186/1471-2156-4-S1-S92</ArticleId>
+            <ArticleId IdType="pii">1471-2156-4-S1-S92</ArticleId>
+            <ArticleId IdType="pmc">PMC1866533</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Am J Hum Genet. 2000 Mar;66(3):1046-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10712217</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genet Epidemiol. 2000 Jul;19(1):1-17</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10861893</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Genet. 2003;4 Suppl 1:S95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14975163</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Hum Genet. 2002 Mar;66(Pt 2):169-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12174220</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Med Genet B Neuropsychiatr Genet. 2003 Apr 1;118B(1):66-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12627469</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2002 Jan;30(1):97-101</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11731797</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

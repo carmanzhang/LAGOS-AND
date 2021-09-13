@@ -1,0 +1,186 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">10940297</PMID>
+        <DateCompleted>
+            <Year>2000</Year>
+            <Month>12</Month>
+            <Day>29</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0021-9258</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>275</Volume>
+                    <Issue>46</Issue>
+                    <PubDate>
+                        <Year>2000</Year>
+                        <Month>Nov</Month>
+                        <Day>17</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of biological chemistry</Title>
+                <ISOAbbreviation>J. Biol. Chem.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Domain III of elongation factor G from Thermus thermophilus is essential for induction of GTP hydrolysis on the ribosome.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>35820-4</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Two elongation factors (EF) EF-Tu and EF-G participate in the elongation phase during protein biosynthesis on the ribosome. Their functional cycles depend on GTP binding and its hydrolysis. The EF-Tu complexed with GTP and aminoacyl-tRNA delivers tRNA to the ribosome, whereas EF-G stimulates translocation, a process in which tRNA and mRNA movements occur in the ribosome. In the present paper we report that: (a) intrinsic GTPase activity of EF-G is influenced by excision of its domain III; (b) the EF-G lacking domain III has a 10(3)-fold decreased GTPase activity on the ribosome, whereas its affinity for GTP is slightly decreased; and (c) the truncated EF-G does not stimulate translocation despite the physical presence of domain IV, which is also very important for translocation. By contrast, the interactions of the truncated factor with GDP and fusidic acid-dependent binding of EF-G.GDP complex to the ribosome are not influenced. These findings indicate an essential contribution of domain III to activation of GTP hydrolysis. These results also suggest conformational changes of the EF-G molecule in the course of its interaction with the ribosome that might be induced by GTP binding and hydrolysis.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Martemyanov</LastName>
+                    <ForeName>K A</ForeName>
+                    <Initials>KA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Protein Research, Russian Academy of Sciences, 142292 Pushchino, Moscow Region, Russia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gudkov</LastName>
+                    <ForeName>A T</ForeName>
+                    <Initials>AT</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Biol Chem</MedlineTA>
+            <NlmUniqueID>2985121R</NlmUniqueID>
+            <ISSNLinking>0021-9258</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D001426">Bacterial Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D020653">Peptide Elongation Factor G</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>146-91-8</RegistryNumber>
+                <NameOfSubstance UI="D006153">Guanosine Diphosphate</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>4A6ZS6Q2CL</RegistryNumber>
+                <NameOfSubstance UI="D011691">Puromycin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>59XE10C19C</RegistryNumber>
+                <NameOfSubstance UI="D005672">Fusidic Acid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>86-01-1</RegistryNumber>
+                <NameOfSubstance UI="D006160">Guanosine Triphosphate</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001426" MajorTopicYN="N">Bacterial Proteins</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000302" MajorTopicYN="N">isolation &amp; purification</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005672" MajorTopicYN="N">Fusidic Acid</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006153" MajorTopicYN="N">Guanosine Diphosphate</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006160" MajorTopicYN="N">Guanosine Triphosphate</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006868" MajorTopicYN="N">Hydrolysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007700" MajorTopicYN="N">Kinetics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008958" MajorTopicYN="N">Models, Molecular</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020653" MajorTopicYN="N">Peptide Elongation Factor G</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000302" MajorTopicYN="N">isolation &amp; purification</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014176" MajorTopicYN="N">Protein Biosynthesis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017434" MajorTopicYN="N">Protein Structure, Tertiary</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011691" MajorTopicYN="N">Puromycin</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012270" MajorTopicYN="N">Ribosomes</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017384" MajorTopicYN="N">Sequence Deletion</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016963" MajorTopicYN="N">Thermus thermophilus</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2000</Year>
+                <Month>8</Month>
+                <Day>15</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2001</Year>
+                <Month>2</Month>
+                <Day>28</Day>
+                <Hour>10</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2000</Year>
+                <Month>8</Month>
+                <Day>15</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">10940297</ArticleId>
+            <ArticleId IdType="doi">10.1074/jbc.M002656200</ArticleId>
+            <ArticleId IdType="pii">M002656200</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

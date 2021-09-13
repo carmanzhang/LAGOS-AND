@@ -1,0 +1,153 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">26366596</PMID>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>06</Month>
+            <Day>13</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>10</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1520-8532</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>32</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Feb</Month>
+                        <Day>01</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of the Optical Society of America. A, Optics, image science, and vision</Title>
+                <ISOAbbreviation>J Opt Soc Am A Opt Image Sci Vis</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Intelligent speckle reducing anisotropic diffusion algorithm for automated 3-D ultrasound images.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>248-57</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1364/JOSAA.32.000248</ELocationID>
+            <Abstract>
+                <AbstractText>A novel 3-D filtering method is presented for speckle reduction and detail preservation in automated 3-D ultrasound images. First, texture features of an image are analyzed by using the improved quadtree (QT) decomposition. Then, the optimal homogeneous and the obvious heterogeneous regions are selected from QT decomposition results. Finally, diffusion parameters and diffusion process are automatically decided based on the properties of these two selected regions. The computing time needed for 2-D speckle reduction is very short. However, the computing time required for 3-D speckle reduction is often hundreds of times longer than 2-D speckle reduction. This may limit its potential application in practice. Because this new filter can adaptively adjust the time step of iteration, the computation time is reduced effectively. Both synthetic and real 3-D ultrasound images are used to evaluate the proposed filter. It is shown that this filter is superior to other methods in both practicality and efficiency. </AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wu</LastName>
+                    <ForeName>Jun</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Yuanyuan</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yu</LastName>
+                    <ForeName>Jinhua</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shi</LastName>
+                    <ForeName>Xinling</ForeName>
+                    <Initials>X</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Junhua</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Yue</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pang</LastName>
+                    <ForeName>Yun</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Opt Soc Am A Opt Image Sci Vis</MedlineTA>
+            <NlmUniqueID>9800943</NlmUniqueID>
+            <ISSNLinking>1084-7529</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000465" MajorTopicYN="N">Algorithms</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016880" MajorTopicYN="N">Anisotropy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001331" MajorTopicYN="N">Automation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004058" MajorTopicYN="N">Diffusion</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007089" MajorTopicYN="N">Image Enhancement</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D021621" MajorTopicYN="N">Imaging, Three-Dimensional</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D059629" MajorTopicYN="N">Signal-To-Noise Ratio</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014463" MajorTopicYN="N">Ultrasonography</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>6</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26366596</ArticleId>
+            <ArticleId IdType="pii">307655</ArticleId>
+            <ArticleId IdType="doi">10.1364/JOSAA.32.000248</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

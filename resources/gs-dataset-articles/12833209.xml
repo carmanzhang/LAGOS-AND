@@ -1,0 +1,180 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">12833209</PMID>
+        <DateCompleted>
+            <Year>2003</Year>
+            <Month>10</Month>
+            <Day>21</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0022-1260</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>49</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2003</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of general and applied microbiology</Title>
+                <ISOAbbreviation>J. Gen. Appl. Microbiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Growth inhibition of the filamentous fungus Aspergillus nidulans by cadmium: an antioxidant enzyme approach.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>63-73</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The heavy metal cadmium is very toxic to biological systems. Although its effect on the growth of microorganisms and plants has been investigated, the response of antioxidant enzymes of Aspergillus nidulans to cadmium is not well documented. We have studied the effect of cadmium (supplied as CdCl(2)) on catalase (CAT), superoxide dismutase (SOD) and glutathione reductase (GR). 0.005 mM CdCl(2) had a very slight stimulatory effect on the growth rate of A. nidulans, but at concentrations above 0.025 mM, growth was totally inhibited. The accumulation of Cd within the mycelium was directly correlated with the increase in the concentration of CdC(2) used in the treatments. Although a cadmium-stimulated increase in SOD activity was observed, there was no change in the relative proportions of the individual Mn-SOD isoenzymes. Higher concentrations of CdCl(2) induced a small increase in total CAT activity, but there was a major increase in one isoenzymic form, that could be separated by gel electrophoresis. GR activity increased significantly following treatment with the highest concentration (0.05 mM) of CdCl(2). The increases in SOD, CAT, and GR activities suggest that CdCl(2) induces the formation of reactive oxygen species inside the mycelia of A. nidulans.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Guelfi</LastName>
+                    <ForeName>Andrea</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Departamento de Genética, Escola Superior de Agricultura Luiz de Queiroz, Universidade de Sao Paulo, 13400-970, Piracicaba, Sao Paulo, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Azevedo</LastName>
+                    <ForeName>Ricardo A</ForeName>
+                    <Initials>RA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lea</LastName>
+                    <ForeName>Peter J</ForeName>
+                    <Initials>PJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Molina</LastName>
+                    <ForeName>Silvia M G</ForeName>
+                    <Initials>SM</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Japan</Country>
+            <MedlineTA>J Gen Appl Microbiol</MedlineTA>
+            <NlmUniqueID>0165543</NlmUniqueID>
+            <ISSNLinking>0022-1260</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007527">Isoenzymes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.11.1.-</RegistryNumber>
+                <NameOfSubstance UI="C121048">guaiacol peroxidase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.11.1.6</RegistryNumber>
+                <NameOfSubstance UI="D002374">Catalase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.11.1.7</RegistryNumber>
+                <NameOfSubstance UI="D009195">Peroxidase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.15.1.1</RegistryNumber>
+                <NameOfSubstance UI="D013482">Superoxide Dismutase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.8.1.7</RegistryNumber>
+                <NameOfSubstance UI="D005980">Glutathione Reductase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>J6K4F9V3BA</RegistryNumber>
+                <NameOfSubstance UI="D019256">Cadmium Chloride</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001233" MajorTopicYN="N">Aspergillus nidulans</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName UI="Q000201" MajorTopicYN="Y">enzymology</QualifierName>
+                <QualifierName UI="Q000254" MajorTopicYN="N">growth &amp; development</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019256" MajorTopicYN="N">Cadmium Chloride</DescriptorName>
+                <QualifierName UI="Q000493" MajorTopicYN="N">pharmacokinetics</QualifierName>
+                <QualifierName UI="Q000633" MajorTopicYN="Y">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002374" MajorTopicYN="N">Catalase</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004591" MajorTopicYN="N">Electrophoresis, Polyacrylamide Gel</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005980" MajorTopicYN="N">Glutathione Reductase</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007527" MajorTopicYN="N">Isoenzymes</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D025282" MajorTopicYN="N">Mycelium</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName UI="Q000201" MajorTopicYN="N">enzymology</QualifierName>
+                <QualifierName UI="Q000254" MajorTopicYN="N">growth &amp; development</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009195" MajorTopicYN="N">Peroxidase</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013482" MajorTopicYN="N">Superoxide Dismutase</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2003</Year>
+                <Month>7</Month>
+                <Day>2</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2003</Year>
+                <Month>10</Month>
+                <Day>22</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2003</Year>
+                <Month>7</Month>
+                <Day>2</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">12833209</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

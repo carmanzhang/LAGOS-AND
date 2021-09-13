@@ -1,0 +1,630 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">22912777</PMID>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>05</Month>
+            <Day>01</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>04</Month>
+            <Day>04</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>7</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS One</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>MUC1c regulates cell survival in pancreatic cancer by preventing lysosomal permeabilization.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e43020</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0043020</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">MUC1 is a type I transmembrane glycoprotein aberrantly overexpressed in various cancer cells including pancreatic cancer. The cytosolic end of MUC1 (MUC1-c) is extensively involved in a number of signaling pathways. MUC1-c is reported to inhibit apoptosis in a number of cancer cells, but the mechanism of inhibition is unclear.</AbstractText>
+                <AbstractText Label="METHOD" NlmCategory="METHODS">Expression of MUC1-c was studied in the pancreatic cancer cell line MIAPaCa-2 at the RNA level by using qRTPCR and at the protein level by Western blotting. MUC1-c expression was inhibited either by siRNA or by a specific peptide inhibitor, GO-201. Effect of MUC1-c inhibition on viability and proliferation and lysosomal permeabilization were studied. Association of MUC1-c with HSP70 was detected by co-immunoprecipitation of MUC1-c and HSP70. Localization of MUC1-c in cellular organelles was monitored by immunofluorescence and with immuno- blotting by MUC1-c antibody after subcellular fractionation.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Inhibition of MUC1-c by an inhibitor (GO-201) or siRNA resulted in reduced viability and reduced proliferation of pancreatic cancer cells. Furthermore, GO-201, the peptide inhibitor of MUC1-c, was effective in reducing tumor burden in pancreatic cancer mouse model. MUC1-c was also found to be associated with HSP70 in the cytosol, although a significant amount of MUC1 was also seen to be present in the lysosomes. Inhibition of MUC1 expression or activity showed an enhanced Cathepsin B activity in the cytosol, indicating lysosomal permeabilization. Therefore this study indicates that MUC1-c interacted with HSP70 in the cytosol of pancreatic cancer cells and localized to the lysosomes in these cells. Further, our results showed that MUC1-c protects pancreatic cancer cells from cell death by stabilizing lysosomes and preventing release of Cathepsin B in the cytosol.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Banerjee</LastName>
+                    <ForeName>Sulagna</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Basic and Translational Research, Department of Surgery, University of Minnesota, Minneapolis, Minnesota, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mujumdar</LastName>
+                    <ForeName>Nameeta</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dudeja</LastName>
+                    <ForeName>Vikas</ForeName>
+                    <Initials>V</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mackenzie</LastName>
+                    <ForeName>Tiffany</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Krosch</LastName>
+                    <ForeName>Tara K</ForeName>
+                    <Initials>TK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sangwan</LastName>
+                    <ForeName>Veena</ForeName>
+                    <Initials>V</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vickers</LastName>
+                    <ForeName>Selwyn M</ForeName>
+                    <Initials>SM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Saluja</LastName>
+                    <ForeName>Ashok K</ForeName>
+                    <Initials>AK</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>P50 CA101955</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 CA124723</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 5R01CA124723-05</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R21 5R21CA131663-02</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2012</Year>
+                <Month>08</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C549568">GO 201</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D018840">HSP70 Heat-Shock Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D018396">Mucin-1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010455">Peptides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D021122">Protein Subunits</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C577056">muc1 protein, mouse</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015153" MajorTopicYN="N">Blotting, Western</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D045744" MajorTopicYN="N">Cell Line, Tumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002470" MajorTopicYN="N">Cell Survival</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018840" MajorTopicYN="N">HSP70 Heat-Shock Proteins</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D047468" MajorTopicYN="N">Immunoprecipitation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008247" MajorTopicYN="N">Lysosomes</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018396" MajorTopicYN="N">Mucin-1</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010190" MajorTopicYN="N">Pancreatic Neoplasms</DescriptorName>
+                <QualifierName UI="Q000503" MajorTopicYN="Y">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010455" MajorTopicYN="N">Peptides</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010539" MajorTopicYN="N">Permeability</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D021122" MajorTopicYN="N">Protein Subunits</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D060888" MajorTopicYN="N">Real-Time Polymerase Chain Reaction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015398" MajorTopicYN="N">Signal Transduction</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2012</Year>
+                <Month>04</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2012</Year>
+                <Month>07</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>8</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>8</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">22912777</ArticleId>
+            <ArticleId IdType="doi">10.1371/journal.pone.0043020</ArticleId>
+            <ArticleId IdType="pii">PONE-D-12-10756</ArticleId>
+            <ArticleId IdType="pmc">PMC3418232</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Cancer Res. 2003 Aug 15;63(16):5011-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12941828</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Histochem Cytochem. 2003 Jun;51(6):781-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12754289</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Cell. 2004 Feb;5(2):163-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14998492</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2004 May 14;279(20):20607-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14999001</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Crit Rev Clin Lab Sci. 2004;41(2):189-231</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15270554</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncogene. 2004 Jul 29;23(34):5739-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15221004</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Med. 2004 Aug 16;200(4):425-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15314073</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cancer Res Clin Oncol. 2004 May;130(5):245-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14986113</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Life Sci. 1975 Oct 15;17(8):1269-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">577</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>In Vitro. 1982 Jan;18(1):24-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7182348</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 1992 Apr 15;52(8):2318-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1559234</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Exp Metastasis. 1992 Jul;10(4):259-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1319859</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1997 May 9;272(19):12492-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9139698</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1997 Sep 26;272(39):24198-202</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9305871</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Cell. 2005 Feb;7(2):167-78</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15710329</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Dev. 2005 Mar 1;19(5):570-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15741319</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2005 Nov 18;280(46):38729-39</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16172114</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2005 Nov 15;65(22):10413-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16288032</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Struct Mol Biol. 2006 Jan;13(1):71-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16369486</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncogene. 2006 Jan 5;25(1):20-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16158055</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Cancer Res. 2006 May 15;12(10):2976-87</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16707592</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 2006 Aug 23;25(16):3774-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16888623</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cancer Res. 2006 Nov;4(11):873-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17114345</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Cycle. 2006 Nov;5(22):2592-601</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17106261</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2007 Jan 15;67(2):616-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17234771</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2007 Mar 15;67(6):2559-67</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17363574</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Carcinogenesis. 2007 Mar;28(3):537-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16950797</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Mol Cell Biol. 2007 May;8(5):405-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17377525</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2007 Jun 1;67(11):5201-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17545600</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2007 Jul 6;282(27):19321-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17500061</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Mol Cell Biol. 2007 Aug;8(8):622-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17637737</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEBS Lett. 2007 Jul 31;581(19):3702-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17544402</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2007 Oct 1;67(19):9407-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17909050</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Cell Biol. 2007 Dec;9(12):1419-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18037881</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2007 Dec 15;67(24):11576-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18089786</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Gastroenterol Hepatol. 2008 Mar;23 Suppl 1:S42-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18336662</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2008 Aug 1;68(15):6136-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18676836</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncogene. 2008 Oct 27;27(50):6434-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18955971</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gastroenterology. 2009 May;136(5):1772-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19208367</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Oncol. 2009 Jun;34(6):1691-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19424588</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2009 Jun 15;69(12):5133-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19491255</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2009 Sep 1;69(17):7013-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19706766</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cancer Ther. 2009 Nov;8(11):3056-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19887552</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Cancer. 2009 Dec;9(12):874-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19935676</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncogene. 2010 Feb 11;29(6):920-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19915608</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Pharmacol. 2010 Aug;78(2):166-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20444960</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>CA Cancer J Clin. 2010 Sep-Oct;60(5):277-300</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20610543</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncogene. 2010 Oct 21;29(42):5663-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20711235</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Biol Ther. 2010 Sep 1;10(5):483-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20592495</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sci Signal. 2011;4(160):ra9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21325207</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncogene. 2011 Mar 24;30(12):1449-59</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21102519</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Cycle. 2010 Jun 15;9(12):2305-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20519957</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2011 Jul 1;71(13):4432-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21558393</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Exp Cell Res. 2000 May 25;257(1):58-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10854054</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Cancer. 2000 Nov 15;88(4):507-18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11058865</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2001 Apr 20;276(16):13057-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11278868</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Cell Biol. 2001 Nov;3(11):E255-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11715037</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2003 Jan 10;112(1):41-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12526792</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell. 2003 Jan;11(1):1-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12535512</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Biophys Res Commun. 2003 Feb 21;301(4):1038-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12589817</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Biol Ther. 2003 Mar-Apr;2(2):187-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12750561</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Cell. 2004 Feb;5(2):107-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14998483</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

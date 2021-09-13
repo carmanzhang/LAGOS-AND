@@ -1,0 +1,332 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">18083557</PMID>
+        <DateCompleted>
+            <Year>2008</Year>
+            <Month>03</Month>
+            <Day>24</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>10</Month>
+            <Day>03</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1464-3405</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>18</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2008</Year>
+                        <Month>Feb</Month>
+                        <Day>01</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Bioorganic &amp; medicinal chemistry letters</Title>
+                <ISOAbbreviation>Bioorg Med Chem Lett</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Protected aminooxyprolines for expedited library synthesis: application to Tsg101-directed proline-oxime containing peptides.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1096-101</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The stereoselective synthesis of aminooxy-containing proline analogues bearing Fmoc/Boc or Fmoc/Mtt protection that renders them suitable for incorporation into peptides using Fmoc protocols is reported. Acid-catalyzed unmasking at the completion of peptide synthesis yields free aminooxy-functionalities for oxime formation through reaction with libraries of aldehydes. This allows post solid-phase diversification strategies that may facilitate structure-activity relationship studies.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Fa</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Medicinal Chemistry, CCR, NCI-Frederick, NIH, Building 376 Boyles Street, Frederick, MD 21702, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stephen</LastName>
+                    <ForeName>Andrew G</ForeName>
+                    <Initials>AG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fisher</LastName>
+                    <ForeName>Robert J</ForeName>
+                    <Initials>RJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Burke</LastName>
+                    <ForeName>Terrence R</ForeName>
+                    <Initials>TR</Initials>
+                    <Suffix>Jr</Suffix>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>N01CO12400</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>Z01 BC007363-12</GrantID>
+                    <Agency>Intramural NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>N01-CO-12400</GrantID>
+                    <Acronym>CO</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D052060">Research Support, N.I.H., Intramural</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2007</Year>
+                <Month>12</Month>
+                <Day>07</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Bioorg Med Chem Lett</MedlineTA>
+            <NlmUniqueID>9107377</NlmUniqueID>
+            <ISSNLinking>0960-894X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000447">Aldehydes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004268">DNA-Binding Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D056827">Endosomal Sorting Complexes Required for Transport</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010091">Oximes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010455">Peptides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014157">Transcription Factors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C099249">Tsg101 protein</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9DLQ4CIU6V</RegistryNumber>
+                <NameOfSubstance UI="D011392">Proline</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000447" MajorTopicYN="N">Aldehydes</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020650" MajorTopicYN="Y">Combinatorial Chemistry Techniques</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004268" MajorTopicYN="N">DNA-Binding Proteins</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D056827" MajorTopicYN="N">Endosomal Sorting Complexes Required for Transport</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015394" MajorTopicYN="N">Molecular Structure</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010091" MajorTopicYN="N">Oximes</DescriptorName>
+                <QualifierName UI="Q000138" MajorTopicYN="Y">chemical synthesis</QualifierName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010455" MajorTopicYN="N">Peptides</DescriptorName>
+                <QualifierName UI="Q000138" MajorTopicYN="Y">chemical synthesis</QualifierName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011392" MajorTopicYN="N">Proline</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011487" MajorTopicYN="N">Protein Conformation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013237" MajorTopicYN="N">Stereoisomerism</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013329" MajorTopicYN="N">Structure-Activity Relationship</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014157" MajorTopicYN="N">Transcription Factors</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2007</Year>
+                <Month>11</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2007</Year>
+                <Month>12</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2007</Year>
+                <Month>12</Month>
+                <Day>18</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2008</Year>
+                <Month>3</Month>
+                <Day>25</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2007</Year>
+                <Month>12</Month>
+                <Day>18</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">18083557</ArticleId>
+            <ArticleId IdType="pii">S0960-894X(07)01446-1</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.bmcl.2007.12.003</ArticleId>
+            <ArticleId IdType="pmc">PMC2488393</ArticleId>
+            <ArticleId IdType="mid">NIHMS40357</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Org Lett. 2001 Aug 9;3(16):2477-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11483039</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Angew Chem Int Ed Engl. 2005 May 6;44(19):2852-69</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15880548</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FASEB J. 1995 Jun;9(9):736-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7601338</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Nat Prod. 1996 Dec;59(12):1205-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8988607</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 1998 Jun 5;279(2):449-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9642049</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Virus Res. 2004 Dec;106(2):87-102</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15567490</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Org Chem. 2005 Feb 18;70(4):1306-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15704965</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Med Chem. 2005 Mar 10;48(5):1576-87</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15743199</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Org Lett. 2005 Jun 23;7(13):2751-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15957938</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vaccine. 2006 Feb 6;24(6):716-29</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16233938</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Pept Sci. 2006 Jul;12(7):462-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16506148</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acta Virol. 2006;50(2):75-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16808324</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Org Lett. 2006 Oct 26;8(22):5165-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17048869</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Angew Chem Int Ed Engl. 2006 Dec 11;45(48):8141-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17109457</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioorg Med Chem. 2007 Feb 1;15(3):1439-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17113302</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Org Lett. 2001 Aug 9;3(16):2481-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11483040</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

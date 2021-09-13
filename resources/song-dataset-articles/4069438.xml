@@ -1,0 +1,164 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">4069438</PMID>
+        <DateCompleted>
+            <Year>1986</Year>
+            <Month>01</Month>
+            <Day>22</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>07</Month>
+            <Day>01</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0304-3940</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>60</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>1985</Year>
+                        <Month>Oct</Month>
+                        <Day>10</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Neuroscience letters</Title>
+                <ISOAbbreviation>Neurosci Lett</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Effect of liver and renal dysfunction on circulating methionine-enkephalin immunoreactivity.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>301-5</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Plasma methionine-enkephalin (Met-Enk) immunoreactivity has been determined in 24 patients with varying degrees of renal impairment and 14 patients with hepatic failure. Plasma Met-Enk immunoreactivity correlated inversely with creatinine clearance (r = -0.71, P less than 0.001) but was not affected by even severe hepatic failure in the absence of renal impairment. In two patients, with renal failure and elevated plasma prolactin, administration of naloxone (16 mg) had no effect on circulating prolactin concentrations. These studies indicate that the kidney has a major role in Met-Enk metabolism while the liver does not, and further suggest that elevated circulating endogenous opiates are not responsible for the increased production of prolactin found in renal failure.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Smith</LastName>
+                    <ForeName>R</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Grossman</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gimson</LastName>
+                    <ForeName>A E</ForeName>
+                    <Initials>AE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Besser</LastName>
+                    <ForeName>G M</ForeName>
+                    <Initials>GM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rees</LastName>
+                    <ForeName>L H</ForeName>
+                    <Initials>LH</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Ireland</Country>
+            <MedlineTA>Neurosci Lett</MedlineTA>
+            <NlmUniqueID>7600130</NlmUniqueID>
+            <ISSNLinking>0304-3940</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>36B82AMQ7N</RegistryNumber>
+                <NameOfSubstance UI="D009270">Naloxone</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>58569-55-4</RegistryNumber>
+                <NameOfSubstance UI="D004744">Enkephalin, Methionine</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D004744" MajorTopicYN="N">Enkephalin, Methionine</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006966" MajorTopicYN="N">Hyperprolactinemia</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+                <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007668" MajorTopicYN="N">Kidney</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007674" MajorTopicYN="N">Kidney Diseases</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007676" MajorTopicYN="N">Kidney Failure, Chronic</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008099" MajorTopicYN="N">Liver</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008107" MajorTopicYN="N">Liver Diseases</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009270" MajorTopicYN="N">Naloxone</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1985</Year>
+                <Month>10</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1985</Year>
+                <Month>10</Month>
+                <Day>10</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1985</Year>
+                <Month>10</Month>
+                <Day>10</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">4069438</ArticleId>
+            <ArticleId IdType="pii">0304-3940(85)90594-4</ArticleId>
+            <ArticleId IdType="doi">10.1016/0304-3940(85)90594-4</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

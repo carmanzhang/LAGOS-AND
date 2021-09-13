@@ -1,0 +1,113 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">23745858</PMID>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>08</Month>
+            <Day>23</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>06</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1079-7114</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>110</Volume>
+                    <Issue>21</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>May</Month>
+                        <Day>24</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Physical review letters</Title>
+                <ISOAbbreviation>Phys. Rev. Lett.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Hydrodynamic gradient expansion in gauge theory plasmas.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>211602</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>We utilize the fluid-gravity duality to investigate the large order behavior of hydrodynamic gradient expansion of the dynamics of a gauge theory plasma system. This corresponds to the inclusion of dissipative terms and transport coefficients of very high order. Using the dual gravity description, we calculate numerically the form of the stress tensor for a boost-invariant flow in a hydrodynamic expansion up to terms with 240 derivatives. We observe a factorial growth of gradient contributions at large orders, which indicates a zero radius of convergence of the hydrodynamic series. Furthermore, we identify the leading singularity in the Borel transform of the hydrodynamic energy density with the lowest nonhydrodynamic excitation corresponding to a 'nonhydrodynamic' quasinormal mode on the gravity side.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Heller</LastName>
+                    <ForeName>Michal P</ForeName>
+                    <Initials>MP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Instituut voor Theoretische Fysica, Universiteit van Amsterdam, Science Park 904, 1090 GL Amsterdam, The Netherlands. m.p.heller@uva.nl</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Janik</LastName>
+                    <ForeName>Romuald A</ForeName>
+                    <Initials>RA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Witaszczyk</LastName>
+                    <ForeName>Przemysław</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>05</Month>
+                <Day>22</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Phys Rev Lett</MedlineTA>
+            <NlmUniqueID>0401141</NlmUniqueID>
+            <ISSNLinking>0031-9007</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>02</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">23745858</ArticleId>
+            <ArticleId IdType="doi">10.1103/PhysRevLett.110.211602</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

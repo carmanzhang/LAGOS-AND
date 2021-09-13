@@ -1,0 +1,1055 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">27869790</PMID>
+        <DateCompleted>
+            <Year>2018</Year>
+            <Month>01</Month>
+            <Day>25</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>05</Month>
+            <Day>08</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2058-5276</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>2</Volume>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Nov</Month>
+                        <Day>21</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Nature microbiology</Title>
+                <ISOAbbreviation>Nat Microbiol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The genome of Onchocerca volvulus, agent of river blindness.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>16216</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1038/nmicrobiol.2016.216</ELocationID>
+            <Abstract>
+                <AbstractText>Human onchocerciasis is a serious neglected tropical disease caused by the filarial nematode Onchocerca volvulus that can lead to blindness and chronic disability. Control of the disease relies largely on mass administration of a single drug, and the development of new drugs and vaccines depends on a better knowledge of parasite biology. Here, we describe the chromosomes of O. volvulus and its Wolbachia endosymbiont. We provide the highest-quality sequence assembly for any parasitic nematode to date, giving a glimpse into the evolution of filarial parasite chromosomes and proteomes. This resource was used to investigate gene families with key functions that could be potentially exploited as targets for future drugs. Using metabolic reconstruction of the nematode and its endosymbiont, we identified enzymes that are likely to be essential for O. volvulus viability. In addition, we have generated a list of proteins that could be targeted by Federal-Drug-Agency-approved but repurposed drugs, providing starting points for anti-onchocerciasis drug development.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Cotton</LastName>
+                    <ForeName>James A</ForeName>
+                    <Initials>JA</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-5475-3583</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Wellcome Trust Sanger Institute, Wellcome Genome Campus, Hinxton, Cambridgeshire CB10 1SA, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bennuru</LastName>
+                    <ForeName>Sasisekhar</ForeName>
+                    <Initials>S</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-6117-742X</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Parasitic Diseases, National Institute of Allergy and Infectious Diseases, NIH, Bethesda, Maryland 20892, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Grote</LastName>
+                    <ForeName>Alexandra</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Genomics and Systems Biology, Department of Biology, New York University, New York, New York 10003, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Harsha</LastName>
+                    <ForeName>Bhavana</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Wellcome Trust Sanger Institute, Wellcome Genome Campus, Hinxton, Cambridgeshire CB10 1SA, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tracey</LastName>
+                    <ForeName>Alan</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Wellcome Trust Sanger Institute, Wellcome Genome Campus, Hinxton, Cambridgeshire CB10 1SA, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Beech</LastName>
+                    <ForeName>Robin</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Parasitology, McGill University, Montreal, Quebec H9X 3V9, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Doyle</LastName>
+                    <ForeName>Stephen R</ForeName>
+                    <Initials>SR</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-9167-7532</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Wellcome Trust Sanger Institute, Wellcome Genome Campus, Hinxton, Cambridgeshire CB10 1SA, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dunn</LastName>
+                    <ForeName>Matthew</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Wellcome Trust Sanger Institute, Wellcome Genome Campus, Hinxton, Cambridgeshire CB10 1SA, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hotopp</LastName>
+                    <ForeName>Julie C Dunning</ForeName>
+                    <Initials>JC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Genome Sciences, Department of Microbiology and Immunology, University of Maryland School of Medicine, Baltimore, Maryland 21201, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Holroyd</LastName>
+                    <ForeName>Nancy</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Wellcome Trust Sanger Institute, Wellcome Genome Campus, Hinxton, Cambridgeshire CB10 1SA, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kikuchi</LastName>
+                    <ForeName>Taisei</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Wellcome Trust Sanger Institute, Wellcome Genome Campus, Hinxton, Cambridgeshire CB10 1SA, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lambert</LastName>
+                    <ForeName>Olivia</ForeName>
+                    <Initials>O</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Wellcome Trust Sanger Institute, Wellcome Genome Campus, Hinxton, Cambridgeshire CB10 1SA, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mhashilkar</LastName>
+                    <ForeName>Amruta</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Global Health Infectious Disease Research Program, Department of Global Health, College of Public Health, University of South Florida, Tampa, Florida 33612, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mutowo</LastName>
+                    <ForeName>Prudence</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>European Molecular Biology Laboratory, European Bioinformatics Institute, Wellcome Genome Campus, Hinxton, Cambridgeshire CB10 1SD, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nursimulu</LastName>
+                    <ForeName>Nirvana</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Computer Science, University of Toronto, Toronto M5S 3G4, Canada.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Molecular Structure and Function, Research Institute, Hospital for Sick Children, Toronto, Ontario M5G 1X8, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ribeiro</LastName>
+                    <ForeName>Jose M C</ForeName>
+                    <Initials>JM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Malaria and Vector Research, National Institute of Allergy and Infectious Diseases, NIH, Bethesda, Maryland 20892, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rogers</LastName>
+                    <ForeName>Matthew B</ForeName>
+                    <Initials>MB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Children's Hospital of Pittsburgh, University of Pittsburgh School of Medicine, Pittsburgh, Pennsylvania 15224, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stanley</LastName>
+                    <ForeName>Eleanor</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Wellcome Trust Sanger Institute, Wellcome Genome Campus, Hinxton, Cambridgeshire CB10 1SA, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Swapna</LastName>
+                    <ForeName>Lakshmipuram S</ForeName>
+                    <Initials>LS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Molecular Structure and Function, Research Institute, Hospital for Sick Children, Toronto, Ontario M5G 1X8, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tsai</LastName>
+                    <ForeName>Isheng J</ForeName>
+                    <Initials>IJ</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-2123-5058</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Wellcome Trust Sanger Institute, Wellcome Genome Campus, Hinxton, Cambridgeshire CB10 1SA, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Unnasch</LastName>
+                    <ForeName>Thomas R</ForeName>
+                    <Initials>TR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Global Health Infectious Disease Research Program, Department of Global Health, College of Public Health, University of South Florida, Tampa, Florida 33612, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Voronin</LastName>
+                    <ForeName>Denis</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>New York Blood Center, New York, New York 10065, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Parkinson</LastName>
+                    <ForeName>John</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Computer Science, University of Toronto, Toronto M5S 3G4, Canada.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Molecular Structure and Function, Research Institute, Hospital for Sick Children, Toronto, Ontario M5G 1X8, Canada.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Departments of Biochemistry and Molecular Genetics, University of Toronto, M5S 1A8, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nutman</LastName>
+                    <ForeName>Thomas B</ForeName>
+                    <Initials>TB</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-6887-4941</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory of Parasitic Diseases, National Institute of Allergy and Infectious Diseases, NIH, Bethesda, Maryland 20892, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ghedin</LastName>
+                    <ForeName>Elodie</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Genomics and Systems Biology, Department of Biology, New York University, New York, New York 10003, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>College of Global Public Health, New York University, New York, New York 10003, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Berriman</LastName>
+                    <ForeName>Matthew</ForeName>
+                    <Initials>M</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0002-9581-0377</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Wellcome Trust Sanger Institute, Wellcome Genome Campus, Hinxton, Cambridgeshire CB10 1SA, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lustigman</LastName>
+                    <ForeName>Sara</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>New York Blood Center, New York, New York 10065, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>DP2 OD007372</GrantID>
+                    <Acronym>OD</Acronym>
+                    <Agency>NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AI078314</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>T32 AI007180</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U19 AI110820</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>11</Month>
+                <Day>21</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Nat Microbiol</MedlineTA>
+            <NlmUniqueID>101674869</NlmUniqueID>
+            <ISSNLinking>2058-5276</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016680" MajorTopicYN="N">Genome, Bacterial</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D049751" MajorTopicYN="Y">Genome, Helminth</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017181" MajorTopicYN="N">Onchocerca volvulus</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015827" MajorTopicYN="N">Onchocerciasis, Ocular</DescriptorName>
+                <QualifierName UI="Q000469" MajorTopicYN="Y">parasitology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020577" MajorTopicYN="N">Wolbachia</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>04</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>09</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>11</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>11</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>1</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">27869790</ArticleId>
+            <ArticleId IdType="pii">nmicrobiol2016216</ArticleId>
+            <ArticleId IdType="doi">10.1038/nmicrobiol.2016.216</ArticleId>
+            <ArticleId IdType="pmc">PMC5310847</ArticleId>
+            <ArticleId IdType="mid">NIHMS848855</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Mol Biol Evol. 2000 Apr;17(4):540-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10742046</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Parasitology. 2012 May;139(6):681-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22310379</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2014 Jan 29;9(1):e87594</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24489942</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2013 Jan;41(Database issue):D21-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23180798</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Med Chem. 2012 Feb 23;55(4):1612-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22264015</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Brief Bioinform. 2010 Jan;11(1):40-79</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19955237</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2010 Jul 15;26(14):1704-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20562415</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Exp Parasitol. 1990 Nov;71(4):489-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2226709</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2002 Jun 1;30(11):2478-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12034836</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Biochem Parasitol. 2005 Jul;142(1):126-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15869814</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Genomics. 2014 May 15;15:369</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24885009</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Biol Evol. 2013 Apr;30(4):772-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23329690</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 1994 Oct;60(10):3724-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7986045</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Negl Trop Dis. 2010 Mar 09;4(3):e625</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20231890</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Biochem Parasitol. 1990 Jan 1;38(1):13-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2320051</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Invert Neurosci. 2007 Dec;7(4):219-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17952476</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Exp Parasitol. 1981 Apr;51(2):296-306</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6970680</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Negl Trop Dis. 2014 Jul 24;8(7):e2865</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25058013</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Biol. 2013 Apr 25;14(4):R36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23618408</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1998 Dec 11;282(5396):2012-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9851916</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Bioinformatics. 2012;13 Suppl 14:S8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23095524</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2010 Jul 15;26(14):1690-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20513663</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>WormBook. 2006 Jan 03;:1-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18050471</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Parasitol Drugs Drug Resist. 2014 Jan 31;4(2):71-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25057456</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2006 Jul 1;34(Web Server issue):W435-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16845043</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Res. 2008 May;18(5):821-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18349386</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Res. 2003 Nov;13(11):2498-504</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14597658</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Biophys Res Commun. 2005 Jan 21;326(3):614-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15596143</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Biochem Sci. 2002 Jan;27(1):54-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11796225</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Biol. 2009;10(4):R42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19393038</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Parasit Vectors. 2014 Jul 03;7:307</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24992829</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Invert Neurosci. 2015 Sep;15(3):5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26187649</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Biol. 2005 Apr;3(4):e121</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15780005</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Negl Trop Dis. 2013 Apr 25;7(4):e2169</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23634234</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2014 May 1;30(9):1236-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24451626</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Res. 2012 Mar;22(3):549-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22156294</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2008 Nov 25;105(47):18590-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19020092</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2011 Aug 1;27(15):2141-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21653517</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Invert Neurosci. 2007 Jun;7(2):129-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17503100</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2012 Jan;40(Database issue):D735-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22067452</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Syst Biol. 2008;4:177</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18364711</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Filaria J. 2005 Nov 02;4:10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16266430</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Bioinformatics. 2006 Oct 25;7:474</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17064419</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Parasit Vectors. 2015 Oct 22;8:552</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26489937</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FASEB J. 2012 Nov;26(11):4650-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22889830</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2011 May;39(9):e57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21306991</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>MMWR Morb Mortal Wkly Rep. 2013 May 24;62(20):405-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23698606</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2002 Jul 15;30(14):3059-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12136088</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Bioinformatics. 2004 May 14;5:59</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15144565</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Res. 2009 Feb;19(2):327-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19029536</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2003 Nov 15;31(22):6633-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14602924</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2007 Sep 21;317(5845):1756-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17885136</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2014 Apr 24;508(7497):494-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24759411</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Negl Trop Dis. 2015 Nov 20;9(11):e0004233</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26588229</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Syst Biol. 2013 Nov 19;9:708</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24247825</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 1997 Mar 17;16(6):1173-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9135134</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2016 Mar;48(3):299-307</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26829753</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Res. 2008 Dec;18(12):1979-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18757608</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Biol. 2007 Jul;5(7):e167</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17608563</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2014 May 1;30(9):1312-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24451623</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Parasitol Int. 2013 Dec;62(6):639-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23474412</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Immun. 2000 Jun;68(6):3491-501</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10816503</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Syst. 2016 May 25;2(5):312-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">27211858</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2000 Mar 14;97(6):2674-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10716995</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Biochem Cell Biol. 2008;40(6-7):1389-98</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18249028</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Biol. 2013 May 27;14(5):R47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23710727</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Syst Biol. 2003 Oct;52(5):696-704</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14530136</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2010 Jul 15;26(14):1699-703</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20513662</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gene. 2007 Mar 1;389(1):1-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17137733</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Pathog. 2006 Oct;2(10):e94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17040125</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Parasit Vectors. 2015 Sep 08;8:451</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26350613</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2014 Jul;46(7):693-700</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24929830</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2012 Jan;40(Database issue):D98-108</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22116062</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2011 Jun 7;108(23):9649-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21606368</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2007 May 1;23(9):1061-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17332020</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Biol. 2004;5(2):R12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14759262</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Invest Ophthalmol Vis Sci. 1996 Feb;37(2):405-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8603846</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2013 May;45(5):495-500</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23525074</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Protoc. 2007;2(3):727-38</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17406635</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Parasitol. 1993 Aug;79(4):571-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8331478</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2007 Jul;35(Web Server issue):W182-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17526522</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acta Trop. 2011 Sep;120 Suppl 1:S100-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20801094</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Tropenmed Parasitol. 1977 Dec;28(4):428-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">203061</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Exp Parasitol. 1979 Apr;47(2):209-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">437017</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Bioinformatics. 2011 Dec 22;12:491</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22192575</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Genomics. 2008 Oct 31;9:517</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18976482</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2013 Jan;41(Database issue):D43-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23161681</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Parasitol Drugs Drug Resist. 2014 Aug 13;4(3):164-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25516826</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Biol. 2010;11(4):R41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20388197</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Biotechnol. 2010 Mar;28(3):245-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20212490</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Methods. 2009 Apr;6(4):291-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19287394</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Infect Dis. 1994 Mar;169(3):686-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8158053</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2015 Jan;43(Database issue):D1049-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25428369</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Pathog. 2015 Dec 01;11(12):e1005267</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26625142</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Infect Dis. 2014 Oct;59(7):923-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24944228</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Bioinformatics. 2005 Feb 15;6:31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15713233</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 2015 Aug 22;386(9995):743-800</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26063472</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Parasitology. 1981 Aug;83(Pt 1):139-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7267145</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2004 Dec 01;32(21):6226-39</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15576349</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2011 Feb 15;27(4):578-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21149342</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Genomics. 2014 Sep 12;15:788</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25217238</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Parasitology. 2014 Jan;141(1):119-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23866958</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2015 Jan;43(Database issue):D439-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25378310</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trop Med Parasitol. 1990 Jun;41(2):221-2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2200105</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trans R Soc Trop Med Hyg. 1986;80(1):150-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3726977</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Parasitol. 2006 Jul;22(7):285-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16730230</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1986 Sep 5;261(25):11667-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3091593</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Res. 2012 Dec;22(12):2467-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22919073</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2015 Jan;43(Database issue):D204-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25348405</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 1997 Sep 1;25(17):3389-402</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9254694</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Emerg Infect Dis. 2013;19(9):1374-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23965548</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

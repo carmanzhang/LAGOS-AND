@@ -1,0 +1,127 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">25615302</PMID>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>06</Month>
+            <Day>04</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>01</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1079-7114</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>113</Volume>
+                    <Issue>26</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Dec</Month>
+                        <Day>31</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Physical review letters</Title>
+                <ISOAbbreviation>Phys. Rev. Lett.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Coupling hydrodynamics to nonequilibrium degrees of freedom in strongly interacting quark-gluon plasma.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>261601</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Relativistic hydrodynamics simulations of quark-gluon plasma play a pivotal role in our understanding of heavy ion collisions at RHIC and LHC. They are based on a phenomenological description due to Müller, Israel, Stewart (MIS) and others, which incorporates viscous effects and ensures a well-posed initial value problem. Focusing on the case of conformal plasma we propose a generalization which includes, in addition, the dynamics of the least damped far-from-equilibrium degree of freedom found in strongly coupled plasmas through the AdS/CFT correspondence. We formulate new evolution equations for general flows and then test them in the case of N=4 super Yang-Mills plasma by comparing their solutions alongside solutions of MIS theory with numerical computations of isotropization and boost-invariant flow based on holography. In these tests the new equations reproduce the results of MIS theory when initialized close to the hydrodynamic stage of evolution, but give a more accurate description of the dynamics when initial conditions are set in the preequilibrium regime. </AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Heller</LastName>
+                    <ForeName>Michal P</ForeName>
+                    <Initials>MP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Instituut voor Theoretische Fysica, Universiteit van Amsterdam, Science Park 904, 1090 GL Amsterdam, Netherlands and Perimeter Institute for Theoretical Physics, Waterloo, Ontario N2L 2Y5, Canada and National Centre for Nuclear Research, Hoża 69, 00-681 Warsaw, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Janik</LastName>
+                    <ForeName>Romuald A</ForeName>
+                    <Initials>RA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Physics, Jagiellonian University, Reymonta 4, 30-059 Kraków, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Spaliński</LastName>
+                    <ForeName>Michał</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Centre for Nuclear Research, Hoża 69, 00-681 Warsaw, Poland and Physics Department, University of Białystok, Lipowa 41, 15-424 Białystok, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Witaszczyk</LastName>
+                    <ForeName>Przemysław</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Physics, Jagiellonian University, Reymonta 4, 30-059 Kraków, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2014</Year>
+                <Month>12</Month>
+                <Day>24</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Phys Rev Lett</MedlineTA>
+            <NlmUniqueID>0401141</NlmUniqueID>
+            <ISSNLinking>0031-9007</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2014</Year>
+                <Month>10</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>1</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>1</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>1</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">25615302</ArticleId>
+            <ArticleId IdType="doi">10.1103/PhysRevLett.113.261601</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

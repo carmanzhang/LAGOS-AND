@@ -1,0 +1,163 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20712298</PMID>
+        <DateCompleted>
+            <Year>2010</Year>
+            <Month>10</Month>
+            <Day>05</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>11</Month>
+            <Day>25</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1520-4995</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>49</Volume>
+                    <Issue>35</Issue>
+                    <PubDate>
+                        <Year>2010</Year>
+                        <Month>Sep</Month>
+                        <Day>07</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biochemistry</Title>
+                <ISOAbbreviation>Biochemistry</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Salt-induced modulation of the pathway of amyloid fibril formation by the mouse prion protein.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>7615-24</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/bi100745j</ELocationID>
+            <Abstract>
+                <AbstractText>To investigate how the heterogeneity inherent in the formation of worm-like amyloid fibrils by the mouse prion protein is modulated by a change in aggregation conditions, as well as to determine how heterogeneity in reaction leads to heterogeneity in structure, the amyloid fibril formation reaction of the protein at low pH was studied in the presence of various salts. It is shown that beta-rich oligomers of different sizes and structures are formed at low and high NaCl concentrations, as determined by Fourier transfer infrared (FTIR) spectroscopy and dynamic light scattering (DLS). The worm-like fibrils formed from the beta-rich oligomers at low and high NaCl concentrations also differ in their internal structure, as determined by FTIR measurements. The apparent rate constant for the formation of the worm-like amyloid fibrils shows a very steep sigmoidal dependence on NaCl concentration, suggesting that the effect occurs because of the binding of many ions. The effect of salt in modulating the kinetics of worm-like fibril formation occurs at ionic strengths below 200 mM, over different concentration ranges for different salts, and is shown to depend not only on the ionic strength but also on the nature of the anion. The ability of different anions to promote worm-like fibril formation does not follow the Hofmeister series but instead follows the electroselectivity series for anion binding. Hence, it appears that the effect of salt is because of the linkage of the aggregation reaction to anion binding to the protein. A comparison of the apparent rate constants measured from the changes in thioflavin T fluorescence, circular dichroism, and DLS, which occur during worm-like fibril formation, suggests that conformational conversion follows fibril elongation at low NaCl concentration and follows fibril formation at high NaCl concentration.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Jain</LastName>
+                    <ForeName>Shweta</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Centre for Biological Sciences, Tata Institute of Fundamental Research, Bangalore 560065, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Udgaonkar</LastName>
+                    <ForeName>Jayant B</ForeName>
+                    <Initials>JB</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Biochemistry</MedlineTA>
+            <NlmUniqueID>0370623</NlmUniqueID>
+            <ISSNLinking>0006-2960</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000682">Amyloid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000072002">Prion Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011328">Prions</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C512657">Prnp protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>451W47IQ8X</RegistryNumber>
+                <NameOfSubstance UI="D012965">Sodium Chloride</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000682" MajorTopicYN="N">Amyloid</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002942" MajorTopicYN="N">Circular Dichroism</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007700" MajorTopicYN="N">Kinetics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018625" MajorTopicYN="N">Microscopy, Atomic Force</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000072002" MajorTopicYN="N">Prion Proteins</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011328" MajorTopicYN="N">Prions</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017510" MajorTopicYN="N">Protein Folding</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012965" MajorTopicYN="N">Sodium Chloride</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017550" MajorTopicYN="N">Spectroscopy, Fourier Transform Infrared</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>8</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>8</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20712298</ArticleId>
+            <ArticleId IdType="doi">10.1021/bi100745j</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

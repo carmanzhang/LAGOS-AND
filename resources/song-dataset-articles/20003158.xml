@@ -1,0 +1,149 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20003158</PMID>
+        <DateCompleted>
+            <Year>2010</Year>
+            <Month>08</Month>
+            <Day>27</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>11</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1751-1097</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>86</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <MedlineDate>2010 Mar-Apr</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Photochemistry and photobiology</Title>
+                <ISOAbbreviation>Photochem Photobiol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Fluorescent probing of urea-induced chemical unfolding of bovine serum albumin by intramolecular charge transfer fluorescence probe E-3-(4-dimethylamino-naphthalen-1-yl)-acrylic acid.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>290-6</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1751-1097.2009.00665.x</ELocationID>
+            <Abstract>
+                <AbstractText>Changes in polarity at the immediate binding site in protein bovine serum albumin (BSA) produces distinct changes in the solvent polarity-dependent emission band of fluorescence probe E-3-(4-dimethylamino-naphthalen-1-yl)-acrylic acid. Steady-state spectroscopy and time-resolved spectroscopy have been used to investigate this binding process. Attaching the probe to BSA and then monitoring its spectral changes with increasing urea concentration and raising temperature has also tracked the denaturation of BSA chemically and thermally. The polarity of the microenvironment was investigated employing the Reichardt E(T)(30) scale. Fluorescence anisotropy, red edge excitation shifts and acrylamide-induced quenching of fluorescence have been exploited to gain better insight into this binding process.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ghosh</LastName>
+                    <ForeName>Shalini</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry, University of Calcutta, Kolkata, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Guchhait</LastName>
+                    <ForeName>Nikhil</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2009</Year>
+                <Month>12</Month>
+                <Day>07</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Photochem Photobiol</MedlineTA>
+            <NlmUniqueID>0376425</NlmUniqueID>
+            <ISSNLinking>0031-8655</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D005456">Fluorescent Dyes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>27432CM55Q</RegistryNumber>
+                <NameOfSubstance UI="D012710">Serum Albumin, Bovine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>8W8T17847W</RegistryNumber>
+                <NameOfSubstance UI="D014508">Urea</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001665" MajorTopicYN="N">Binding Sites</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005456" MajorTopicYN="N">Fluorescent Dyes</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006358" MajorTopicYN="N">Hot Temperature</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011485" MajorTopicYN="N">Protein Binding</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011489" MajorTopicYN="N">Protein Denaturation</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012710" MajorTopicYN="N">Serum Albumin, Bovine</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013050" MajorTopicYN="N">Spectrometry, Fluorescence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014508" MajorTopicYN="N">Urea</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2009</Year>
+                <Month>12</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2009</Year>
+                <Month>12</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2010</Year>
+                <Month>8</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20003158</ArticleId>
+            <ArticleId IdType="pii">PHP665</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1751-1097.2009.00665.x</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

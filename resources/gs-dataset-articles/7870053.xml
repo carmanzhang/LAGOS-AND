@@ -1,0 +1,158 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">7870053</PMID>
+        <DateCompleted>
+            <Year>1995</Year>
+            <Month>03</Month>
+            <Day>29</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2007</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0026-895X</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>47</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>1995</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Molecular pharmacology</Title>
+                <ISOAbbreviation>Mol. Pharmacol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Interaction of flavones and their bromoacetyl derivatives with NAD(P)H:quinone acceptor oxidoreductase.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>419-24</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Flavones are a new type of inhibitor of NAD(P)H:quinone acceptor oxidoreductase (DT-diaphorase, EC 1.6.99.2). To further characterize the flavone binding site, three bromoacetyl derivatives of flavones, i.e., 7-bromoacetylflavone, 5-hydroxyl-7-bromoacetylflavone, and 7,8-dibromoacetylflavone, have been synthesized. These compounds have been found to be potent inhibitors that inactivate the rat quinone reductase in a time-dependent manner, suggesting that they can be used as affinity labels for the enzyme. Among the three bromoacetyl derivatives, 7,8-dibromoacetylflavone is the most potent inhibitor; however, its labeling of the quinone reductase is the least stable, so that the enzyme regains activity after a short incubation. In contrast, the inactivation of the quinone reductase by 5-hydroxyl-7-bromoacetylflavone is stable. Accordingly, this flavone derivative is the most suitable compound for labeling the flavone binding site of the enzyme. Electrospray mass spectrometry has been applied to demonstrate that 5-hydroxyl-7-bromoacetylflavone labels this enzyme in a stoichiometric manner.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Immunology, Beckman Research Institute of the City of Hope, Duarte, California 91010.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Deng</LastName>
+                    <ForeName>P S</ForeName>
+                    <Initials>PS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Swiderek</LastName>
+                    <ForeName>K</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chan</LastName>
+                    <ForeName>S I</ForeName>
+                    <Initials>SI</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>CA33572</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>GM37297</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Mol Pharmacol</MedlineTA>
+            <NlmUniqueID>0035623</NlmUniqueID>
+            <ISSNLinking>0026-895X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D005419">Flavonoids</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.6.5.2</RegistryNumber>
+                <NameOfSubstance UI="D016660">NAD(P)H Dehydrogenase (Quinone)</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005419" MajorTopicYN="N">Flavonoids</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013058" MajorTopicYN="N">Mass Spectrometry</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016660" MajorTopicYN="N">NAD(P)H Dehydrogenase (Quinone)</DescriptorName>
+                <QualifierName UI="Q000037" MajorTopicYN="N">antagonists &amp; inhibitors</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1995</Year>
+                <Month>2</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1995</Year>
+                <Month>2</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1995</Year>
+                <Month>2</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">7870053</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

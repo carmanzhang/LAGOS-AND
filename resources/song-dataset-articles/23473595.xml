@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">23473595</PMID>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>09</Month>
+            <Day>10</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1751-2441</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>6</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Expert review of clinical pharmacology</Title>
+                <ISOAbbreviation>Expert Rev Clin Pharmacol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Fusion of nonclinical and clinical data to predict human drug safety.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>185-95</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1586/ecp.13.3</ELocationID>
+            <Abstract>
+                <AbstractText>Adverse drug reactions continue to be a major cause of morbidity in both patients receiving therapeutics and in drug R&amp;D programs. Predicting and possibly eliminating these adverse events remains a high priority in industry, government agencies and healthcare systems. With small molecule candidates, the fusion of nonclinical and clinical data is essential in establishing an overall system that creates a true translational science approach. Several new advances are taking place that attempt to create a 'patient context' mechanism early in drug research and development and ultimately into the marketplace. This 'life-cycle' approach has as its core the development of human-oriented, nonclinical end points and the incorporation of clinical knowledge at the drug design stage. The next 5 years should witness an explosion of what the author views as druggable and safe chemical space, pharmacosafety molecular targets and the most important aspect, an understanding of unique susceptibilities in patients developing adverse drug reactions. Our current knowledge of clinical safety relies completely on pharmacovigilance data from approved and marketed drugs, with a few exceptions of drugs failing in clinical trials. Massive data repositories now and soon to be available via cloud computing should stimulate a major effort in expanding our view of clinical drug safety and its incorporation into early drug research and development.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Johnson</LastName>
+                    <ForeName>Dale E</ForeName>
+                    <Initials>DE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Michigan and University of California, Berkeley Morgan Hall, Berkeley, CA 94720-3104, USA. daleejohnson@sbcglobal.net</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Expert Rev Clin Pharmacol</MedlineTA>
+            <NlmUniqueID>101278296</NlmUniqueID>
+            <ISSNLinking>1751-2433</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D016907" MajorTopicYN="N">Adverse Drug Reaction Reporting Systems</DescriptorName>
+                <QualifierName UI="Q000706" MajorTopicYN="Y">statistics &amp; numerical data</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002986" MajorTopicYN="N">Clinical Trials as Topic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003198" MajorTopicYN="Y">Computer Simulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055808" MajorTopicYN="N">Drug Discovery</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D064420" MajorTopicYN="Y">Drug-Related Side Effects and Adverse Reactions</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D060735" MajorTopicYN="Y">Pharmacovigilance</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>3</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>3</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>9</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">23473595</ArticleId>
+            <ArticleId IdType="doi">10.1586/ecp.13.3</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,1546 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">27135401</PMID>
+        <DateCompleted>
+            <Year>2017</Year>
+            <Month>06</Month>
+            <Day>28</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>01</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1546-1718</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>48</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>06</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Nature genetics</Title>
+                <ISOAbbreviation>Nat. Genet.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Five endometrial cancer risk loci identified through genome-wide association analysis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>667-674</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1038/ng.3562</ELocationID>
+            <Abstract>
+                <AbstractText>We conducted a meta-analysis of three endometrial cancer genome-wide association studies (GWAS) and two follow-up phases totaling 7,737 endometrial cancer cases and 37,144 controls of European ancestry. Genome-wide imputation and meta-analysis identified five new risk loci of genome-wide significance at likely regulatory regions on chromosomes 13q22.1 (rs11841589, near KLF5), 6q22.31 (rs13328298, in LOC643623 and near HEY2 and NCOA7), 8q24.21 (rs4733613, telomeric to MYC), 15q15.1 (rs937213, in EIF2AK4, near BMF) and 14q32.33 (rs2498796, in AKT1, near SIVA1). We also found a second independent 8q24.21 signal (rs17232730). Functional studies of the 13q22.1 locus showed that rs9600103 (pairwise r(2) = 0.98 with rs11841589) is located in a region of active chromatin that interacts with the KLF5 promoter region. The rs9600103[T] allele that is protective in endometrial cancer suppressed gene expression in vitro, suggesting that regulation of the expression of KLF5, a gene linked to uterine development, is implicated in tumorigenesis. These findings provide enhanced insight into the genetic and biological basis of endometrial cancer.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Cheng</LastName>
+                    <ForeName>Timothy Ht</ForeName>
+                    <Initials>TH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Wellcome Trust Centre for Human Genetics, University of Oxford, Oxford, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y" EqualContrib="Y">
+                    <LastName>Thompson</LastName>
+                    <ForeName>Deborah J</ForeName>
+                    <Initials>DJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Cancer Genetic Epidemiology, Department of Public Health and Primary Care, University of Cambridge, Cambridge, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>O'Mara</LastName>
+                    <ForeName>Tracy A</ForeName>
+                    <Initials>TA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Genetics and Computational Biology, QIMR Berghofer Medical Research Institute, Brisbane, QLD, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Painter</LastName>
+                    <ForeName>Jodie N</ForeName>
+                    <Initials>JN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Genetics and Computational Biology, QIMR Berghofer Medical Research Institute, Brisbane, QLD, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Glubb</LastName>
+                    <ForeName>Dylan M</ForeName>
+                    <Initials>DM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Genetics and Computational Biology, QIMR Berghofer Medical Research Institute, Brisbane, QLD, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Flach</LastName>
+                    <ForeName>Susanne</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Wellcome Trust Centre for Human Genetics, University of Oxford, Oxford, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lewis</LastName>
+                    <ForeName>Annabelle</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Wellcome Trust Centre for Human Genetics, University of Oxford, Oxford, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>French</LastName>
+                    <ForeName>Juliet D</ForeName>
+                    <Initials>JD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Genetics and Computational Biology, QIMR Berghofer Medical Research Institute, Brisbane, QLD, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Freeman-Mills</LastName>
+                    <ForeName>Luke</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Wellcome Trust Centre for Human Genetics, University of Oxford, Oxford, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Church</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Wellcome Trust Centre for Human Genetics, University of Oxford, Oxford, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gorman</LastName>
+                    <ForeName>Maggie</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Wellcome Trust Centre for Human Genetics, University of Oxford, Oxford, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Martin</LastName>
+                    <ForeName>Lynn</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Wellcome Trust Centre for Human Genetics, University of Oxford, Oxford, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <CollectiveName>National Study of Endometrial Cancer Genetics Group (NSECG)</CollectiveName>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hodgson</LastName>
+                    <ForeName>Shirley</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Genetics, St George's, University of London, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Webb</LastName>
+                    <ForeName>Penelope M</ForeName>
+                    <Initials>PM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Genetics and Computational Biology, QIMR Berghofer Medical Research Institute, Brisbane, QLD, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <CollectiveName>Australian National Endometrial Cancer Study Group (ANECS)</CollectiveName>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Attia</LastName>
+                    <ForeName>John</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hunter Medical Research Institute, John Hunter Hospital, Newcastle, NSW, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Clinical Epidemiology and Biostatistics, School of Medicine and Public Health, University of Newcastle, NSW, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Holliday</LastName>
+                    <ForeName>Elizabeth G</ForeName>
+                    <Initials>EG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hunter Medical Research Institute, John Hunter Hospital, Newcastle, NSW, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Clinical Epidemiology and Biostatistics, School of Medicine and Public Health, University of Newcastle, NSW, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McEvoy</LastName>
+                    <ForeName>Mark</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Clinical Epidemiology and Biostatistics, School of Medicine and Public Health, University of Newcastle, NSW, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Scott</LastName>
+                    <ForeName>Rodney J</ForeName>
+                    <Initials>RJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hunter Medical Research Institute, John Hunter Hospital, Newcastle, NSW, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Hunter Area Pathology Service, John Hunter Hospital, Newcastle, NSW, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Information Based Medicine, University of Newcastle, NSW, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>School of Biomedical Sciences and Pharmacy, University of Newcastle, Newcastle, NSW, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Henders</LastName>
+                    <ForeName>Anjali K</ForeName>
+                    <Initials>AK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Genetics and Computational Biology, QIMR Berghofer Medical Research Institute, Brisbane, QLD, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Martin</LastName>
+                    <ForeName>Nicholas G</ForeName>
+                    <Initials>NG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Genetics and Computational Biology, QIMR Berghofer Medical Research Institute, Brisbane, QLD, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Montgomery</LastName>
+                    <ForeName>Grant W</ForeName>
+                    <Initials>GW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Genetics and Computational Biology, QIMR Berghofer Medical Research Institute, Brisbane, QLD, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nyholt</LastName>
+                    <ForeName>Dale R</ForeName>
+                    <Initials>DR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Genetics and Computational Biology, QIMR Berghofer Medical Research Institute, Brisbane, QLD, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Health and Biomedical Innovation, Queensland University of Technology, Brisbane, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ahmed</LastName>
+                    <ForeName>Shahana</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Cancer Genetic Epidemiology, Department of Oncology, University of Cambridge, Cambridge, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Healey</LastName>
+                    <ForeName>Catherine S</ForeName>
+                    <Initials>CS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Cancer Genetic Epidemiology, Department of Oncology, University of Cambridge, Cambridge, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shah</LastName>
+                    <ForeName>Mitul</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Cancer Genetic Epidemiology, Department of Oncology, University of Cambridge, Cambridge, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dennis</LastName>
+                    <ForeName>Joe</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Cancer Genetic Epidemiology, Department of Public Health and Primary Care, University of Cambridge, Cambridge, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fasching</LastName>
+                    <ForeName>Peter A</ForeName>
+                    <Initials>PA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of California at Los Angeles, Department of Medicine, Division of Hematology/Oncology, David Geffen School of Medicine, Los Angeles, CA, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Gynecology and Obstetrics, University Hospital Erlangen, Friedrich-Alexander University Erlangen-Nuremberg, Erlangen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Beckmann</LastName>
+                    <ForeName>Matthias W</ForeName>
+                    <Initials>MW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Gynecology and Obstetrics, University Hospital Erlangen, Friedrich-Alexander University Erlangen-Nuremberg, Erlangen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hein</LastName>
+                    <ForeName>Alexander</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Gynecology and Obstetrics, University Hospital Erlangen, Friedrich-Alexander University Erlangen-Nuremberg, Erlangen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ekici</LastName>
+                    <ForeName>Arif B</ForeName>
+                    <Initials>AB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Human Genetics, University Hospital Erlangen, Friedrich-Alexander-University Erlangen-Nuremberg, Erlangen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hall</LastName>
+                    <ForeName>Per</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Czene</LastName>
+                    <ForeName>Kamila</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Darabi</LastName>
+                    <ForeName>Hatef</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Jingmei</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dörk</LastName>
+                    <ForeName>Thilo</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hannover Medical School, Gynaecology Research Unit, Hannover, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dürst</LastName>
+                    <ForeName>Matthias</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Gynaecology, Jena University Hospital - Friedrich Schiller University, Jena, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hillemanns</LastName>
+                    <ForeName>Peter</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hannover Medical School, Clinics of Gynaecology and Obstetrics, Hannover, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Runnebaum</LastName>
+                    <ForeName>Ingo</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Gynaecology, Jena University Hospital - Friedrich Schiller University, Jena, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Amant</LastName>
+                    <ForeName>Frederic</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Obstetrics and Gynecology, Division of Gynecologic Oncology, University Hospitals, KU Leuven - University of Leuven, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schrauwen</LastName>
+                    <ForeName>Stefanie</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Obstetrics and Gynecology, Division of Gynecologic Oncology, University Hospitals, KU Leuven - University of Leuven, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhao</LastName>
+                    <ForeName>Hui</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Vesalius Research Center, VIB, Leuven, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory for Translational Genetics, Department of Oncology, University Hospitals Leuven, Leuven, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lambrechts</LastName>
+                    <ForeName>Diether</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Vesalius Research Center, VIB, Leuven, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory for Translational Genetics, Department of Oncology, University Hospitals Leuven, Leuven, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Depreeuw</LastName>
+                    <ForeName>Jeroen</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Obstetrics and Gynecology, Division of Gynecologic Oncology, University Hospitals, KU Leuven - University of Leuven, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Vesalius Research Center, VIB, Leuven, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratory for Translational Genetics, Department of Oncology, University Hospitals Leuven, Leuven, Belgium.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dowdy</LastName>
+                    <ForeName>Sean C</ForeName>
+                    <Initials>SC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Obstetrics and Gynecology, Division of Gynecologic Oncology, Mayo Clinic, Rochester, MN, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Goode</LastName>
+                    <ForeName>Ellen L</ForeName>
+                    <Initials>EL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Health Sciences Research, Mayo Clinic, Rochester, MN, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fridley</LastName>
+                    <ForeName>Brooke L</ForeName>
+                    <Initials>BL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biostatistics, University of Kansas Medical Center, Kansas City, KS, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Winham</LastName>
+                    <ForeName>Stacey J</ForeName>
+                    <Initials>SJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Health Sciences Research, Mayo Clinic, Rochester, MN, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Njølstad</LastName>
+                    <ForeName>Tormund S</ForeName>
+                    <Initials>TS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Cancerbiomarkers, Department of Clinical Science, The University of Bergen, Norway.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Obstetrics and Gynecology, Haukeland University Hospital, Bergen, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Salvesen</LastName>
+                    <ForeName>Helga B</ForeName>
+                    <Initials>HB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Cancerbiomarkers, Department of Clinical Science, The University of Bergen, Norway.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Obstetrics and Gynecology, Haukeland University Hospital, Bergen, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Trovik</LastName>
+                    <ForeName>Jone</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Cancerbiomarkers, Department of Clinical Science, The University of Bergen, Norway.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Obstetrics and Gynecology, Haukeland University Hospital, Bergen, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Werner</LastName>
+                    <ForeName>Henrica Mj</ForeName>
+                    <Initials>HM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Cancerbiomarkers, Department of Clinical Science, The University of Bergen, Norway.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Obstetrics and Gynecology, Haukeland University Hospital, Bergen, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ashton</LastName>
+                    <ForeName>Katie</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hunter Medical Research Institute, John Hunter Hospital, Newcastle, NSW, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Information Based Medicine, University of Newcastle, NSW, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>School of Biomedical Sciences and Pharmacy, University of Newcastle, Newcastle, NSW, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Otton</LastName>
+                    <ForeName>Geoffrey</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Medicine and Public Health, University of Newcastle, Newcastle, NSW, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Proietto</LastName>
+                    <ForeName>Tony</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Medicine and Public Health, University of Newcastle, Newcastle, NSW, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Tao</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular Medicine and Surgery, Karolinska Institutet, Stockholm, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mints</LastName>
+                    <ForeName>Miriam</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Women's and Children's Health, Karolinska Institutet, Karolinska University Hospital, Stockholm, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tham</LastName>
+                    <ForeName>Emma</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular Medicine and Surgery, Karolinska Institutet, Stockholm, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Clinical Genetics, Karolinska University Hospital Solna, Stockholm, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <CollectiveName>RENDOCAS</CollectiveName>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Consortium</LastName>
+                    <ForeName>Chibcha</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Wellcome Trust Centre for Human Genetics, University of Oxford, Oxford, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>A list of members and affiliations appears in the Supplementary Note.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jun Li</LastName>
+                    <ForeName>Mulin</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Genomic Sciences, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Hong Kong SAR, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yip</LastName>
+                    <ForeName>Shun H</ForeName>
+                    <Initials>SH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Genomic Sciences, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Hong Kong SAR, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Junwen</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Genomic Sciences, Li Ka Shing Faculty of Medicine, The University of Hong Kong, Hong Kong SAR, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bolla</LastName>
+                    <ForeName>Manjeet K</ForeName>
+                    <Initials>MK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Cancer Genetic Epidemiology, Department of Public Health and Primary Care, University of Cambridge, Cambridge, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Michailidou</LastName>
+                    <ForeName>Kyriaki</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Cancer Genetic Epidemiology, Department of Public Health and Primary Care, University of Cambridge, Cambridge, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Qin</ForeName>
+                    <Initials>Q</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Cancer Genetic Epidemiology, Department of Public Health and Primary Care, University of Cambridge, Cambridge, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tyrer</LastName>
+                    <ForeName>Jonathan P</ForeName>
+                    <Initials>JP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Cancer Genetic Epidemiology, Department of Oncology, University of Cambridge, Cambridge, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dunlop</LastName>
+                    <ForeName>Malcolm</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Colon Cancer Genetics Group, Institute of Genetics and Molecular Medicine, University of Edinburgh, Edinburgh, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>MRC Human Genetics Unit, Western General Hospital Edinburgh, Edinburgh, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Houlston</LastName>
+                    <ForeName>Richard</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Genetics and Epidemiology, Institute of Cancer Research, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Palles</LastName>
+                    <ForeName>Claire</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Wellcome Trust Centre for Human Genetics, University of Oxford, Oxford, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hopper</LastName>
+                    <ForeName>John L</ForeName>
+                    <Initials>JL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Epidemiology and Biostatistics, Melbourne School of Population and Global Health, The University of Melbourne, Vic, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <CollectiveName>AOCS Group</CollectiveName>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Peto</LastName>
+                    <ForeName>Julian</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>London School of Hygiene and Tropical Medicine, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Swerdlow</LastName>
+                    <ForeName>Anthony J</ForeName>
+                    <Initials>AJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Genetics and Epidemiology, Institute of Cancer Research, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Breast Cancer Research, Institute of Cancer Research, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Burwinkel</LastName>
+                    <ForeName>Barbara</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Molecular Biology of Breast Cancer, Department of Gynecology and Obstetrics, University of Heidelberg, Heidelberg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Molecular Epidemiology Group, German Cancer Research Center (DKFZ), Heidelberg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brenner</LastName>
+                    <ForeName>Hermann</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Clinical Epidemiology and Aging Research, German Cancer Research Center (DKFZ), Heidelberg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>German Cancer Consortium (DKTK), German Cancer Research Center (DKFZ), Heidelberg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Meindl</LastName>
+                    <ForeName>Alfons</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Obstetrics and Gynecology, Division of Tumor Genetics, Technical University of Munich, Munich, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brauch</LastName>
+                    <ForeName>Hiltrud</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>German Cancer Consortium (DKTK), German Cancer Research Center (DKFZ), Heidelberg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Dr. Margarete Fischer-Bosch-Institute of Clinical Pharmacology, Stuttgart, Germany.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>University of Tübingen, Tübingen, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lindblom</LastName>
+                    <ForeName>Annika</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular Medicine and Surgery, Karolinska Institutet, Stockholm, Sweden.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chang-Claude</LastName>
+                    <ForeName>Jenny</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Cancer Epidemiology, German Cancer Research Center (DKFZ), Heidelberg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>University Cancer Center Hamburg (UCCH), University Medical Center Hamburg-Eppendorf, Hamburg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Couch</LastName>
+                    <ForeName>Fergus J</ForeName>
+                    <Initials>FJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Health Sciences Research, Mayo Clinic, Rochester, MN, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Laboratory Medicine and Pathology, Mayo Clinic, Rochester, MN, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Giles</LastName>
+                    <ForeName>Graham G</ForeName>
+                    <Initials>GG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Epidemiology and Biostatistics, Melbourne School of Population and Global Health, The University of Melbourne, Vic, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Cancer Epidemiology Centre, Cancer Council Victoria, Melbourne, Vic, Australia.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology and Preventive Medicine, Monash University, Melbourne, Vic, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kristensen</LastName>
+                    <ForeName>Vessela N</ForeName>
+                    <Initials>VN</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Genetics, Institute for Cancer Research, The Norwegian Radium Hospital, Oslo, Norway.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical Molecular Oncology, Division of Medicine, Akershus University Hospital, Lørenskog, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cox</LastName>
+                    <ForeName>Angela</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Sheffield Cancer Research, Department of Oncology, University of Sheffield, Sheffield, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cunningham</LastName>
+                    <ForeName>Julie M</ForeName>
+                    <Initials>JM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Laboratory Medicine and Pathology, Mayo Clinic, Rochester, MN, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pharoah</LastName>
+                    <ForeName>Paul D P</ForeName>
+                    <Initials>PDP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Cancer Genetic Epidemiology, Department of Oncology, University of Cambridge, Cambridge, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dunning</LastName>
+                    <ForeName>Alison M</ForeName>
+                    <Initials>AM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Cancer Genetic Epidemiology, Department of Oncology, University of Cambridge, Cambridge, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Edwards</LastName>
+                    <ForeName>Stacey L</ForeName>
+                    <Initials>SL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Genetics and Computational Biology, QIMR Berghofer Medical Research Institute, Brisbane, QLD, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Easton</LastName>
+                    <ForeName>Douglas F</ForeName>
+                    <Initials>DF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Cancer Genetic Epidemiology, Department of Public Health and Primary Care, University of Cambridge, Cambridge, UK.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Cancer Genetic Epidemiology, Department of Oncology, University of Cambridge, Cambridge, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tomlinson</LastName>
+                    <ForeName>Ian</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Wellcome Trust Centre for Human Genetics, University of Oxford, Oxford, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Spurdle</LastName>
+                    <ForeName>Amanda B</ForeName>
+                    <Initials>AB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Genetics and Computational Biology, QIMR Berghofer Medical Research Institute, Brisbane, QLD, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>MC_PC_U127527198</GrantID>
+                    <Agency>Medical Research Council</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>G0000934</GrantID>
+                    <Agency>Medical Research Council</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>12076</GrantID>
+                    <Agency>Cancer Research UK</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>C5047/A8384</GrantID>
+                    <Agency>Cancer Research UK</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>C12292/A11174</GrantID>
+                    <Agency>Cancer Research UK</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 CA128978</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <Agency>CIHR</Agency>
+                    <Country>Canada</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>085475</GrantID>
+                    <Agency>Wellcome Trust</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U19 CA148537</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>C8197/A16565</GrantID>
+                    <Agency>Cancer Research UK</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 CA122443</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P30 CA015083</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>084818</GrantID>
+                    <Agency>Wellcome Trust</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>090532/Z/09Z</GrantID>
+                    <Agency>Wellcome Trust</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>C1281/A12014</GrantID>
+                    <Agency>Cancer Research UK</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>C5047/A10692 </GrantID>
+                    <Agency>Cancer Research UK</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U19 CA148112</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>C1287/A10710</GrantID>
+                    <Agency>Cancer Research UK</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U19 CA148065</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>10119</GrantID>
+                    <Agency>Cancer Research UK</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <Agency>Wellcome Trust</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>068545/Z/02</GrantID>
+                    <Agency>Wellcome Trust</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>10118</GrantID>
+                    <Agency>Cancer Research UK</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P50 CA136393</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>C5047/A15007</GrantID>
+                    <Agency>Cancer Research UK</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>10124</GrantID>
+                    <Agency>Cancer Research UK</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D017418">Meta-Analysis</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>05</Month>
+                <Day>02</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Nat Genet</MedlineTA>
+            <NlmUniqueID>9216904</NlmUniqueID>
+            <ISSNLinking>1061-4036</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D002898" MajorTopicYN="N">Chromosomes, Human, Pair 8</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016889" MajorTopicYN="N">Endometrial Neoplasms</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020022" MajorTopicYN="Y">Genetic Predisposition to Disease</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055106" MajorTopicYN="Y">Genome-Wide Association Study</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020641" MajorTopicYN="N">Polymorphism, Single Nucleotide</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011401" MajorTopicYN="N">Promoter Regions, Genetic</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">EMS68408 [Available on 12/01/16]</OtherID>
+        <CoiStatement>The authors declare no competing financial interests.</CoiStatement>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>08</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>04</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>5</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>5</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>6</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">27135401</ArticleId>
+            <ArticleId IdType="doi">10.1038/ng.3562</ArticleId>
+            <ArticleId IdType="pmc">PMC4907351</ArticleId>
+            <ArticleId IdType="mid">EMS68408</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Eur J Biochem. 1999 Oct;265(2):754-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10504407</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hum Genet. 2015 Feb;134(2):231-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25487306</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2013 Nov 7;155(4):934-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24119843</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2014 Dec 18;159(7):1665-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25497547</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2006 Aug;38(8):904-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16862161</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Stat Med. 2002 Jun 15;21(11):1539-58</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12111919</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>G3 (Bethesda). 2011 Nov;1(6):457-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22384356</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2007 Jun 14;447(7146):799-816</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17571346</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hum Genet. 2014 Feb;133(2):211-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24096698</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Cancer. 2013 Apr;49(6):1374-403</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23485231</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2007 May 15;23(10):1294-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17384015</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Res. 2007 Jun;17(6):877-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17179217</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2010 Oct;42(10):874-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20852632</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2015 Jan 23;347(6220):1260419</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25613900</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Obstet Gynecol. 2015 Jan;125(1):89-98</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25560109</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2011 May;43(5):451-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21499250</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Cancer. 2009 Jul 7;101(1):145-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19491896</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Protoc Hum Genet. 2008 Apr;Chapter 10:Unit 10.11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18428421</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2007 Oct 15;23(20):2741-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17846035</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Methods. 2001 Dec;25(4):402-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11846609</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2012 Jan;40(Database issue):D930-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22064851</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2013 Nov 15;8(11):e81702</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24260584</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gynecol Oncol. 2010 Jan;116(1):88-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19853286</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Epidemiol Biomarkers Prev. 1996 Jun;5(6):411-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8781735</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Commun. 2013;4:1551</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23462994</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2009 Oct;41(10):1122-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19767754</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Commun. 2014 Sep 23;4:4999</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25248036</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gastroenterology. 2008 Jan;134(1):120-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18054006</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Front Genet. 2012 Apr 30;3:69</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22558003</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hum Mol Genet. 2015 Mar 1;24(5):1478-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25378557</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Res. 2014 Jan;24(1):1-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24196873</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2009 Mar 24;106(12 ):4834-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19261849</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2007 Jul;39(7):906-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17572673</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2013 Feb;45(2):136-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23263490</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Oncol. 2007 Aug;31(2):461-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17611704</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2013 Apr;45(4):345-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23535722</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2010 Nov;42(11):978-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20972438</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Psychol Methods. 2006 Jun;11(2):193-206</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16784338</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Cancer Res. 2012 Nov 1;18(21):5856-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23082003</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Fam Cancer. 2013 Jun;12(2):229-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23604856</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2011 Aug 2;108(31):12851-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21768358</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2013 Apr;45(4):362-70, 370e1-2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23535730</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sci Rep. 2015 Dec 01;5:17369</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26621817</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2013 Apr;45(4):385-91, 391e1-2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23535732</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genomics. 2014 Feb-Mar;103(2-3):222-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24530516</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hum Mol Genet. 2013 Jul 15;22(14):2820-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23528559</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Epidemiol. 2006 Feb;35(1):34-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16155052</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2013 Jun;45(6):580-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23715323</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2009 Oct;41(10):1116-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19767753</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Endocr Relat Cancer. 2015 Oct;22(5):851-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26330482</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Commun. 2014 Sep 16;5:4871</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25225788</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 1999 Dec 15;27(24):4807-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10572182</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Rep. 2014 Aug 21;8(4):983-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25131200</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2007 Jun 7;447(7145):661-78</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17554300</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2007 Aug;39(8):984-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17618284</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gynecol Oncol. 2001 Nov;83(2):177-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11606070</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Res. 2012 Sep;22(9):1790-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22955989</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Bioinformatics. 2010 May 28;11:288</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20509871</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genet Epidemiol. 1999;16(1):40-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9915566</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2010 Sep 15;26(18):2336-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20634204</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2008 Nov;40(11):1307-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18794855</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2013 May 2;497(7447):67-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23636398</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 2002 May;22(10):3358-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11971969</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Hum Genet. 2007 Sep;81(3):559-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17701901</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Endocrinol. 2010 Mar;204(3):223-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19833720</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Methods. 2013 Jan;10(1):5-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23269371</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hum Mol Genet. 2014 Sep 1;23(17):4729-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24737748</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>CA Cancer J Clin. 2014 Jan-Feb;64(1):9-29</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24399786</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hum Hered. 2007;64(1):45-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17483596</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Epidemiol. 2010 Dec;39(6):1452-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20056765</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2002 May 31;296(5573):1655-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12040186</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Endocr Relat Cancer. 2016 Feb;23 (2):77-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26574572</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2013 Apr;45(4):353-61, 361e1-2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23535729</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2008 May;40(5):631-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18372901</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Death Differ. 2009 Nov;16(11):1493-504</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19590512</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Pathol. 2011 Jun;224(2):180-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21503901</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Epidemiol Biomarkers Prev. 2009 Jan;18(1):242-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19124504</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

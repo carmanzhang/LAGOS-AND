@@ -1,0 +1,647 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21993625</PMID>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>01</Month>
+            <Day>25</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1476-4687</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>479</Volume>
+                    <Issue>7372</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Oct</Month>
+                        <Day>12</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Nature</Title>
+                <ISOAbbreviation>Nature</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Genome sequencing reveals insights into physiology and longevity of the naked mole rat.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>223-7</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1038/nature10533</ELocationID>
+            <Abstract>
+                <AbstractText>The naked mole rat (Heterocephalus glaber) is a strictly subterranean, extraordinarily long-lived eusocial mammal. Although it is the size of a mouse, its maximum lifespan exceeds 30 years, making this animal the longest-living rodent. Naked mole rats show negligible senescence, no age-related increase in mortality, and high fecundity until death. In addition to delayed ageing, they are resistant to both spontaneous cancer and experimentally induced tumorigenesis. Naked mole rats pose a challenge to the theories that link ageing, cancer and redox homeostasis. Although characterized by significant oxidative stress, the naked mole rat proteome does not show age-related susceptibility to oxidative damage or increased ubiquitination. Naked mole rats naturally reside in large colonies with a single breeding female, the 'queen', who suppresses the sexual maturity of her subordinates. They also live in full darkness, at low oxygen and high carbon dioxide concentrations, and are unable to sustain thermogenesis nor feel certain types of pain. Here we report the sequencing and analysis of the naked mole rat genome, which reveals unique genome features and molecular adaptations consistent with cancer resistance, poikilothermy, hairlessness and insensitivity to low oxygen, and altered visual function, circadian rythms and taste sensing. This information provides insights into the naked mole rat's exceptional longevity and ability to live in hostile conditions, in the dark and at low oxygen. The extreme traits of the naked mole rat, together with the reported genome and transcriptome information, offer opportunities for understanding ageing and advancing other areas of biological and biomedical research.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Eun Bae</ForeName>
+                    <Initials>EB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Bioinspired Science, Ewha Womans University, Seoul, 120-750, Korea.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fang</LastName>
+                    <ForeName>Xiaodong</ForeName>
+                    <Initials>X</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fushan</LastName>
+                    <ForeName>Alexey A</ForeName>
+                    <Initials>AA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Huang</LastName>
+                    <ForeName>Zhiyong</ForeName>
+                    <Initials>Z</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lobanov</LastName>
+                    <ForeName>Alexei V</ForeName>
+                    <Initials>AV</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Han</LastName>
+                    <ForeName>Lijuan</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Marino</LastName>
+                    <ForeName>Stefano M</ForeName>
+                    <Initials>SM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sun</LastName>
+                    <ForeName>Xiaoqing</ForeName>
+                    <Initials>X</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Turanov</LastName>
+                    <ForeName>Anton A</ForeName>
+                    <Initials>AA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Pengcheng</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yim</LastName>
+                    <ForeName>Sun Hee</ForeName>
+                    <Initials>SH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhao</LastName>
+                    <ForeName>Xiang</ForeName>
+                    <Initials>X</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kasaikina</LastName>
+                    <ForeName>Marina V</ForeName>
+                    <Initials>MV</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stoletzki</LastName>
+                    <ForeName>Nina</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Peng</LastName>
+                    <ForeName>Chunfang</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Polak</LastName>
+                    <ForeName>Paz</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xiong</LastName>
+                    <ForeName>Zhiqiang</ForeName>
+                    <Initials>Z</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kiezun</LastName>
+                    <ForeName>Adam</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhu</LastName>
+                    <ForeName>Yabing</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Yuanxin</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kryukov</LastName>
+                    <ForeName>Gregory V</ForeName>
+                    <Initials>GV</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Qiang</ForeName>
+                    <Initials>Q</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Peshkin</LastName>
+                    <ForeName>Leonid</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Lan</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bronson</LastName>
+                    <ForeName>Roderick T</ForeName>
+                    <Initials>RT</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Buffenstein</LastName>
+                    <ForeName>Rochelle</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Bo</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Han</LastName>
+                    <ForeName>Changlei</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Qiye</ForeName>
+                    <Initials>Q</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Li</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhao</LastName>
+                    <ForeName>Wei</ForeName>
+                    <Initials>W</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sunyaev</LastName>
+                    <ForeName>Shamil R</ForeName>
+                    <Initials>SR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Park</LastName>
+                    <ForeName>Thomas J</ForeName>
+                    <Initials>TJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Guojie</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Jun</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gladyshev</LastName>
+                    <ForeName>Vadim N</ForeName>
+                    <Initials>VN</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>GENBANK</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>AFSB00000000</AccessionNumber>
+                        <AccessionNumber>AFSB01000000</AccessionNumber>
+                        <AccessionNumber>JN242813</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+                <DataBank>
+                    <DataBankName>GEO</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>GSE30337</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 AG038004</GrantID>
+                    <Acronym>AG</Acronym>
+                    <Agency>NIA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>CA080946</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AG038004-02</GrantID>
+                    <Acronym>AG</Acronym>
+                    <Agency>NIA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AG021518</GrantID>
+                    <Acronym>AG</Acronym>
+                    <Agency>NIA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 CA080946</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>AG038004</GrantID>
+                    <Acronym>AG</Acronym>
+                    <Agency>NIA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AG021518-10</GrantID>
+                    <Acronym>AG</Acronym>
+                    <Agency>NIA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>AG021518</GrantID>
+                    <Acronym>AG</Acronym>
+                    <Agency>NIA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 CA080946-11</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>10</Month>
+                <Day>12</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Nature</MedlineTA>
+            <NlmUniqueID>0410462</NlmUniqueID>
+            <ISSNLinking>0028-0836</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007473">Ion Channels</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D024101">Mitochondrial Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000071256">Uncoupling Protein 1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>142M471B3J</RegistryNumber>
+                <NameOfSubstance UI="D002245">Carbon Dioxide</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>S88TT14065</RegistryNumber>
+                <NameOfSubstance UI="D010100">Oxygen</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000222" MajorTopicYN="N">Adaptation, Physiological</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000375" MajorTopicYN="N">Aging</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000595" MajorTopicYN="N">Amino Acid Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001833" MajorTopicYN="N">Body Temperature Regulation</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002245" MajorTopicYN="N">Carbon Dioxide</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002940" MajorTopicYN="N">Circadian Rhythm</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003624" MajorTopicYN="N">Darkness</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005796" MajorTopicYN="N">Genes</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016678" MajorTopicYN="N">Genome</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D042822" MajorTopicYN="N">Genomic Instability</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D023281" MajorTopicYN="N">Genomics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007473" MajorTopicYN="N">Ion Channels</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008136" MajorTopicYN="N">Longevity</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D024101" MajorTopicYN="N">Mitochondrial Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019577" MajorTopicYN="N">Mole Rats</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008969" MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016296" MajorTopicYN="N">Mutagenesis</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010100" MajorTopicYN="N">Oxygen</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013649" MajorTopicYN="N">Taste</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D059467" MajorTopicYN="N">Transcriptome</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000071256" MajorTopicYN="N">Uncoupling Protein 1</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014796" MajorTopicYN="N">Visual Perception</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2011</Year>
+                <Month>06</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2011</Year>
+                <Month>09</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>10</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>10</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21993625</ArticleId>
+            <ArticleId IdType="pii">nature10533</ArticleId>
+            <ArticleId IdType="doi">10.1038/nature10533</ArticleId>
+            <ArticleId IdType="pmc">PMC3319411</ArticleId>
+            <ArticleId IdType="mid">NIHMS322843</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Biol Chem. 2009 May 29;284(22):14966-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19329795</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Physiol Behav. 2000 Oct 1-15;71(1-2):1-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11134679</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Pharmacol. 2009 Mar 15;606(1-3):61-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19374844</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1997 Feb 20;385(6618):740-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9034193</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Comp Physiol B. 2008 May;178(4):439-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18180931</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Pain. 2010;6:29</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20497578</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2009 Nov 17;106(46):19352-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19858485</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Dev. 2005 Sep 15;19(18):2100-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16166375</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1981 May 1;212(4494):571-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7209555</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 1998 Jan 6;37(1):3-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9453747</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2009 Mar 3;106(9):3059-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19223593</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol Regul Integr Comp Physiol. 2001 Jan;280(1):R149-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11124146</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Exp Gerontol. 2011 Feb-Mar;46(2-3):116-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20888895</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Comp Biochem Physiol A Mol Integr Physiol. 2002 Nov;133(3):827-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12443938</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Biol. 2008 Jan;6(1):e13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18232734</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2008;3(8):e3024</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18714388</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bioenerg Biomembr. 2008 Oct;40(5):457-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18958609</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anat Rec A Discov Mol Cell Evol Biol. 2004 Apr;277(2):317-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15052660</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2009 Apr 1;25(7):875-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19189975</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Respir Physiol. 1976 Dec;28(3):303-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14363</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neural Transm. 1981;52(1-2):107-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7288432</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Biol Evol. 2009 Jun 05;1:114-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20333182</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Aging Cell. 2006 Dec;5(6):463-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17054663</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2007 Jan;35(Database issue):D721-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17088289</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Biochem. 2009;78:399-434</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19489725</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuroreport. 2009 Dec 9;20(18):1634-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19907351</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Aging Cell. 2010 Aug;9(4):626-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20550519</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

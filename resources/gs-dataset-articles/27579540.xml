@@ -1,0 +1,710 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">27579540</PMID>
+        <DateCompleted>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>15</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1949-2553</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>7</Volume>
+                    <Issue>48</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Nov</Month>
+                        <Day>29</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Oncotarget</Title>
+                <ISOAbbreviation>Oncotarget</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Imatinib and polypharmacy in very old patients with chronic myeloid leukemia: effects on response rate, toxicity and outcome.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>80083-80090</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.18632/oncotarget.11657</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">About 40% of all patients with chronic myeloid leukemia are currently old or very old. They are effectively treated with imatinib, even though underrepresented in clinical studies. Furthermore, as it happens in the general population, they often receive multiple drugs for associated chronic illnesses. Aim of this study was to assess whether or not in imatinib-treated patients aged &gt;75 years the exposure to polypharmacy (5 drugs or more) had an impact on cytogenetic and molecular response rates, event-free and overall survival, as well as on hematological or extra-hematological toxicity.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">296 patients at 35 Italian hematological institutions were evaluated.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Polypharmacy was reported in 107 patients (36.1%), and drugs more frequently used were antiplatelets, diuretics, proton pump inhibitors, ACE-inhibitors, beta-blockers, calcium channel blockers, angiotensin II receptors blockers, statins, oral hypoglycemic drugs and alpha blockers. Complete cytogenetic response was obtained in 174 patients (58.8%), 78 (26.4%) within 6 month, 63 (21.3%) between 7 and 12 months. Major molecular response was obtained in 153 patients (51.7%), 64 (21.6%) within the 12 month. One hundred and twenty-eight cases (43.2%) of hematological toxicity were recorded, together with 167 cases (56.4%) of extra-hematological toxicity. Comparing patients exposed to polypharmacy to those without, no difference was observed pertaining to the dosage of imatinib, cytogenetic and molecular responses and hematological and extra-hematological toxicity.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Notwithstanding the several interactions reported in the literature between imatinib and some of the medications considered herewith, this fact does not seem to have a clinical impact on response rate and outcome.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Iurlo</LastName>
+                    <ForeName>Alessandra</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Oncohematology Division, IRCCS Ca' Granda - Maggiore Policlinico Hospital Foundation, University of Milan, Milan, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nobili</LastName>
+                    <ForeName>Alessandro</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neuroscience, IRCCS - Istituto di Ricerche Farmacologiche &quot;Mario Negri&quot;, Milan, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Latagliata</LastName>
+                    <ForeName>Roberto</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Cellular Biotechnologies and Hematology, University &quot;La Sapienza&quot; of Rome, Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bucelli</LastName>
+                    <ForeName>Cristina</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Oncohematology Division, IRCCS Ca' Granda - Maggiore Policlinico Hospital Foundation, University of Milan, Milan, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Castagnetti</LastName>
+                    <ForeName>Fausto</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Hematology &quot;L. and A. Seràgnoli&quot;, Department of Experimental, Diagnostic and Specialty Medicine, &quot;S. Orsola-Malpighi&quot; University Hospital, University of Bologna, Bologna, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Breccia</LastName>
+                    <ForeName>Massimo</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Cellular Biotechnologies and Hematology, University &quot;La Sapienza&quot; of Rome, Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Abruzzese</LastName>
+                    <ForeName>Elisabetta</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hematology Unit, Sant'Eugenio Hospital, Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cattaneo</LastName>
+                    <ForeName>Daniele</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Oncohematology Division, IRCCS Ca' Granda - Maggiore Policlinico Hospital Foundation, University of Milan, Milan, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fava</LastName>
+                    <ForeName>Carmen</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Hematology and Internal Medicine, University of Turin, &quot;San Luigi Gonzaga&quot; University Hospital, Orbassano, Turin, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ferrero</LastName>
+                    <ForeName>Dario</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hematology Unit, University of Turin, Turin, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gozzini</LastName>
+                    <ForeName>Antonella</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Haematology, AOU Careggi, University of Firenze, Firenze, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bonifacio</LastName>
+                    <ForeName>Massimiliano</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Section of Hematology, University of Verona, Verona, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tiribelli</LastName>
+                    <ForeName>Mario</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Hematology and BMT, Azienda Ospedaliero - Universitaria di Udine, Udine, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pregno</LastName>
+                    <ForeName>Patrizia</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hematology Unit, Azienda Ospedaliero Universitaria Città della Salute e della Scienza, Turin, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stagno</LastName>
+                    <ForeName>Fabio</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hematology Unit, Ferrarotto Hospital, Catania, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vigneri</LastName>
+                    <ForeName>Paolo</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hematology Unit, Ferrarotto Hospital, Catania, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Annunziata</LastName>
+                    <ForeName>Mario</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hematology Unit, Cardarelli Hospital, Naples, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cavazzini</LastName>
+                    <ForeName>Francesco</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hematology Unit, University of Ferrara, Ferrara, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Binotto</LastName>
+                    <ForeName>Gianni</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hematology Unit, University of Padova, Padova, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mansueto</LastName>
+                    <ForeName>Giovanna</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Onco-Hematology, IRCCS-CROB, Rionero in Vulture, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Russo</LastName>
+                    <ForeName>Sabina</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hematology Unit, AOU G. Martino, Messina, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Falzetti</LastName>
+                    <ForeName>Franca</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Hematology and Clinical Immunology, Department of Medicine, University of Perugia, Perugia, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Montefusco</LastName>
+                    <ForeName>Enrico</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hematology Unit, Sant'Andrea Hospital, Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gugliotta</LastName>
+                    <ForeName>Gabriele</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Hematology &quot;L. and A. Seràgnoli&quot;, Department of Experimental, Diagnostic and Specialty Medicine, &quot;S. Orsola-Malpighi&quot; University Hospital, University of Bologna, Bologna, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Storti</LastName>
+                    <ForeName>Sergio</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Onco-Hematology Unit, Università Cattolica Giovanni Paolo II, Campobasso, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>D'Addosio</LastName>
+                    <ForeName>Ada M</ForeName>
+                    <Initials>AM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Immunohematology and Trasfusional Medicine Division, S. Pietro Fatebenefratelli Hospital, Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Scaffidi</LastName>
+                    <ForeName>Luigi</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, Section of Hematology, University of Verona, Verona, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cortesi</LastName>
+                    <ForeName>Laura</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neuroscience, IRCCS - Istituto di Ricerche Farmacologiche &quot;Mario Negri&quot;, Milan, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cedrone</LastName>
+                    <ForeName>Michele</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hematology Unit, S. Giovanni Hospital, Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rossi</LastName>
+                    <ForeName>Antonella Russo</ForeName>
+                    <Initials>AR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hematology and Transplants Unit, University of Bari, Bari, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Avanzini</LastName>
+                    <ForeName>Paolo</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hematology, Arcispedale Santa Maria Nuova - IRCCS, Reggio Emilia, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mauro</LastName>
+                    <ForeName>Endri</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Internal Medicine, Pordenone General Hospital, Pordenone, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Spadea</LastName>
+                    <ForeName>Antonio</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hematology and Stem Cell Transplantation Unit, Regina Elena Institute, Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Celesti</LastName>
+                    <ForeName>Francesca</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hematology Unit, Belcolle Hospital, Viterbo, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Giglio</LastName>
+                    <ForeName>Gianfranco</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hematology Unit, Campobasso Hospital, Campobasso, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Isidori</LastName>
+                    <ForeName>Alessandro</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hematology Unit, Pesaro Hospital, Pesaro, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Crugnola</LastName>
+                    <ForeName>Monica</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hematology and BMT Unit, Azienda Ospedaliero-Universitaria di Parma, Parma, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Calistri</LastName>
+                    <ForeName>Elisabetta</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hematology Unit, Treviso Hospital, Treviso, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sorà</LastName>
+                    <ForeName>Federica</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Hematology, Università Cattolica Sacro Cuore, Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rege-Cambrin</LastName>
+                    <ForeName>Giovanna</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Hematology and Internal Medicine, University of Turin, &quot;San Luigi Gonzaga&quot; University Hospital, Orbassano, Turin, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sica</LastName>
+                    <ForeName>Simona</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Hematology, Università Cattolica Sacro Cuore, Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Luciano</LastName>
+                    <ForeName>Luigiana</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hematology Unit, ''Federico II'' Hospital, University of Naples, Naples, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Galimberti</LastName>
+                    <ForeName>Sara</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Clinical and Experimental Medicine, Section of Hematology - University of Pisa, Pisa, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Orlandi</LastName>
+                    <ForeName>Ester M</ForeName>
+                    <Initials>EM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Oncology-Hematology Department, Hematology Unit, Fondazione IRCCS Policlinico San Matteo, Pavia, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bocchia</LastName>
+                    <ForeName>Monica</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hematology Unit, Azienda Ospedaliera Universitaria Senese and University of Siena, Siena, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tettamanti</LastName>
+                    <ForeName>Mauro</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neuroscience, IRCCS - Istituto di Ricerche Farmacologiche &quot;Mario Negri&quot;, Milan, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Alimena</LastName>
+                    <ForeName>Giuliana</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Cellular Biotechnologies and Hematology, University &quot;La Sapienza&quot; of Rome, Rome, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Saglio</LastName>
+                    <ForeName>Giuseppe</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Hematology and Internal Medicine, University of Turin, &quot;San Luigi Gonzaga&quot; University Hospital, Orbassano, Turin, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rosti</LastName>
+                    <ForeName>Gianantonio</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Hematology &quot;L. and A. Seràgnoli&quot;, Department of Experimental, Diagnostic and Specialty Medicine, &quot;S. Orsola-Malpighi&quot; University Hospital, University of Bologna, Bologna, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mannucci</LastName>
+                    <ForeName>Pier Mannuccio</ForeName>
+                    <Initials>PM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Angelo Bianchi Bonomi Hemophilia and Thrombosis Center, IRCCS Ca' Granda - Maggiore Policlinico Hospital Foundation and University of Milan, Milan, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cortelezzi</LastName>
+                    <ForeName>Agostino</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Oncohematology Division, IRCCS Ca' Granda - Maggiore Policlinico Hospital Foundation, University of Milan, Milan, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Oncotarget</MedlineTA>
+            <NlmUniqueID>101532965</NlmUniqueID>
+            <ISSNLinking>1949-2553</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000970">Antineoplastic Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>8A1O1M485B</RegistryNumber>
+                <NameOfSubstance UI="D000068877">Imatinib Mesylate</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000369" MajorTopicYN="N">Aged, 80 and over</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000970" MajorTopicYN="N">Antineoplastic Agents</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015897" MajorTopicYN="N">Comorbidity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D064420" MajorTopicYN="N">Drug-Related Side Effects and Adverse Reactions</DescriptorName>
+                <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000068877" MajorTopicYN="N">Imatinib Mesylate</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015464" MajorTopicYN="N">Leukemia, Myelogenous, Chronic, BCR-ABL Positive</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019338" MajorTopicYN="Y">Polypharmacy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">chronic myeloid leukemia</Keyword>
+            <Keyword MajorTopicYN="N">comorbidities</Keyword>
+            <Keyword MajorTopicYN="N">imatinib</Keyword>
+            <Keyword MajorTopicYN="N">old patients</Keyword>
+            <Keyword MajorTopicYN="N">polypharmacy</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>06</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>07</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>9</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>9</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">27579540</ArticleId>
+            <ArticleId IdType="pii">11657</ArticleId>
+            <ArticleId IdType="doi">10.18632/oncotarget.11657</ArticleId>
+            <ArticleId IdType="pmc">PMC5346773</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Eur J Clin Pharmacol. 2011 May;67(5):507-19</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21221958</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Leuk Res. 2014 Oct;38(10):1173-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25047978</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Exp Hematol. 1994 Oct;22(11):1111-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7925778</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Oncol. 2009 Dec 10;27(35):6041-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19884523</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood. 2011 Feb 24;117(8):e75-87</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20810928</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>NCHS Data Brief. 2010 Sep;(42):1-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20854747</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Leukemia. 2015 Jun;29(6):1336-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25783795</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>CA Cancer J Clin. 2010 Sep-Oct;60(5):277-300</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20610543</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Chronic Dis. 1987;40(5):373-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3558716</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1995 Dec 5;92(25):11746-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8524841</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Leukemia. 2015 Sep;29(9):1823-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26088952</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mediterr J Hematol Infect Dis. 2014 Jun 01;6(1):e2014037</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24959334</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood. 2015 Jul 2;126(1):42-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25918346</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Hematol. 2016 Jan;95(2):211-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26546359</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood. 1999 Sep 1;94(5):1517-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10477676</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Leukemia. 2008 Nov;22(11):2062-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18685612</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet Oncol. 2014 Jul;15(8):e315-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24988935</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood. 2013 Aug 8;122(6):872-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23803709</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Drugs Aging. 2013 Aug;30(8):629-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23681399</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Health Care Financ Rev. 2008 Summer;29(4):41-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18773613</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAMA. 2010 Oct 13;304(14):1592-601</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20940385</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood. 2006 Sep 15;108(6):1809-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16709930</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood. 2011 May 26;117(21):5591-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21450900</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

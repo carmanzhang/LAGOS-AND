@@ -1,0 +1,176 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">24662487</PMID>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>07</Month>
+            <Day>21</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2014</Year>
+            <Month>12</Month>
+            <Day>08</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1872-8278</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>19 Pt B</Volume>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Mitochondrion</Title>
+                <ISOAbbreviation>Mitochondrion</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Mitochondrial ATP-dependent proteases in protection against accumulation of carbonylated proteins.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>245-51</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.mito.2014.03.005</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S1567-7249(14)00031-2</ELocationID>
+            <Abstract>
+                <AbstractText>Carbonylation is an irreversible oxidative modification of proteins induced by reactive oxygen species (ROS) and reactive nitrogen species (RNS) or by-products of oxidative stress. Carbonylation leads to the loss of protein function and is used as a marker of oxidative stress. Recent data indicate that carbonylation is not only an unfavorable chance process but may also play a significant role in the control of diverse physiological processes. In plants, carbonylated proteins have been found in all cellular compartments; however, mitochondria, one of the major sources of reactive species, show the highest levels of oxidatively modified proteins under normal or stress conditions. Carbonylated proteins tend to misfold and have to be removed to prevent the formation of harmful insoluble aggregates. Mitochondria have developed several pathways that continuously monitor and remove oxidatively damaged polypeptides, and the mitochondrial protein quality control (mtPQC) system, comprising chaperones and ATP-dependent proteases, is the first line of defense. The Lon protease has been recognized as a key protease involved in the removal of oxidized proteins in yeast and mammalian mitochondria, but not in plants. Recently, it has been reported that the inner-membrane human i-AAA and m-AAA and Arabidopsis i-AAA proteases are crucial components of the defense against accumulation of carbonylated proteins, but the molecular basis of their action is not yet clear. Altogether, the mitochondrial AAA proteases secure the mitochondrial proteome against accumulation of carbonylated proteins. </AbstractText>
+                <CopyrightInformation>Copyright © 2014 Elsevier B.V. and Mitochondria Research Society. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Smakowska</LastName>
+                    <ForeName>Elwira</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Biotechnology, University of Wroclaw, F. Joliot-Curie 14A, 50-383 Wroclaw, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Czarna</LastName>
+                    <ForeName>Malgorzata</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Biotechnology, University of Wroclaw, F. Joliot-Curie 14A, 50-383 Wroclaw, Poland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Janska</LastName>
+                    <ForeName>Hanna</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Faculty of Biotechnology, University of Wroclaw, F. Joliot-Curie 14A, 50-383 Wroclaw, Poland. Electronic address: janska@ibmb.uni.wroc.pl.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2014</Year>
+                <Month>03</Month>
+                <Day>21</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Mitochondrion</MedlineTA>
+            <NlmUniqueID>100968751</NlmUniqueID>
+            <ISSNLinking>1567-7249</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010940">Plant Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.21.-</RegistryNumber>
+                <NameOfSubstance UI="D049069">ATP-Dependent Proteases</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D049069" MajorTopicYN="N">ATP-Dependent Proteases</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008928" MajorTopicYN="N">Mitochondria</DescriptorName>
+                <QualifierName UI="Q000201" MajorTopicYN="Y">enzymology</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010940" MajorTopicYN="N">Plant Proteins</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010944" MajorTopicYN="N">Plants</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D050050" MajorTopicYN="Y">Protein Carbonylation</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">ATP-dependent proteases</Keyword>
+            <Keyword MajorTopicYN="N">Degradation of carbonylated proteins</Keyword>
+            <Keyword MajorTopicYN="N">FtsH protease</Keyword>
+            <Keyword MajorTopicYN="N">Lon protease</Keyword>
+            <Keyword MajorTopicYN="N">Oxidative stress</Keyword>
+            <Keyword MajorTopicYN="N">Protein carbonylation</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>12</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2014</Year>
+                <Month>03</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2014</Year>
+                <Month>03</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>3</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>3</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>7</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24662487</ArticleId>
+            <ArticleId IdType="pii">S1567-7249(14)00031-2</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.mito.2014.03.005</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

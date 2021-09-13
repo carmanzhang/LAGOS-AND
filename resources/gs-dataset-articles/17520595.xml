@@ -1,0 +1,138 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">17520595</PMID>
+        <DateCompleted>
+            <Year>2007</Year>
+            <Month>06</Month>
+            <Day>05</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2008</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1478-596X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>1</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2004</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The international journal of medical robotics + computer assisted surgery : MRCAS</Title>
+                <ISOAbbreviation>Int J Med Robot</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The use of haptics in medical applications.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>36-42</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Explains the need for haptics (feeling of touch) in medical simulation systems. Describes a variety of laparoscopic training systems and other surgical simulators. Highlights the Reachin Technologies AB Application Programming Interface (API) which is a software tool that significantly speeds up the development of surgical simulators.</AbstractText>
+                <CopyrightInformation>Copyright 2004 Robotic Publications Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Fager</LastName>
+                    <ForeName>P-J</ForeName>
+                    <Initials>PJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Reachin Technologies AB, Stockholm, Sweden (www.reachin.se).</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>von Wowern</LastName>
+                    <ForeName>Per</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Int J Med Robot</MedlineTA>
+            <NlmUniqueID>101250764</NlmUniqueID>
+            <ISSNLinking>1478-5951</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D003198" MajorTopicYN="Y">Computer Simulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004501" MajorTopicYN="N">Education, Medical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013502" MajorTopicYN="N">General Surgery</DescriptorName>
+                <QualifierName UI="Q000193" MajorTopicYN="Y">education</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020407" MajorTopicYN="N">Internet</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010535" MajorTopicYN="Y">Laparoscopy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008954" MajorTopicYN="Y">Models, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012371" MajorTopicYN="N">Robotics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013514" MajorTopicYN="N">Surgical Procedures, Operative</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013663" MajorTopicYN="Y">Teaching</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014110" MajorTopicYN="Y">Touch</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014584" MajorTopicYN="N">User-Computer Interface</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2007</Year>
+                <Month>5</Month>
+                <Day>24</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2007</Year>
+                <Month>6</Month>
+                <Day>6</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2007</Year>
+                <Month>5</Month>
+                <Day>24</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">17520595</ArticleId>
+            <ArticleId IdType="doi">10.1002/rcs.4</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

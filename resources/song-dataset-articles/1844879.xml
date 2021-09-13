@@ -1,0 +1,175 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">1844879</PMID>
+        <DateCompleted>
+            <Year>1993</Year>
+            <Month>06</Month>
+            <Day>10</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>09</Month>
+            <Day>03</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0960-7412</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>1</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>1991</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Plant journal : for cell and molecular biology</Title>
+                <ISOAbbreviation>Plant J</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Control of anthocyanin biosynthesis in flowers of Antirrhinum majus.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>37-49</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The intensity and pattern of anthocyanin biosynthesis in Antirrhinum flowers is controlled by several genes. We have isolated six cDNA clones encoding enzymes in the pathway committed to flavonoid biosynthesis and used these to assay how the regulatory genes that modify colour pattern affect the expression of biosynthetic genes. The biosynthetic genes of the later part of the pathway appear to be co-ordinately regulated by two genes, Delila (Del), and Eluta (El), while the early steps (which also lead to flavone synthesis) are controlled differently. This division of control is not the same as control of anthocyanin biosynthesis by the regulatory genes R (S) and C1 in maize aleurone, and may result from the adaptive significance of different flavonoids in flowers and seeds, reflecting their attractiveness to insects and mammals respectively. El and del are probably involved in transcriptional control and both genes appear to be able to repress expression of some biosynthetic genes and activate expression of others.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Martin</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Genetics, John Innes Institute, John Innes Centre for Plant Science Research, Norwich, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Prescott</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mackay</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bartlett</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vrijlandt</LastName>
+                    <ForeName>E</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D003160">Comparative Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Plant J</MedlineTA>
+            <NlmUniqueID>9207397</NlmUniqueID>
+            <ISSNLinking>0960-7412</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000872">Anthocyanins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9007-49-2</RegistryNumber>
+                <NameOfSubstance UI="D004247">DNA</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <GeneSymbolList>
+            <GeneSymbol>C1</GeneSymbol>
+            <GeneSymbol>Del</GeneSymbol>
+            <GeneSymbol>El</GeneSymbol>
+            <GeneSymbol>Inc</GeneSymbol>
+            <GeneSymbol>R(S)</GeneSymbol>
+        </GeneSymbolList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000872" MajorTopicYN="N">Anthocyanins</DescriptorName>
+                <QualifierName UI="Q000096" MajorTopicYN="Y">biosynthesis</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001483" MajorTopicYN="N">Base Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003001" MajorTopicYN="N">Cloning, Molecular</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004247" MajorTopicYN="N">DNA</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005786" MajorTopicYN="N">Gene Expression Regulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017343" MajorTopicYN="N">Genes, Plant</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005809" MajorTopicYN="N">Genes, Regulator</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008969" MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010858" MajorTopicYN="N">Pigmentation</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010944" MajorTopicYN="N">Plants</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012689" MajorTopicYN="N">Sequence Homology, Nucleic Acid</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014158" MajorTopicYN="N">Transcription, Genetic</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1991</Year>
+                <Month>7</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1991</Year>
+                <Month>7</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1991</Year>
+                <Month>7</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">1844879</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1365-313x.1991.00037.x</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

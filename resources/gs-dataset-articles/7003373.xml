@@ -1,0 +1,140 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">7003373</PMID>
+        <DateCompleted>
+            <Year>1981</Year>
+            <Month>02</Month>
+            <Day>26</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2000</Year>
+            <Month>12</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0027-5107</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>79</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>1980</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Mutation research</Title>
+                <ISOAbbreviation>Mutat. Res.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Structure--activity relationships within a series of 2,4-diaminoalkoxybenzene compounds.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>289-306</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Six 2,4-diaminoalkoxybenzenes were examined for their ability to induce mutation in Salmonella typhimurium. Each compound was tested at 8 concentrations in 5 strains. The mutagenicity was influenced by the size of the alkoxy group substituted at the C1 position of 2,4-diaminobenzene. When S9 induced by Aroclor 1254 was present, 2,4-diaminoanisole (the methoxy derivative) exhibited the highest mutagenic activity. The compounds 2,4-diaminoethoxybenzene, 2,4-diaminoisopropoxybenzene and and 2,4-diamino-n-propoxybenzene were also mutagenic, but were distinctly less active than 2,4-diaminoanisole. With the compounds 2,4-diaminophenoxyethanol and 2,4-diamino-n-butoxybenzene, the increases in numbers of revertant colonies above control levels were slight or absent. The mutagenicity of 2,4-diaminoalkoxybenzenes was detected in strains TA98, TA1538 and in some cases TA1537. None of the compounds was active in strain TA1535. The relative response of the various strains suggests that 2,4-diaminoalkoxybenzenes induce frameshift mutations but not base-pair substitutions. None of the compounds was active without metabolic activation. In addition to conducting the standard plate test, we tested the urine of rats exposed to 2,4-diaminophenoxyethanol and 2,4-diaminoanisole for mutagenicity in Salmonella typhimurium. The rats were exposed by topical application, oral administration or intraperitoneal injection. The results were positive for 2,4-diaminoanisole and negative for 2,4-diaminophenoxyethanol.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Shahin</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rouers</LastName>
+                    <ForeName>D</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bugaut</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kalopissis</LastName>
+                    <ForeName>G</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Mutat Res</MedlineTA>
+            <NlmUniqueID>0400763</NlmUniqueID>
+            <ISSNLinking>0027-5107</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000840">Anisoles</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009153">Mutagens</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010655">Phenylenediamines</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000840" MajorTopicYN="N">Anisoles</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009152" MajorTopicYN="N">Mutagenicity Tests</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009153" MajorTopicYN="Y">Mutagens</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010655" MajorTopicYN="N">Phenylenediamines</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012486" MajorTopicYN="N">Salmonella typhimurium</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013329" MajorTopicYN="N">Structure-Activity Relationship</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1980</Year>
+                <Month>12</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1980</Year>
+                <Month>12</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1980</Year>
+                <Month>12</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">7003373</ArticleId>
+            <ArticleId IdType="pii">0165-1218(80)90153-6</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

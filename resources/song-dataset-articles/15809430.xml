@@ -1,0 +1,470 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">15809430</PMID>
+        <DateCompleted>
+            <Year>2005</Year>
+            <Month>07</Month>
+            <Day>06</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">0027-8424</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>102</Volume>
+                    <Issue>16</Issue>
+                    <PubDate>
+                        <Year>2005</Year>
+                        <Month>Apr</Month>
+                        <Day>19</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Proceedings of the National Academy of Sciences of the United States of America</Title>
+                <ISOAbbreviation>Proc Natl Acad Sci U S A</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Calbindin D28k targets myo-inositol monophosphatase in spines and dendrites of cerebellar Purkinje neurons.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>5850-5</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The Ca(2+)-binding protein calbindin D28k (CB) is vital for the normal function of the central nervous system but its specific functional role is largely unclear. CB is typically described as a mobile Ca(2+)buffer that shapes the spatiotemporal extent of cellular Ca(2+)signals. Recent biochemical data, however, indicate that CB also has characteristics of a Ca(2+) sensor and activates myo-inositol monophosphatase (IMPase), a key enzyme of the inositol-1,4,5-trisphosphate signaling cascade and an assumed target of mood-stabilizing drugs in the treatment of bipolar disorder. Here, we show that CB interacts with IMPase in cerebellar Purkinje neurons, a cell type well known to rely on inositol-1,4,5-trisphosphate-dependent synaptic integration. Quantification of the mobility of dye-labeled CB with two-photon fluorescence recovery after photobleaching revealed that a substantial fraction of CB is immobilized in spines and dendrites, but not in axons. Immobilization occurs over several seconds, is increased by suprathreshold synaptic activity, and can be relieved by a synthetic peptide that resembles the putative CB-binding site of IMPase, indicating that CB binds to immobilized IMPase. Measurements of the apparent diffusion coefficients of CB imply that CB does not interact with cytosolic IMPase or that the latter is present only in minute amounts in the spiny dendrites of Purkinje neurons. Our results suggest that CB acts as an activity-dependent sensor that targets membrane/cytoskeleton-bound IMPase in central neurons.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Schmidt</LastName>
+                    <ForeName>Hartmut</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Carl-Ludwig-Institut für Physiologie, Abteilung Neurophysiologie, Medizinische Fakultät, Universität Leipzig, 04103 Leipzig, Germany. hartmut.schmidt@medizin.uni-leipzig.de</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schwaller</LastName>
+                    <ForeName>Beat</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Eilers</LastName>
+                    <ForeName>Jens</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2005</Year>
+                <Month>04</Month>
+                <Day>04</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Proc Natl Acad Sci U S A</MedlineTA>
+            <NlmUniqueID>7505876</NlmUniqueID>
+            <ISSNLinking>0027-8424</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C576499">Calb1 protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D064092">Calbindin 1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D064026">Calbindins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D005456">Fluorescent Dyes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007295">Inositol Phosphates</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009419">Nerve Tissue Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D064030">S100 Calcium Binding Protein G</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.3.2</RegistryNumber>
+                <NameOfSubstance UI="D010744">Phosphoric Monoester Hydrolases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.3.25</RegistryNumber>
+                <NameOfSubstance UI="C021822">myo-inositol-1 (or 4)-monophosphatase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>SY7Q814VUP</RegistryNumber>
+                <NameOfSubstance UI="D002118">Calcium</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D064092" MajorTopicYN="N">Calbindin 1</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D064026" MajorTopicYN="N">Calbindins</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002118" MajorTopicYN="N">Calcium</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D036681" MajorTopicYN="N">Fluorescence Recovery After Photobleaching</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005456" MajorTopicYN="N">Fluorescent Dyes</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007295" MajorTopicYN="N">Inositol Phosphates</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009419" MajorTopicYN="N">Nerve Tissue Proteins</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018408" MajorTopicYN="N">Patch-Clamp Techniques</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010744" MajorTopicYN="N">Phosphoric Monoester Hydrolases</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011485" MajorTopicYN="N">Protein Binding</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011689" MajorTopicYN="N">Purkinje Cells</DescriptorName>
+                <QualifierName UI="Q000166" MajorTopicYN="Y">cytology</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D064030" MajorTopicYN="N">S100 Calcium Binding Protein G</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015290" MajorTopicYN="N">Second Messenger Systems</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2005</Year>
+                <Month>4</Month>
+                <Day>6</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2005</Year>
+                <Month>7</Month>
+                <Day>7</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2005</Year>
+                <Month>4</Month>
+                <Day>6</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">15809430</ArticleId>
+            <ArticleId IdType="pii">0407855102</ArticleId>
+            <ArticleId IdType="doi">10.1073/pnas.0407855102</ArticleId>
+            <ArticleId IdType="pmc">PMC556286</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Biochem Biophys Res Commun. 1986 Jul 31;138(2):547-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2943279</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem J. 1982 Sep 15;206(3):587-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7150264</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem J. 1988 Feb 1;249(3):883-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2833231</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci. 1988 Dec;8(12):4455-69</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3199186</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEBS Lett. 1992 Feb 3;297(1-2):127-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1312945</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Int. 1992 Apr;26(5):935-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1319157</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Neurosci. 1992 Aug;15(8):303-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1384200</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biochem. 1993 Jun;52(2):243-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8366139</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEBS Lett. 1995 Mar 13;361(1):1-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7890024</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurochem. 1995 Jul;65(1):381-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7790883</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1995 Sep 15;270(37):21532-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7665565</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Med Genet. 1995 Jun 19;60(3):206-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7573172</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEBS Lett. 1995 Nov 6;374(3):333-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7589565</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Brain Res Brain Res Rev. 1996 Aug;22(2):183-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8883919</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1997 Feb 18;94(4):1488-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9037080</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Protein Sci. 1997 Apr;6(4):794-807</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9098889</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Psychiatry. 1997 Sep;2(5):393-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9322233</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1997 Nov 21;272(47):29663-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9368033</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1998 Dec 24-31;396(6713):753-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9874372</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1998 Dec 24-31;396(6713):757-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9874373</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1999 Jan 15;283(5400):381-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9888852</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Can J Psychiatry. 1999 Sep;44(7):671-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10500868</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biophys J. 1999 Nov;77(5):2837-49</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10545381</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 2000 Jun 13;39(23):6864-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10841767</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2000 Aug 25;275(34):26328-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10835428</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Neurosci. 2000 Dec;3(12):1266-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11100147</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biophys J. 2000 Dec;79(6):3009-18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11106608</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Sci. 2001 Nov;114(Pt 21):3885-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11719555</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Neurosci. 2002 Mar;5(3):239-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11850630</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2002 May 10;277(19):16662-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11872749</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2002 May 16;417(6886):292-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12015604</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Physiol. 2002 Oct 15;544(Pt 2):487-99</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12381821</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2002 Nov 1;277(44):41954-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12176979</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biophys J. 2003 Apr;84(4):2599-608</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12668468</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Biophys Res Commun. 2003 Apr 18;303(4):1186-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12684061</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuron. 2003 Apr 10;38(1):79-88</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12691666</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci. 2003 Apr 15;23(8):3469-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12716955</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anal Biochem. 2003 Jun 1;317(1):59-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12729601</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pharmacopsychiatry. 2003 Mar-Apr;36(2):83-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12734768</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Physiol. 2003 Aug 15;551(Pt 1):13-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12813159</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biophys J. 2004 Jun;86(6):3473-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15189848</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2004 Jul 29;351(5):476-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15282355</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nervenarzt. 1987 Dec;58(12):764-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3431613</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

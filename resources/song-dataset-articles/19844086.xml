@@ -1,0 +1,184 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">19844086</PMID>
+        <DateCompleted>
+            <Year>2010</Year>
+            <Month>03</Month>
+            <Day>01</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2009</Year>
+            <Month>12</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1421-9670</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>30</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2009</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>American journal of nephrology</Title>
+                <ISOAbbreviation>Am J Nephrol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Prognostic value of circadian blood pressure variation in chronic kidney disease.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>547-53</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1159/000252775</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Reduced circadian variation in blood pressure (BP) has been associated with cardiovascular morbidity, mortality and accelerated progression of kidney disease, but its independent prognostic value remains unknown.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">Using 2 definitions, one based on dipping and the other based on BP pattern (assessed by cosinor rhythmometry), we studied the prognosis of circadian BP variation among 322 patients, 179 (56%) of whom had chronic kidney disease (CKD).</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">During a follow-up period extending for up to 8.7 years, 116 (36%) patients died and 57 (32%) patients with CKD developed end-stage renal disease (ESRD). Compared to 106 patients (33%) who were dippers, the unadjusted hazard ratio (HR) for death among non-dippers was 2.03 (95% CI 1.30-3.16, p = 0.002). However, this HR became nonsignificant [1.39 (95% CI 0.89-2.19), p = 0.15] when adjusted for age and 24-hour average systolic BP. Although non-dipping was marginally associated with ESRD [HR 1.98 (95% CI 0.996-3.92), p = 0.051], even this association was weakened when adjusted for overall 24-hour systolic BP (HR 1.67, p = 0.15). Similar to the dipping definition, the BP pattern-based definition was significantly associated with mortality (p = 0.005) but not with ESRD (p = 0.68). Compared to those 'in-phase,' the HR for death among those 'out-of-phase' was 1.86 (95% CI 1.25-2.75, p = 0.002). Although this HR when adjusted for overall mean BP remained significant, when further adjusted for age, it too became nonsignificant.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Among elderly veterans with or without CKD, circadian variation in BP is associated with mortality, but not ESRD. However, after accounting for common clinical risk factors, this association of circadian BP variation with mortality or ESRD is abolished.</AbstractText>
+                <CopyrightInformation>Copyright 2009 S. Karger AG, Basel.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Agarwal</LastName>
+                    <ForeName>Rajiv</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, Indianapolis, Ind., USA. ragarwal@iupui.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kariyanna</LastName>
+                    <ForeName>Shathabish S</ForeName>
+                    <Initials>SS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Light</LastName>
+                    <ForeName>Robert P</ForeName>
+                    <Initials>RP</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2009</Year>
+                <Month>10</Month>
+                <Day>21</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>Am J Nephrol</MedlineTA>
+            <NlmUniqueID>8109361</NlmUniqueID>
+            <ISSNLinking>0250-8095</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000419" MajorTopicYN="N">Albuminuria</DescriptorName>
+                <QualifierName UI="Q000401" MajorTopicYN="N">mortality</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001794" MajorTopicYN="N">Blood Pressure</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018660" MajorTopicYN="Y">Blood Pressure Monitoring, Ambulatory</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002940" MajorTopicYN="N">Circadian Rhythm</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006977" MajorTopicYN="N">Hypertension, Renal</DescriptorName>
+                <QualifierName UI="Q000175" MajorTopicYN="Y">diagnosis</QualifierName>
+                <QualifierName UI="Q000401" MajorTopicYN="Y">mortality</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007676" MajorTopicYN="N">Kidney Failure, Chronic</DescriptorName>
+                <QualifierName UI="Q000401" MajorTopicYN="N">mortality</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011379" MajorTopicYN="N">Prognosis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016016" MajorTopicYN="N">Proportional Hazards Models</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051436" MajorTopicYN="N">Renal Insufficiency, Chronic</DescriptorName>
+                <QualifierName UI="Q000401" MajorTopicYN="Y">mortality</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012307" MajorTopicYN="N">Risk Factors</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2009</Year>
+                <Month>08</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2009</Year>
+                <Month>09</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2009</Year>
+                <Month>10</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2009</Year>
+                <Month>10</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2010</Year>
+                <Month>3</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">19844086</ArticleId>
+            <ArticleId IdType="pii">000252775</ArticleId>
+            <ArticleId IdType="doi">10.1159/000252775</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

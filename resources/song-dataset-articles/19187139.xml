@@ -1,0 +1,185 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">19187139</PMID>
+        <DateCompleted>
+            <Year>2010</Year>
+            <Month>04</Month>
+            <Day>16</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1365-2672</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>106</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2009</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of applied microbiology</Title>
+                <ISOAbbreviation>J Appl Microbiol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Sphingobacterium sp. strain PM2-P1-29 harbours a functional tet(X) gene encoding for the degradation of tetracycline.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1336-42</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1365-2672.2008.04101.x</ELocationID>
+            <Abstract>
+                <AbstractText Label="AIMS" NlmCategory="OBJECTIVE">The tet(X) gene has previously been found in obligate anaerobic Bacteroides spp., which is curious because tet(X) encodes for a NADP-dependent monooxygenase that requires oxygen to degrade tetracycline. In this study, we characterized a tetracycline resistant, aerobic, Gram-negative Sphingobacterium sp. strain PM2-P1-29 that harbours a tet(X) gene.</AbstractText>
+                <AbstractText Label="METHODS AND RESULTS" NlmCategory="RESULTS">Sphingobacterium sp. PM2-P1-29 demonstrated the ability to transform tetracycline compared with killed controls. The presence of the tet(X) gene was verified by PCR and nucleotide sequence analysis. Additional nucleotide sequence analysis of regions flanking the tet(X) gene revealed a mobilizable transposon-like element (Tn6031) that shared organizational features and genes with the previously described Bacteroides conjugative transposon CTnDOT. A circular transposition intermediate of the tet(X) region, characteristic of mobilizable transposons, was detected. However, we could not demonstrate the conjugal transfer of the tet(X) gene using three different recipient strains and numerous experimental conditions.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">This study suggests that Sphingobacterium sp. PM2-P1-29 or a related bacterium may be an ancestral source of the tet(X) gene.</AbstractText>
+                <AbstractText Label="SIGNIFICANCE AND IMPACT OF THE STUDY" NlmCategory="CONCLUSIONS">This study demonstrates the importance of environmental bacteria and lateral gene transfer in the dissemination and proliferation of antibiotic resistance among bacteria.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ghosh</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Civil Engineering, University of Minnesota, Minneapolis, 55455-0116, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sadowsky</LastName>
+                    <ForeName>M J</ForeName>
+                    <Initials>MJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Roberts</LastName>
+                    <ForeName>M C</ForeName>
+                    <Initials>MC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gralnick</LastName>
+                    <ForeName>J A</ForeName>
+                    <Initials>JA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>LaPara</LastName>
+                    <ForeName>T M</ForeName>
+                    <Initials>TM</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2009</Year>
+                <Month>01</Month>
+                <Day>30</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Appl Microbiol</MedlineTA>
+            <NlmUniqueID>9706280</NlmUniqueID>
+            <ISSNLinking>1364-5072</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004269">DNA, Bacterial</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D012329">RNA, Bacterial</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D012336">RNA, Ribosomal, 16S</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>F8VB5M810T</RegistryNumber>
+                <NameOfSubstance UI="D013752">Tetracycline</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001483" MajorTopicYN="N">Base Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003227" MajorTopicYN="Y">Conjugation, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004269" MajorTopicYN="N">DNA, Bacterial</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008826" MajorTopicYN="N">Microbial Sensitivity Tests</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016133" MajorTopicYN="N">Polymerase Chain Reaction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012329" MajorTopicYN="N">RNA, Bacterial</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012336" MajorTopicYN="N">RNA, Ribosomal, 16S</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017422" MajorTopicYN="N">Sequence Analysis, DNA</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D045249" MajorTopicYN="N">Sphingobacterium</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013752" MajorTopicYN="N">Tetracycline</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013753" MajorTopicYN="N">Tetracycline Resistance</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2009</Year>
+                <Month>2</Month>
+                <Day>4</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2009</Year>
+                <Month>2</Month>
+                <Day>4</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2010</Year>
+                <Month>4</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">19187139</ArticleId>
+            <ArticleId IdType="pii">JAM4101</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1365-2672.2008.04101.x</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

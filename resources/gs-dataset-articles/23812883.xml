@@ -1,0 +1,197 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">23812883</PMID>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>10</Month>
+            <Day>17</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>05</Month>
+            <Day>12</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1618-2650</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>405</Volume>
+                    <Issue>21</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Analytical and bioanalytical chemistry</Title>
+                <ISOAbbreviation>Anal Bioanal Chem</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>EC-SPE-stripline-NMR analysis of reactive products: a feasibility study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>6711-20</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s00216-013-7158-9</ELocationID>
+            <Abstract>
+                <AbstractText>Flow-through electrochemical conversion (EC) of drug-like molecules was hyphenated to miniaturized nuclear magnetic resonance spectroscopy (NMR) via on-line solid-phase extraction (SPE). After EC of the prominent p38α mitogen-activated protein kinase inhibitor BIRB796 into its reactive products, the SPE step provided preconcentration of the EC products and solvent exchange for NMR analysis. The acquisition of NMR spectra of the mass-limited samples was achieved in a stripline probe with a detection volume of 150 nL offering superior mass sensitivity. This hyphenated EC-SPE-stripline-NMR setup enabled the detection of the reactive products using only minute amounts of substrate. Furthermore, the integration of conversion and detection into one flow setup counteracts incorrect assessments caused by the degradation of reactive products. However, apparent interferences of the NMR magnetic field with the EC, leading to a low product yield, so far demanded relatively long signal averaging. A critical assessment of what is and what is not (yet) possible with this approach is presented, for example in terms of structure elucidation and the estimation of concentrations. Additionally, promising routes for further improvement of EC-SPE-stripline-NMR are discussed. </AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Falck</LastName>
+                    <ForeName>David</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>AIMMS Division of BioMolecular Analysis, VU University Amsterdam, De Boelelaan 1083, 1081 HV, Amsterdam, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Oosthoek-de Vries</LastName>
+                    <ForeName>Anna J</ForeName>
+                    <Initials>AJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kolkman</LastName>
+                    <ForeName>Ard</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lingeman</LastName>
+                    <ForeName>Henk</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Honing</LastName>
+                    <ForeName>Maarten</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wijmenga</LastName>
+                    <ForeName>Sybren S</ForeName>
+                    <Initials>SS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kentgens</LastName>
+                    <ForeName>Arno P M</ForeName>
+                    <Initials>AP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Niessen</LastName>
+                    <ForeName>Wilfried M A</ForeName>
+                    <Initials>WM</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>06</Month>
+                <Day>30</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Anal Bioanal Chem</MedlineTA>
+            <NlmUniqueID>101134327</NlmUniqueID>
+            <ISSNLinking>1618-2642</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>EC 2.7.11.24</RegistryNumber>
+                <NameOfSubstance UI="D048308">Mitogen-Activated Protein Kinase 14</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D004563" MajorTopicYN="N">Electrochemistry</DescriptorName>
+                <QualifierName UI="Q000295" MajorTopicYN="Y">instrumentation</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004867" MajorTopicYN="N">Equipment Design</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019544" MajorTopicYN="N">Equipment Failure Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005240" MajorTopicYN="N">Feasibility Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017022" MajorTopicYN="N">Flow Injection Analysis</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009682" MajorTopicYN="N">Magnetic Resonance Spectroscopy</DescriptorName>
+                <QualifierName UI="Q000295" MajorTopicYN="Y">instrumentation</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008904" MajorTopicYN="N">Miniaturization</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D048308" MajorTopicYN="N">Mitogen-Activated Protein Kinase 14</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="Y">analysis</QualifierName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015203" MajorTopicYN="N">Reproducibility of Results</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012680" MajorTopicYN="N">Sensitivity and Specificity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D052616" MajorTopicYN="N">Solid Phase Extraction</DescriptorName>
+                <QualifierName UI="Q000295" MajorTopicYN="Y">instrumentation</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>05</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>06</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2013</Year>
+                <Month>06</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">23812883</ArticleId>
+            <ArticleId IdType="doi">10.1007/s00216-013-7158-9</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

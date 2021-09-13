@@ -1,0 +1,188 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">25900085</PMID>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>04</Month>
+            <Day>04</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>07</Month>
+            <Day>03</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1536-0210</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>50</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Investigative radiology</Title>
+                <ISOAbbreviation>Invest Radiol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Quantitative Susceptibility Mapping at 3 T and 1.5 T: Evaluation of Consistency and Reproducibility.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>522-30</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1097/RLI.0000000000000159</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">The aim of this study was to assess the consistency and reproducibility of quantitative susceptibility mapping (QSM) at 3-T and 1.5-T magnetic resonance (MR) scanners.</AbstractText>
+                <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">This study was approved by institutional ethics committee, and written informed consent was obtained. Twenty-two healthy volunteers underwent 2 examinations on different days. Each examination consisted of MR imaging on both 3-T and 1.5-T MR scanners. The data from both scanners and examination days were obtained, and QSM was calculated with STI Suite using 2 different algorithms--harmonic phase removal using laplacian operator (HARPERELLA) and a sophisticated harmonic artifact reduction for phase data (SHARP) method with a variable radius of the spherical kernel at the brain boundary (V-SHARP). We evaluated consistency of QSM between 3 T and 1.5 T and the reproducibility between the first and second examinations using 2-phase processing methods (HARPERELLA and V-SHARP).</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Susceptibility values of regions of interests at 3 T were highly correlated with those at 1.5 T with good agreement (HARPERELLA, R2 = 0.838; V-SHARP, R2 = 0.898) (average difference, ±1.96 SD; HARPERELLA, -0.012 ± 0.046; V-SHARP, -0.002 ± 0.034). Reproducibility analysis demonstrated excellent correlation between the first and second examination at both 3 T and 1.5 T for both algorithms (HARPERELLA at 3 T, R2 = 0.921; 1.5 T, R2 = 0.891; V-SHARP at 3 T, R2 = 0.937; 1.5 T, R2 = 0.926). Bland-Altman analysis showed excellent reproducibility for HARPERELLA (3 T, -0.003 ± 0.032; 1.5 T, -0.003 ± 0.038) and V-SHARP (3 T, -0.003 ± 0.027; 1.5 T, -0.003 ± 0.029). Susceptibility values of these 2 algorithms were highly correlated with good agreement (3T, R2 = 0.961; 1.5 T, R = 0.931) (3 T, 0.009 ± 0.023; 1.5 T, -0.003 ± 0.049).</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Quantitative susceptibility mapping with HARPERELLA and V-SHARP demonstrated good reproducibility at 3 T and 1.5 T, and QSM with V-SHARP demonstrated good consistency at 3 T and 1.5 T.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hinoda</LastName>
+                    <ForeName>Takuya</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the *Department of Diagnostic Imaging and Nuclear Medicine, Kyoto University Graduate School of Medicine, Kyoto, Japan; and †Brain Imaging and Analysis Center and Department of Radiology, Duke University Medical Center, Durham, NC.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fushimi</LastName>
+                    <ForeName>Yasutaka</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Okada</LastName>
+                    <ForeName>Tomohisa</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fujimoto</LastName>
+                    <ForeName>Koji</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Chunlei</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yamamoto</LastName>
+                    <ForeName>Akira</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Okada</LastName>
+                    <ForeName>Tsutomu</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kido</LastName>
+                    <ForeName>Aki</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Togashi</LastName>
+                    <ForeName>Kaori</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Invest Radiol</MedlineTA>
+            <NlmUniqueID>0045377</NlmUniqueID>
+            <ISSNLinking>0020-9996</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000465" MajorTopicYN="N">Algorithms</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016477" MajorTopicYN="N">Artifacts</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001921" MajorTopicYN="N">Brain</DescriptorName>
+                <QualifierName UI="Q000033" MajorTopicYN="Y">anatomy &amp; histology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007090" MajorTopicYN="N">Image Interpretation, Computer-Assisted</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D021621" MajorTopicYN="N">Imaging, Three-Dimensional</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008279" MajorTopicYN="N">Magnetic Resonance Imaging</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015588" MajorTopicYN="N">Observer Variation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015203" MajorTopicYN="N">Reproducibility of Results</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012680" MajorTopicYN="N">Sensitivity and Specificity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055815" MajorTopicYN="N">Young Adult</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>4</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>4</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>4</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">25900085</ArticleId>
+            <ArticleId IdType="doi">10.1097/RLI.0000000000000159</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,1936 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">23535733</PMID>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>05</Month>
+            <Day>21</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1546-1718</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>45</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Nature genetics</Title>
+                <ISOAbbreviation>Nat. Genet.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Genome-wide association studies identify four ER negative-specific breast cancer risk loci.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>392-8, 398e1-2</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1038/ng.2561</ELocationID>
+            <Abstract>
+                <AbstractText>Estrogen receptor (ER)-negative tumors represent 20-30% of all breast cancers, with a higher proportion occurring in younger women and women of African ancestry. The etiology and clinical behavior of ER-negative tumors are different from those of tumors expressing ER (ER positive), including differences in genetic predisposition. To identify susceptibility loci specific to ER-negative disease, we combined in a meta-analysis 3 genome-wide association studies of 4,193 ER-negative breast cancer cases and 35,194 controls with a series of 40 follow-up studies (6,514 cases and 41,455 controls), genotyped using a custom Illumina array, iCOGS, developed by the Collaborative Oncological Gene-environment Study (COGS). SNPs at four loci, 1q32.1 (MDM4, P = 2.1 × 10(-12) and LGR6, P = 1.4 × 10(-8)), 2p24.1 (P = 4.6 × 10(-8)) and 16q12.2 (FTO, P = 4.0 × 10(-8)), were associated with ER-negative but not ER-positive breast cancer (P &gt; 0.05). These findings provide further evidence for distinct etiological pathways associated with invasive ER-positive and ER-negative breast cancers.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Garcia-Closas</LastName>
+                    <ForeName>Montserrat</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1] Division of Genetics and Epidemiology, Institute of Cancer Research, Sutton, UK. [2] Breakthrough Breast Cancer Research Centre, The Institute of Cancer Research, London, UK. [3].</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Couch</LastName>
+                    <ForeName>Fergus J</ForeName>
+                    <Initials>FJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lindstrom</LastName>
+                    <ForeName>Sara</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Michailidou</LastName>
+                    <ForeName>Kyriaki</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schmidt</LastName>
+                    <ForeName>Marjanka K</ForeName>
+                    <Initials>MK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brook</LastName>
+                    <ForeName>Mark N</ForeName>
+                    <Initials>MN</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Orr</LastName>
+                    <ForeName>Nick</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rhie</LastName>
+                    <ForeName>Suhn Kyong</ForeName>
+                    <Initials>SK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Riboli</LastName>
+                    <ForeName>Elio</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Feigelson</LastName>
+                    <ForeName>Heather S</ForeName>
+                    <Initials>HS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Le Marchand</LastName>
+                    <ForeName>Loic</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Buring</LastName>
+                    <ForeName>Julie E</ForeName>
+                    <Initials>JE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Eccles</LastName>
+                    <ForeName>Diana</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Miron</LastName>
+                    <ForeName>Penelope</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fasching</LastName>
+                    <ForeName>Peter A</ForeName>
+                    <Initials>PA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brauch</LastName>
+                    <ForeName>Hiltrud</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chang-Claude</LastName>
+                    <ForeName>Jenny</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Carpenter</LastName>
+                    <ForeName>Jane</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Godwin</LastName>
+                    <ForeName>Andrew K</ForeName>
+                    <Initials>AK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nevanlinna</LastName>
+                    <ForeName>Heli</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Giles</LastName>
+                    <ForeName>Graham G</ForeName>
+                    <Initials>GG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cox</LastName>
+                    <ForeName>Angela</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hopper</LastName>
+                    <ForeName>John L</ForeName>
+                    <Initials>JL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bolla</LastName>
+                    <ForeName>Manjeet K</ForeName>
+                    <Initials>MK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Qin</ForeName>
+                    <Initials>Q</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dennis</LastName>
+                    <ForeName>Joe</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dicks</LastName>
+                    <ForeName>Ed</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Howat</LastName>
+                    <ForeName>Will J</ForeName>
+                    <Initials>WJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schoof</LastName>
+                    <ForeName>Nils</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bojesen</LastName>
+                    <ForeName>Stig E</ForeName>
+                    <Initials>SE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lambrechts</LastName>
+                    <ForeName>Diether</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Broeks</LastName>
+                    <ForeName>Annegien</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Andrulis</LastName>
+                    <ForeName>Irene L</ForeName>
+                    <Initials>IL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Guénel</LastName>
+                    <ForeName>Pascal</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Burwinkel</LastName>
+                    <ForeName>Barbara</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sawyer</LastName>
+                    <ForeName>Elinor J</ForeName>
+                    <Initials>EJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hollestelle</LastName>
+                    <ForeName>Antoinette</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fletcher</LastName>
+                    <ForeName>Olivia</ForeName>
+                    <Initials>O</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Winqvist</LastName>
+                    <ForeName>Robert</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brenner</LastName>
+                    <ForeName>Hermann</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mannermaa</LastName>
+                    <ForeName>Arto</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hamann</LastName>
+                    <ForeName>Ute</ForeName>
+                    <Initials>U</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Meindl</LastName>
+                    <ForeName>Alfons</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lindblom</LastName>
+                    <ForeName>Annika</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zheng</LastName>
+                    <ForeName>Wei</ForeName>
+                    <Initials>W</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Devillee</LastName>
+                    <ForeName>Peter</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Goldberg</LastName>
+                    <ForeName>Mark S</ForeName>
+                    <Initials>MS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lubinski</LastName>
+                    <ForeName>Jan</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kristensen</LastName>
+                    <ForeName>Vessela</ForeName>
+                    <Initials>V</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Swerdlow</LastName>
+                    <ForeName>Anthony</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Anton-Culver</LastName>
+                    <ForeName>Hoda</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dörk</LastName>
+                    <ForeName>Thilo</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Muir</LastName>
+                    <ForeName>Kenneth</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Matsuo</LastName>
+                    <ForeName>Keitaro</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wu</LastName>
+                    <ForeName>Anna H</ForeName>
+                    <Initials>AH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Radice</LastName>
+                    <ForeName>Paolo</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Teo</LastName>
+                    <ForeName>Soo Hwang</ForeName>
+                    <Initials>SH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shu</LastName>
+                    <ForeName>Xiao-Ou</ForeName>
+                    <Initials>XO</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Blot</LastName>
+                    <ForeName>William</ForeName>
+                    <Initials>W</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kang</LastName>
+                    <ForeName>Daehee</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hartman</LastName>
+                    <ForeName>Mikael</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sangrajrang</LastName>
+                    <ForeName>Suleeporn</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shen</LastName>
+                    <ForeName>Chen-Yang</ForeName>
+                    <Initials>CY</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Southey</LastName>
+                    <ForeName>Melissa C</ForeName>
+                    <Initials>MC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Park</LastName>
+                    <ForeName>Daniel J</ForeName>
+                    <Initials>DJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hammet</LastName>
+                    <ForeName>Fleur</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stone</LastName>
+                    <ForeName>Jennifer</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Veer</LastName>
+                    <ForeName>Laura J Van't</ForeName>
+                    <Initials>LJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rutgers</LastName>
+                    <ForeName>Emiel J</ForeName>
+                    <Initials>EJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lophatananon</LastName>
+                    <ForeName>Artitaya</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stewart-Brown</LastName>
+                    <ForeName>Sarah</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Siriwanarangsan</LastName>
+                    <ForeName>Pornthep</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Peto</LastName>
+                    <ForeName>Julian</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schrauder</LastName>
+                    <ForeName>Michael G</ForeName>
+                    <Initials>MG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ekici</LastName>
+                    <ForeName>Arif B</ForeName>
+                    <Initials>AB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Beckmann</LastName>
+                    <ForeName>Matthias W</ForeName>
+                    <Initials>MW</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dos Santos Silva</LastName>
+                    <ForeName>Isabel</ForeName>
+                    <Initials>I</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Johnson</LastName>
+                    <ForeName>Nichola</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Warren</LastName>
+                    <ForeName>Helen</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tomlinson</LastName>
+                    <ForeName>Ian</ForeName>
+                    <Initials>I</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kerin</LastName>
+                    <ForeName>Michael J</ForeName>
+                    <Initials>MJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Miller</LastName>
+                    <ForeName>Nicola</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Marme</LastName>
+                    <ForeName>Federick</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schneeweiss</LastName>
+                    <ForeName>Andreas</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sohn</LastName>
+                    <ForeName>Christof</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Truong</LastName>
+                    <ForeName>Therese</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Laurent-Puig</LastName>
+                    <ForeName>Pierre</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kerbrat</LastName>
+                    <ForeName>Pierre</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nordestgaard</LastName>
+                    <ForeName>Børge G</ForeName>
+                    <Initials>BG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nielsen</LastName>
+                    <ForeName>Sune F</ForeName>
+                    <Initials>SF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Flyger</LastName>
+                    <ForeName>Henrik</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Milne</LastName>
+                    <ForeName>Roger L</ForeName>
+                    <Initials>RL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Perez</LastName>
+                    <ForeName>Jose Ignacio Arias</ForeName>
+                    <Initials>JI</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Menéndez</LastName>
+                    <ForeName>Primitiva</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Müller</LastName>
+                    <ForeName>Heiko</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Arndt</LastName>
+                    <ForeName>Volker</ForeName>
+                    <Initials>V</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stegmaier</LastName>
+                    <ForeName>Christa</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lichtner</LastName>
+                    <ForeName>Peter</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lochmann</LastName>
+                    <ForeName>Magdalena</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Justenhoven</LastName>
+                    <ForeName>Christina</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ko</LastName>
+                    <ForeName>Yon-Dschun</ForeName>
+                    <Initials>YD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <CollectiveName>Gene ENvironmental Interaction and breast CAncer (GENICA) Network</CollectiveName>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Muranen</LastName>
+                    <ForeName>Taru A</ForeName>
+                    <Initials>TA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aittomäki</LastName>
+                    <ForeName>Kristiina</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Blomqvist</LastName>
+                    <ForeName>Carl</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Greco</LastName>
+                    <ForeName>Dario</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Heikkinen</LastName>
+                    <ForeName>Tuomas</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ito</LastName>
+                    <ForeName>Hidemi</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Iwata</LastName>
+                    <ForeName>Hiroji</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yatabe</LastName>
+                    <ForeName>Yasushi</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Antonenkova</LastName>
+                    <ForeName>Natalia N</ForeName>
+                    <Initials>NN</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Margolin</LastName>
+                    <ForeName>Sara</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kataja</LastName>
+                    <ForeName>Vesa</ForeName>
+                    <Initials>V</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kosma</LastName>
+                    <ForeName>Veli-Matti</ForeName>
+                    <Initials>VM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hartikainen</LastName>
+                    <ForeName>Jaana M</ForeName>
+                    <Initials>JM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Balleine</LastName>
+                    <ForeName>Rosemary</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <CollectiveName>kConFab Investigators</CollectiveName>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tseng</LastName>
+                    <ForeName>Chiu-Chen</ForeName>
+                    <Initials>CC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Berg</LastName>
+                    <ForeName>David Van Den</ForeName>
+                    <Initials>DV</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stram</LastName>
+                    <ForeName>Daniel O</ForeName>
+                    <Initials>DO</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Neven</LastName>
+                    <ForeName>Patrick</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dieudonné</LastName>
+                    <ForeName>Anne-Sophie</ForeName>
+                    <Initials>AS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Leunen</LastName>
+                    <ForeName>Karin</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rudolph</LastName>
+                    <ForeName>Anja</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nickels</LastName>
+                    <ForeName>Stefan</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Flesch-Janys</LastName>
+                    <ForeName>Dieter</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Peterlongo</LastName>
+                    <ForeName>Paolo</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Peissel</LastName>
+                    <ForeName>Bernard</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bernard</LastName>
+                    <ForeName>Loris</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Olson</LastName>
+                    <ForeName>Janet E</ForeName>
+                    <Initials>JE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Xianshu</ForeName>
+                    <Initials>X</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stevens</LastName>
+                    <ForeName>Kristen</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Severi</LastName>
+                    <ForeName>Gianluca</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Baglietto</LastName>
+                    <ForeName>Laura</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McLean</LastName>
+                    <ForeName>Catriona</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Coetzee</LastName>
+                    <ForeName>Gerhard A</ForeName>
+                    <Initials>GA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Feng</LastName>
+                    <ForeName>Ye</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Henderson</LastName>
+                    <ForeName>Brian E</ForeName>
+                    <Initials>BE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schumacher</LastName>
+                    <ForeName>Fredrick</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bogdanova</LastName>
+                    <ForeName>Natalia V</ForeName>
+                    <Initials>NV</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Labrèche</LastName>
+                    <ForeName>France</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dumont</LastName>
+                    <ForeName>Martine</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yip</LastName>
+                    <ForeName>Cheng Har</ForeName>
+                    <Initials>CH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Taib</LastName>
+                    <ForeName>Nur Aishah Mohd</ForeName>
+                    <Initials>NA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cheng</LastName>
+                    <ForeName>Ching-Yu</ForeName>
+                    <Initials>CY</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shrubsole</LastName>
+                    <ForeName>Martha</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Long</LastName>
+                    <ForeName>Jirong</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pylkäs</LastName>
+                    <ForeName>Katri</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jukkola-Vuorinen</LastName>
+                    <ForeName>Arja</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kauppila</LastName>
+                    <ForeName>Saila</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Knight</LastName>
+                    <ForeName>Julia A</ForeName>
+                    <Initials>JA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Glendon</LastName>
+                    <ForeName>Gord</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mulligan</LastName>
+                    <ForeName>Anna Marie</ForeName>
+                    <Initials>AM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tollenaar</LastName>
+                    <ForeName>Robertus A E M</ForeName>
+                    <Initials>RA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Seynaeve</LastName>
+                    <ForeName>Caroline M</ForeName>
+                    <Initials>CM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kriege</LastName>
+                    <ForeName>Mieke</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hooning</LastName>
+                    <ForeName>Maartje J</ForeName>
+                    <Initials>MJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>van den Ouweland</LastName>
+                    <ForeName>Ans M W</ForeName>
+                    <Initials>AM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>van Deurzen</LastName>
+                    <ForeName>Carolien H M</ForeName>
+                    <Initials>CH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lu</LastName>
+                    <ForeName>Wei</ForeName>
+                    <Initials>W</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gao</LastName>
+                    <ForeName>Yu-Tang</ForeName>
+                    <Initials>YT</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cai</LastName>
+                    <ForeName>Hui</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Balasubramanian</LastName>
+                    <ForeName>Sabapathy P</ForeName>
+                    <Initials>SP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cross</LastName>
+                    <ForeName>Simon S</ForeName>
+                    <Initials>SS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Reed</LastName>
+                    <ForeName>Malcolm W R</ForeName>
+                    <Initials>MW</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Signorello</LastName>
+                    <ForeName>Lisa</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cai</LastName>
+                    <ForeName>Qiuyin</ForeName>
+                    <Initials>Q</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shah</LastName>
+                    <ForeName>Mitul</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Miao</LastName>
+                    <ForeName>Hui</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chan</LastName>
+                    <ForeName>Ching Wan</ForeName>
+                    <Initials>CW</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chia</LastName>
+                    <ForeName>Kee Seng</ForeName>
+                    <Initials>KS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jakubowska</LastName>
+                    <ForeName>Anna</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jaworska</LastName>
+                    <ForeName>Katarzyna</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Durda</LastName>
+                    <ForeName>Katarzyna</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hsiung</LastName>
+                    <ForeName>Chia-Ni</ForeName>
+                    <Initials>CN</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wu</LastName>
+                    <ForeName>Pei-Ei</ForeName>
+                    <Initials>PE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yu</LastName>
+                    <ForeName>Jyh-Cherng</ForeName>
+                    <Initials>JC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ashworth</LastName>
+                    <ForeName>Alan</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jones</LastName>
+                    <ForeName>Michael</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tessier</LastName>
+                    <ForeName>Daniel C</ForeName>
+                    <Initials>DC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>González-Neira</LastName>
+                    <ForeName>Anna</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pita</LastName>
+                    <ForeName>Guillermo</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Alonso</LastName>
+                    <ForeName>M Rosario</ForeName>
+                    <Initials>MR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vincent</LastName>
+                    <ForeName>Daniel</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bacot</LastName>
+                    <ForeName>Francois</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ambrosone</LastName>
+                    <ForeName>Christine B</ForeName>
+                    <Initials>CB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bandera</LastName>
+                    <ForeName>Elisa V</ForeName>
+                    <Initials>EV</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>John</LastName>
+                    <ForeName>Esther M</ForeName>
+                    <Initials>EM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Gary K</ForeName>
+                    <Initials>GK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hu</LastName>
+                    <ForeName>Jennifer J</ForeName>
+                    <Initials>JJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rodriguez-Gil</LastName>
+                    <ForeName>Jorge L</ForeName>
+                    <Initials>JL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bernstein</LastName>
+                    <ForeName>Leslie</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Press</LastName>
+                    <ForeName>Michael F</ForeName>
+                    <Initials>MF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ziegler</LastName>
+                    <ForeName>Regina G</ForeName>
+                    <Initials>RG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Millikan</LastName>
+                    <ForeName>Robert M</ForeName>
+                    <Initials>RM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Deming-Halverson</LastName>
+                    <ForeName>Sandra L</ForeName>
+                    <Initials>SL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nyante</LastName>
+                    <ForeName>Sarah</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ingles</LastName>
+                    <ForeName>Sue A</ForeName>
+                    <Initials>SA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Waisfisz</LastName>
+                    <ForeName>Quinten</ForeName>
+                    <Initials>Q</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tsimiklis</LastName>
+                    <ForeName>Helen</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Makalic</LastName>
+                    <ForeName>Enes</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schmidt</LastName>
+                    <ForeName>Daniel</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bui</LastName>
+                    <ForeName>Minh</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gibson</LastName>
+                    <ForeName>Lorna</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Müller-Myhsok</LastName>
+                    <ForeName>Bertram</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schmutzler</LastName>
+                    <ForeName>Rita K</ForeName>
+                    <Initials>RK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hein</LastName>
+                    <ForeName>Rebecca</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dahmen</LastName>
+                    <ForeName>Norbert</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Beckmann</LastName>
+                    <ForeName>Lars</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aaltonen</LastName>
+                    <ForeName>Kirsimari</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Czene</LastName>
+                    <ForeName>Kamila</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Irwanto</LastName>
+                    <ForeName>Astrid</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Jianjun</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Turnbull</LastName>
+                    <ForeName>Clare</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <CollectiveName>Familial Breast Cancer Study (FBCS)</CollectiveName>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rahman</LastName>
+                    <ForeName>Nazneen</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Meijers-Heijboer</LastName>
+                    <ForeName>Hanne</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Uitterlinden</LastName>
+                    <ForeName>Andre G</ForeName>
+                    <Initials>AG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rivadeneira</LastName>
+                    <ForeName>Fernando</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <CollectiveName>Australian Breast Cancer Tissue Bank (ABCTB) Investigators</CollectiveName>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Olswold</LastName>
+                    <ForeName>Curtis</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Slager</LastName>
+                    <ForeName>Susan</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pilarski</LastName>
+                    <ForeName>Robert</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ademuyiwa</LastName>
+                    <ForeName>Foluso</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Konstantopoulou</LastName>
+                    <ForeName>Irene</ForeName>
+                    <Initials>I</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Martin</LastName>
+                    <ForeName>Nicholas G</ForeName>
+                    <Initials>NG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Montgomery</LastName>
+                    <ForeName>Grant W</ForeName>
+                    <Initials>GW</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Slamon</LastName>
+                    <ForeName>Dennis J</ForeName>
+                    <Initials>DJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rauh</LastName>
+                    <ForeName>Claudia</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lux</LastName>
+                    <ForeName>Michael P</ForeName>
+                    <Initials>MP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jud</LastName>
+                    <ForeName>Sebastian M</ForeName>
+                    <Initials>SM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bruning</LastName>
+                    <ForeName>Thomas</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Weaver</LastName>
+                    <ForeName>Joellen</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sharma</LastName>
+                    <ForeName>Priyanka</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pathak</LastName>
+                    <ForeName>Harsh</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tapper</LastName>
+                    <ForeName>Will</ForeName>
+                    <Initials>W</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gerty</LastName>
+                    <ForeName>Sue</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Durcan</LastName>
+                    <ForeName>Lorraine</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Trichopoulos</LastName>
+                    <ForeName>Dimitrios</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tumino</LastName>
+                    <ForeName>Rosario</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Peeters</LastName>
+                    <ForeName>Petra H</ForeName>
+                    <Initials>PH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kaaks</LastName>
+                    <ForeName>Rudolf</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Campa</LastName>
+                    <ForeName>Daniele</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Canzian</LastName>
+                    <ForeName>Federico</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Weiderpass</LastName>
+                    <ForeName>Elisabete</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Johansson</LastName>
+                    <ForeName>Mattias</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Khaw</LastName>
+                    <ForeName>Kay-Tee</ForeName>
+                    <Initials>KT</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Travis</LastName>
+                    <ForeName>Ruth</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Clavel-Chapelon</LastName>
+                    <ForeName>Françoise</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kolonel</LastName>
+                    <ForeName>Laurence N</ForeName>
+                    <Initials>LN</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Constance</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Beck</LastName>
+                    <ForeName>Andy</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hankinson</LastName>
+                    <ForeName>Susan E</ForeName>
+                    <Initials>SE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Berg</LastName>
+                    <ForeName>Christine D</ForeName>
+                    <Initials>CD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hoover</LastName>
+                    <ForeName>Robert N</ForeName>
+                    <Initials>RN</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lissowska</LastName>
+                    <ForeName>Jolanta</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Figueroa</LastName>
+                    <ForeName>Jonine D</ForeName>
+                    <Initials>JD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chasman</LastName>
+                    <ForeName>Daniel I</ForeName>
+                    <Initials>DI</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gaudet</LastName>
+                    <ForeName>Mia M</ForeName>
+                    <Initials>MM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Diver</LastName>
+                    <ForeName>W Ryan</ForeName>
+                    <Initials>WR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Willett</LastName>
+                    <ForeName>Walter C</ForeName>
+                    <Initials>WC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hunter</LastName>
+                    <ForeName>David J</ForeName>
+                    <Initials>DJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Simard</LastName>
+                    <ForeName>Jacques</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Benitez</LastName>
+                    <ForeName>Javier</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dunning</LastName>
+                    <ForeName>Alison M</ForeName>
+                    <Initials>AM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sherman</LastName>
+                    <ForeName>Mark E</ForeName>
+                    <Initials>ME</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chenevix-Trench</LastName>
+                    <ForeName>Georgia</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chanock</LastName>
+                    <ForeName>Stephen J</ForeName>
+                    <Initials>SJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hall</LastName>
+                    <ForeName>Per</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pharoah</LastName>
+                    <ForeName>Paul D P</ForeName>
+                    <Initials>PD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vachon</LastName>
+                    <ForeName>Celine</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Easton</LastName>
+                    <ForeName>Douglas F</ForeName>
+                    <Initials>DF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Haiman</LastName>
+                    <ForeName>Christopher A</ForeName>
+                    <Initials>CA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kraft</LastName>
+                    <ForeName>Peter</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>U01 CA069417</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U01 CA069638</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>CA116201</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U19 CA 148065-01</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R25 CA092049</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P30 CA016056</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 CA136924</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U01-CA98233</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U01-CA98710</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U01-CA98216</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R37 CA070867</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>C1287/A12014</GrantID>
+                    <Agency>Cancer Research UK</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 CA092447</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 CA073629</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 CA058860</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>CA122340</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P30 CA016086</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>G1000143</GrantID>
+                    <Agency>Medical Research Council</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>K07 CA092044</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P50 CA058223</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 CA100374</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U01 CA098216</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 CA128978</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 CA064277</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 CA077305</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <Agency>Canadian Institutes of Health Research</Agency>
+                    <Country>Canada</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>14136</GrantID>
+                    <Agency>Cancer Research UK</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 CA148667</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P50 CA116201</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>G0401527</GrantID>
+                    <Agency>Medical Research Council</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U01 CA069631</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>K05 CA136967</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 CA063464</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>090532</GrantID>
+                    <Agency>Wellcome Trust</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U01 CA098233</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 CA077398</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 CA132839</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U01-CA98758</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U01 CA098758</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>C1287/A10710</GrantID>
+                    <Agency>Cancer Research UK</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U19 CA148065</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 CA122340</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>C1287/A10118</GrantID>
+                    <Agency>Cancer Research UK</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U01 CA069446</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>10118</GrantID>
+                    <Agency>Cancer Research UK</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R37 CA054281</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U01 CA098710</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>10124</GrantID>
+                    <Agency>Cancer Research UK</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 CA100598</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Nat Genet</MedlineTA>
+            <NlmUniqueID>9216904</NlmUniqueID>
+            <ISSNLinking>1061-4036</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011960">Receptors, Estrogen</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001943" MajorTopicYN="N">Breast Neoplasms</DescriptorName>
+                <QualifierName UI="Q000209" MajorTopicYN="Y">etiology</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016022" MajorTopicYN="N">Case-Control Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003299" MajorTopicYN="N">Cooperative Behavior</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D056426" MajorTopicYN="N">Genetic Loci</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020022" MajorTopicYN="Y">Genetic Predisposition to Disease</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055106" MajorTopicYN="N">Genome-Wide Association Study</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005838" MajorTopicYN="N">Genotype</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015201" MajorTopicYN="N">Meta-Analysis as Topic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020411" MajorTopicYN="N">Oligonucleotide Array Sequence Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020641" MajorTopicYN="N">Polymorphism, Single Nucleotide</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011960" MajorTopicYN="N">Receptors, Estrogen</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012307" MajorTopicYN="N">Risk Factors</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2012</Year>
+                <Month>05</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>01</Month>
+                <Day>29</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>3</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>3</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>5</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">23535733</ArticleId>
+            <ArticleId IdType="pii">ng.2561</ArticleId>
+            <ArticleId IdType="doi">10.1038/ng.2561</ArticleId>
+            <ArticleId IdType="pmc">PMC3771695</ArticleId>
+            <ArticleId IdType="mid">NIHMS479348</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Breast Cancer Res Treat. 2002 Jun;74(3):199-211</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12206512</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Genet. 2013;9(3):e1003212</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23544013</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Cancer. 2007;7:55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17389037</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2007 May 11;316(5826):889-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17434869</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2007 Jul;39(7):870-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17529973</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2009 Jun 23;106(25):10236-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19497887</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Bioinformatics. 2010;11:134</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20233392</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Cancer. 2010 Apr 13;102(8):1284-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20197764</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Med. 2010 May;7(5):e1000279</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20520800</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Oncol. 2010 Jun;4(3):174-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20542480</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2010 Sep 1;26(17):2190-1</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20616382</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2010 Nov;42(11):937-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20935630</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Natl Cancer Inst. 2011 Feb 2;103(3):250-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21191117</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neoplasia. 2011 Jul;13(7):611-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21750655</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2011 Dec;43(12):1210-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22037553</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2012 Apr 1;72(7):1795-803</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22331459</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2012 Oct;40(18):e139</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22684628</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hum Mol Genet. 2012 Dec 15;21(24):5373-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22976474</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Commun. 2013;4:1628</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23535649</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2013 Apr;45(4):353-61, 361e1-2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23535729</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2013 Apr;45(4):371-84, 384e1-2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23535731</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

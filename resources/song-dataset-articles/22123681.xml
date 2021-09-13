@@ -1,0 +1,371 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">22123681</PMID>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>05</Month>
+            <Day>25</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-6596</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>56</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Antimicrobial agents and chemotherapy</Title>
+                <ISOAbbreviation>Antimicrob Agents Chemother</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Vancomycin AUC24/MIC ratio in patients with complicated bacteremia and infective endocarditis due to methicillin-resistant Staphylococcus aureus and its association with attributable mortality during hospitalization.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>634-8</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/AAC.05609-11</ELocationID>
+            <Abstract>
+                <AbstractText>Methicillin-resistant Staphylococcus aureus (MRSA) is a common cause of complicated bacteremia (CB) and infective endocarditis (IE). The gold standard treatment for these infections is vancomycin. A vancomycin area under the concentration-time curve from 0 to 24 h (AUC(24))/MIC ratio of &gt;400 has been suggested as a target to achieve clinical effectiveness, and yet to date no study has quantitatively investigated the AUC(24)/MIC ratio and its association with attributable mortality (AM). We performed a review of patients treated for MRSA CB and IE from 1 July 2006 to 30 June 2008. AM was defined as deaths where CB or IE was documented as the main cause or was mentioned as the main diagnosis. Classification and regression tree analysis (CART) was used to identify the AUC(24)/MIC ratio associated with AM. Mann-Whitney and Fisher exact tests were used for univariate analysis, and logistic regression was used for multivariate modeling. The MICs were determined by Etest, and the AUC(24) was determined using a maximum a posteriori probability-Bayesian estimator. A total of 32 CB and 18 IE patients were enrolled. The overall crude mortality and AM were 24 and 16%, respectively. The CART-derived partition for the AUC(24)/MIC ratio and AM was &lt;211. Patients with an AUC(24)/MIC ratio of &lt;211 had a &gt;4-fold increase in AM than patients who received vancomycin doses that achieved an AUC(24)/MIC ratio of ≥211 (38 and 8%, respectively; P = 0.02). In bivariate analysis the APACHE-II score and an AUC(24)/MIC ratio of &lt;211 were significantly associated with AM. In the multivariate model, the APACHE-II score (odds ratio, 1.24; P = 0.04) and a vancomycin AUC/MIC ratio of &lt;211 (odds ratio, 10.4; P = 0.01) were independent predictors of AM. In our analysis, independent predictors of AM were the APACHE-II score and an AUC(24)/MIC ratio of &lt;211. We believe further investigations are warranted.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Brown</LastName>
+                    <ForeName>Jack</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Pharmacy, State University of New York at Buffalo, Buffalo, New York, USA. jb322@buffalo.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brown</LastName>
+                    <ForeName>Kristen</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Forrest</LastName>
+                    <ForeName>Alan</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>11</Month>
+                <Day>28</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Antimicrob Agents Chemother</MedlineTA>
+            <NlmUniqueID>0315061</NlmUniqueID>
+            <ISSNLinking>0066-4804</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000900">Anti-Bacterial Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>6Q205EH1VU</RegistryNumber>
+                <NameOfSubstance UI="D014640">Vancomycin</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D018806" MajorTopicYN="N">APACHE</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000900" MajorTopicYN="Y">Anti-Bacterial Agents</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+                <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019540" MajorTopicYN="Y">Area Under Curve</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016470" MajorTopicYN="N">Bacteremia</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+                <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+                <QualifierName UI="Q000382" MajorTopicYN="N">microbiology</QualifierName>
+                <QualifierName UI="Q000401" MajorTopicYN="Y">mortality</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004697" MajorTopicYN="N">Endocarditis, Bacterial</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+                <QualifierName UI="Q000382" MajorTopicYN="N">microbiology</QualifierName>
+                <QualifierName UI="Q000401" MajorTopicYN="Y">mortality</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017052" MajorTopicYN="Y">Hospital Mortality</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006760" MajorTopicYN="N">Hospitalization</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055624" MajorTopicYN="N">Methicillin-Resistant Staphylococcus aureus</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName UI="Q000302" MajorTopicYN="N">isolation &amp; purification</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008826" MajorTopicYN="N">Microbial Sensitivity Tests</DescriptorName>
+                <QualifierName UI="Q000706" MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013203" MajorTopicYN="N">Staphylococcal Infections</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+                <QualifierName UI="Q000382" MajorTopicYN="N">microbiology</QualifierName>
+                <QualifierName UI="Q000401" MajorTopicYN="N">mortality</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014640" MajorTopicYN="Y">Vancomycin</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+                <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>11</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>11</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>5</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">22123681</ArticleId>
+            <ArticleId IdType="pii">AAC.05609-11</ArticleId>
+            <ArticleId IdType="doi">10.1128/AAC.05609-11</ArticleId>
+            <ArticleId IdType="pmc">PMC3264249</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Clin Infect Dis. 2007 May 1;44(9):1208-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17407040</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur Heart J. 2007 Jan;28(2):196-203</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17158121</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Infect Dis. 2011 Apr 15;52(8):969-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21460308</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Infect Dis. 2000 Apr;30(4):633-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10770721</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am Heart J. 2001 Jan;141(1):78-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11136490</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Crit Care Med. 2001 Apr;29(4 Suppl):N100-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11292884</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Antimicrob Chemother. 2001 Jul;48 Suppl 1:5-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11420333</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 2001 Jul;39(7):2439-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11427551</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antimicrob Agents Chemother. 2002 May;46(5):1492-502</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11959587</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 2002 Nov;40(11):4060-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12409375</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Dis Clin North Am. 2003 Sep;17(3):479-501</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14711073</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Microbiol. 2004 Apr;2(4):289-300</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15031728</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 2004 Jun;42(6):2398-402</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15184410</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Pharmacokinet. 2004;43(13):925-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15509186</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antimicrob Agents Chemother. 1982 Sep;22(3):391-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7137982</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 1983 Oct;18(4):994-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6630478</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antimicrob Agents Chemother. 1987 Mar;31(3):393-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3579256</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Pharmacol Ther. 1988 May;43(5):565-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3365918</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antimicrob Agents Chemother. 1988 Jun;32(6):848-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3415206</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Burn Care Rehabil. 1989 Sep-Oct;10(5):425-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2793921</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Infect Dis. 1993 Sep;17(3):313-20; quiz 321-2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8218670</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Infect Dis. 1998 Jan;26(1):1-10; quiz 11-2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9455502</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAMA. 2005 Jun 22;293(24):3012-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15972563</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Control Hosp Epidemiol. 2005 Jun;26(6):534-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16018428</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Cardiol. 2005 Oct 1;96(7):976-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16188527</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Med. 2006 Jun;119(6 Suppl 1):S37-44; discussion S62-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16735150</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Ther. 2006 Aug;28(8):1208-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16982298</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Chest. 2006 Oct;130(4):947-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17035423</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Intern Med. 2006 Oct 23;166(19):2138-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17060545</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antimicrob Agents Chemother. 2008 Sep;52(9):3315-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18591266</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

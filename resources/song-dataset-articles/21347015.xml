@@ -1,0 +1,221 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+        <PMID Version="1">21347015</PMID>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>04</Month>
+            <Day>22</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>12</Month>
+            <Day>01</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1942-597X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>2010</Volume>
+                    <PubDate>
+                        <Year>2010</Year>
+                        <Month>Nov</Month>
+                        <Day>13</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>AMIA ... Annual Symposium proceedings. AMIA Symposium</Title>
+                <ISOAbbreviation>AMIA Annu Symp Proc</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Analysis of Breast Contour using Rotated Catenary.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>432-6</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Surgical reconstruction of natural-appearing breasts is a challenging task. Currently, surgical planning is limited to the surgeon's subjective assessment of breast morphology. Therefore, it is useful to develop objective measurements of breast contour. In this paper, a novel quantitative measure of the breast contour based on catenary theory is introduced. A catenary curve is fitted on the breast contour (lateral and inferior) and the key parameter determining the shape of the curve is extracted. The new catenary analysis was applied to pre- and post-operative clinical photographs of women who underwent tissue expander/implant (TE/Implant) reconstruction. A logistic regression model was developed to predict the probability that the observed contour is that of a TE/Implant reconstruction from the catenary parameter, patient age, and patient body mass index. It was demonstrated that the parameters contain useful information for distinguishing TE/Implant reconstructed breasts from pre-operative breasts.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Juhun</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Electrical and Computer Engineering, The University of Texas at Austin, Austin, TX;</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Beahm</LastName>
+                    <ForeName>Elisabeth K</ForeName>
+                    <Initials>EK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Crosby</LastName>
+                    <ForeName>Melissa A</ForeName>
+                    <Initials>MA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Reece</LastName>
+                    <ForeName>Gregory P</ForeName>
+                    <Initials>GP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Markey</LastName>
+                    <ForeName>Mia K</ForeName>
+                    <Initials>MK</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 CA143190</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 CA143190-01A1</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>11</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>AMIA Annu Symp Proc</MedlineTA>
+            <NlmUniqueID>101209213</NlmUniqueID>
+            <ISSNLinking>1559-4076</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001940" MajorTopicYN="Y">Breast</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018427" MajorTopicYN="N">Breast Implants</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001943" MajorTopicYN="N">Breast Neoplasms</DescriptorName>
+                <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016462" MajorTopicYN="Y">Mammaplasty</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015625" MajorTopicYN="N">Tissue Expansion Devices</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>4</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21347015</ArticleId>
+            <ArticleId IdType="pmc">PMC3041438</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Eur J Orthod. 2000 Apr;22(2):113-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10822884</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plast Reconstr Surg. 2001 Jun;107(7):1702-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11391188</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Dent Res. 1975 Nov-Dec;54(6):1124-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1059650</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Radiother Oncol. 1989 Nov;16(3):159-67</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2587807</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plast Reconstr Surg. 1996 Jul;98(1):74-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8657790</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Plast Surg. 1996 Sep;49(6):352-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8881780</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plast Reconstr Surg. 1998 Apr;101(4):964-8; discussion 969-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9514328</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Comput Biol Med. 2007 Jan;37(1):49-59</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16438948</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Artif Intell Med. 2007 Jun;40(2):115-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17420117</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Plast Surg. 2008 Nov;61(5):494-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18948774</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Plast Reconstr Aesthet Surg. 2009 May;62(5):626-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18356126</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

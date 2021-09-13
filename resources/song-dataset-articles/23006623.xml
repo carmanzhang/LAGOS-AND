@@ -1,0 +1,432 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">23006623</PMID>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>12</Month>
+            <Day>21</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1469-9001</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>18</Volume>
+                    <Issue>11</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>RNA (New York, N.Y.)</Title>
+                <ISOAbbreviation>RNA</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>TRBP alters human precursor microRNA processing in vitro.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2012-9</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1261/rna.035501.112</ELocationID>
+            <Abstract>
+                <AbstractText>MicroRNAs play central roles in controlling gene expression in human cells. Sequencing data show that many miRNAs are produced at different levels and as multiple isoforms that can vary in length at their 5' or 3' ends, but the biogenesis and functional significance of these RNAs are largely unknown. We show here that the human trans-activation response (TAR) RNA binding protein (TRBP), a known molecular partner of the miRNA processing enzyme Dicer, changes the rates of pre-miRNA cleavage in an RNA-structure-specific manner. Furthermore, TRBP can trigger the generation of iso-miRNAs (isomiRs) that are longer than the canonical sequence by one nucleotide. We show that this change in miRNA processing site can alter guide strand selection, resulting in preferential silencing of a different mRNA target. These results implicate TRBP as a key regulator of miRNA processing and targeting in humans.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Ho Young</ForeName>
+                    <Initials>HY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular and Cell Biology, University of California, Berkeley, Berkeley, California 94720, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Doudna</LastName>
+                    <ForeName>Jennifer A</ForeName>
+                    <Initials>JA</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <Agency>Howard Hughes Medical Institute</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2012</Year>
+                <Month>09</Month>
+                <Day>24</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>RNA</MedlineTA>
+            <NlmUniqueID>9509184</NlmUniqueID>
+            <ISSNLinking>1355-8382</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D035683">MicroRNAs</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D012322">RNA Precursors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016601">RNA-Binding Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>136628-24-5</RegistryNumber>
+                <NameOfSubstance UI="C068106">trans-activation responsive RNA-binding protein</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.13.12.5</RegistryNumber>
+                <NameOfSubstance UI="D049410">Luciferases, Renilla</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.26.3</RegistryNumber>
+                <NameOfSubstance UI="C408087">DICER1 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.26.3</RegistryNumber>
+                <NameOfSubstance UI="D043244">Ribonuclease III</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.6.4.13</RegistryNumber>
+                <NameOfSubstance UI="D053487">DEAD-box RNA Helicases</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001483" MajorTopicYN="N">Base Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D053487" MajorTopicYN="N">DEAD-box RNA Helicases</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017930" MajorTopicYN="N">Genes, Reporter</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D057809" MajorTopicYN="N">HEK293 Cells</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007700" MajorTopicYN="N">Kinetics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D049410" MajorTopicYN="N">Luciferases, Renilla</DescriptorName>
+                <QualifierName UI="Q000096" MajorTopicYN="N">biosynthesis</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D035683" MajorTopicYN="N">MicroRNAs</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008969" MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009690" MajorTopicYN="N">Nucleic Acid Conformation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D059367" MajorTopicYN="N">RNA Cleavage</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012322" MajorTopicYN="N">RNA Precursors</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012323" MajorTopicYN="Y">RNA Processing, Post-Transcriptional</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016601" MajorTopicYN="N">RNA-Binding Proteins</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D043244" MajorTopicYN="N">Ribonuclease III</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017423" MajorTopicYN="N">Sequence Analysis, RNA</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013379" MajorTopicYN="N">Substrate Specificity</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>9</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>9</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>12</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">23006623</ArticleId>
+            <ArticleId IdType="pii">rna.035501.112</ArticleId>
+            <ArticleId IdType="doi">10.1261/rna.035501.112</ArticleId>
+            <ArticleId IdType="pmc">PMC3479391</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Biol Chem. 2001 Sep 7;276(36):33899-905</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11438532</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2010 Dec 3;404(3):392-402</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20932845</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2003 Oct 17;115(2):199-208</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14567917</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2003 Oct 17;115(2):209-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14567918</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2004 Jul 16;279(29):30265-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15123692</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell. 2004 Jul 23;15(2):185-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15260970</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2005 Jun 9;435(7043):834-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15944708</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Biol. 2005 Jul;3(7):e236</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15918770</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2005 Aug 4;436(7051):740-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15973356</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO Rep. 2005 Oct;6(10):961-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16142218</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2005 Nov 18;123(4):621-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16271385</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2005 Nov 18;123(4):607-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16271386</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2005 Nov 22;102(47):16961-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16287976</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell. 2006 Feb 17;21(4):533-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16483934</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO Rep. 2006 Mar;7(3):314-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16439995</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncogene. 2007 Apr 26;26(19):2799-803</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17072344</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2007;35(17):5944-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17726050</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>RNA. 2007 Dec;13(12):2324-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17928574</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2008 Jan 15;105(2):512-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18178619</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Res. 2008 Apr;18(4):610-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18285502</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2008 Jun 27;380(1):237-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18508075</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>RNA Biol. 2008 Apr-Jun;5(2):92-103</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18421256</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell. 2008 Oct 24;32(2):276-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18951094</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2009 Mar;41(3):365-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19219043</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2009 Jun 18;459(7249):1010-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19458619</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>RNA. 2009 Aug;15(8):1443-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19561119</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2009 Jul 23;460(7254):479-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19536157</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncol Rep. 2009 Nov;22(5):1189-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19787239</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2009 Oct 2;139(1):112-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19804757</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Cancer. 2010 Jun;10(6):389-402</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20495573</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Struct Mol Biol. 2010 Aug;17(8):1011-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20639884</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2010 Aug 12;466(7308):835-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20703300</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>RNA. 2010 Oct;16(10):1881-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20805289</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>RNA. 2010 Nov;16(11):2170-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20876832</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2010 Nov;38(20):7219-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20591823</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2003 Jul 25;330(5):917-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12860115</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

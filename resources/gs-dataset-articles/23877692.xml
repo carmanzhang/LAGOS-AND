@@ -1,0 +1,286 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">23877692</PMID>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>04</Month>
+            <Day>09</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1098-6596</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>57</Volume>
+                    <Issue>10</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Antimicrobial agents and chemotherapy</Title>
+                <ISOAbbreviation>Antimicrob. Agents Chemother.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Characterization of the new AmpC β-lactamase FOX-8 reveals a single mutation, Phe313Leu, located in the R2 loop that affects ceftazidime hydrolysis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>5158-61</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1128/AAC.00818-13</ELocationID>
+            <Abstract>
+                <AbstractText>A novel class C β-lactamase (FOX-8) was isolated from a clinical strain of Escherichia coli. The FOX-8 enzyme possessed a unique substitution (Phe313Leu) compared to FOX-3. Isogenic E. coli strains carrying FOX-8 showed an 8-fold reduction in resistance to ceftazidime relative to FOX-3. In a kinetic analysis, FOX-8 displayed a 33-fold reduction in kcat/Km for ceftazidime compared to FOX-3. In the FOX family of β-lactamases, the Phe313 residue located in the R2 loop affects ceftazidime hydrolysis and alters the phenotype of E. coli strains carrying this variant. </AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Pérez-Llarena</LastName>
+                    <ForeName>Francisco José</ForeName>
+                    <Initials>FJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Servicio de Microbiología-INIBIC, Complejo Hospitalario Universitario A Coruña, A Coruña, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kerff</LastName>
+                    <ForeName>Frédéric</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zamorano</LastName>
+                    <ForeName>Laura</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fernández</LastName>
+                    <ForeName>María Carmen</ForeName>
+                    <Initials>MC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nuñez</LastName>
+                    <ForeName>Maria Luz</ForeName>
+                    <Initials>ML</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Miró</LastName>
+                    <ForeName>Elisenda</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Oliver</LastName>
+                    <ForeName>Antonio</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Navarro</LastName>
+                    <ForeName>Ferran</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bou</LastName>
+                    <ForeName>Germán</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>07</Month>
+                <Day>22</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Antimicrob Agents Chemother</MedlineTA>
+            <NlmUniqueID>0315061</NlmUniqueID>
+            <ISSNLinking>0066-4804</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D001426">Bacterial Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9M416Z9QNR</RegistryNumber>
+                <NameOfSubstance UI="D002442">Ceftazidime</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.5.2.6</RegistryNumber>
+                <NameOfSubstance UI="C048795">AmpC beta-lactamases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.5.2.6</RegistryNumber>
+                <NameOfSubstance UI="D001618">beta-Lactamases</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001426" MajorTopicYN="N">Bacterial Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002442" MajorTopicYN="N">Ceftazidime</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004926" MajorTopicYN="N">Escherichia coli</DescriptorName>
+                <QualifierName UI="Q000201" MajorTopicYN="Y">enzymology</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006868" MajorTopicYN="N">Hydrolysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009154" MajorTopicYN="N">Mutation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001618" MajorTopicYN="N">beta-Lactamases</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>4</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">23877692</ArticleId>
+            <ArticleId IdType="pii">AAC.00818-13</ArticleId>
+            <ArticleId IdType="doi">10.1128/AAC.00818-13</ArticleId>
+            <ArticleId IdType="pmc">PMC3811397</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Antimicrob Agents Chemother. 2000 Sep;44(9):2549-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10952615</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Clin Microbiol Infect Dis. 2013 Feb;32(2):253-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22956023</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Microbiol. 2002 Jun;40(6):2153-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12037080</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEMS Microbiol Lett. 2003 May 16;222(1):93-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12757951</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1993 Jul 15;90(14):6874-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8341713</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antimicrob Agents Chemother. 1994 Sep;38(9):2150-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7811034</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antimicrob Agents Chemother. 1997 Sep;41(9):2041-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9303413</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antimicrob Agents Chemother. 1998 Feb;42(2):464-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9527810</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2006 May;60(4):907-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16677302</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEMS Microbiol Lett. 2007 Jun;271(1):71-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17391369</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Future Microbiol. 2007 Jun;2(3):297-307</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17661704</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antimicrob Agents Chemother. 2007 Dec;51(12):4329-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17938181</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Microbiol Rev. 2009 Jan;22(1):161-82, Table of Contents</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19136439</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Med Chem. 2009;16(28):3740-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19747143</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Antimicrob Chemother. 2010 Jun;65(6):1187-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20382725</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antimicrob Agents Chemother. 2001 Nov;45(11):3189-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11600376</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

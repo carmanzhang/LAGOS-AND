@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">12812066</PMID>
+        <DateCompleted>
+            <Year>2003</Year>
+            <Month>12</Month>
+            <Day>12</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2012</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0379-4172</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>30</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2003</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Yi chuan xue bao = Acta genetica Sinica</Title>
+                <ISOAbbreviation>Yi Chuan Xue Bao</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Development of gene therapy for hematopoietic stem cell using viral vectors].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>382-8</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Hematopoietic stem cells (HSC) are attractive targets for gene therapy of inherited and acquired disorders in hematopoietic system in that they possess the properties of self-renewal, proliferation, and multi-lineage differentiation. For successful gene therapy, the viral vector-mediated gene addition strategy has two essential prerequisites: 1) the efficient transfer of therapeutic gene into HSC; 2) the long-term and stable expression of the transgene at therapeutic levels. The oncoretrovirus-derived vectors are best understood and most widely investigated. Recent successful cases of gene therapy for severe combined immunodeficiency due to adenosine deaminase or gamma c chain deficiencies have provided strong evidences that retrovirus-mediated gene transfer into HSC will work in clinical treatment. While these results are encouraging, some obstacles remain to be circumvented including low efficiency of gene transfer and gene silencing in retroviral vector system. The therapeutic gene can be efficiently introduced into HSC by HIV-1-based lentiviral vector due to its capability to infect the quiescent cells. A variety of preclinical studies are now conducted and a number of valuable results highlight the efficacy of lentiviral-mediated gene transfer into HSC. However, the potential value of lentiviral vectors in human gene therapy remains to be demonstrated. Adeno-associated virus vector is an alternative to retroviral and lentiviral vectors. This review summarizes the characteristics of integrating vectors, the improved HSC transduction protocols, and the optimized gene expression strategies and outlines the important advances of preclinical and clinical trials in hematopoietic stem cell gene therapy.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Dong</LastName>
+                    <ForeName>Wen-Ji</ForeName>
+                    <Initials>WJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Laboratory of Medical Molecular Biology, Institute of Basic Medical Sciences, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing 100005, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zu</LastName>
+                    <ForeName>Zhen-Xiang</ForeName>
+                    <Initials>ZX</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>De-Pei</ForeName>
+                    <Initials>DP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liang</LastName>
+                    <ForeName>Chih-Chuan</ForeName>
+                    <Initials>CC</Initials>
+                </Author>
+            </AuthorList>
+            <Language>chi</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D004740">English Abstract</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>China</Country>
+            <MedlineTA>Yi Chuan Xue Bao</MedlineTA>
+            <NlmUniqueID>7900784</NlmUniqueID>
+            <ISSNLinking>0379-4172</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000256" MajorTopicYN="N">Adenoviridae</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015316" MajorTopicYN="N">Genetic Therapy</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005822" MajorTopicYN="N">Genetic Vectors</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006412" MajorTopicYN="N">Hematopoietic Stem Cells</DescriptorName>
+                <QualifierName UI="Q000166" MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012190" MajorTopicYN="N">Retroviridae</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>30</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2003</Year>
+                <Month>6</Month>
+                <Day>19</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2003</Year>
+                <Month>12</Month>
+                <Day>13</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2003</Year>
+                <Month>6</Month>
+                <Day>19</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">12812066</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,423 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">22923014</PMID>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>01</Month>
+            <Day>07</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-1123</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>23</Volume>
+                    <Issue>11</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of the American Society for Mass Spectrometry</Title>
+                <ISOAbbreviation>J Am Soc Mass Spectrom</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Selective deletion of the internal lysine residue from the peptide sequence by collisional activation.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1967-80</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s13361-012-0456-1</ELocationID>
+            <Abstract>
+                <AbstractText>The gas-phase peptide ion fragmentation chemistry is always the center of attraction in proteomics to analyze the amino acid sequence of peptides and proteins. In this work, we describe the formation of an anomalous fragment ion, which corresponds to the selective deletion of the internal lysine residue from a series of lysine containing peptides upon collisional activation in the ion trap. We detected several water-loss fragment ions and the maximum number of water molecules lost from a particular fragment ion was equal to the number of lysine residues in that fragment. As a consequence of this water-loss phenomenon, internal lysine residues were found to be deleted from the peptide ion. The N,N-dimethylation of all the amine functional groups of the peptide stopped the internal lysine deletion reaction, but selective N-terminal α-amino acetylation had no effect on this process indicating involvement of the side chains of the lysine residues. The detailed mechanism of the lysine deletion was investigated by multistage CID of the modified and unmodified peptides, by isotope labeling and by energy resolved CID studies. The results suggest that the lysine deletion might occur through a unimolecular multistep mechanism involving a seven-membered cyclic imine intermediate formed by the loss of water from a lysine residue in the protonated peptide. This intermediate subsequently undergoes degradation reaction to deplete the interior imine ring from the peptide backbone leading to the deletion of an internal lysine residue.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Banerjee</LastName>
+                    <ForeName>Shibdas</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemical Sciences, Tata Institute of Fundamental Research, Mumbai, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mazumdar</LastName>
+                    <ForeName>Shyamalava</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2012</Year>
+                <Month>08</Month>
+                <Day>25</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Am Soc Mass Spectrom</MedlineTA>
+            <NlmUniqueID>9010412</NlmUniqueID>
+            <ISSNLinking>1044-0305</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007097">Imines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010455">Peptides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>059QF0KO0R</RegistryNumber>
+                <NameOfSubstance UI="D014867">Water</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>K3Z4F929H6</RegistryNumber>
+                <NameOfSubstance UI="D008239">Lysine</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000595" MajorTopicYN="N">Amino Acid Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007097" MajorTopicYN="N">Imines</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008239" MajorTopicYN="N">Lysine</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008969" MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010455" MajorTopicYN="N">Peptides</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D021241" MajorTopicYN="N">Spectrometry, Mass, Electrospray Ionization</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014867" MajorTopicYN="N">Water</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2012</Year>
+                <Month>05</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2012</Year>
+                <Month>07</Month>
+                <Day>20</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2012</Year>
+                <Month>07</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>8</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>8</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>1</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">22923014</ArticleId>
+            <ArticleId IdType="doi">10.1007/s13361-012-0456-1</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Anal Chem. 2001 Dec 1;73(23):5725-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11774913</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Proteome Res. 2008 Jan;7(1):202-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18092745</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Mass Spectrom. 2010 Dec;21(12):2085-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20947370</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Proteome Res. 2011 May 6;10(5):2409-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21413817</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Mass Spectrom. 1995 Dec;6(12):1165-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24214067</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Proteome Res. 2009 Feb;8(2):787-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19105742</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Proteome Res. 2007 Apr;6(4):1378-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17311442</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Chem Soc. 2008 Dec 31;130(52):17774-89</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19055406</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anal Chem. 2008 Feb 1;80(3):713-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18184016</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Rapid Commun Mass Spectrom. 1994 Sep;8(9):678-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7524806</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Mass Spectrom. 2008 Dec;19(12):1776-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18639467</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Mass Spectrom. 2007 Apr;18(4):663-78</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17234429</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mass Spectrom. 2010 Oct;45(10):1212-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20872902</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Chem Soc. 2005 Dec 14;127(49):17154-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16332041</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anal Chem. 1993 Jun 1;65(11):1594-601</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8328675</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anal Chem. 1993 Oct 15;65(20):2824-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7504416</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mass Spectrom Rev. 2005 Jul-Aug;24(4):508-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15389847</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mass Spectrom. 2000 Dec;35(12):1399-406</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11180630</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anal Chem. 2002 Nov 15;74(22):5799-806</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12463364</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Mass Spectrom. 2005 Sep;16(9):1409-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16006142</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Mass Spectrom. 2010 Aug;21(8):1275-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20547071</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mass Spectrom. 2011 Oct;46(10):1011-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22012667</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Mass Spectrom. 2011 Oct;22(10):1707-17</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21952884</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Chem Soc. 2006 Aug 16;128(32):10364-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16895391</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mass Spectrom. 2004 Oct;39(10):1091-112</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15481084</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Anal Chem. 2012;2012:282574</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22611397</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Mass Spectrom. 2009 Dec;20(12):2248-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19781958</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Mass Spectrom. 2010 Jun;21(6):1028-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20219391</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Chem Soc. 2002 Jun 26;124(25):7353-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12071744</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Mass Spectrom. 2010 Aug;21(8):1313-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20236836</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Mass Spectrom. 1992 Sep;3(6):599-614</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24234564</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Chem Soc. 2010 Oct 27;132(42):14766-79</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20925356</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Chem Soc. 2005 Mar 2;127(8):2785-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15725037</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biomed Environ Mass Spectrom. 1988 Oct;16(1-12):99-111</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3072035</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1989 Oct 6;246(4926):64-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2675315</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biomed Mass Spectrom. 1984 Nov;11(11):601</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6525415</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Soc Mass Spectrom. 2011 Jul;22(7):1121-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21953093</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anal Chem. 2009 May 15;81(10):3950-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19388669</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2004 Sep 14;101(37):13417-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15347803</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1986 Sep;83(17):6233-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3462691</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anal Chem. 2003 Mar 15;75(6):1524-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12659218</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Chem Soc. 2009 Dec 30;131(51):18272-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19947633</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

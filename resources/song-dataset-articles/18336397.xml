@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">18336397</PMID>
+        <DateCompleted>
+            <Year>2008</Year>
+            <Month>05</Month>
+            <Day>13</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>10</Month>
+            <Day>30</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1525-1438</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>18 Suppl 1</Volume>
+                    <PubDate>
+                        <MedlineDate>2008 Mar-Apr</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International journal of gynecological cancer : official journal of the International Gynecological Cancer Society</Title>
+                <ISOAbbreviation>Int J Gynecol Cancer</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Strategies to examine new compounds for intraperitoneal use in ovarian cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>33-5</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1111/j.1525-1438.2007.01102.x</ELocationID>
+            <Abstract>
+                <AbstractText>The results of three large well-designed randomized trials demonstrating the favorable impact of primary cisplatin-based chemotherapy on survival in small-volume residual advanced ovarian cancer has stimulated considerable interest in exploration of this route of drug delivery for other antineoplastic agents. A number of relevant properties of both the drugs and the peritoneal cavity need to be considered in preclinical evaluation such that future clinical development will focus on strategies that have a realistic potential for being safe and effective when they enter the clinical arena.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Markman</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The University of Texas MD Anderson Cancer Center, Houston, Texas 77030, USA. mmarkman@mdanderson.org</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D003160">Comparative Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Int J Gynecol Cancer</MedlineTA>
+            <NlmUniqueID>9111626</NlmUniqueID>
+            <ISSNLinking>1048-891X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000970">Antineoplastic Agents</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000970" MajorTopicYN="N">Antineoplastic Agents</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004341" MajorTopicYN="N">Drug Evaluation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007263" MajorTopicYN="N">Infusions, Parenteral</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010051" MajorTopicYN="N">Ovarian Neoplasms</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>18</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2008</Year>
+                <Month>4</Month>
+                <Day>11</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2008</Year>
+                <Month>5</Month>
+                <Day>14</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2008</Year>
+                <Month>4</Month>
+                <Day>11</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">18336397</ArticleId>
+            <ArticleId IdType="pii">IJG1102</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1525-1438.2007.01102.x</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

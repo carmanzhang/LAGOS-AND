@@ -1,0 +1,151 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">24523116</PMID>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>09</Month>
+            <Day>30</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2014</Year>
+            <Month>02</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1940-6029</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>1113</Volume>
+                    <PubDate>
+                        <Year>2014</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Methods in molecular biology (Clifton, N.J.)</Title>
+                <ISOAbbreviation>Methods Mol. Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Principles and experimental considerations for in vitro transporter interaction assays.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>229-52</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/978-1-62703-758-7_12</ELocationID>
+            <Abstract>
+                <AbstractText>Drug transporters are now universally acknowledged as important determinants of the absorption, distribution, metabolism and excretion of both endogenous and exogenous compounds. Altered transporter function, whether due to genetic polymorphism, DDIs, disease, or environmental factors such as dietary constituents, can result in changes in drug efficacy and/or toxicity due to changes in circulating or tissue levels of either drugs or endogenous substrates.Prediction of whether and to what extent the biological fate of a drug is influenced by drug transporters, therefore, requires in vitro test systems that can accurately predict the risk and magnitude of clinical DDIs. While these in vitro assessments appear simple in theory, practitioners recognize that there are multiple factors that can influence experimental outcomes. A better understanding of these variables, including test compound characteristics, test systems, assay formats, and experimental design will enable clear, actionable steps and translatable outcomes that may avoid unnecessary downstream clinical engagement. This chapter will delineate the role of these variables in improving in vitro assay outcomes. </AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Bhoopathy</LastName>
+                    <ForeName>Sid</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Absorption Systems LP, 436 Creamery Way, Suite 600, Exton, PA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bode</LastName>
+                    <ForeName>Chris</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Naageshwaran</LastName>
+                    <ForeName>Vatsala</ForeName>
+                    <Initials>V</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Weiskircher-Hildebrandt</LastName>
+                    <ForeName>Erica A</ForeName>
+                    <Initials>EA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hidalgo</LastName>
+                    <ForeName>Ismael J</ForeName>
+                    <Initials>IJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Methods Mol Biol</MedlineTA>
+            <NlmUniqueID>9214969</NlmUniqueID>
+            <ISSNLinking>1064-3745</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D026901">Membrane Transport Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004364">Pharmaceutical Preparations</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001681" MajorTopicYN="N">Biological Assay</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004347" MajorTopicYN="Y">Drug Interactions</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D064420" MajorTopicYN="N">Drug-Related Side Effects and Adverse Reactions</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D026901" MajorTopicYN="N">Membrane Transport Proteins</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004364" MajorTopicYN="N">Pharmaceutical Preparations</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>2</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>2</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>10</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24523116</ArticleId>
+            <ArticleId IdType="doi">10.1007/978-1-62703-758-7_12</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

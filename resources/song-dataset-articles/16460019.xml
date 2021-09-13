@@ -1,0 +1,175 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">16460019</PMID>
+        <DateCompleted>
+            <Year>2006</Year>
+            <Month>05</Month>
+            <Day>04</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0006-2960</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>45</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2006</Year>
+                        <Month>Feb</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biochemistry</Title>
+                <ISOAbbreviation>Biochemistry</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The Deinococcus radiodurans-encoded HU protein has two DNA-binding domains.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1723-33</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Deinococcus radiodurans can reconstitute its genome from double-strand breaks, most likely due to unusually efficient DNA repair and recombination. Factors that may contribute to such processes include the histone-like protein HU. The D. radiodurans-encoded HU (DrHU), which binds preferentially to DNA recombination intermediates, contains a 47-amino acid extension preceding the fold characteristic of HU proteins. Here we use electrophoretic mobility shift assays and DNA footprinting to show that the DrHU N-terminal domain significantly modulates DNA binding. The truncated DrHU (deltaDrHU), comprising only the conserved DNA-binding fold, has a site size of approximately 11 bp in contrast to full-length DrHU which does not stably engage DNA shorter than approximately 50 bp. Unlike wild-type DrHU, deltaDrHU distinguishes between linear DNA and DNA with nicks or gaps. DeltaDrHU also binds preferentially to four-way junction (4WJ) DNA, with half-maximal saturation of 1.4 +/- 0.4 nM compared to 20 +/- 2 nM for 37 bp duplex DNA. However, in contrast to full-length protein which binds the junction arms, deltaDrHU primarily protects the junction crossover. Evidently, the DrHU N-terminus changes the mode of binding to both 4WJ DNA, duplex DNA, and DNA with nicks or gaps, thereby resulting in DrHU binding preferentially only to 4WJ structures. Combined with Western blots that confirm the presence of the extended form of DrHU in vivo, our data provide mechanistic insight into discrimination between 4WJ DNA and other distorted DNA constructs and suggest that an in vivo role of DrHU may be to stabilize DNA junctions.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ghosh</LastName>
+                    <ForeName>Sharmistha</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biological Sciences, Louisiana State University, Baton Rouge, Louisiana 70803, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Grove</LastName>
+                    <ForeName>Anne</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Biochemistry</MedlineTA>
+            <NlmUniqueID>0370623</NlmUniqueID>
+            <ISSNLinking>0006-2960</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D001426">Bacterial Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004268">DNA-Binding Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C040330">histone-like protein HU, bacteria</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9007-49-2</RegistryNumber>
+                <NameOfSubstance UI="D004247">DNA</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001426" MajorTopicYN="N">Bacterial Proteins</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001483" MajorTopicYN="N">Base Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001665" MajorTopicYN="N">Binding Sites</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002942" MajorTopicYN="N">Circular Dichroism</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003001" MajorTopicYN="N">Cloning, Molecular</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004247" MajorTopicYN="N">DNA</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018983" MajorTopicYN="N">DNA Footprinting</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004268" MajorTopicYN="N">DNA-Binding Proteins</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D034301" MajorTopicYN="N">Deinococcus</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004591" MajorTopicYN="N">Electrophoresis, Polyacrylamide Gel</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009690" MajorTopicYN="N">Nucleic Acid Conformation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017434" MajorTopicYN="N">Protein Structure, Tertiary</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011995" MajorTopicYN="N">Recombination, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013696" MajorTopicYN="N">Temperature</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2006</Year>
+                <Month>2</Month>
+                <Day>8</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2006</Year>
+                <Month>5</Month>
+                <Day>5</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2006</Year>
+                <Month>2</Month>
+                <Day>8</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">16460019</ArticleId>
+            <ArticleId IdType="doi">10.1021/bi0514010</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

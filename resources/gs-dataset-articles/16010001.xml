@@ -1,0 +1,254 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">16010001</PMID>
+        <DateCompleted>
+            <Year>2005</Year>
+            <Month>10</Month>
+            <Day>27</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0032-0889</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>138</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2005</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Plant physiology</Title>
+                <ISOAbbreviation>Plant Physiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>It's all GO for plant scientists.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1268-79</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The Gene Ontology project (http://www.geneontology.org/) produces structured, controlled vocabularies and gene product annotations. Gene products are classified according to the cellular locations and biological process in which they act, and the molecular functions that they carry out. We annotate gene products from a broad range of model species and provide support for those groups that wish to contribute annotation of further model species. The Gene Ontology facilitates the exchange of information between groups of scientists studying similar processes in different model organisms, and so provides a broad range of opportunities for plant scientists.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Clark</LastName>
+                    <ForeName>Jennifer I</ForeName>
+                    <Initials>JI</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>EMBL-EBI Wellcome Trust Genome Campus Hinxton, Cambridge CB10 1SD, United Kingdom. jclark@ebi.ac.uk</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brooksbank</LastName>
+                    <ForeName>Cath</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lomax</LastName>
+                    <ForeName>Jane</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>HG02273</GrantID>
+                    <Acronym>HG</Acronym>
+                    <Agency>NHGRI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Plant Physiol</MedlineTA>
+            <NlmUniqueID>0401224</NlmUniqueID>
+            <ISSNLinking>0032-0889</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D017343" MajorTopicYN="Y">Genes, Plant</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005823" MajorTopicYN="N">Genetics</DescriptorName>
+                <QualifierName UI="Q000639" MajorTopicYN="Y">trends</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018745" MajorTopicYN="Y">Genome, Plant</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010944" MajorTopicYN="N">Plants</DescriptorName>
+                <QualifierName UI="Q000145" MajorTopicYN="N">classification</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2005</Year>
+                <Month>7</Month>
+                <Day>13</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2005</Year>
+                <Month>10</Month>
+                <Day>28</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2005</Year>
+                <Month>7</Month>
+                <Day>13</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">16010001</ArticleId>
+            <ArticleId IdType="pii">138/3/1268</ArticleId>
+            <ArticleId IdType="doi">10.1104/pp.104.058529</ArticleId>
+            <ArticleId IdType="pmc">PMC1176400</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Nat Genet. 2000 May;25(1):25-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10802651</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Bioinformatics. 2005;6 Suppl 1:S17</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15960829</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Res. 2001 Oct;11(10):1766-79</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11591654</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2002 Apr 5;296(5565):92-100</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11935018</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Res. 2002 May;12(5):785-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11997345</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Mol Biol. 2002 Nov;50(4-5):667-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12374299</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Res. 2002 Dec;12(12):1982-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12466303</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2002 Dec 5;420(6915):563-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12466851</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Res. 2003 Apr;13(4):662-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12654719</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Res. 2003 Sep;13(9):2118-28</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12952880</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genomics. 2003 Dec;82(6):584-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14611800</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2004 Jan 1;32(Database issue):D258-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14681407</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Physiol. 2004 Jun;135(2):745-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15173566</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Fungal Genet Biol. 2004 Aug;41(8):735-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15219559</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Cell. 2004 Jul;16(7):1679-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15208398</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Comp Biochem Physiol C Toxicol Pharmacol. 2004 Jul;138(3):363-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15533794</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genetics. 2004 Nov;168(3):1677-87</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15579716</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2004 Dec 7;101(49):17294-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15569941</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Genomics. 2004 Nov 16;5:89</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15546486</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2001 Sep;17(9):847-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11590104</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

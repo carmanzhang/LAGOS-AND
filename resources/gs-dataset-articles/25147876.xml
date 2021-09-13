@@ -1,0 +1,155 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">25147876</PMID>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>08</Month>
+            <Day>24</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2014</Year>
+            <Month>09</Month>
+            <Day>29</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1364-5528</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>139</Volume>
+                    <Issue>21</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Nov</Month>
+                        <Day>07</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Analyst</Title>
+                <ISOAbbreviation>Analyst</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Plasma-based ambient sampling/ionization/transmission integrated source for mass spectrometry.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>5387-92</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1039/c4an00979g</ELocationID>
+            <Abstract>
+                <AbstractText>Better sensitivity and interface of ambient sampling/ionization mass spectrometry remain a challenge. Herein, a novel, plasma-based, ambient sampling/ionization/transmission (PASIT) integrated source in a pin-to-funnel configuration was developed for the sensitive analysis of complex samples. With the funnel sleeve directly affected by direct-current discharge plasma, PASIT combines the ability to sample/ionize analyte molecules and then efficiently collect/transport charged mass species under atmospheric pressure and consequently shows an improved sensitivity. The integrated source enhances the signal intensity by more than 2 orders of magnitude compared with the previous pin-to-plate plasma source without significant background addition. A surface limit of detection (LOD) of 130 fmol mm-(2) (S/N = 3) has been achieved for clenbuterol on filter paper with an argon carrier gas. Demonstrated applications include the direct determination of active ingredients from drugs and symbolic compounds from natural plants and cholesterol from mouse brain tissue sections. </AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zhou</LastName>
+                    <ForeName>Yueming</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Analytical Chemistry for Living Biosystems, Institute of Chemistry, Chinese Academy of Sciences, Beijing National Laboratory for Molecular Sciences, Beijing 100190, China. znie@iccas.ac.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Ning</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Yafeng</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xiong</LastName>
+                    <ForeName>Caiqiao</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Suming</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Yongtai</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nie</LastName>
+                    <ForeName>Zongxiu</ForeName>
+                    <Initials>Z</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Analyst</MedlineTA>
+            <NlmUniqueID>0372652</NlmUniqueID>
+            <ISSNLinking>0003-2654</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D058626">Plasma Gases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>7AJO3BO7QN</RegistryNumber>
+                <NameOfSubstance UI="D017336">Loratadine</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017336" MajorTopicYN="N">Loratadine</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013058" MajorTopicYN="N">Mass Spectrometry</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D058626" MajorTopicYN="Y">Plasma Gases</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>8</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>8</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>8</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">25147876</ArticleId>
+            <ArticleId IdType="doi">10.1039/c4an00979g</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

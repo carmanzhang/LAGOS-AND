@@ -1,0 +1,901 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">27141420</PMID>
+        <DateCompleted>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>01</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Print">2168-8362</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>4</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <MedlineDate>2016 Jan-Mar</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Tissue barriers</Title>
+                <ISOAbbreviation>Tissue Barriers</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Tight junction modulation of the blood brain barrier: CNS delivery of small molecules.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e1138017</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1080/21688370.2015.1138017</ELocationID>
+            <Abstract>
+                <AbstractText>The blood brain barrier (BBB) represents a major obstacle for targeted drug delivery to the brain for the treatment of central nervous system (CNS) disorders. Significant advances in barrier research over the past decade has led to the discovery of an increasing number of structural and regulatory proteins in tight junctions (TJ) and adherens junctions (AJ). These discoveries are providing the framework for the development of novel TJ modulators which can act specifically and temporarily to alter BBB function and regulate paracellular uptake of molecules. TJ modulators that have shown therapeutic potential in preclinical models include claudin-5 and occludin siRNAs, peptides derived from zonula occludens toxin as well as synthetic peptides targeting the extracellular loops of TJs. Adding to the array of modulating agents are novel mechanisms of BBB regulation such as focused ultrasound (FUS). This review will give a succinct overview of BBB biology and TJ modulation in general. Novel insights into BBB regulation in health and disease will also be summarized.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Greene</LastName>
+                    <ForeName>Chris</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Smurfit Institute of Genetics, Trinity College Dublin ; Dublin 2, Ireland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Campbell</LastName>
+                    <ForeName>Matthew</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Smurfit Institute of Genetics, Trinity College Dublin ; Dublin 2, Ireland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>01</Month>
+                <Day>08</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Tissue Barriers</MedlineTA>
+            <NlmUniqueID>101601065</NlmUniqueID>
+            <ISSNLinking>2168-8362</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004337">Drug Carriers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D062725">Tight Junction Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001812" MajorTopicYN="N">Blood-Brain Barrier</DescriptorName>
+                <QualifierName UI="Q000166" MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002199" MajorTopicYN="N">Capillary Permeability</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004337" MajorTopicYN="N">Drug Carriers</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000493" MajorTopicYN="Y">pharmacokinetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D062725" MajorTopicYN="N">Tight Junction Proteins</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019108" MajorTopicYN="N">Tight Junctions</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2015</Year>
+                <Month>12</Month>
+                <Day>22</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>12</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>5</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>5</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>5</Month>
+                <Day>4</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">27141420</ArticleId>
+            <ArticleId IdType="doi">10.1080/21688370.2015.1138017</ArticleId>
+            <ArticleId IdType="pii">1138017</ArticleId>
+            <ArticleId IdType="pmc">PMC4836485</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Physiol. 1990 Oct;429:47-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2277354</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2014 May 22;509(7501):503-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24828044</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2009 Oct 20;106(42):17817-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19822744</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Front Pharmacol. 2012 Mar 29;3:46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22479246</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biol. 2001 Aug 6;154(3):491-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11489913</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Diabetologia. 1981 Mar;20 Suppl:246-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7014323</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pharm Res. 1997 Jul;14(7):930-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9244152</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Control Release. 2012 Aug 20;162(1):134-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22709590</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Cell. 2014 Apr 14;25(4):501-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24735924</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Brain Res. 2002 Jun 14;940(1-2):102-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12020881</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Probl Cardiol. 2005 Dec;30(12):625-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16301095</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2010 Oct 15;185(8):4846-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20861356</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Control Release. 2012 Oct 28;163(2):125-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22921802</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Expert Opin Investig Drugs. 2001 Oct;10(10):1809-18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11772287</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Dialogues Clin Neurosci. 2008;10(3):329-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18979946</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biol. 1997 Jan 27;136(2):399-409</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9015310</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1998 Nov 6;273(45):29745-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9792688</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Control Release. 2012 Jul 20;161(2):264-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21872624</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mult Scler. 2010 Mar;16(3):293-302</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20203147</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Drug Metab Dispos. 2009 Dec;37(12):2299-304</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19741036</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Stroke. 2012 Feb;43(2):514-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22116809</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Neurosci. 2015 Jul;18(7):978-87</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26005850</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuron. 2015 Jan 21;85(2):296-302</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25611508</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Med. 1997 Aug;3(8):553-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9307983</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Pharmacol. 2003 Dec;64(6):1530-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14645684</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cereb Blood Flow Metab. 2009 Jun;29(6):1084-98</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19319146</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Expert Opin Drug Deliv. 2006 Nov;3(6):707-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17076593</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Sci. 1996 Feb;109 ( Pt 2):429-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8838666</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>NeuroRx. 2005 Jan;2(1):3-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15717053</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci Methods. 2008 Mar 15;168(2):443-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18155299</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Immunol. 2007 Jun;7(6):467-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17525755</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2010 Oct 29;5(10):e13741</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21060791</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Diabetes Care. 2004 Jan;27(1):282-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14694011</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuroimmunomodulation. 1995 Jul-Aug;2(4):241-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8963753</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Physiol Rev. 2013 Apr;93(2):525-69</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23589827</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Brain Res. 1975 Dec 5;99(2):444-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1182566</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microvasc Res. 1999 Nov;58(3):312-28</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10527772</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2011;6(8):e20599</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21857898</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 1995 Aug;96(2):710-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7635964</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Pathol. 2008 Apr;172(4):905-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18349130</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Neurosci. 2009 Apr;32(4):199-206</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19268374</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Biophys Res Commun. 2006 Feb 24;340(4):1085-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16403441</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Neurosci. 2006 Jan;7(1):41-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16371949</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2012 May 16;485(7399):512-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22622580</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Biol Cell. 2000 Dec;11(12):4131-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11102513</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pharmacol Rev. 2005 Jun;57(2):173-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15914466</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Neurovasc Res. 2013 Aug;10(3):197-207</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23713739</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Mol Cell Biol. 2001 Apr;2(4):285-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11283726</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Commun. 2012 May 22;3:849</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22617289</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acta Neuropathol. 2011 Nov;122(5):601-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21983942</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Pharmacol. 2013 Aug;169(7):1561-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23617601</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci. 2013 Apr 17;33(16):6857-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23595744</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Biophys Res Commun. 2006 Feb 3;340(1):263-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16364250</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2006 Aug 15;103(33):12219-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16894140</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2006 Oct 15;177(8):5574-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17015745</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Physiol Rev. 1985 Jan;65(1):101-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3880896</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Gene Med. 2008 Aug;10 (8):930-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18509865</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2011 May 20;286(20):17536-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21471207</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurol Neurosurg Psychiatry. 1992 Jun;55(6):450-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1619410</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann N Y Acad Sci. 2009 May;1165:34-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19538285</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Pharm Biopharm. 2009 Feb;71(2):251-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18805484</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FASEB J. 2014 Jun;28(6):2551-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24604078</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEBS Lett. 2011 Feb 18;585(4):606-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21276448</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2011;6(11):e27877</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22114718</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci. 2014 Oct 29;34(44):14697-706</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25355222</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 1986 Jul;5(7):1455-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3743548</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sci Adv. 2015 Sep 4;1(8):e1500472</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26491725</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2000 Jul 7;275(27):20520-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10877843</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biol. 1996 Aug;134(4):1031-49</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8769425</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Pharm. 2012 Sep 4;9(9):2523-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22827574</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Biol Cell. 2007 Mar;18(3):721-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17182847</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biol. 1998 Jul 13;142(1):117-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9660867</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci. 2012 Jun 27;32(26):8845-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22745485</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Drug Discov. 2009 Feb;8(2):129-38</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19180106</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 2012 Jan;32(2):242-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22083955</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Chemother Pharmacol. 2006 Sep;58(3):343-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16408203</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biomaterials. 2015 Jun;54:9-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25907035</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochim Biophys Acta. 2008 Mar;1778(3):631-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18036336</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuroscience. 2007 Jul 13;147(3):664-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17560040</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Pharm Sci. 2003 Feb;92(2):414-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12532391</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Drug Discov. 2002 Feb;1(2):131-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12120094</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antioxid Redox Signal. 2011 Sep 1;15(5):1195-219</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21235353</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Pharm. 2005 Dec 8;306(1-2):122-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16274945</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2000 Sep 8;275(36):27979-88</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10856295</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biol. 2003 May 12;161(3):653-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12743111</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antioxid Redox Signal. 2011 Sep 1;15(5):1305-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21294658</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Pharmacol Exp Ther. 2000 Jun;293(3):903-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10869391</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neurobiol Dis. 2010 Jan;37(1):13-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19664713</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochim Biophys Acta. 2008 Mar;1778(3):660-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17854762</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biopolymers. 2002;66(3):184-99</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12385037</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Alzheimers Dement. 2011 May;7(3):270-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21514249</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1999 Jan 19;96(2):511-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9892664</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood. 2007 Feb 15;109(4):1515-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17023578</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol. 1989 Feb;256(2 Pt 2):R443-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2492773</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biol. 1993 Dec;123(6 Pt 2):1777-88</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8276896</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 2004 Oct;24(19):8408-17</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15367662</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Med. 2003 Jul;9(7):907-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12808450</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Brain Res. 2001 Mar 30;896(1-2):36-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11277970</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci Res. 1995 Aug 15;41(6):717-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7500373</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biomed Res Int. 2013;2013:830837</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24319688</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 2012 Jul;122(7):2454-68</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22653056</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO Mol Med. 2011 Apr;3(4):235-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21374818</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biol. 1998 Apr 20;141(2):397-408</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9548718</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Neurosci. 2000 Sep;23(9):399-407</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10941185</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cochrane Database Syst Rev. 2013 Aug 05;(8):CD001049</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23918314</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2005 May 15;174(10):6406-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15879142</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biol. 2005 Dec 19;171(6):939-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16365161</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ultrasound Med Biol. 2004 Jul;30(7):979-89</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15313330</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arterioscler Thromb Vasc Biol. 2007 Oct;27(10):2104-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17615384</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vascul Pharmacol. 2002 Jun;38(6):323-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12529927</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2005 Oct 27;437(7063):1264-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16251951</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurooncol. 2006 May;77(3):279-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16314949</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2013 Oct 18;342(6156):373-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24136970</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acta Neuropathol. 2014 Aug;128(2):267-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24356983</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Control Release. 2012 Nov 10;163(3):277-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23000189</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 1988 Oct;82(4):1339-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3262627</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sleep. 2008 May;31(5):619-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18517032</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Pharmacol. 2003 Dec;140(7):1201-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14597599</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2011;6(8):e23789</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21909359</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Neurol. 2011 Jan;7(1):56-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21151203</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Neurosci. 2015 Apr;18(4):521-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25730668</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biol. 2015 Mar 16;208(6):821-38</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25753039</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

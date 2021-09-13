@@ -1,0 +1,167 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">17041879</PMID>
+        <DateCompleted>
+            <Year>2007</Year>
+            <Month>01</Month>
+            <Day>30</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>12</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0740-3194</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>56</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2006</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Magnetic resonance in medicine</Title>
+                <ISOAbbreviation>Magn Reson Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Autocalibrating parallel imaging of in vivo trabecular bone microarchitecture at 3 Tesla.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1075-84</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>In this work the generalized autocalibrating partially parallel acquisition (GRAPPA) technique was implemented with modified reconstruction and applied to in vivo high-resolution (HR) magnetic resonance imaging (MRI) of the trabecular bone microarchitecture at 3 Tesla (T) with a multiple-acquisition balanced steady-state free precession (b-SSFP) sequence. Trabecular bone is made up of a network of microstructures (80-140 microm), and its structural deterioration is associated with the skeletal metabolic disorder osteoporosis. HR-MRI is a promising noninvasive tool for assessing the trabecular microarchitecture in vivo, but it involves long acquisition times. Using partially parallel imaging (PPI) to accelerate the acquisition may help mitigate this shortcoming and allow more flexibility in protocol design. In this study the effects of GRAPPA-based reconstruction on image characteristics and the measurement of trabecular bone structural parameters were evaluated. Initial studies showed that image quality and depiction of microstructure were preserved in the GRAPPA-based reconstruction, indicating the feasibility of PPI in HR-MRI of trabecular bone. The results also demonstrated the potential of PPI for increasing the signal-to-noise ratio (SNR) efficiency of multiple-acquisition b-SSFP imaging protocols.</AbstractText>
+                <CopyrightInformation>(c) 2006 Wiley-Liss, Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Banerjee</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, University of California-San Francisco, San Francisco, California 94158, USA. banerjee@mrsc.ucsf.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Choudhury</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Han</LastName>
+                    <ForeName>E T</ForeName>
+                    <Initials>ET</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brau</LastName>
+                    <ForeName>A C S</ForeName>
+                    <Initials>AC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Morze</LastName>
+                    <ForeName>C V</ForeName>
+                    <Initials>CV</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vigneron</LastName>
+                    <ForeName>D B</ForeName>
+                    <Initials>DB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Majumdar</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D023362">Evaluation Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Magn Reson Med</MedlineTA>
+            <NlmUniqueID>8505245</NlmUniqueID>
+            <ISSNLinking>0740-3194</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000465" MajorTopicYN="Y">Algorithms</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002111" MajorTopicYN="N">Calcaneus</DescriptorName>
+                <QualifierName UI="Q000166" MajorTopicYN="Y">cytology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002138" MajorTopicYN="N">Calibration</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005240" MajorTopicYN="N">Feasibility Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007089" MajorTopicYN="N">Image Enhancement</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007090" MajorTopicYN="N">Image Interpretation, Computer-Assisted</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016247" MajorTopicYN="N">Information Storage and Retrieval</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008279" MajorTopicYN="N">Magnetic Resonance Imaging</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+                <QualifierName UI="Q000592" MajorTopicYN="N">standards</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015203" MajorTopicYN="N">Reproducibility of Results</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012680" MajorTopicYN="N">Sensitivity and Specificity</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2006</Year>
+                <Month>10</Month>
+                <Day>17</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2007</Year>
+                <Month>1</Month>
+                <Day>31</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2006</Year>
+                <Month>10</Month>
+                <Day>17</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">17041879</ArticleId>
+            <ArticleId IdType="doi">10.1002/mrm.21059</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

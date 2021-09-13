@@ -1,0 +1,365 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">17053093</PMID>
+        <DateCompleted>
+            <Year>2007</Year>
+            <Month>01</Month>
+            <Day>03</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">1088-9051</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>16</Volume>
+                    <Issue>12</Issue>
+                    <PubDate>
+                        <Year>2006</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Genome research</Title>
+                <ISOAbbreviation>Genome Res</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>ESPERR: learning strong and weak signals in genomic sequence alignments to identify functional elements.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1596-604</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Genomic sequence signals - such as base composition, presence of particular motifs, or evolutionary constraint - have been used effectively to identify functional elements. However, approaches based only on specific signals known to correlate with function can be quite limiting. When training data are available, application of computational learning algorithms to multispecies alignments has the potential to capture broader and more informative sequence and evolutionary patterns that better characterize a class of elements. However, effective exploitation of patterns in multispecies alignments is impeded by the vast number of possible alignment columns and by a limited understanding of which particular strings of columns may characterize a given class. We have developed a computational method, called ESPERR (evolutionary and sequence pattern extraction through reduced representations), which uses training examples to learn encodings of multispecies alignments into reduced forms tailored for the prediction of chosen classes of functional elements. ESPERR produces a greatly improved Regulatory Potential score, which can discriminate regulatory regions from neutral sites with excellent accuracy ( approximately 94%). This score captures strong signals (GC content and conservation), as well as subtler signals (with small contributions from many different alignment patterns) that characterize the regulatory elements in our training set. ESPERR is also effective for predicting other classes of functional elements, as we show for DNaseI hypersensitive sites and highly conserved regions with developmental enhancer activity. Our software, training data, and genome-wide predictions are available from our Web site (http://www.bx.psu.edu/projects/esperr).</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Taylor</LastName>
+                    <ForeName>James</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Comparative Genomics and Bioinformatics, The Pennsylvania State University, University Park, Pennsylvania 16802, USA. james@bx.psu.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tyekucheva</LastName>
+                    <ForeName>Svitlana</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>King</LastName>
+                    <ForeName>David C</ForeName>
+                    <Initials>DC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hardison</LastName>
+                    <ForeName>Ross C</ForeName>
+                    <Initials>RC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Miller</LastName>
+                    <ForeName>Webb</ForeName>
+                    <Initials>W</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chiaromonte</LastName>
+                    <ForeName>Francesca</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>HG02238</GrantID>
+                    <Acronym>HG</Acronym>
+                    <Agency>NHGRI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R56 DK065806</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 DK065806</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>DK65806</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 HG002238</GrantID>
+                    <Acronym>HG</Acronym>
+                    <Agency>NHGRI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2006</Year>
+                <Month>10</Month>
+                <Day>19</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Genome Res</MedlineTA>
+            <NlmUniqueID>9518021</NlmUniqueID>
+            <ISSNLinking>1088-9051</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>EC 3.1.21.1</RegistryNumber>
+                <NameOfSubstance UI="D003850">Deoxyribonuclease I</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000465" MajorTopicYN="N">Algorithms</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001482" MajorTopicYN="N">Base Composition</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020029" MajorTopicYN="N">Base Pairing</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019295" MajorTopicYN="N">Computational Biology</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017124" MajorTopicYN="N">Conserved Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003850" MajorTopicYN="N">Deoxyribonuclease I</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004742" MajorTopicYN="Y">Enhancer Elements, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019143" MajorTopicYN="Y">Evolution, Molecular</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D023281" MajorTopicYN="Y">Genomics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008969" MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012372" MajorTopicYN="N">ROC Curve</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012045" MajorTopicYN="Y">Regulatory Sequences, Nucleic Acid</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016415" MajorTopicYN="N">Sequence Alignment</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2006</Year>
+                <Month>10</Month>
+                <Day>21</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2007</Year>
+                <Month>1</Month>
+                <Day>4</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2006</Year>
+                <Month>10</Month>
+                <Day>21</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">17053093</ArticleId>
+            <ArticleId IdType="pii">gr.4537706</ArticleId>
+            <ArticleId IdType="doi">10.1101/gr.4537706</ArticleId>
+            <ArticleId IdType="pmc">PMC1665643</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Comput Biol. 2006 Mar;13(2):379-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16597247</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Res. 2006 Jan;16(1):1-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16344566</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Res. 2006 Dec;16(12):1480-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17038566</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Comput Biol. 2004;11(2-3):413-28</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15285899</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Biol Evol. 2004 Sep;21(9):1781-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15201400</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Evol. 1985;22(2):160-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3934395</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Development. 1998 Mar;125(5):949-58</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9449677</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood. 2004 Nov 15;104(10):3106-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15265794</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Biotechnol. 2005 Jan;23(1):137-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15637633</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2005 May 31;102(22):7900-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15911755</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2005 Jun;21 Suppl 1:i338-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15961476</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Biol Evol. 2001 Apr;18(4):481-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11264399</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2001;17 Suppl 1:S140-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11473003</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Biol Evol. 2002 Jul;19(7):1114-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12082130</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2002 Dec 5;420(6915):520-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12466850</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2003 Jan 1;31(1):51-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12519945</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Res. 2003 Jan;13(1):64-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12529307</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gene. 2003 May 22;310:215-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12801649</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Res. 2003 Dec;13(12):2507-18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14656959</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2004 Feb 20;116(4):499-509</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14980218</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Res. 2004 Apr;14(4):700-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15060013</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Res. 2004 Apr;14(4):708-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15060014</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2004 Aug 4;20 Suppl 1:i40-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15262779</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Res. 2005 Aug;15(8):1051-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16024817</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Res. 2005 Aug;15(8):1034-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16024819</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Res. 2006 May;16(5):595-605</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16606705</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

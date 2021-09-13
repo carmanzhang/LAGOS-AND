@@ -1,0 +1,166 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">19329446</PMID>
+        <DateCompleted>
+            <Year>2009</Year>
+            <Month>09</Month>
+            <Day>01</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2012</Year>
+            <Month>09</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1468-2044</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>94</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>2009</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Archives of disease in childhood</Title>
+                <ISOAbbreviation>Arch Dis Child</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Spinal injury in motor vehicle crashes: elevated risk persists up to 12 years of age.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>546-8</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1136/adc.2008.138818</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To determine whether age is associated with serious spinal injury in paediatric motor vehicle occupants, after controlling for crash-related factors.</AbstractText>
+                <AbstractText Label="DESIGN AND SETTING" NlmCategory="METHODS">Retrospective record review.</AbstractText>
+                <AbstractText Label="PATIENTS AND OUTCOME MEASURES" NlmCategory="METHODS">All motor vehicle passengers aged 0-16 years treated at two major children's hospitals from 1999 to 2004 with ICD-10 codes for spinal trauma. Injury outcomes were categorised as minor and serious. Minor injuries were analogous to AIS 1 injuries. Serious injuries were those that posed some risk to the integrity of the spinal column or cord.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">72 cases were identified (58 &lt;12 years of age, 14 &gt; or = 12 years of age). Using logistic regression to adjust for confounders, including crash severity and crash type, age &lt;12 years was found to be significantly associated with serious spinal injury. Compared to older children, children aged less than 12 years were more likely to sustain serious spinal injury (OR 7.1, 95% CI 1.2 to 42.9).</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Children up to age 12 have an elevated risk of serious spinal injury in car crashes. This age breakpoint may reflect the adequacy of seat belt fit, and use of adult seatbelts alone before age 12 may increase a child's risk of serious spinal injury. An association between age and serious spinal injury should also be considered in the triage of paediatric motor vehicle occupants.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Brown</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Prince of Wales Medical Research Institute, University of New South Wales, Sydney, Australia. Julie.Brown@unsw.edu.au</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bilston</LastName>
+                    <ForeName>L E</ForeName>
+                    <Initials>LE</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016448">Multicenter Study</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2009</Year>
+                <Month>03</Month>
+                <Day>26</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Arch Dis Child</MedlineTA>
+            <NlmUniqueID>0372434</NlmUniqueID>
+            <ISSNLinking>0003-9888</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000063" MajorTopicYN="N">Accidents, Traffic</DescriptorName>
+                <QualifierName UI="Q000706" MajorTopicYN="Y">statistics &amp; numerical data</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000293" MajorTopicYN="N">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000367" MajorTopicYN="N">Age Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002648" MajorTopicYN="N">Child</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002675" MajorTopicYN="N">Child, Preschool</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007223" MajorTopicYN="N">Infant</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007231" MajorTopicYN="N">Infant, Newborn</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016015" MajorTopicYN="N">Logistic Models</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009517" MajorTopicYN="N" Type="Geographic">New South Wales</DescriptorName>
+                <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012307" MajorTopicYN="N">Risk Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012622" MajorTopicYN="N">Seat Belts</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013124" MajorTopicYN="N">Spinal Injuries</DescriptorName>
+                <QualifierName UI="Q000453" MajorTopicYN="Y">epidemiology</QualifierName>
+                <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2009</Year>
+                <Month>3</Month>
+                <Day>31</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2009</Year>
+                <Month>3</Month>
+                <Day>31</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2009</Year>
+                <Month>9</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">19329446</ArticleId>
+            <ArticleId IdType="pii">adc.2008.138818</ArticleId>
+            <ArticleId IdType="doi">10.1136/adc.2008.138818</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,207 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">26592100</PMID>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>05</Month>
+            <Day>25</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>04</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1095-564X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>409</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Jan</Month>
+                        <Day>01</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Developmental biology</Title>
+                <ISOAbbreviation>Dev. Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Msxb is a core component of the genetic circuitry specifying the dorsal and ventral neurogenic midlines in the ascidian embryo.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>277-287</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0012-1606(15)30157-3</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ydbio.2015.11.009</ELocationID>
+            <Abstract>
+                <AbstractText>The tail ascidian larval peripheral nervous system is made up of epidermal sensory neurons distributed more or less regularly in ventral and dorsal midlines. Their formation occurs in two-steps: the ventral and dorsal midlines are induced as neurogenic territories by Fgf9/16/20 and Admp respectively. The Delta2/Notch interaction then controls the number of neurons that form. The genetic machinery acting between the inductive processes taking place before gastrulation and neuron specification at tailbud stages are largely unknown. The analysis of seven transcription factors expressed in the forming midlines revealed an unexpected complexity and dynamic of gene expression. Their systematic overexpression confirmed that these genes do not interact following a linear cascade of activation. However, the integration of our data revealed the distinct key roles of the two upstream factors Msxb and Nkx-C that are the earliest expressed genes and the only ones able to induce neurogenic midline and ESN formation. Our data suggest that Msxb would be the primary midline gene integrating inputs from the ventral and dorsal inducers and launching a pan-midline transcriptional program. Nkx-C would be involved in tail tip specification, in maintenance of the pan-midline network and in a posterior to anterior wave controlling differentiation. </AbstractText>
+                <CopyrightInformation>Copyright © 2015. Published by Elsevier Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Roure</LastName>
+                    <ForeName>Agnès</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Sorbonne Universités, UPMC Univ Paris 06, CNRS, Biologie Intégrative des Organismes Marins (BIOM), Observatoire Océanologique, F-66650 Banyuls/Mer, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Darras</LastName>
+                    <ForeName>Sébastien</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Sorbonne Universités, UPMC Univ Paris 06, CNRS, Biologie Intégrative des Organismes Marins (BIOM), Observatoire Océanologique, F-66650 Banyuls/Mer, France. Electronic address: sebastien.darras@obs-banyuls.fr.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>18</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Dev Biol</MedlineTA>
+            <NlmUniqueID>0372762</NlmUniqueID>
+            <ISSNLinking>0012-1606</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D018398">Homeodomain Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014157">Transcription Factors</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019521" MajorTopicYN="N">Body Patterning</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019070" MajorTopicYN="N">Cell Lineage</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002938" MajorTopicYN="N">Ciona intestinalis</DescriptorName>
+                <QualifierName UI="Q000196" MajorTopicYN="Y">embryology</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004625" MajorTopicYN="N">Embryo, Nonmammalian</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004817" MajorTopicYN="N">Epidermis</DescriptorName>
+                <QualifierName UI="Q000196" MajorTopicYN="N">embryology</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004843" MajorTopicYN="N">Epistasis, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D025461" MajorTopicYN="N">Feedback, Physiological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018507" MajorTopicYN="N">Gene Expression Regulation, Developmental</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D053263" MajorTopicYN="Y">Gene Regulatory Networks</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018398" MajorTopicYN="N">Homeodomain Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008954" MajorTopicYN="N">Models, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055495" MajorTopicYN="N">Neurogenesis</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011984" MajorTopicYN="N">Sensory Receptor Cells</DescriptorName>
+                <QualifierName UI="Q000166" MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015398" MajorTopicYN="N">Signal Transduction</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014157" MajorTopicYN="N">Transcription Factors</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Ascidian</Keyword>
+            <Keyword MajorTopicYN="N">Gene regulatory network</Keyword>
+            <Keyword MajorTopicYN="N">Neurogenic</Keyword>
+            <Keyword MajorTopicYN="N">Peripheral nervous system</Keyword>
+            <Keyword MajorTopicYN="N">Transcription factors</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>08</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>5</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26592100</ArticleId>
+            <ArticleId IdType="pii">S0012-1606(15)30157-3</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.ydbio.2015.11.009</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,137 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">22130879</PMID>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>04</Month>
+            <Day>30</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2011</Year>
+            <Month>12</Month>
+            <Day>01</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1940-6029</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>802</Volume>
+                    <PubDate>
+                        <Year>2012</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Methods in molecular biology (Clifton, N.J.)</Title>
+                <ISOAbbreviation>Methods Mol Biol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Performance comparison of multiple microarray platforms for gene expression profiling.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>141-55</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/978-1-61779-400-1_10</ELocationID>
+            <Abstract>
+                <AbstractText>With genome-wide gene expression microarrays being increasingly applied in various areas of biomedical research, the diversity of platforms and analytical methods has made comparison of data from multiple platforms very challenging. In this chapter, we describe a generalized framework for systematic comparisons across gene expression profiling platforms, which could accommodate both the available commercial arrays and &quot;in-house&quot; platforms, with both one-dye and two-dye platforms. It includes experimental design, data preprocessing protocols, cross-platform gene matching approaches, measures of data consistency comparisons, and considerations in biological validation. In the design of this framework, we considered the variety of platforms available, the need for uniform quality control procedures, real-world practical limitations, statistical validity, and the need for flexibility and extensibility of the framework. Using this framework, we studied ten diverse microarray platforms, and we conclude that using probe sequences matched at the exon level is important to improve cross-platform data consistency compared to annotation-based matches. Generally, consistency was good for highly expressed genes, and variable for genes with lower expression values, as confirmed by QRT-PCR. After stringent preprocessing, commercial arrays were more consistent than &quot;in-house&quot; arrays, and by most measures, one-dye platforms were more consistent than two-dye platforms.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Fang</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Tumor Biology, Institute for Cancer Research, Norwegian Radium Hospital, Montebello, Oslo, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kuo</LastName>
+                    <ForeName>Winston P</ForeName>
+                    <Initials>WP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jenssen</LastName>
+                    <ForeName>Tor-Kristian</ForeName>
+                    <Initials>TK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hovig</LastName>
+                    <ForeName>Eivind</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Methods Mol Biol</MedlineTA>
+            <NlmUniqueID>9214969</NlmUniqueID>
+            <ISSNLinking>1064-3745</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019295" MajorTopicYN="N">Computational Biology</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020869" MajorTopicYN="N">Gene Expression Profiling</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008810" MajorTopicYN="N">Mice, Inbred C57BL</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020411" MajorTopicYN="N">Oligonucleotide Array Sequence Analysis</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015203" MajorTopicYN="N">Reproducibility of Results</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012680" MajorTopicYN="N">Sensitivity and Specificity</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>5</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">22130879</ArticleId>
+            <ArticleId IdType="doi">10.1007/978-1-61779-400-1_10</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,114 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">23205986</PMID>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>05</Month>
+            <Day>07</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2012</Year>
+            <Month>12</Month>
+            <Day>04</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1089-7690</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>137</Volume>
+                    <Issue>20</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Nov</Month>
+                        <Day>28</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of chemical physics</Title>
+                <ISOAbbreviation>J Chem Phys</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Rare-event sampling: occupation-based performance measures for parallel tempering and infinite swapping Monte Carlo methods.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>204112</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1063/1.4765060</ELocationID>
+            <Abstract>
+                <AbstractText>In the present paper we identify a rigorous property of a number of tempering-based Monte Carlo sampling methods, including parallel tempering as well as partial and infinite swapping. Based on this property we develop a variety of performance measures for such rare-event sampling methods that are broadly applicable, informative, and straightforward to implement. We illustrate the use of these performance measures with a series of applications involving the equilibrium properties of simple Lennard-Jones clusters, applications for which the performance levels of partial and infinite swapping approaches are found to be higher than those of conventional parallel tempering.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Doll</LastName>
+                    <ForeName>J D</ForeName>
+                    <Initials>JD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry, Brown University, Providence, Rhode Island 02912, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Plattner</LastName>
+                    <ForeName>Nuria</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Freeman</LastName>
+                    <ForeName>David L</ForeName>
+                    <Initials>DL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Yufei</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dupuis</LastName>
+                    <ForeName>Paul</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Chem Phys</MedlineTA>
+            <NlmUniqueID>0375360</NlmUniqueID>
+            <ISSNLinking>0021-9606</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>12</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>12</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>12</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">23205986</ArticleId>
+            <ArticleId IdType="doi">10.1063/1.4765060</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

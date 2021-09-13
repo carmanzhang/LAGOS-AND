@@ -1,0 +1,559 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">26104750</PMID>
+        <DateCompleted>
+            <Year>2017</Year>
+            <Month>06</Month>
+            <Day>22</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>04</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1468-3288</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>65</Volume>
+                    <Issue>10</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>10</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Gut</Title>
+                <ISOAbbreviation>Gut</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Derivation of genetic biomarkers for cancer risk stratification in Barrett's oesophagus: a prospective cohort study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1602-10</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1136/gutjnl-2015-309642</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE">The risk of developing adenocarcinoma in non-dysplastic Barrett's oesophagus is low and difficult to predict. Accurate tools for risk stratification are needed to increase the efficiency of surveillance. We aimed to develop a prediction model for progression using clinical variables and genetic markers.</AbstractText>
+                <AbstractText Label="METHODS">In a prospective cohort of patients with non-dysplastic Barrett's oesophagus, we evaluated six molecular markers: p16, p53, Her-2/neu, 20q, MYC and aneusomy by DNA fluorescence in situ hybridisation on brush cytology specimens. Primary study outcomes were the development of high-grade dysplasia or oesophageal adenocarcinoma. The most predictive clinical variables and markers were determined using Cox proportional-hazards models, receiver operating characteristic curves and a leave-one-out analysis.</AbstractText>
+                <AbstractText Label="RESULTS">A total of 428 patients participated (345 men; median age 60 years) with a cumulative follow-up of 2019 patient-years (median 45 months per patient). Of these patients, 22 progressed; nine developed high-grade dysplasia and 13 oesophageal adenocarcinoma. The clinical variables, age and circumferential Barrett's length, and the markers, p16 loss, MYC gain and aneusomy, were significantly associated with progression on univariate analysis. We defined an 'Abnormal Marker Count' that counted abnormalities in p16, MYC and aneusomy, which significantly improved risk prediction beyond using just age and Barrett's length. In multivariate analysis, these three factors identified a high-risk group with an 8.7-fold (95% CI 2.6 to 29.8) increased HR when compared with the low-risk group, with an area under the curve of 0.76 (95% CI 0.66 to 0.86).</AbstractText>
+                <AbstractText Label="CONCLUSIONS">A prediction model based on age, Barrett's length and the markers p16, MYC and aneusomy determines progression risk in non-dysplastic Barrett's oesophagus.</AbstractText>
+                <CopyrightInformation>Published by the BMJ Publishing Group Limited. For permission to use (where not already granted under a licence) please go to http://www.bmj.com/company/products-services/rights-and-licensing/</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Timmer</LastName>
+                    <ForeName>Margriet R</ForeName>
+                    <Initials>MR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Gastroenterology and Hepatology, Academic Medical Centre-University of Amsterdam, Amsterdam, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Martinez</LastName>
+                    <ForeName>Pierre</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Evolution and Cancer Laboratory, Centre for Tumour Biology, Barts Cancer Institute, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lau</LastName>
+                    <ForeName>Chiu T</ForeName>
+                    <Initials>CT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Gastroenterology and Hepatology, Academic Medical Centre-University of Amsterdam, Amsterdam, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Westra</LastName>
+                    <ForeName>Wytske M</ForeName>
+                    <Initials>WM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Gastroenterology and Hepatology, Academic Medical Centre-University of Amsterdam, Amsterdam, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Calpe</LastName>
+                    <ForeName>Silvia</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Gastroenterology and Hepatology, Academic Medical Centre-University of Amsterdam, Amsterdam, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rygiel</LastName>
+                    <ForeName>Agnieszka M</ForeName>
+                    <Initials>AM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Gastroenterology and Hepatology, Academic Medical Centre-University of Amsterdam, Amsterdam, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rosmolen</LastName>
+                    <ForeName>Wilda D</ForeName>
+                    <Initials>WD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Gastroenterology and Hepatology, Academic Medical Centre-University of Amsterdam, Amsterdam, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Meijer</LastName>
+                    <ForeName>Sybren L</ForeName>
+                    <Initials>SL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, Academic Medical Centre-University of Amsterdam, Amsterdam, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ten Kate</LastName>
+                    <ForeName>Fiebo J W</ForeName>
+                    <Initials>FJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, Academic Medical Centre-University of Amsterdam, Amsterdam, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dijkgraaf</LastName>
+                    <ForeName>Marcel G W</ForeName>
+                    <Initials>MG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinical Research Unit, Academic Medical Centre-University of Amsterdam, Amsterdam, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mallant-Hent</LastName>
+                    <ForeName>Rosalie C</ForeName>
+                    <Initials>RC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Gastroenterology, Flevoziekenhuis, Almere, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Naber</LastName>
+                    <ForeName>Anton H J</ForeName>
+                    <Initials>AH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Gastroenterology, Tergooiziekenhuizen, Hilversum, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>van Oijen</LastName>
+                    <ForeName>Arnoud H A M</ForeName>
+                    <Initials>AH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Gastroenterology, Medisch Centrum Alkmaar, Alkmaar, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Baak</LastName>
+                    <ForeName>Lubbertus C</ForeName>
+                    <Initials>LC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Gastroenterology, Onze Lieve Vrouwe Gasthuis, Amsterdam, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Scholten</LastName>
+                    <ForeName>Pieter</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Gastroenterology, Sint Lucas Andreas Ziekenhuis, Amsterdam, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Böhmer</LastName>
+                    <ForeName>Clarisse J M</ForeName>
+                    <Initials>CJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Gastroenterology, Spaarne Ziekenhuis, Hoofddorp, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fockens</LastName>
+                    <ForeName>Paul</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Gastroenterology and Hepatology, Academic Medical Centre-University of Amsterdam, Amsterdam, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Maley</LastName>
+                    <ForeName>Carlo C</ForeName>
+                    <Initials>CC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Evolution and Cancer, University of California at San Francisco, San Francisco, California, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Graham</LastName>
+                    <ForeName>Trevor A</ForeName>
+                    <Initials>TA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Evolution and Cancer Laboratory, Centre for Tumour Biology, Barts Cancer Institute, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bergman</LastName>
+                    <ForeName>Jacques J G H M</ForeName>
+                    <Initials>JJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Gastroenterology and Hepatology, Academic Medical Centre-University of Amsterdam, Amsterdam, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Krishnadath</LastName>
+                    <ForeName>Kausilia K</ForeName>
+                    <Initials>KK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Gastroenterology and Hepatology, Academic Medical Centre-University of Amsterdam, Amsterdam, The Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 CA140657</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 CA170595</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 CA185138</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>06</Month>
+                <Day>23</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Gut</MedlineTA>
+            <NlmUniqueID>2985108R</NlmUniqueID>
+            <ISSNLinking>0017-5749</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D005819">Genetic Markers</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <SupplMeshList>
+            <SupplMeshName Type="Disease" UI="C562730">Adenocarcinoma Of Esophagus</SupplMeshName>
+        </SupplMeshList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000230" MajorTopicYN="Y">Adenocarcinoma</DescriptorName>
+                <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000367" MajorTopicYN="N">Age Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001471" MajorTopicYN="Y">Barrett Esophagus</DescriptorName>
+                <QualifierName UI="Q000150" MajorTopicYN="N">complications</QualifierName>
+                <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D043171" MajorTopicYN="Y">Chromosomal Instability</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015331" MajorTopicYN="N">Cohort Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018450" MajorTopicYN="N">Disease Progression</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004724" MajorTopicYN="N">Endoscopy</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004938" MajorTopicYN="Y">Esophageal Neoplasms</DescriptorName>
+                <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004947" MajorTopicYN="N">Esophagus</DescriptorName>
+                <QualifierName UI="Q000473" MajorTopicYN="Y">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016259" MajorTopicYN="Y">Genes, myc</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019942" MajorTopicYN="Y">Genes, p16</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005819" MajorTopicYN="N">Genetic Markers</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005820" MajorTopicYN="N">Genetic Testing</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011237" MajorTopicYN="N">Predictive Value of Tests</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016016" MajorTopicYN="N">Proportional Hazards Models</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018570" MajorTopicYN="N">Risk Assessment</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="Y">BARRETT'S OESOPHAGUS</Keyword>
+            <Keyword MajorTopicYN="Y">CANCER GENETICS</Keyword>
+            <Keyword MajorTopicYN="Y">ENDOSCOPY</Keyword>
+            <Keyword MajorTopicYN="Y">OESOPHAGEAL CANCER</Keyword>
+            <Keyword MajorTopicYN="Y">SURVEILLANCE</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>03</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>06</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>6</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>6</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26104750</ArticleId>
+            <ArticleId IdType="pii">gutjnl-2015-309642</ArticleId>
+            <ArticleId IdType="doi">10.1136/gutjnl-2015-309642</ArticleId>
+            <ArticleId IdType="pmc">PMC4988941</ArticleId>
+            <ArticleId IdType="mid">NIHMS796038</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>N Engl J Med. 2011 Oct 13;365(15):1375-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21995385</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Gastroenterol. 2008 Mar;103(3):788-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18341497</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Gastroenterol. 2011 Jul;106(7):1231-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21577245</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hum Pathol. 2008 Aug;39(8):1128-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18602665</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gastrointest Endosc. 2014 Feb;79(2):242-56.e6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24079411</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gut. 2014 Jan;63(1):7-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24165758</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Med. 2007 Feb;4(2):e67</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17326708</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gastroenterology. 2006 Nov;131(5):1392-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17101315</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gastroenterology. 2011 Mar;140(3):1084-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21376940</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2006 Apr;38(4):468-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16565718</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Epidemiol Biomarkers Prev. 2006 Mar;15(3):509-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16537709</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gut. 2013 Dec;62(12):1676-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23256952</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Gastroenterol. 2010 Jul;105(7):1523-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20461069</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 1999 May;22(1):106-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10319873</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gastroenterology. 2012 Oct;143(4):927-35.e3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22771507</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Gastroenterol. 2000 Jul;95(7):1669-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10925966</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2009 May 15;69(10):4112-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19435894</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Gastroenterol Hepatol. 2013 Oct;11(10):1245-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23644385</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gastroenterology. 2002 Apr;122(4):1113-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11910361</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Epidemiol Biomarkers Prev. 2008 Jun;17(6):1380-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18559552</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Prev Res (Phila). 2014 Jan;7(1):114-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24253313</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2014 Aug;46(8):837-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24952744</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Chromosomes Cancer. 2015 Feb;54(2):82-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25284618</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncogene. 2005 Jun 9;24(25):4138-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15824739</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer. 2007 May 15;109(10):1980-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17385213</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2014 Aug 28;371(9):836-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25162890</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Gastroenterol Hepatol. 2010 Mar;8(3):235-44; quiz e32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19850156</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

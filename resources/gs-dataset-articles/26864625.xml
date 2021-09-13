@@ -1,0 +1,706 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">26864625</PMID>
+        <DateCompleted>
+            <Year>2017</Year>
+            <Month>01</Month>
+            <Day>13</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1939-4586</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>27</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Apr</Month>
+                        <Day>01</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Molecular biology of the cell</Title>
+                <ISOAbbreviation>Mol. Biol. Cell</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Confined diffusion of transmembrane proteins and lipids induced by the same actin meshwork lining the plasma membrane.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1101-19</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1091/mbc.E15-04-0186</ELocationID>
+            <Abstract>
+                <AbstractText>The mechanisms by which the diffusion rate in the plasma membrane (PM) is regulated remain unresolved, despite their importance in spatially regulating the reaction rates in the PM. Proposed models include entrapment in nanoscale noncontiguous domains found in PtK2 cells, slow diffusion due to crowding, and actin-induced compartmentalization. Here, by applying single-particle tracking at high time resolutions, mainly to the PtK2-cell PM, we found confined diffusion plus hop movements (termed &quot;hop diffusion&quot;) for both a nonraft phospholipid and a transmembrane protein, transferrin receptor, and equal compartment sizes for these two molecules in all five of the cell lines used here (actual sizes were cell dependent), even after treatment with actin-modulating drugs. The cross-section size and the cytoplasmic domain size both affected the hop frequency. Electron tomography identified the actin-based membrane skeleton (MSK) located within 8.8 nm from the PM cytoplasmic surface of PtK2 cells and demonstrated that the MSK mesh size was the same as the compartment size for PM molecular diffusion. The extracellular matrix and extracellular domains of membrane proteins were not involved in hop diffusion. These results support a model of anchored TM-protein pickets lining actin-based MSK as a major mechanism for regulating diffusion. </AbstractText>
+                <CopyrightInformation>© 2016 Fujiwara et al. This article is distributed by The American Society for Cell Biology under license from the author(s). Two months after publication it is available to the public under an Attribution–Noncommercial–Share Alike 3.0 Unported Creative Commons License (http://creativecommons.org/licenses/by-nc-sa/3.0).</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Fujiwara</LastName>
+                    <ForeName>Takahiro K</ForeName>
+                    <Initials>TK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Meso-Bio Single-Molecule Imaging, Institute for Integrated Cell-Material Sciences, Kyoto 606-8501, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Iwasawa</LastName>
+                    <ForeName>Kokoro</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Frontier Medical Sciences, Kyoto University, Kyoto 606-8507, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kalay</LastName>
+                    <ForeName>Ziya</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Integrated Cell-Material Sciences, Kyoto 606-8507, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tsunoyama</LastName>
+                    <ForeName>Taka A</ForeName>
+                    <Initials>TA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Integrated Cell-Material Sciences, Kyoto 606-8507, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Watanabe</LastName>
+                    <ForeName>Yusuke</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Integrated Cell-Material Sciences, Kyoto 606-8507, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Umemura</LastName>
+                    <ForeName>Yasuhiro M</ForeName>
+                    <Initials>YM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physiology and Systems Bioscience, Kyoto Prefectural University of Medicine, Kyoto 602-8566, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Murakoshi</LastName>
+                    <ForeName>Hideji</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>National Institute for Physiological Sciences, Okazaki 444-8585, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Suzuki</LastName>
+                    <ForeName>Kenichi G N</ForeName>
+                    <Initials>KG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Integrated Cell-Material Sciences, Kyoto 606-8507, Japan Institute for Stem Cell Biology and Regenerative Medicine and National Centre for Biological Sciences, Bangalore 650056, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nemoto</LastName>
+                    <ForeName>Yuri L</ForeName>
+                    <Initials>YL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Integrated Cell-Material Sciences, Kyoto 606-8507, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Morone</LastName>
+                    <ForeName>Nobuhiro</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>MRC Toxicology Unit, University of Leicester, Leicester LE1 9HN, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kusumi</LastName>
+                    <ForeName>Akihiro</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Frontier Medical Sciences, Kyoto University, Kyoto 606-8507, Japan Institute for Integrated Cell-Material Sciences, Kyoto 606-8507, Japan Membrane Cooperativity Unit, Okinawa Institute of Science and Technology, Onna-son, Okinawa 904-0412, Japan akusumi@frontier.kyoto-u.ac.jp.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>02</Month>
+                <Day>10</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Mol Biol Cell</MedlineTA>
+            <NlmUniqueID>9201390</NlmUniqueID>
+            <ISSNLinking>1059-1524</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010743">Phospholipids</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011990">Receptors, Transferrin</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D008841" MajorTopicYN="Y">Actin Cytoskeleton</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002460" MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002462" MajorTopicYN="N">Cell Membrane</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004058" MajorTopicYN="N">Diffusion</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008954" MajorTopicYN="N">Models, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010743" MajorTopicYN="N">Phospholipids</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D048328" MajorTopicYN="N">Potoroidae</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011990" MajorTopicYN="N">Receptors, Transferrin</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>04</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>02</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>2</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>2</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>1</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26864625</ArticleId>
+            <ArticleId IdType="pii">mbc.E15-04-0186</ArticleId>
+            <ArticleId IdType="doi">10.1091/mbc.E15-04-0186</ArticleId>
+            <ArticleId IdType="pmc">PMC4814218</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Annu Rev Cell Dev Biol. 2012;28:215-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22905956</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biophys J. 2012 Dec 19;103(12):2411-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23260043</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Philos Trans R Soc Lond B Biol Sci. 2013 Feb 5;368(1611):20120033</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23267184</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Methods Enzymol. 2013;519:277-302</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23280115</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Mol Cell Biol. 2013 Feb;14(2):98-112</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23340574</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cytoskeleton (Hoboken). 2013 Mar;70(3):161-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23341328</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biophys J. 2013 Apr 2;104(7):1465-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23561523</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochim Biophys Acta. 2012 Jul;1818(7):1777-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22450237</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2013 Jul 23;110(30):12307-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23836651</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Glia. 2013 Oct;61(10):1673-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23922225</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biophys J. 2013 Nov 19;105(10):2343-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24268146</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biophys J. 2014 Jan 7;106(1):145-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24411246</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Elife. 2014;3:e01671</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24642407</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biophys J. 1997 Apr;72(4):1744-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9083678</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biol. 1998 Aug 24;142(4):989-1000</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9722611</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Methods Enzymol. 1998;298:18-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9751867</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biophys J. 2005 Jan;88(1):334-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15516525</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biophys J. 2005 Mar;88(3):2126-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15596511</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biophys J. 2005 May;88(5):3659-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15681644</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Biophys Biomol Struct. 2005;34:351-78</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15869394</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biophys J. 2006 Feb 1;90(3):927-38</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16272447</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2006 Feb 14;103(7):2098-102</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16461891</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 2006 Jul 26;25(14):3245-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16858413</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biol. 2006 Sep 11;174(6):851-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16954349</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biophys J. 2007 Mar 15;92(6):2199-211</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17208981</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Biol. 2007 Mar 6;17(5):462-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17331726</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biol. 2007 May 21;177(4):717-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17517964</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochim Biophys Acta. 2014 Jun;1838(6):1451-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24189436</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Traffic. 2014 Jun;15(6):583-612</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24506328</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Phys Rev E Stat Nonlin Soft Matter Phys. 2014 Feb;89(2):022724</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25353525</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sci Rep. 2015;5:11454</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26118385</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2010 Apr 13;107(15):6829-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20351247</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1975 Aug;72(8):3111-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1059096</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biophys J. 1982 Aug;39(2):165-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7052153</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 1983 Sep 5;169(1):155-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6684695</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1988 Feb 4;331(6155):450-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3123999</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Chem Biol Interact. 1991;80(2):217-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1934151</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biophys J. 1991 Oct;60(4):910-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1742458</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biophys J. 1993 Nov;65(5):2021-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8298032</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Struct Biol. 1996 Jan-Feb;116(1):71-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8742726</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biol. 2007 May 21;177(4):731-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17517965</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biophys J. 2008 Jul;95(1):435-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18339737</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2009 Feb 26;457(7233):1159-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19098897</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Biol. 2009 Mar 17;7(3):e57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19296720</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Traffic. 2009 Aug;10(8):962-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19416480</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2009;4(7):e6316</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19626123</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Immunity. 2010 Feb 26;32(2):187-99</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20171124</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2010 Apr 1;464(7289):783-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20208517</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biophys J. 2011 Jan 19;100(2):L8-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21244822</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biotechnol. 2011 Feb 10;151(3):261-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21167222</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Biol. 2011 Mar;9(3):e1000604</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21445324</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Methods. 2011 Jul;8(7):571-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21642963</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2011 Sep 6;108(36):14825-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21873247</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Biochem Sci. 2011 Nov;36(11):604-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21917465</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2012;7(3):e32948</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22479350</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2012;7(4):e34923</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22511973</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2012 Jun 8;149(6):1353-67</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22682254</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cytoskeleton (Hoboken). 2012 Jun;69(6):380-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22488960</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2012 Aug 3;150(3):495-507</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22863004</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Chem Biol. 2012 Sep;8(9):774-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22820419</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Cell Biol. 1999 May;1(1):1-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10559856</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2000 Feb 18;275(7):5163-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10671562</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Cell Biol. 2000 Jun;2(6):365-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10854328</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2000 Jun 20;97(13):7237-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10860989</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biophys J. 2001 Jun;80(6):2667-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11371443</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biophys J. 2002 Jan;82(1 Pt 1):274-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11751315</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biol. 2002 Jun 10;157(6):1071-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12058021</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biophys J. 2002 Oct;83(4):2109-17</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12324428</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biophys J. 2002 Nov;83(5):2681-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12414700</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2002 Nov 8;298(5596):1209-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12424373</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Cell Biol. 2003 Jul;5(7):626-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12819789</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2003 Jul 8;100(14):8053-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12832616</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Biol. 2004 Jun 8;14(11):1002-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15182674</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biophys J. 2004 Jun;86(6):4075-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15189902</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2004 Sep 3;118(5):591-605</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15339664</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1972 Feb 18;175(4023):720-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4333397</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Cell Biol. 2012 Oct;22(10):515-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22917551</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

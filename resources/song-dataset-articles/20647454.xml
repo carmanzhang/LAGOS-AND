@@ -1,0 +1,283 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20647454</PMID>
+        <DateCompleted>
+            <Year>2010</Year>
+            <Month>08</Month>
+            <Day>05</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1095-9203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>329</Volume>
+                    <Issue>5989</Issue>
+                    <PubDate>
+                        <Year>2010</Year>
+                        <Month>Jul</Month>
+                        <Day>16</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Science (New York, N.Y.)</Title>
+                <ISOAbbreviation>Science</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Biochemistry. Reengineering enzymes.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>285-7</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1126/science.1192224</ELocationID>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lutz</LastName>
+                    <ForeName>Stefan</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Chemistry Department, Emory University, Atlanta, GA 30322, USA. sal2@emory.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 GM069958</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>GM69958</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D016420">Comment</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Science</MedlineTA>
+            <NlmUniqueID>0404511</NlmUniqueID>
+            <ISSNLinking>0036-8075</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004798">Enzymes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011719">Pyrazines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014230">Triazoles</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.6.1.-</RegistryNumber>
+                <NameOfSubstance UI="D000637">Transaminases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>TS63EW8X6F</RegistryNumber>
+                <NameOfSubstance UI="D000068900">Sitagliptin Phosphate</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentOn">
+                <RefSource>Science. 2010 Jul 16;329(5989):305-9</RefSource>
+                <PMID Version="1">20558668</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="CommentOn">
+                <RefSource>Science. 2010 Jul 16;329(5989):309-13</RefSource>
+                <PMID Version="1">20647463</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000465" MajorTopicYN="N">Algorithms</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055162" MajorTopicYN="N">Biocatalysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020134" MajorTopicYN="N">Catalytic Domain</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055598" MajorTopicYN="N">Chemical Phenomena</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003198" MajorTopicYN="N">Computer Simulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D032621" MajorTopicYN="N">DNA Shuffling</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019020" MajorTopicYN="Y">Directed Molecular Evolution</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004795" MajorTopicYN="N">Enzyme Stability</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004798" MajorTopicYN="N">Enzymes</DescriptorName>
+                <QualifierName UI="Q000138" MajorTopicYN="N">chemical synthesis</QualifierName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016296" MajorTopicYN="N">Mutagenesis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015202" MajorTopicYN="Y">Protein Engineering</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017510" MajorTopicYN="N">Protein Folding</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011719" MajorTopicYN="N">Pyrazines</DescriptorName>
+                <QualifierName UI="Q000138" MajorTopicYN="N">chemical synthesis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000068900" MajorTopicYN="N">Sitagliptin Phosphate</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012984" MajorTopicYN="N">Software</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013237" MajorTopicYN="N">Stereoisomerism</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013379" MajorTopicYN="N">Substrate Specificity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000637" MajorTopicYN="N">Transaminases</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014230" MajorTopicYN="N">Triazoles</DescriptorName>
+                <QualifierName UI="Q000138" MajorTopicYN="N">chemical synthesis</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>7</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>7</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2010</Year>
+                <Month>8</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20647454</ArticleId>
+            <ArticleId IdType="pii">329/5989/285</ArticleId>
+            <ArticleId IdType="doi">10.1126/science.1192224</ArticleId>
+            <ArticleId IdType="pmc">PMC3758560</ArticleId>
+            <ArticleId IdType="mid">NIHMS495938</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Nature. 2007 Dec 6;450(7171):838-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18026086</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2010 Jul 16;329(5989):305-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20558668</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Angew Chem Int Ed Engl. 2003 Jul 14;42(27):3078-115</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12866094</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1997 Sep 4;389(6646):54-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9288965</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Chem Biol. 1999 Mar;6(3):167-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10074465</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Biochem. 2006;75:519-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16756501</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2010 Jul 16;329(5989):309-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20647463</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2008 Mar 7;319(5868):1387-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18323453</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2008 May 8;453(7192):190-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18354394</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Chem Biol. 2009 Aug;5(8):526-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19620988</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Chem Biol. 2009 Aug;5(8):567-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19620998</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Angew Chem Int Ed Engl. 2002 May 17;41(10):1668-98</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19750686</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

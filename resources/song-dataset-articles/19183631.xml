@@ -1,0 +1,104 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">19183631</PMID>
+        <DateCompleted>
+            <Year>2009</Year>
+            <Month>04</Month>
+            <Day>16</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>07</Month>
+            <Day>03</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0146-9592</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>34</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2009</Year>
+                        <Month>Feb</Month>
+                        <Day>01</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Optics letters</Title>
+                <ISOAbbreviation>Opt Lett</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Adiabaticity criterion and the shortest adiabatic mode transformer in a coupled-waveguide system.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>280-2</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>By analyzing the propagating behavior of the supermodes in a coupled-waveguide system, we have derived a universal criterion for designing adiabatic mode transformers. The criterion relates epsilon, the fraction of power scattered into the unwanted mode, to waveguide design parameters and gives the shortest possible length of an adiabatic mode transformer, which is approximately 2/piepsilon1/2 times the distance of maximal power transfer between the waveguides. The results from numerical calculations based on a transfer-matrix formalism support this theory very well.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sun</LastName>
+                    <ForeName>Xiankai</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Applied Physics, California Institute of Technology, Pasadena, CA 91125, USA. xksun@caltech.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Hsi-Chun</ForeName>
+                    <Initials>HC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yariv</LastName>
+                    <ForeName>Amnon</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Opt Lett</MedlineTA>
+            <NlmUniqueID>7708433</NlmUniqueID>
+            <ISSNLinking>0146-9592</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2009</Year>
+                <Month>2</Month>
+                <Day>3</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2009</Year>
+                <Month>2</Month>
+                <Day>3</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2009</Year>
+                <Month>2</Month>
+                <Day>3</Day>
+                <Hour>9</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">19183631</ArticleId>
+            <ArticleId IdType="pii">176084</ArticleId>
+            <ArticleId IdType="doi">10.1364/ol.34.000280</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

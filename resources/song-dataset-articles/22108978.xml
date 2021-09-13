@@ -1,0 +1,336 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">22108978</PMID>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>04</Month>
+            <Day>09</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1094-4087</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>19</Volume>
+                    <Issue>22</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Oct</Month>
+                        <Day>24</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Optics express</Title>
+                <ISOAbbreviation>Opt Express</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Motion correction for phase-resolved dynamic optical coherence tomography imaging of rodent cerebral cortex.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>21258-70</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1364/OE.19.021258</ELocationID>
+            <Abstract>
+                <AbstractText>Cardiac and respiratory motions in animals are the primary source of image quality degradation in dynamic imaging studies, especially when using phase-resolved imaging modalities such as spectral-domain optical coherence tomography (SD-OCT), whose phase signal is very sensitive to movements of the sample. This study demonstrates a method with which to compensate for motion artifacts in dynamic SD-OCT imaging of the rodent cerebral cortex. We observed that respiratory and cardiac motions mainly caused, respectively, bulk image shifts (BISs) and global phase fluctuations (GPFs). A cross-correlation maximization-based shift correction algorithm was effective in suppressing BISs, while GPFs were significantly reduced by removing axial and lateral global phase variations. In addition, a non-origin-centered GPF correction algorithm was examined. Several combinations of these algorithms were tested to find an optimized approach that improved image stability from 0.5 to 0.8 in terms of the cross-correlation over 4 s of dynamic imaging, and reduced phase noise by two orders of magnitude in ~8% voxels.</AbstractText>
+                <CopyrightInformation>© 2011 Optical Society of America</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Jonghwan</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Martinos Center for Biomedical Imaging, Massachusetts General Hospital, Harvard Medical School, 149 Thirteenth Street, Charlestown, MA 02129, USA. jonghwan@nmr.mgh.harvard.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Srinivasan</LastName>
+                    <ForeName>Vivek</ForeName>
+                    <Initials>V</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Radhakrishnan</LastName>
+                    <ForeName>Harsha</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Boas</LastName>
+                    <ForeName>David A</ForeName>
+                    <Initials>DA</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>K99 NS067050</GrantID>
+                    <Acronym>NS</Acronym>
+                    <Agency>NINDS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01EB000790</GrantID>
+                    <Acronym>EB</Acronym>
+                    <Agency>NIBIB NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 EB001954</GrantID>
+                    <Acronym>EB</Acronym>
+                    <Agency>NIBIB NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 EB001954-09</GrantID>
+                    <Acronym>EB</Acronym>
+                    <Agency>NIBIB NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P01NS055104</GrantID>
+                    <Acronym>NS</Acronym>
+                    <Agency>NINDS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 NS057476</GrantID>
+                    <Acronym>NS</Acronym>
+                    <Agency>NINDS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>K99NS067050</GrantID>
+                    <Acronym>NS</Acronym>
+                    <Agency>NINDS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 EB000790</GrantID>
+                    <Acronym>EB</Acronym>
+                    <Agency>NIBIB NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01-EB001954</GrantID>
+                    <Acronym>EB</Acronym>
+                    <Agency>NIBIB NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01NS057476</GrantID>
+                    <Acronym>NS</Acronym>
+                    <Agency>NINDS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P01 NS055104</GrantID>
+                    <Acronym>NS</Acronym>
+                    <Agency>NINDS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P41 EB015896</GrantID>
+                    <Acronym>EB</Acronym>
+                    <Agency>NIBIB NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Opt Express</MedlineTA>
+            <NlmUniqueID>101137103</NlmUniqueID>
+            <ISSNLinking>1094-4087</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000465" MajorTopicYN="N">Algorithms</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016477" MajorTopicYN="Y">Artifacts</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002540" MajorTopicYN="N">Cerebral Cortex</DescriptorName>
+                <QualifierName UI="Q000033" MajorTopicYN="Y">anatomy &amp; histology</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009068" MajorTopicYN="N">Movement</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017207" MajorTopicYN="N">Rats, Sprague-Dawley</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D041623" MajorTopicYN="N">Tomography, Optical Coherence</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>11</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>11</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>4</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">22108978</ArticleId>
+            <ArticleId IdType="pii">223184</ArticleId>
+            <ArticleId IdType="pmc">PMC3386793</ArticleId>
+            <ArticleId IdType="mid">NIHMS379691</ArticleId>
+            <ArticleId IdType="doi">10.1364/OE.19.021258</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Appl Opt. 2010 Mar 20;49(9):1480-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20300141</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Imaging Biol. 2008 Nov-Dec;10(6):315-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18670826</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Opt Lett. 2002 Sep 1;27(17):1534-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18026497</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Opt Express. 2003 Apr 21;11(8):889-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19461802</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Opt Express. 1997 Dec 22;1(13):424-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19377566</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Phys Med Biol. 2008 May 21;53(10):2651-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18443388</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biophys J. 2007 Aug 15;93(4):1347-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17526590</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuroimage. 2006 Jul 1;31(3):1038-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16600642</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IEEE Trans Med Imaging. 1997 Feb;16(1):17-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9050405</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Opt Express. 2010 Feb 1;18(3):2858-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20174115</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci Methods. 2009 Mar 30;178(1):162-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19121336</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Opt Lett. 2010 Jan 1;35(1):43-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20664667</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1997 Jun 27;276(5321):2037-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9197265</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Opt Express. 2010 Jun 21;18(13):13935-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20588526</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>MAGMA. 2006 May;19(2):55-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16779560</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Opt Lett. 2003 Nov 1;28(21):2067-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14587817</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Opt Express. 2010 May 24;18(11):11418-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20589002</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biomed Opt. 2009 Nov-Dec;14(6):064038</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20059276</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IEEE Trans Biomed Eng. 2005 Feb;52(2):338-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15709673</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

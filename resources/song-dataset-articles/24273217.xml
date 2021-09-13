@@ -1,0 +1,128 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">24273217</PMID>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>10</Month>
+            <Day>13</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>01</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1477-4054</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>16</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Briefings in bioinformatics</Title>
+                <ISOAbbreviation>Brief Bioinform</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>LC-MS alignment in theory and practice: a comprehensive algorithmic review.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>104-17</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1093/bib/bbt080</ELocationID>
+            <Abstract>
+                <AbstractText>Liquid chromatography-mass spectrometry is widely used for comparative replicate sample analysis in proteomics, lipidomics and metabolomics. Before statistical comparison, registration must be established to match corresponding analytes from run to run. Alignment, the most popular correspondence approach, consists of constructing a function that warps the content of runs to most closely match a given reference sample. To date, dozens of correspondence algorithms have been proposed, creating a daunting challenge for practitioners in algorithm selection. Yet, existing reviews have highlighted only a few approaches. In this review, we describe 50 correspondence algorithms to facilitate practical algorithm selection. We elucidate the motivation for correspondence and analyze the limitations of current approaches, which include prohibitive runtimes, numerous user parameters, model limitations and the need for reference samples. We suggest and describe a paradigm shift for overcoming current correspondence limitations by building on known liquid chromatography-mass spectrometry behavior. </AbstractText>
+                <CopyrightInformation>© The Author 2013. Published by Oxford University Press. For Permissions, please email: journals.permissions@oup.com.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Smith</LastName>
+                    <ForeName>Rob</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ventura</LastName>
+                    <ForeName>Dan</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Prince</LastName>
+                    <ForeName>John T</ForeName>
+                    <Initials>JT</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>11</Month>
+                <Day>21</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Brief Bioinform</MedlineTA>
+            <NlmUniqueID>100912837</NlmUniqueID>
+            <ISSNLinking>1467-5463</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000465" MajorTopicYN="Y">Algorithms</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002853" MajorTopicYN="N">Chromatography, Liquid</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013058" MajorTopicYN="N">Mass Spectrometry</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">LC-MS Alignment</Keyword>
+            <Keyword MajorTopicYN="N">LC-MS Correspondence</Keyword>
+            <Keyword MajorTopicYN="N">LC-MS Registration</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>11</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>11</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24273217</ArticleId>
+            <ArticleId IdType="pii">bbt080</ArticleId>
+            <ArticleId IdType="doi">10.1093/bib/bbt080</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

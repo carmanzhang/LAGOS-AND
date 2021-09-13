@@ -1,0 +1,165 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">6609027</PMID>
+        <DateCompleted>
+            <Year>1984</Year>
+            <Month>06</Month>
+            <Day>19</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>11</Month>
+            <Day>28</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0009-8981</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>138</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>1984</Year>
+                        <Month>Mar</Month>
+                        <Day>27</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinica chimica acta; international journal of clinical chemistry</Title>
+                <ISOAbbreviation>Clin. Chim. Acta</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Kinetics of human pancreatic and salivary alpha-amylases with carboxymethylamyloses as substrates.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>21-9</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The enzymatic measurement of alpha-amylase in human serum with chemically modified amylose as substrate was studied. Several substitutions of carboxymethylamylose were prepared from amylose, suitable amounts of monochloroacetic acid, and sodium hydroxide. The relationship between the degree of substitution of the carboxymethylamylose and the kinetic parameters of human pancreatic, salivary and porcine pancreatic alpha-amylases was determined. The action of alpha-amylases on such modified amyloses in the presence of glucoamylase was measured by a specific enzymatic assay having glucose as the product. The kinetic parameters of human pancreatic alpha-amylase were similar to those of human salivary alpha-amylase. It was possible to determine suitable sensitivities for the alpha-amylase assay using this substrate. These results suggested a subsite model.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Satomura</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Okajima</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hamanaka</LastName>
+                    <ForeName>T</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shintani</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Miyashita</LastName>
+                    <ForeName>Y</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sakata</LastName>
+                    <ForeName>Y</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D003160">Comparative Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Clin Chim Acta</MedlineTA>
+            <NlmUniqueID>1302422</NlmUniqueID>
+            <ISSNLinking>0009-8981</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007527">Isoenzymes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>12768-31-9</RegistryNumber>
+                <NameOfSubstance UI="C027357">carboxymethylamylose</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9005-82-7</RegistryNumber>
+                <NameOfSubstance UI="D000688">Amylose</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.2.1.1</RegistryNumber>
+                <NameOfSubstance UI="D000516">alpha-Amylases</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000688" MajorTopicYN="N">Amylose</DescriptorName>
+                <QualifierName UI="Q000031" MajorTopicYN="Y">analogs &amp; derivatives</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007527" MajorTopicYN="N">Isoenzymes</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010189" MajorTopicYN="N">Pancreatic Juice</DescriptorName>
+                <QualifierName UI="Q000201" MajorTopicYN="Y">enzymology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012463" MajorTopicYN="N">Saliva</DescriptorName>
+                <QualifierName UI="Q000201" MajorTopicYN="Y">enzymology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013329" MajorTopicYN="N">Structure-Activity Relationship</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013379" MajorTopicYN="N">Substrate Specificity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000516" MajorTopicYN="N">alpha-Amylases</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1984</Year>
+                <Month>3</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1984</Year>
+                <Month>3</Month>
+                <Day>27</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1984</Year>
+                <Month>3</Month>
+                <Day>27</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">6609027</ArticleId>
+            <ArticleId IdType="pii">0009-8981(84)90350-4</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

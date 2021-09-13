@@ -1,0 +1,441 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">12571026</PMID>
+        <DateCompleted>
+            <Year>2003</Year>
+            <Month>04</Month>
+            <Day>15</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>05</Month>
+            <Day>08</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0099-2240</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>69</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2003</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Applied and environmental microbiology</Title>
+                <ISOAbbreviation>Appl. Environ. Microbiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Depth distribution of microbial diversity in Mono Lake, a meromictic soda lake in California.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1030-42</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>We analyzed the variation with depth in the composition of members of the domain Bacteria in samples from alkaline, hypersaline, and currently meromictic Mono Lake in California. DNA samples were collected from the mixolimnion (2 m), the base of the oxycline (17.5 m), the upper chemocline (23 m), and the monimolimnion (35 m). Composition was assessed by sequencing randomly selected cloned fragments of 16S rRNA genes retrieved from the DNA samples. Most of the 212 sequences retrieved from the samples fell into five major lineages of the domain Bacteria: alpha- and gamma-Proteobacteria (6 and 10%, respectively), Cytophaga-Flexibacter-Bacteroides (19%), high-G+C-content gram-positive organisms (Actinobacteria; 25%), and low-G+C-content gram-positive organisms (Bacillus and Clostridium; 19%). Twelve percent were identified as chloroplasts. The remaining 9% represented beta- and delta-Proteobacteria, Verrucomicrobiales, and candidate divisions. Mixolimnion and oxycline samples had low microbial diversity, with only 9 and 12 distinct phylotypes, respectively, whereas chemocline and monimolimnion samples were more diverse, containing 27 and 25 phylotypes, respectively. The compositions of microbial assemblages from the mixolimnion and oxycline were not significantly different from each other (P = 0.314 and 0.877), but they were significantly different from those of chemocline and monimolimnion assemblages (P &lt; 0.001), and the compositions of chemocline and monimolimnion assemblages were not significantly different from each other (P = 0.006 and 0.124). The populations of sequences retrieved from the mixolimnion and oxycline samples were dominated by sequences related to high-G+C-content gram-positive bacteria (49 and 63%, respectively) distributed in only three distinct phylotypes, while the population of sequences retrieved from the monimolimnion sample was dominated (52%) by sequences related to low-G+C-content gram-positive bacteria distributed in 12 distinct phylotypes. Twelve and 28% of the sequences retrieved from the chemocline sample were also found in the mixolimnion and monimolimnion samples, respectively. None of the sequences retrieved from the monimolimnion sample were found in the mixolimnion or oxycline samples. Elevated diversity in anoxic bottom water samples relative to oxic surface water samples suggests a greater opportunity for niche differentiation in bottom versus surface waters of this lake.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Humayoun</LastName>
+                    <ForeName>Shaheen B</ForeName>
+                    <Initials>SB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Marine Sciences, University of Georgia, Athens, Georgia 30602-3636, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bano</LastName>
+                    <ForeName>Nasreen</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hollibaugh</LastName>
+                    <ForeName>James T</ForeName>
+                    <Initials>JT</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Appl Environ Microbiol</MedlineTA>
+            <NlmUniqueID>7605801</NlmUniqueID>
+            <ISSNLinking>0099-2240</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004275">DNA, Ribosomal</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D012336">RNA, Ribosomal, 16S</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>451W47IQ8X</RegistryNumber>
+                <NameOfSubstance UI="D012965">Sodium Chloride</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001419" MajorTopicYN="N">Bacteria</DescriptorName>
+                <QualifierName UI="Q000145" MajorTopicYN="Y">classification</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000302" MajorTopicYN="N">isolation &amp; purification</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002140" MajorTopicYN="N" Type="Geographic">California</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004275" MajorTopicYN="N">DNA, Ribosomal</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017753" MajorTopicYN="Y">Ecosystem</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005618" MajorTopicYN="N">Fresh Water</DescriptorName>
+                <QualifierName UI="Q000382" MajorTopicYN="Y">microbiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014644" MajorTopicYN="Y">Genetic Variation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006863" MajorTopicYN="N">Hydrogen-Ion Concentration</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008969" MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010802" MajorTopicYN="N">Phylogeny</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012336" MajorTopicYN="N">RNA, Ribosomal, 16S</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017422" MajorTopicYN="N">Sequence Analysis, DNA</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012965" MajorTopicYN="N">Sodium Chloride</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2003</Year>
+                <Month>2</Month>
+                <Day>7</Day>
+                <Hour>4</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2003</Year>
+                <Month>4</Month>
+                <Day>16</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2003</Year>
+                <Month>2</Month>
+                <Day>7</Day>
+                <Hour>4</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">12571026</ArticleId>
+            <ArticleId IdType="pmc">PMC143613</ArticleId>
+            <ArticleId IdType="doi">10.1128/aem.69.2.1030-1042.2003</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2000 Feb;66(2):578-87</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10653721</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Syst Bacteriol. 1996 Jan;46(1):305-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8573509</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 1995 Jul;61(7):2798-801</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7618894</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1978 Oct;75(10):4801-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">368799</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1998 Jun 4;393(6684):464-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9624000</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 1998 Dec;64(12):4877-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9835577</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEMS Microbiol Lett. 1992 Sep 1;75(1):13-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1526461</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2000 Nov;66(11):5053-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11055963</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1988 Aug 4;334(6181):387-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2841606</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 1997 Sep;63(9):3367-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9292986</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1990 May 3;345(6270):60-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2330053</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Mar Biol Biotechnol. 1997 Sep;6(3):260-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9284564</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Syst Evol Microbiol. 2002 May;52(Pt 3):913-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12054257</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1991 Jan;173(2):697-703</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1987160</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Syst Evol Microbiol. 2001 Nov;51(Pt 6):2133-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11760957</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Syst Evol Microbiol. 2001 Mar;51(Pt 2):661-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11321112</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiol Rev. 1995 Mar;59(1):143-69</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7535888</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2001 Jan;67(1):469-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11133483</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Extremophiles. 1998 Aug;2(3):191-200</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9783165</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Syst Evol Microbiol. 2001 Mar;51(Pt 2):457-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11321091</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2002 Apr;68(4):1706-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11916688</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 1982 Jun;43(6):1393-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16346035</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 1990 Oct 5;215(3):403-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2231712</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 1996 Feb;62(2):625-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8593063</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mikrobiologiia. 2000 Jan-Feb;69(1):89-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10808495</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 1992 Oct;58(10):3417-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1280061</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2001 Sep;67(9):3785-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11525968</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Microbiol. 2001 May;175(5):369-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11409547</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 1984 Jan;47(1):49-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6696422</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2001 Apr;67(4):1663-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11282619</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Ecol. 2000 Jul;9(7):935-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10886656</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2002 Oct;68(10):4795-802</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12324322</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2001 Sep;67(9):4374-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11526051</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 1997 Oct;63(10):3789-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9327542</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Syst Bacteriol. 1997 Jan;47(1):144-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8995816</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEMS Microbiol Rev. 1997 Nov;21(3):213-29</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9451814</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Microbiol. 2000 Jul-Aug;174(1-2):18-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10985738</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Syst Evol Microbiol. 2001 Mar;51(Pt 2):565-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11321103</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 1991 Jun;57(6):1707-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1714704</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2000 Jul;66(7):2873-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10877781</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 1998 Oct;64(10):3869-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9758812</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2001 Nov 29;414(6863):495, 497-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11734832</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2001 Feb;67(2):528-38</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11157213</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Environ Microbiol. 2000 Apr;2(2):227-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11220308</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2002 Aug 6;99(16):10494-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12097644</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Syst Biol. 2001 Aug;50(4):470-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12116647</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

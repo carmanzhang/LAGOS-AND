@@ -1,0 +1,172 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">14550827</PMID>
+        <DateCompleted>
+            <Year>2004</Year>
+            <Month>02</Month>
+            <Day>11</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>09</Month>
+            <Day>22</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1053-2498</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>22</Volume>
+                    <Issue>10</Issue>
+                    <PubDate>
+                        <Year>2003</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of heart and lung transplantation : the official publication of the International Society for Heart Transplantation</Title>
+                <ISOAbbreviation>J Heart Lung Transplant</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Multidrug-resistant tuberculosis in a lung transplant recipient.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1168-73</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Tuberculosis infection has been a relatively rare complication after lung transplantation. However, as more countries in which Mycobacterium tuberculosis infection remains endemic embark on lung transplant programs, the occurrence of multidrug-resistant tuberculosis after transplantation is a genuine threat. We report the first case of multidrug-resistant tuberculosis in a double-lung transplant recipient who probably acquired the disease from the donor. We discuss the problems in clinical management of post-transplant tuberculosis infection and of drug-resistance.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Joseph</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Tuberculosis and Chest Unit, Grantham Hospital, 125 Wong Chuk Hang Road, Aberdeen, Hong Kong SAR, China. josephlee59@yahoo.com</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yew</LastName>
+                    <ForeName>Wing Wai</ForeName>
+                    <Initials>WW</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wong</LastName>
+                    <ForeName>Chi Fong</ForeName>
+                    <Initials>CF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wong</LastName>
+                    <ForeName>Poon Chuen</ForeName>
+                    <Initials>PC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chiu</LastName>
+                    <ForeName>Clement Shui Wah</ForeName>
+                    <Initials>CS</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D002363">Case Reports</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Heart Lung Transplant</MedlineTA>
+            <NlmUniqueID>9102703</NlmUniqueID>
+            <ISSNLinking>1053-2498</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000995">Antitubercular Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007166">Immunosuppressive Agents</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000995" MajorTopicYN="N">Antitubercular Agents</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004359" MajorTopicYN="N">Drug Therapy, Combination</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007166" MajorTopicYN="N">Immunosuppressive Agents</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016040" MajorTopicYN="Y">Lung Transplantation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011859" MajorTopicYN="N">Radiography</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014019" MajorTopicYN="N">Tissue Donors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018088" MajorTopicYN="N">Tuberculosis, Multidrug-Resistant</DescriptorName>
+                <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+                <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+                <QualifierName UI="Q000453" MajorTopicYN="Y">epidemiology</QualifierName>
+                <QualifierName UI="Q000635" MajorTopicYN="N">transmission</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014397" MajorTopicYN="N">Tuberculosis, Pulmonary</DescriptorName>
+                <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+                <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+                <QualifierName UI="Q000453" MajorTopicYN="Y">epidemiology</QualifierName>
+                <QualifierName UI="Q000635" MajorTopicYN="N">transmission</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>28</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2003</Year>
+                <Month>10</Month>
+                <Day>11</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2004</Year>
+                <Month>2</Month>
+                <Day>12</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2003</Year>
+                <Month>10</Month>
+                <Day>11</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">14550827</ArticleId>
+            <ArticleId IdType="pii">S1053249802011890</ArticleId>
+            <ArticleId IdType="doi">10.1016/s1053-2498(02)01189-0</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

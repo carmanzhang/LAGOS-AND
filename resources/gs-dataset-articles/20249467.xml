@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+        <PMID Version="1">20249467</PMID>
+        <DateCompleted>
+            <Year>2010</Year>
+            <Month>03</Month>
+            <Day>29</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>12</Month>
+            <Day>01</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0372-5588</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>42</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>1947</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Veterinary medicine</Title>
+                <ISOAbbreviation>Vet Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Toxicological observations on goats fed large doses of DDT.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>289-93</MedlinePgn>
+            </Pagination>
+            <AuthorList CompleteYN="N">
+                <Author ValidYN="Y">
+                    <LastName>SPICER</LastName>
+                    <ForeName>S S</ForeName>
+                    <Initials>SS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>SWEENEY</LastName>
+                    <ForeName>T R</ForeName>
+                    <Initials>TR</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Vet Med</MedlineTA>
+            <NlmUniqueID>21520030R</NlmUniqueID>
+            <ISSNLinking>0372-5588</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>46U771ERWK</RegistryNumber>
+                <NameOfSubstance UI="D005018">Ethyl Chloride</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>CIW5S16655</RegistryNumber>
+                <NameOfSubstance UI="D003634">DDT</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>OM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003634" MajorTopicYN="N">DDT</DescriptorName>
+                <QualifierName UI="Q000633" MajorTopicYN="Y">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005018" MajorTopicYN="Y">Ethyl Chloride</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006041" MajorTopicYN="Y">Goats</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="CLML">4713:528h</OtherID>
+        <KeywordList Owner="NLM">
+            <Keyword MajorTopicYN="Y">CHLOROPHENYL CHLOROETHANE (DDT)/toxicity</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>3</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1947</Year>
+                <Month>8</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1947</Year>
+                <Month>8</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20249467</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

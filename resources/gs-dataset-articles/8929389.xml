@@ -1,0 +1,264 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">8929389</PMID>
+        <DateCompleted>
+            <Year>1997</Year>
+            <Month>02</Month>
+            <Day>20</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>11</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0172-8083</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>30</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>1996</Year>
+                        <Month>Nov</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Current genetics</Title>
+                <ISOAbbreviation>Curr. Genet.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Stimulation of mitotic recombination upon transcription from the yeast GAL1 promoter but not from other RNA polymerase I, II and III promoters.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>381-8</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Homologous recombination in Saccharomyces cerevisiae and other organisms can be stimulated by transcription. Consistent with this, we find that recombination of a chromosomal ade1 allele with a plasmid-borne ADE1 ORF under the control of the GAL1 promoter increased from 6.1x10(-6) to 1.7x10(-4) when transcription of the plasmid locus was induced by growing the cells in the presence of galactose. Recombination could also be stimulated by over-expressing the Gal4 transcription factor in the presence of the GAL1-ADE1 plasmid, while culturing the cells in dextrose medium. However, when transcription of the same ORF was driven from the highly active promoters of the rDNA (RNA polymerase I), and ADH1 (RNA polymerase II) genes, only background levels of recombination (5-10x10(-6)) were observed, irrespective of the carbon source. Recombination was found to involve integration of the whole plasmid and to depend on RAD51, RAD52 and RAD54. The results indicate that increased accessibility of transcriptionally active chromatin is not sufficient to cause increased rates of this kind of reciprocal exchange.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Bratty</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Département de biochimie, Université de Montréal, Montréal, H3C 3J7, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ferbeyre</LastName>
+                    <ForeName>G</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Molinaro</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cedergren</LastName>
+                    <ForeName>R</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Curr Genet</MedlineTA>
+            <NlmUniqueID>8004904</NlmUniqueID>
+            <ISSNLinking>0172-8083</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004274">DNA, Recombinant</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004268">DNA-Binding Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D005656">Fungal Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C052130">GAL4 protein, S cerevisiae</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C497197">RAD52 protein, S cerevisiae</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D051721">Rad52 DNA Repair and Recombination Protein</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D029701">Saccharomyces cerevisiae Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014157">Transcription Factors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.7.-</RegistryNumber>
+                <NameOfSubstance UI="C495151">RAD51 protein, S cerevisiae</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.7.-</RegistryNumber>
+                <NameOfSubstance UI="D012319">RNA Polymerase II</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.7.-</RegistryNumber>
+                <NameOfSubstance UI="D051135">Rad51 Recombinase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.7.6</RegistryNumber>
+                <NameOfSubstance UI="D012318">RNA Polymerase I</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.7.6</RegistryNumber>
+                <NameOfSubstance UI="D012320">RNA Polymerase III</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.6.1.-</RegistryNumber>
+                <NameOfSubstance UI="C075468">RAD54 protein, S cerevisiae</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.6.4.-</RegistryNumber>
+                <NameOfSubstance UI="D004265">DNA Helicases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 6.5.1.-</RegistryNumber>
+                <NameOfSubstance UI="D045643">DNA Repair Enzymes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>X2RN3Q8DNE</RegistryNumber>
+                <NameOfSubstance UI="D005690">Galactose</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000483" MajorTopicYN="N">Alleles</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015152" MajorTopicYN="N">Blotting, Northern</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015139" MajorTopicYN="N">Blotting, Southern</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002874" MajorTopicYN="N">Chromosome Mapping</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004265" MajorTopicYN="N">DNA Helicases</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D045643" MajorTopicYN="N">DNA Repair Enzymes</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004274" MajorTopicYN="N">DNA, Recombinant</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004268" MajorTopicYN="N">DNA-Binding Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005656" MajorTopicYN="N">Fungal Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005690" MajorTopicYN="N">Galactose</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015966" MajorTopicYN="N">Gene Expression Regulation, Fungal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008957" MajorTopicYN="N">Models, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016366" MajorTopicYN="N">Open Reading Frames</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010957" MajorTopicYN="N">Plasmids</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016133" MajorTopicYN="N">Polymerase Chain Reaction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011401" MajorTopicYN="Y">Promoter Regions, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012318" MajorTopicYN="N">RNA Polymerase I</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012319" MajorTopicYN="N">RNA Polymerase II</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012320" MajorTopicYN="N">RNA Polymerase III</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051135" MajorTopicYN="N">Rad51 Recombinase</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051721" MajorTopicYN="N">Rad52 DNA Repair and Recombination Protein</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011995" MajorTopicYN="Y">Recombination, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012441" MajorTopicYN="N">Saccharomyces cerevisiae</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D029701" MajorTopicYN="Y">Saccharomyces cerevisiae Proteins</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014157" MajorTopicYN="Y">Transcription Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014158" MajorTopicYN="Y">Transcription, Genetic</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1996</Year>
+                <Month>11</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1996</Year>
+                <Month>11</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1996</Year>
+                <Month>11</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">8929389</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

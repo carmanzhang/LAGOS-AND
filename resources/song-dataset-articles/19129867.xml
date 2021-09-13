@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">19129867</PMID>
+        <DateCompleted>
+            <Year>2009</Year>
+            <Month>02</Month>
+            <Day>13</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>05</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1094-4087</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>17</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2009</Year>
+                        <Month>Jan</Month>
+                        <Day>05</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Optics express</Title>
+                <ISOAbbreviation>Opt Express</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Surface-emitting circular DFB, disk-, and ring-Bragg resonator lasers with chirped gratings. II: nonuniform pumping and far-field patterns.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1-6</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>This is a continuation of our previous work [Opt. Express 16, 9155 (2008)]. In this paper we investigate the effect of nonuniform pumping on the modal properties of surface-emitting chirped circular grating lasers. By numerically solving the coupled-mode equations and matching the boundaries we compare and discuss the threshold pump levels and frequency detuning factors for three pumping profiles: uniform, Gaussian, and annular. Depending on the overlap of the pumping and modal profiles, Gaussian pumping results in the lowest threshold pump levels except for the fundamental mode of ring Bragg resonator laser, and annular pumping provides larger threshold discrimination between the fundamental and first-order modes of circular DFB and ring Bragg resonator lasers, which is favorable for single-mode operation in these lasers. We also study the far-field patterns of the fundamental modes of circular DFB, disk-, and ring- Bragg resonator lasers. Circular DFB and ring Bragg resonator lasers have the first-order dominating peak, while disk Bragg resonator laser exhibits the zeroth-order dominating peak.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sun</LastName>
+                    <ForeName>Xiankai</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Applied Physics, MC128-95, California Institute of Technology, Pasadena, CA 91125, USA. xksun@caltech.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yariv</LastName>
+                    <ForeName>Amnon</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Opt Express</MedlineTA>
+            <NlmUniqueID>101137103</NlmUniqueID>
+            <ISSNLinking>1094-4087</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D004867" MajorTopicYN="N">Equipment Design</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007834" MajorTopicYN="N">Lasers</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055095" MajorTopicYN="Y">Optics and Photonics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019736" MajorTopicYN="Y">Prostheses and Implants</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012031" MajorTopicYN="N">Refractometry</DescriptorName>
+                <QualifierName UI="Q000295" MajorTopicYN="Y">instrumentation</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012815" MajorTopicYN="N">Signal Processing, Computer-Assisted</DescriptorName>
+                <QualifierName UI="Q000295" MajorTopicYN="Y">instrumentation</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2009</Year>
+                <Month>1</Month>
+                <Day>9</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2009</Year>
+                <Month>1</Month>
+                <Day>9</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2009</Year>
+                <Month>2</Month>
+                <Day>14</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">19129867</ArticleId>
+            <ArticleId IdType="pii">175581</ArticleId>
+            <ArticleId IdType="doi">10.1364/oe.17.000001</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

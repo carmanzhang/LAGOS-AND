@@ -1,0 +1,181 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">7498533</PMID>
+        <DateCompleted>
+            <Year>1996</Year>
+            <Month>01</Month>
+            <Day>18</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>06</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0014-5793</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>376</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>1995</Year>
+                        <Month>Dec</Month>
+                        <Day>04</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>FEBS letters</Title>
+                <ISOAbbreviation>FEBS Lett</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The phorbol 12-myristate 13-acetate (PMA)-induced oxidative burst in rat peritoneal neutrophils is increased by a 0.1 mT (60 Hz) magnetic field.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>164-6</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Magnetic fields (MF) may affect biological systems by increasing free radical concentrations. To test this, we have investigated whether low frequency (60 Hz) low intensity (0.1 mT) MF can modulate the phorbol 12-myristate 13- acetate (PMA) induced respiratory burst in primed rat peritoneal neutrophils, followed in real time using the dye 2',7'-dichlorofluorescin (DCFH), which reacts with free radical-derived oxidants such as H2O2 (which is formed from the dismutation of superoxide) to become 2',7'-dichlorofluorecein (DCF), a highly fluorescent compound. In the presence of the MF, a 12.4% increase in the fluorescence signal was observed in PMA-stimulated neutrophils (n = 5, P &lt; 0.02, 18 pairs of measurements). We believe this represents the first experimental observation of MF influencing events involving free radical species generated during signal transduction in living cells.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Roy</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular and Cell Biology, University of California, Berkeley 94720-3200, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Noda</LastName>
+                    <ForeName>Y</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Eckert</LastName>
+                    <ForeName>V</ForeName>
+                    <Initials>V</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Traber</LastName>
+                    <ForeName>M G</ForeName>
+                    <Initials>MG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mori</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liburdy</LastName>
+                    <ForeName>R</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Packer</LastName>
+                    <ForeName>L</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>GM27345</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+                <PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>FEBS Lett</MedlineTA>
+            <NlmUniqueID>0155157</NlmUniqueID>
+            <ISSNLinking>0014-5793</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D017382">Reactive Oxygen Species</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>NI40JAQ945</RegistryNumber>
+                <NameOfSubstance UI="D013755">Tetradecanoylphorbol Acetate</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004574" MajorTopicYN="Y">Electromagnetic Fields</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009504" MajorTopicYN="N">Neutrophils</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000528" MajorTopicYN="Y">radiation effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010529" MajorTopicYN="N">Peritoneal Cavity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017207" MajorTopicYN="N">Rats, Sprague-Dawley</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017382" MajorTopicYN="N">Reactive Oxygen Species</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016897" MajorTopicYN="N">Respiratory Burst</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013755" MajorTopicYN="N">Tetradecanoylphorbol Acetate</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1995</Year>
+                <Month>12</Month>
+                <Day>4</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1995</Year>
+                <Month>12</Month>
+                <Day>4</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1995</Year>
+                <Month>12</Month>
+                <Day>4</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">7498533</ArticleId>
+            <ArticleId IdType="pii">0014-5793(95)01266-X</ArticleId>
+            <ArticleId IdType="doi">10.1016/0014-5793(95)01266-x</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

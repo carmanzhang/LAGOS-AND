@@ -1,0 +1,290 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">7104192</PMID>
+        <DateCompleted>
+            <Year>1982</Year>
+            <Month>10</Month>
+            <Day>12</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>05</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0007-0920</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>46</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>1982</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>British journal of cancer</Title>
+                <ISOAbbreviation>Br. J. Cancer</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>In vivo assessment of basic 2-nitroimidazole radiosensitizers.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>127-37</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The radiosensitizing efficiencies of 4 structural analogues of misonidazole (MISO) have been compared with that of the parent compound. Three of these were charged basic compounds, previously shown in vitro to be 10 times more efficient. Enhancement ratios were measured from pairs of tumour growth-delay curves for the mouse fibrosarcoma SA Fab. Two routes of administration and ranges of drug dose and intervals between injection and irradiation were tested. Drug concentrations in blood, brain and tumor were measured using high-performance liquid chromatography. The peak concentration in tumours coincided with the peak in radiosensitization: 20 min after i.v. injection and 40 min after i.p. injection. The concentration in tumours was similar for either route. Comparison of radiosensitizing efficiency on the basic of equal administered dose showed no difference between the 5 compounds, but after equimolar doses the charged compounds achieved lower tumour concentrations. Comparison of sensitizing efficiency on the basis of tumour concentration showed that they were 3 times more potent than MISO, as predicted from their higher electron-affinity. The resultant improvement in radiosensitization at low, clinically relevant, concentrations is so slight that any therapeutic benefit would depend on reduced drug toxicity in man.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Williams</LastName>
+                    <ForeName>M V</ForeName>
+                    <Initials>MV</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Denekamp</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Minchinton</LastName>
+                    <ForeName>A I</ForeName>
+                    <Initials>AI</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stratford</LastName>
+                    <ForeName>M R</ForeName>
+                    <Initials>MR</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Br J Cancer</MedlineTA>
+            <NlmUniqueID>0370635</NlmUniqueID>
+            <ISSNLinking>0007-0920</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009593">Nitroimidazoles</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011838">Radiation-Sensitizing Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>K8E96XL55D</RegistryNumber>
+                <NameOfSubstance UI="C006667">azomycin</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004305" MajorTopicYN="N">Dose-Response Relationship, Drug</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005354" MajorTopicYN="N">Fibrosarcoma</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+                <QualifierName UI="Q000532" MajorTopicYN="N">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008815" MajorTopicYN="N">Mice, Inbred Strains</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009593" MajorTopicYN="N">Nitroimidazoles</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011838" MajorTopicYN="N">Radiation-Sensitizing Agents</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012513" MajorTopicYN="N">Sarcoma, Experimental</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+                <QualifierName UI="Q000532" MajorTopicYN="N">radiotherapy</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1982</Year>
+                <Month>7</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1982</Year>
+                <Month>7</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1982</Year>
+                <Month>7</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">7104192</ArticleId>
+            <ArticleId IdType="pmc">PMC2011061</ArticleId>
+            <ArticleId IdType="doi">10.1038/bjc.1982.174</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Br J Cancer. 1967 Mar;21(1):108-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6024502</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Radiat Res. 1975 Feb;61(2):191-203</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1110975</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Radiat Biol Relat Stud Phys Chem Med. 1975 May;27(5):463-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1080142</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Radiology. 1975 Oct;117(1):129-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1162051</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Radiat Res. 1976 Jul;67(1):9-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">940937</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Cancer. 1977 Jun;35(6):795-808</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">871367</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Radiol. 1977 Aug;50(596):602-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">890240</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Radiat Res. 1978 Mar;73(3):568-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">273269</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Cancer Suppl. 1978 Jun;3:271-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">209809</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Cancer. 1979 Feb;39(2):159-67</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">435365</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Radiat Oncol Biol Phys. 1979 Jun;5(6):851-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">227822</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pharmacol Ther. 1979;7(3):413-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">392560</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Cancer. 1979 Dec;40(6):883-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">526430</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Cancer. 1980 Jan;41(1):1-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7362769</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Radiat Res. 1980 Apr;82(1):171-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7367588</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Radiol. 1980 Oct;53(634):981-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7426922</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Radiol. 1980 Sep;53(633):915-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7437721</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Radiol. 1981 Feb;54(638):156-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6257319</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 1981 May;41(5):2008-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7214369</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Radiat Oncol Biol Phys. 1981 Jun;7(6):695-703</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6457018</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Radiat Oncol Biol Phys. 1982 Mar-Apr;8(3-4):335-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7107350</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Radiat Oncol Biol Phys. 1982 Mar-Apr;8(3-4):371-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7107354</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

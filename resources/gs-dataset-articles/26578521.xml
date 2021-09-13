@@ -1,0 +1,561 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">26578521</PMID>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>05</Month>
+            <Day>18</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1083-351X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>291</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Jan</Month>
+                        <Day>08</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of biological chemistry</Title>
+                <ISOAbbreviation>J. Biol. Chem.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Mutations in Replicative Stress Response Pathways Are Associated with S Phase-specific Defects in Nucleotide Excision Repair.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>522-37</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1074/jbc.M115.685883</ELocationID>
+            <Abstract>
+                <AbstractText>Nucleotide excision repair (NER) is a highly conserved pathway that removes helix-distorting DNA lesions induced by a plethora of mutagens, including UV light. Our laboratory previously demonstrated that human cells deficient in either ATM and Rad3-related (ATR) kinase or translesion DNA polymerase η (i.e. key proteins that promote the completion of DNA replication in response to UV-induced replicative stress) are characterized by profound inhibition of NER exclusively during S phase. Toward elucidating the mechanistic basis of this phenomenon, we developed a novel assay to quantify NER kinetics as a function of cell cycle in the model organism Saccharomyces cerevisiae. Using this assay, we demonstrate that in yeast, deficiency of the ATR homologue Mec1 or of any among several other proteins involved in the cellular response to replicative stress significantly abrogates NER uniquely during S phase. Moreover, initiation of DNA replication is required for manifestation of this defect, and S phase NER proficiency is correlated with the capacity of individual mutants to respond to replicative stress. Importantly, we demonstrate that partial depletion of Rfa1 recapitulates defective S phase-specific NER in wild type yeast; moreover, ectopic RPA1-3 overexpression rescues such deficiency in either ATR- or polymerase η-deficient human cells. Our results strongly suggest that reduction of NER capacity during periods of enhanced replicative stress, ostensibly caused by inordinate sequestration of RPA at stalled DNA replication forks, represents a conserved feature of the multifaceted eukaryotic DNA damage response. </AbstractText>
+                <CopyrightInformation>© 2016 by The American Society for Biochemistry and Molecular Biology, Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Bélanger</LastName>
+                    <ForeName>François</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Centre de Recherche de l'Hôpital Maisonneuve-Rosemont, Montréal, Québec H1T 2M4, Canada and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Angers</LastName>
+                    <ForeName>Jean-Philippe</ForeName>
+                    <Initials>JP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Centre de Recherche de l'Hôpital Maisonneuve-Rosemont, Montréal, Québec H1T 2M4, Canada and the Programme de Biologie Moléculaire.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fortier</LastName>
+                    <ForeName>Émile</ForeName>
+                    <Initials>É</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Centre de Recherche de l'Hôpital Maisonneuve-Rosemont, Montréal, Québec H1T 2M4, Canada and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hammond-Martel</LastName>
+                    <ForeName>Ian</ForeName>
+                    <Initials>I</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Centre de Recherche de l'Hôpital Maisonneuve-Rosemont, Montréal, Québec H1T 2M4, Canada and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Costantino</LastName>
+                    <ForeName>Santiago</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Centre de Recherche de l'Hôpital Maisonneuve-Rosemont, Montréal, Québec H1T 2M4, Canada and Département d'ophtalmologie, and.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Drobetsky</LastName>
+                    <ForeName>Elliot</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Centre de Recherche de l'Hôpital Maisonneuve-Rosemont, Montréal, Québec H1T 2M4, Canada and Département de Médecine, Université de Montréal, Montréal, Québec H3T 1J4, Canada hugo.wurtele@umontreal.ca.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wurtele</LastName>
+                    <ForeName>Hugo</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>From the Centre de Recherche de l'Hôpital Maisonneuve-Rosemont, Montréal, Québec H1T 2M4, Canada and Département de Médecine, Université de Montréal, Montréal, Québec H3T 1J4, Canada elliot.drobetsky@umontreal.ca.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>MOP-123438</GrantID>
+                    <Agency>Canadian Institutes of Health Research</Agency>
+                    <Country>Canada</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>MOP-133470</GrantID>
+                    <Agency>Canadian Institutes of Health Research</Agency>
+                    <Country>Canada</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>17</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Biol Chem</MedlineTA>
+            <NlmUniqueID>2985121R</NlmUniqueID>
+            <ISSNLinking>0021-9258</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009153">Mutagens</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011740">Pyrimidine Dimers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D051716">Replication Protein A</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D029701">Saccharomyces cerevisiae Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D045744" MajorTopicYN="N">Cell Line, Tumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004260" MajorTopicYN="N">DNA Repair</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009153" MajorTopicYN="N">Mutagens</DescriptorName>
+                <QualifierName UI="Q000633" MajorTopicYN="N">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009154" MajorTopicYN="N">Mutation</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010766" MajorTopicYN="N">Phosphorylation</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011740" MajorTopicYN="N">Pyrimidine Dimers</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051716" MajorTopicYN="N">Replication Protein A</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016196" MajorTopicYN="N">S Phase</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012441" MajorTopicYN="N">Saccharomyces cerevisiae</DescriptorName>
+                <QualifierName UI="Q000166" MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D029701" MajorTopicYN="N">Saccharomyces cerevisiae Proteins</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013312" MajorTopicYN="N">Stress, Physiological</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">DNA replication</Keyword>
+            <Keyword MajorTopicYN="N">Saccharomyces cerevisiae</Keyword>
+            <Keyword MajorTopicYN="N">cell cycle</Keyword>
+            <Keyword MajorTopicYN="N">flow cytometry</Keyword>
+            <Keyword MajorTopicYN="N">nucleotide excision repair</Keyword>
+            <Keyword MajorTopicYN="N">ultraviolet light</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>08</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>5</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26578521</ArticleId>
+            <ArticleId IdType="pii">M115.685883</ArticleId>
+            <ArticleId IdType="doi">10.1074/jbc.M115.685883</ArticleId>
+            <ArticleId IdType="pmc">PMC4705374</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2008 Nov 18;105(46):17896-901</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19004803</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1991 Nov 15;88(22):10124-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1946433</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>DNA Repair (Amst). 2009 Sep 2;8(9):1038-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19482564</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Methods. 2009 Dec;6(12):917-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19915560</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Cell Biol. 2009 Dec;21(6):771-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19767190</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 2010 Jan;30(2):436-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19901073</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hum Mol Genet. 2010 May 1;19(9):1690-701</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20123862</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>DNA Repair (Amst). 2010 Jul 1;9(7):754-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20457011</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Yeast. 2000 Jun 30;16(9):857-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10861908</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 2000 Jun;20(11):3795-806</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10805723</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Toxicol Sci. 2011 Mar;120 Suppl 1:S130-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21163908</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2014 Apr;42(7):4406-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24464993</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Mol Cell Biol. 2014 Jul;15(7):465-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24954209</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Phys Chem. 2015 Apr;66:497-519</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25664840</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Chem Biol. 2011 Jul;7(7):428-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21490603</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 2012 Jan;32(1):154-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22025679</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Invest Dermatol. 2012 Mar;132(3 Pt 2):785-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22217736</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Biol Cell. 2012 Mar;23(6):1058-67</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22298423</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 2012 Dec;32(24):4986-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23045396</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genetics. 2013 Apr;193(4):1025-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23547164</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Genet. 2007 Dec;3(12):e228</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18085829</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Genet. 2008 Jul;4(7):e1000120</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18617996</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Semin Oncol. 1992 Jun;19(3 Suppl 9):1-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1641648</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1997 Apr 1;94(7):3151-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9096361</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Dev. 1997 Dec 15;11(24):3365-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9407029</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Dev. 1998 Feb 15;12(4):480-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9472017</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell. 1998 Sep;2(3):329-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9774971</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Dev. 2005 May 1;19(9):1040-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15833913</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Dev. 2005 May 1;19(9):1007-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15879550</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2005 Jul 14;436(7048):294-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16015338</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Biol. 2005 Aug 9;15(15):1364-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16085488</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Biol. 2006 Jul 11;16(13):1280-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16815704</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2006 Sep 12;103(37):13771-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16940359</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Mol Cell Biol. 2007 Feb;8(2):149-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17245415</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2007 May 25;316(5828):1160-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17525332</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Genet. 2007 Nov;3(11):e223</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18081428</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Res. 2008 Jan;18(1):148-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18166979</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Yeast. 2013 Sep;30(9):341-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23836714</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2013 Nov 21;155(5):1088-103</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24267891</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Cell Biol. 2014 Jan;16(1):2-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24366029</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2014;9(1):e85294</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24416382</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Carcinogenesis. 2002 Jan;23(1):35-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11756221</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Sci. 2002 Apr 15;115(Pt 8):1749-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11950891</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2002 Jul 26;297(5581):599-602</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12142537</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Cycle. 2002 Mar-Apr;1(2):132-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12429922</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2002 Dec 24;99(26):16934-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12482937</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2003 Jun 6;300(5625):1542-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12791985</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2003 Nov 26;115(5):537-49</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14651846</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2004 Sep 17;118(6):699-713</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15369670</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1981 May;146(2):692-704</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7012136</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Photochem Photobiol. 1987 Oct;46(4):477-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3423120</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Biochem Biophys. 2009;53(1):17-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19034694</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

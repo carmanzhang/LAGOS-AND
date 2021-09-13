@@ -1,0 +1,193 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">24382991</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>10</Month>
+            <Day>01</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0277-786X</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>8669</Volume>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Mar</Month>
+                        <Day>12</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Proceedings of SPIE--the International Society for Optical Engineering</Title>
+                <ISOAbbreviation>Proc SPIE Int Soc Opt Eng</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Longitudinal Intensity Normalization of Magnetic Resonance Images using Patches.</ArticleTitle>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1117/12.2006682</ELocationID>
+            <Abstract>
+                <AbstractText>This paper presents a patch based method to normalize temporal intensities from longitudinal brain magnetic resonance (MR) images. Longitudinal intensity normalization is relevant for subsequent processing, such as segmentation, so that rates of change of tissue volumes, cortical thickness, or shapes of brain structures becomes stable and smooth over time. Instead of using intensities at each voxel, we use patches as image features as a patch encodes neighborhood information of the center voxel. Once all the time-points of a longitudinal dataset are registered, the longitudinal intensity change at each patch is assumed to follow an auto-regressive (AR(1)) process. An estimate of the normalized intensities of a patch at every time-point are generated from a hidden Markov model, where the hidden states are the unobserved normalized patches and the outputs are the observed patches. A validation study on a phantom dataset shows good segmentation overlap with the truth, and an experiment with real data shows more stable rates of change for tissue volumes with the temporal normalization than without.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Roy</LastName>
+                    <ForeName>Snehashis</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Image Analysis and Communications Laboratory, The Johns Hopkins University.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Carass</LastName>
+                    <ForeName>Aaron</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Image Analysis and Communications Laboratory, The Johns Hopkins University.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Prince</LastName>
+                    <ForeName>Jerry L</ForeName>
+                    <Initials>JL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Image Analysis and Communications Laboratory, The Johns Hopkins University.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R21 EB012765</GrantID>
+                    <Acronym>EB</Acronym>
+                    <Agency>NIBIB NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Proc SPIE Int Soc Opt Eng</MedlineTA>
+            <NlmUniqueID>101524122</NlmUniqueID>
+            <ISSNLinking>0277-786X</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Intensity normalization</Keyword>
+            <Keyword MajorTopicYN="N">MRI</Keyword>
+            <Keyword MajorTopicYN="N">brain</Keyword>
+            <Keyword MajorTopicYN="N">intensity standardization</Keyword>
+            <Keyword MajorTopicYN="N">patch</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>1</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>1</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>1</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24382991</ArticleId>
+            <ArticleId IdType="doi">10.1117/12.2006682</ArticleId>
+            <ArticleId IdType="pmc">PMC3875181</ArticleId>
+            <ArticleId IdType="mid">NIHMS455333</ArticleId>
+        </ArticleIdList>
+        <?nihms?>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Neurosci. 2003 Apr 15;23(8):3295-301</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12716936</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2012;7(9):e44596</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23049751</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc IEEE Int Symp Biomed Imaging. 2012;:1152-1155</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23999192</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuroimage. 2006 Apr 1;30(2):388-99</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16275137</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IEEE Trans Med Imaging. 2000 Feb;19(2):143-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10784285</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IEEE Trans Med Imaging. 2006 May;25(5):649-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16689268</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IEEE Trans Med Imaging. 2009 Jan;28(1):137-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19116196</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cereb Cortex. 2000 May;10 (5):464-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10847596</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuroimage. 2006 Jan 1;29(1):185-202</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16139526</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuroimage. 2010 Jan 1;49(1):391-400</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19660558</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Med Image Anal. 2010 Oct;14(5):654-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20580305</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Magn Reson Med. 1999 Dec;42(6):1072-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10571928</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

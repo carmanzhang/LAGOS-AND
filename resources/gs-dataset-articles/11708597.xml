@@ -1,0 +1,153 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">11708597</PMID>
+        <DateCompleted>
+            <Year>2001</Year>
+            <Month>12</Month>
+            <Day>11</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>10</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1466-2523</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>1</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2000</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Animal health research reviews</Title>
+                <ISOAbbreviation>Anim Health Res Rev</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Swine vesicular disease virus. Pathology of the disease and molecular characteristics of the virion.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>119-26</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Swine vesicular disease is a highly contagious disease of pigs that is caused by an enterovirus of the family Picornaviridae. The virus is a relatively recent derivative of the human coxsackievirus B5, with which it has high molecular and antigenic homology. The disease is not severe, and affected animals usually show moderate general weakening and slight weight loss that is recovered in few days, as well as vesicular lesions in the mucosa of the mouth and nose and in the interdigital spaces of the feet. However, the similarity of these lesions to those caused by foot-and-mouth disease virus has led to the inclusion of this virus in list A of the Office International des Epizooties. The disease has been eradicated in the European Union except in Italy, where it is considered endemic in the south. Nevertheless, as occasional outbreaks still appear and must be eliminated rapidly, European countries are on the alert and farms are monitored routinely for the presence of the virus. This circumstance has led to a considerable effort to study the pathology of the disease and the molecular biology and antigenicity of the virus, andto the development of optimized methods for the diagnosis of the infection.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Escribano-Romero</LastName>
+                    <ForeName>E</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Instituto Nacional de Investigaciones Agrarias y Alimentarias, Madrid, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jiménez-Clavero</LastName>
+                    <ForeName>M A</ForeName>
+                    <Initials>MA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ley</LastName>
+                    <ForeName>V</ForeName>
+                    <Initials>V</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Anim Health Res Rev</MedlineTA>
+            <NlmUniqueID>101083072</NlmUniqueID>
+            <ISSNLinking>1466-2523</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000956">Antigens, Viral</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000956" MajorTopicYN="N">Antigens, Viral</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002213" MajorTopicYN="N">Capsid</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003937" MajorTopicYN="N">Diagnosis, Differential</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D029822" MajorTopicYN="N">Enterovirus B, Human</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016679" MajorTopicYN="N">Genome, Viral</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013552" MajorTopicYN="N">Swine</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013555" MajorTopicYN="N">Swine Vesicular Disease</DescriptorName>
+                <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+                <QualifierName UI="Q000821" MajorTopicYN="Y">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014771" MajorTopicYN="N">Virion</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>74</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2001</Year>
+                <Month>11</Month>
+                <Day>16</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2002</Year>
+                <Month>1</Month>
+                <Day>5</Day>
+                <Hour>10</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2001</Year>
+                <Month>11</Month>
+                <Day>16</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">11708597</ArticleId>
+            <ArticleId IdType="pii">S1466252300000104</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

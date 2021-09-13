@@ -1,0 +1,312 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">25195909</PMID>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>05</Month>
+            <Day>20</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">2053-230X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>70</Volume>
+                    <Issue>Pt 9</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Acta crystallographica. Section F, Structural biology communications</Title>
+                <ISOAbbreviation>Acta Crystallogr F Struct Biol Commun</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Cloning, purification and preliminary crystallographic analysis of the Helicobacter pylori pseudaminic acid biosynthesis N-acetyltransferase PseH.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1276-9</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1107/S2053230X14015398</ELocationID>
+            <Abstract>
+                <AbstractText>Helicobacter pylori infection is the common cause of gastritis and duodenal and stomach ulcers, which have been linked to a higher risk of the development of gastric cancer. The motility that facilitates persistent infection requires functional flagella that are heavily glycosylated with 5,7-diacetamido-3,5,7,9-tetradeoxy-L-glycero-L-manno-nonulosonic acid (pseudaminic acid). Pseudaminic acid biosynthesis protein H (PseH) catalyzes the third step in its biosynthetic pathway, producing UDP-2,4-diacetamido-2,4,6-trideoxy-β-L-altropyranose. Crystals of H. pylori PseH have been grown by the hanging-drop vapour-diffusion method using diammonium tartrate as a precipitating agent. The crystals belonged to space group I222 or I212121, with unit-cell parameters a = 107.8, b = 145.4, c = 166.3 Å. A complete X-ray diffraction data set has been collected to 2.5 Å resolution using cryocooling conditions and synchrotron radiation. </AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Yu C</ForeName>
+                    <Initials>YC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, Monash University, Clayton, Victoria 3800, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ud-Din</LastName>
+                    <ForeName>Abu I</ForeName>
+                    <Initials>AI</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, Monash University, Clayton, Victoria 3800, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Roujeinikova</LastName>
+                    <ForeName>Anna</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, Monash University, Clayton, Victoria 3800, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2014</Year>
+                <Month>08</Month>
+                <Day>27</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Acta Crystallogr F Struct Biol Commun</MedlineTA>
+            <NlmUniqueID>101620319</NlmUniqueID>
+            <ISSNLinking>2053-230X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D001426">Bacterial Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D017931">DNA Primers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.3.1.-</RegistryNumber>
+                <NameOfSubstance UI="D000123">Acetyltransferases</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000123" MajorTopicYN="N">Acetyltransferases</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000302" MajorTopicYN="N">isolation &amp; purification</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000595" MajorTopicYN="N">Amino Acid Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001426" MajorTopicYN="N">Bacterial Proteins</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000302" MajorTopicYN="N">isolation &amp; purification</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001483" MajorTopicYN="N">Base Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003001" MajorTopicYN="N">Cloning, Molecular</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017931" MajorTopicYN="N">DNA Primers</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016480" MajorTopicYN="N">Helicobacter pylori</DescriptorName>
+                <QualifierName UI="Q000201" MajorTopicYN="Y">enzymology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008969" MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016133" MajorTopicYN="N">Polymerase Chain Reaction</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Helicobacter pylori</Keyword>
+            <Keyword MajorTopicYN="N">N-acetyltransferase</Keyword>
+            <Keyword MajorTopicYN="N">acetyl-CoA</Keyword>
+            <Keyword MajorTopicYN="N">pseudaminic acid biosynthesis</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2014</Year>
+                <Month>05</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2014</Year>
+                <Month>07</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>9</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>9</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">25195909</ArticleId>
+            <ArticleId IdType="pii">S2053230X14015398</ArticleId>
+            <ArticleId IdType="doi">10.1107/S2053230X14015398</ArticleId>
+            <ArticleId IdType="pmc">PMC4157436</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Microbes Infect. 2000 Jan;2(1):55-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10717541</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acta Crystallogr D Biol Crystallogr. 2011 Apr;67(Pt 4):271-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21460445</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2006 Mar 31;281(13):8907-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16421095</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acta Crystallogr D Biol Crystallogr. 2006 Jan;62(Pt 1):72-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16369096</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Med. 2003 Apr 7;197(7):813-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12668646</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Glycobiology. 2006 Sep;16(9):8C-14C</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16751642</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Immun. 2002 Apr;70(4):1984-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11895962</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEMS Microbiol Lett. 2002 May 7;210(2):165-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12044670</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acta Crystallogr D Biol Crystallogr. 2011 Apr;67(Pt 4):235-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21460441</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2003 Jun;48(6):1579-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12791140</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2006 Aug;188(15):5606-17</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16855251</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Biochem Biophys. 2005 Jan 1;433(1):212-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15581578</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2001 Nov 2;313(4):903-19</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11697912</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2006 Aug 25;281(34):24489-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16651261</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2008 Oct 10;283(41):27937-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18667421</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Immun. 2007 Feb;75(2):1005-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17101654</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anal Biochem. 1976 May 7;72:248-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">942051</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2002 Oct 10;347(15):1175-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12374879</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2006 Apr;60(2):299-311</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16573682</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IARC Monogr Eval Carcinog Risks Hum. 1994;61:177-240</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7715070</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anal Chem. 2005 Dec 1;77(23):7774-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16316188</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

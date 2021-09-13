@@ -1,0 +1,150 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">11570985</PMID>
+        <DateCompleted>
+            <Year>2001</Year>
+            <Month>10</Month>
+            <Day>25</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>07</Month>
+            <Day>19</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0007-1145</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>86</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2001</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The British journal of nutrition</Title>
+                <ISOAbbreviation>Br J Nutr</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Comparison of non-tracer and tracer methods for determination of volatile fatty acid production rate in the rumen of sheep fed on two levels of intake.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>331-40</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The aim of the present work was to estimate volatile fatty acid (VFA) production rate in the rumen of sheep fed two levels of intake using both a tracer (TM; by isotope dilution) and a non-tracer method (NTM; by supplementary infusion) in steady-state conditions. Six wethers received a diet containing 700 g lucerne hay and 300 g ground maize/kg in eight equal meals at 3 h intervals per d. The diet (9.8 MJ metabolizable energy (ME)/kg DM) was offered at 90 % ad libitum consumption (high intake, HI) or 45 % ad libitum consumption (low intake, LI) in a crossover design. Each sheep received five intrarumen VFA solutions infused continuously for 24 h at rates of 250 ml and 165 ml/h for the HI and LI respectively. The first infusion, considered as a control treatment (Con), consisted of a solution of [1-(13)C]propionate (7 mmol/d). The four other solutions were isoenergetic (1.9 MJ ME/kg DM intake) mixtures of unlabelled propionate (C(3)) and butyrate (C(4)) at different levels: 0.90 mol C(4)/kg DM intake; 0.60 mol C(3)/kg DM intake; 0.30 mol C(3)/kg DM intake; 1.35 mol C(3)/kg DM intake. The VFA infusions did not affect rumen fermentation of the basal diet (pH, osmotic pressure, protozoa numbers), and comparable DM digestibility of the diet among the different treatments was observed. Both estimation methods demonstrated a similar increase (1.7-fold) in the rumen VFA production rate of sheep fed at intakes varying between 0.9 to 1.7 times maintenance. Irrespective of the intake level, the rumen production rate of individual VFA was on average 1.5-fold higher when estimated by the TM compared with the NTM. Rumen VFA production rates estimated by the NTM and TM represented 80 % and 120 % ME intake respectively. The difference between NTM and TM estimates seems likely to be caused mainly by overestimation of the VFA production rates by the TM.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Martin</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Unité de Recherche sur les Herbivores, INRA Theix, 63122 Saint-Genès-Champanelle, France. cecile@clermont.inra.fr</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kristensen</LastName>
+                    <ForeName>N B</ForeName>
+                    <Initials>NB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Huhtanen</LastName>
+                    <ForeName>P</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D003160">Comparative Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Br J Nutr</MedlineTA>
+            <NlmUniqueID>0372547</NlmUniqueID>
+            <ISSNLinking>0007-1145</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D005232">Fatty Acids, Volatile</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007554">Isotopes</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000704" MajorTopicYN="N">Analysis of Variance</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018592" MajorTopicYN="N">Cross-Over Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004435" MajorTopicYN="Y">Eating</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005232" MajorTopicYN="N">Fatty Acids, Volatile</DescriptorName>
+                <QualifierName UI="Q000096" MajorTopicYN="Y">biosynthesis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007554" MajorTopicYN="N">Isotopes</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012044" MajorTopicYN="N">Regression Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012417" MajorTopicYN="N">Rumen</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012756" MajorTopicYN="N">Sheep</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2001</Year>
+                <Month>9</Month>
+                <Day>26</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2001</Year>
+                <Month>10</Month>
+                <Day>26</Day>
+                <Hour>10</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2001</Year>
+                <Month>9</Month>
+                <Day>26</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">11570985</ArticleId>
+            <ArticleId IdType="pii">S0007114501001982</ArticleId>
+            <ArticleId IdType="doi">10.1079/bjn2001386</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

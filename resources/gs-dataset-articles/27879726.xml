@@ -1,0 +1,141 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">27879726</PMID>
+        <DateCompleted>
+            <Year>2018</Year>
+            <Month>01</Month>
+            <Day>04</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1424-8220</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>8</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2008</Year>
+                        <Month>Feb</Month>
+                        <Day>04</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Sensors (Basel, Switzerland)</Title>
+                <ISOAbbreviation>Sensors (Basel)</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Integration of Multiple Data Sources to Simulate the Dynamics of Land Systems.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>620-634</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>In this paper we present and develop a new model, which we have calledDynamics of Land Systems (DLS). The DLS model is capable of integrating multiple datasources to simulate the dynamics of a land system. Three main modules are incorporatedin DLS: a spatial regression module, to explore the relationship between land uses andinfluencing factors, a scenario analysis module of the land uses of a region during thesimulation period and a spatial disaggregation module, to allocate land use changes froma regional level to disaggregated grid cells. A case study on Taips County in North Chinais incorporated in this paper to test the functionality of DLS. The simulation results underthe baseline, economic priority and environmental scenarios help to understand the landsystem dynamics and project near future land-use trajectories of a region, in order tofocus management decisions on land uses and land use planning.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Deng</LastName>
+                    <ForeName>Xiangzheng</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Geographical Sciences and Natural Resources Research, Chinese Academy of Sciences, Beijing, 100101, P.R. China. dengxz.ccap@igsnrr.ac.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Su</LastName>
+                    <ForeName>Hongbo</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Geographical Sciences and Natural Resources Research, Chinese Academy of Sciences, Beijing, 100101, P.R. China. suhb@igsnrr.ac.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhan</LastName>
+                    <ForeName>Jinyan</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Beijing Normal University, Beijing, 100875, P.R. China. zhanjy@bnu.edu.cn.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2008</Year>
+                <Month>02</Month>
+                <Day>04</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>Sensors (Basel)</MedlineTA>
+            <NlmUniqueID>101204366</NlmUniqueID>
+            <ISSNLinking>1424-8220</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Land use</Keyword>
+            <Keyword MajorTopicYN="N">dynamics of land systems</Keyword>
+            <Keyword MajorTopicYN="N">land use change</Keyword>
+            <Keyword MajorTopicYN="N">scenario analysis</Keyword>
+            <Keyword MajorTopicYN="N">simulation</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2007</Year>
+                <Month>12</Month>
+                <Day>25</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2008</Year>
+                <Month>01</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>11</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2008</Year>
+                <Month>2</Month>
+                <Day>4</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2008</Year>
+                <Month>2</Month>
+                <Day>4</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">27879726</ArticleId>
+            <ArticleId IdType="pii">s8020620</ArticleId>
+            <ArticleId IdType="doi">10.3390/s8020620</ArticleId>
+            <ArticleId IdType="pmc">PMC3927519</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Environ Manage. 2002 Sep;30(3):391-405</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12148073</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

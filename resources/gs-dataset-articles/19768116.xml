@@ -1,0 +1,462 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">19768116</PMID>
+        <DateCompleted>
+            <Year>2010</Year>
+            <Month>02</Month>
+            <Day>01</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>01</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>4</Volume>
+                    <Issue>9</Issue>
+                    <PubDate>
+                        <Year>2009</Year>
+                        <Month>Sep</Month>
+                        <Day>21</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Inactivation of aPKClambda reveals a context dependent allocation of cell lineages in preimplantation mouse embryos.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e7117</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0007117</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">During mammalian preimplantation development, lineage divergence seems to be controlled by the interplay between asymmetric cell division (once cells are polarized) and positional information. In the mouse embryo, two distinct cell populations are first observed at the 16-cell stage and can be distinguished by both their position (outside or inside) and their phenotype (polarized or non-polarized). Many efforts have been made during the last decade to characterize the molecular mechanisms driving lineage divergence.</AbstractText>
+                <AbstractText Label="METHODOLOGY/PRINCIPAL FINDINGS" NlmCategory="RESULTS">In order to evaluate the importance of cell polarity in the determination of cell fate we have disturbed the activity of the apical complex aPKC/PAR6 using siRNA to down-regulate aPKClambda expression. Here we show that depletion of aPKClambda results in an absence of tight junctions and in severe polarity defects at the 16-cell stage. Importantly, we found that, in absence of aPKClambda, cell fate depends on the cellular context: depletion of aPKClambda in all cells results in a strong reduction of inner cells at the 16-cell stage, while inhibition of aPKClambda in only half of the embryo biases the progeny of aPKClambda defective blastomeres towards the inner cell mass. Finally, our study points to a role of cell shape in controlling cell position and thus lineage allocation.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Our data show that aPKClambda is dispensable for the establishment of polarity at the 8-cell stage but is essential for the stabilization of cell polarity at the 16-cell stage and for cell positioning. Moreover, this study reveals that in addition to positional information and asymmetric cell divisions, cell shape plays an important role for the control of lineage divergence during mouse preimplantation development. Cell shape is able to influence both the type of division (symmetric or asymmetric) and the position of the blastomeres within the embryo.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Dard</LastName>
+                    <ForeName>Nicolas</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CNRS, UMR7622 - Laboratoire de Biologie Cellulaire du Développement, 9 Quai Saint-Bernard, Bâtiment C, Paris, France. nicolas.dard@upmc.fr</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Le</LastName>
+                    <ForeName>Tran</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Maro</LastName>
+                    <ForeName>Bernard</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Louvet-Vallée</LastName>
+                    <ForeName>Sophie</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2009</Year>
+                <Month>09</Month>
+                <Day>21</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004791">Enzyme Inhibitors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007527">Isoenzymes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D012333">RNA, Messenger</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.11.13</RegistryNumber>
+                <NameOfSubstance UI="D011493">Protein Kinase C</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.11.13</RegistryNumber>
+                <NameOfSubstance UI="C087094">protein kinase C lambda</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001755" MajorTopicYN="N">Blastocyst</DescriptorName>
+                <QualifierName UI="Q000166" MajorTopicYN="Y">cytology</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019070" MajorTopicYN="N">Cell Lineage</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016764" MajorTopicYN="N">Cell Polarity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004789" MajorTopicYN="N">Enzyme Activation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004791" MajorTopicYN="N">Enzyme Inhibitors</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007527" MajorTopicYN="N">Isoenzymes</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018715" MajorTopicYN="N">Microscopy, Video</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008938" MajorTopicYN="N">Mitosis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011493" MajorTopicYN="N">Protein Kinase C</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D034622" MajorTopicYN="N">RNA Interference</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012333" MajorTopicYN="N">RNA, Messenger</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019108" MajorTopicYN="N">Tight Junctions</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2009</Year>
+                <Month>04</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2009</Year>
+                <Month>08</Month>
+                <Day>14</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2009</Year>
+                <Month>9</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2009</Year>
+                <Month>9</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2010</Year>
+                <Month>2</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">19768116</ArticleId>
+            <ArticleId IdType="doi">10.1371/journal.pone.0007117</ArticleId>
+            <ArticleId IdType="pmc">PMC2741596</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Cell Biol. 2001 Mar 19;152(6):1183-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11257119</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biol. 2008 Dec 15;183(6):1129-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19064670</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Sci. 2002 Sep 15;115(Pt 18):3565-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12186943</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2003 Jan 2;421(6918):83-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12511959</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Dev Biol. 2004 Jul 1;271(1):87-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15196952</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Semin Cell Dev Biol. 2004 Oct;15(5):583-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15271304</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2004 Sep 1;173(5):3250-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15322187</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Dev. 2004 Sep 15;18(18):2243-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15371338</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Sci. 2004 Nov 1;117(Pt 23):5599-608</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15494378</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Embryol Exp Morphol. 1967 Aug;18(1):155-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6048976</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 1981 Apr;24(1):71-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7237545</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 1981 Nov;26(3 Pt 1):447-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6976838</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biol. 1986 Feb;102(2):568-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2868015</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Pathol. 1986 Oct;125(1):1-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3535526</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Dev Biol. 1987 Feb;119(2):520-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3803716</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Development. 1988 Jun;103(2):353-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3224558</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Dev Biol. 1989 Aug;134(2):342-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2744237</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Dev Suppl. 1991;1:17-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1742499</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Development. 1993 Mar;117(3):1135-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8325238</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Dev Dyn. 1995 Aug;203(4):393-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7496031</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Dev Biol. 1996 Aug 1;177(2):568-79</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8806832</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Development. 1997 May;124(10):2027-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9169849</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 1998 Oct 30;95(3):379-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9814708</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Sci. 2005 Feb 1;118(Pt 3):505-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15657073</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Development. 2005 Mar;132(5):977-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15689379</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Development. 2005 May;132(9):2093-102</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15788452</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Dev Biol. 2005 Jun 15;282(2):307-19</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15950600</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Development. 2006 May;133(9):1735-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16571631</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Dev Dyn. 2006 Sep;235(9):2301-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16773657</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Neurosci. 2007 Mar;34(3):431-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17223574</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Mol Cell Biol. 2007 Aug;8(8):633-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17643125</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Cell Biol. 2007 Sep;9(9):1066-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17704769</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Development. 2007 Dec;134(23):4219-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17978007</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Cell Biol. 2008 Jan;10(1):61-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18084283</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Dev Biol. 2008 Jan 15;313(2):614-29</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18067887</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Biol. 2008 Jan 22;18(2):91-101</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18207738</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Endocrinol. 2008 Jan 30;282(1-2):70-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18155829</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biol. 2008 Feb 25;180(4):739-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18283112</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochim Biophys Acta. 2008 Mar;1778(3):717-28</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18339299</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Cell Biol. 2008 Apr;10(4):429-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18364700</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Dev. 2008 Oct 1;22(19):2692-706</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18832072</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Dev Biol. 2001 May 1;233(1):161-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11319865</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

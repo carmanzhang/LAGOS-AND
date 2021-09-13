@@ -1,0 +1,1088 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">25372144</PMID>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>25</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>02</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>9</Volume>
+                    <Issue>11</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Zolpidem reduces hippocampal neuronal activity in freely behaving mice: a large scale calcium imaging study with miniaturized fluorescence microscope.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e112068</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0112068</ELocationID>
+            <Abstract>
+                <AbstractText>Therapeutic drugs for cognitive and psychiatric disorders are often characterized by their molecular mechanism of action. Here we demonstrate a new approach to elucidate drug action on large-scale neuronal activity by tracking somatic calcium dynamics in hundreds of CA1 hippocampal neurons of pharmacologically manipulated behaving mice. We used an adeno-associated viral vector to express the calcium sensor GCaMP3 in CA1 pyramidal cells under control of the CaMKII promoter and a miniaturized microscope to observe cellular dynamics. We visualized these dynamics with and without a systemic administration of Zolpidem, a GABAA agonist that is the most commonly prescribed drug for the treatment of insomnia in the United States. Despite growing concerns about the potential adverse effects of Zolpidem on memory and cognition, it remained unclear whether Zolpidem alters neuronal activity in the hippocampus, a brain area critical for cognition and memory. Zolpidem, when delivered at a dose known to induce and prolong sleep, strongly suppressed CA1 calcium signaling. The rate of calcium transients after Zolpidem administration was significantly lower compared to vehicle treatment. To factor out the contribution of changes in locomotor or physiological conditions following Zolpidem treatment, we compared the cellular activity across comparable epochs matched by locomotor and physiological assessments. This analysis revealed significantly depressive effects of Zolpidem regardless of the animal's state. Individual hippocampal CA1 pyramidal cells differed in their responses to Zolpidem with the majority (∼ 65%) significantly decreasing the rate of calcium transients, and a small subset (3%) showing an unexpected and significant increase. By linking molecular mechanisms with the dynamics of neural circuitry and behavioral states, this approach has the potential to contribute substantially to the development of new therapeutics for the treatment of CNS disorders.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Berdyyeva</LastName>
+                    <ForeName>Tamara</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Janssen Research &amp; Development, LLC, San Diego, California, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Otte</LastName>
+                    <ForeName>Stephani</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Inscopix, Palo Alto, California, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aluisio</LastName>
+                    <ForeName>Leah</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Janssen Research &amp; Development, LLC, San Diego, California, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ziv</LastName>
+                    <ForeName>Yaniv</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Inscopix, Palo Alto, California, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Burns</LastName>
+                    <ForeName>Laurie D</ForeName>
+                    <Initials>LD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Inscopix, Palo Alto, California, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dugovic</LastName>
+                    <ForeName>Christine</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Janssen Research &amp; Development, LLC, San Diego, California, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yun</LastName>
+                    <ForeName>Sujin</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Janssen Research &amp; Development, LLC, San Diego, California, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ghosh</LastName>
+                    <ForeName>Kunal K</ForeName>
+                    <Initials>KK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Inscopix, Palo Alto, California, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schnitzer</LastName>
+                    <ForeName>Mark J</ForeName>
+                    <Initials>MJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Inscopix, Palo Alto, California, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lovenberg</LastName>
+                    <ForeName>Timothy</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Janssen Research &amp; Development, LLC, San Diego, California, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bonaventure</LastName>
+                    <ForeName>Pascal</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Janssen Research &amp; Development, LLC, San Diego, California, United States of America.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2014</Year>
+                <Month>11</Month>
+                <Day>05</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D058785">GABA-A Receptor Agonists</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011725">Pyridines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>7K383OQI23</RegistryNumber>
+                <NameOfSubstance UI="D000077334">Zolpidem</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>SY7Q814VUP</RegistryNumber>
+                <NameOfSubstance UI="D002118">Calcium</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001522" MajorTopicYN="N">Behavior, Animal</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D056547" MajorTopicYN="Y">CA1 Region, Hippocampal</DescriptorName>
+                <QualifierName UI="Q000166" MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002118" MajorTopicYN="N">Calcium</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D058785" MajorTopicYN="N">GABA-A Receptor Agonists</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008124" MajorTopicYN="N">Locomotion</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008856" MajorTopicYN="N">Microscopy, Fluorescence</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D057054" MajorTopicYN="N">Molecular Imaging</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D061848" MajorTopicYN="N">Optical Imaging</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017966" MajorTopicYN="Y">Pyramidal Cells</DescriptorName>
+                <QualifierName UI="Q000166" MajorTopicYN="N">cytology</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011725" MajorTopicYN="N">Pyridines</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000077334" MajorTopicYN="N">Zolpidem</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2014</Year>
+                <Month>07</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2014</Year>
+                <Month>10</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>11</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>11</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>12</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">25372144</ArticleId>
+            <ArticleId IdType="doi">10.1371/journal.pone.0112068</ArticleId>
+            <ArticleId IdType="pii">PONE-D-14-32284</ArticleId>
+            <ArticleId IdType="pmc">PMC4221229</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2013 Jan 2;110(1):378-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23256159</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Knee Surg. 2006 Apr;19(2):105-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16642886</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Neurosci. 2010 Dec;32(11):1868-88</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21073549</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuron. 2013 Oct 30;80(3):568-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24183010</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAMA. 2013 Feb 20;309(7):645-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23423392</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Psychopharmacology (Berl). 2011 Apr;214(4):855-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21103864</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Neurosci. 2013 Mar;16(3):264-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23396101</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Neurosci. 2003 May;6(5):484-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12679782</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Front Neural Circuits. 2014;8:3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24550784</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Med Toxicol. 2013 Jun;9(2):163-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23456542</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurophysiol. 1999 Apr;81(4):1575-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10200193</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Can J Anaesth. 2011 Feb;58(2):157-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21170624</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Pharm Des. 2014;20(26):4185-202</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24025063</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Pharmacol. 2005 Jun 1;516(2):131-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15936014</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Synapse. 1999 Mar 15;31(4):263-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10051107</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Psychiatry. 1995 Jul;56(7):309-18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7615484</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hum Psychopharmacol. 2008 Dec;23(8):693-705</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18763235</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Psychopharmacology (Berl). 1994 Nov;116(3):297-303</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7892419</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Neurosci. 2013 Jun;14(6):443-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23635871</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pharmacol Rev. 2011 Mar;63(1):243-67</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21245208</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Psychopharmacology (Berl). 2014 May;231(9):1865-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24563183</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Clin Pharmacol. 1999 Sep;48(3):367-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10510148</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pharmacol Biochem Behav. 2014 Jan;116:129-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24316349</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurophysiol. 2002 Dec;88(6):3208-17</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12466441</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1989 Jun 30;244(4912):1580-2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2740902</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neural Transm (Vienna). 2008 Jun;115(6):795-802</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18217189</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Pharmacol Exp Ther. 2004 Sep;310(3):1234-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15126642</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Neurosci. 2012 Oct;13(10):687-700</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22931891</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Exp Brain Res. 1983;52(1):41-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6628596</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pharmacol Biochem Behav. 2005 Jul;81(3):417-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15913749</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Prim Care Companion J Clin Psychiatry. 2001 Apr;3(2):53-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15014616</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Rev Med Suisse. 2014 Jan 15;10(412-413):119-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24558915</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuron. 2002 Aug 15;35(4):625-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12194864</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Neurosci. 2013 Jul 8;36:79-102</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23642099</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuropharmacology. 2010 Mar;58(3):668-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19941877</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Clin Pharmacol. 2013 Feb 04;:null</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23438725</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurophysiol. 1993 Sep;70(3):1076-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7901345</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Rev Neurosci. 2013;24(3):239-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23585178</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1999 Oct 21;401(6755):796-800</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10548105</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Muscle Nerve. 2006 Jun;33(6):778-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16598788</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuron. 2006 Dec 7;52(5):871-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17145507</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sleep. 2000 Dec 15;23(8):1075-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11145322</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuroscience. 2007 Dec 5;150(2):370-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17950542</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuroscience. 2001;103(4):985-98</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11301206</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Pharmacol. 1998 Dec;125(7):1529-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9884082</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Dialogues Clin Neurosci. 2012 Mar;14(1):7-18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22577300</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Neurosci. 2010 Jul;11(7):523-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20531422</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Top Med Chem. 2002 Aug;2(8):795-816</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12171572</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Front Neurosci. 2013 Dec 24;7:254</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24399926</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2013 Jul 18;499(7458):295-300</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23868258</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Physiol Rev. 2012 Jul;92(3):1087-187</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22811426</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nutr Neurosci. 2001;4(2):109-19</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11842879</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Neurosci. 2007 Jan;10(1):100-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17173043</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Psychopharmacology (Berl). 2013 Apr;226(3):459-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22729271</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sleep. 2014 Mar;37(3):489-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24587571</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Brain Res. 2009 Oct 13;1293:121-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19328775</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuropharmacology. 2009 Feb;56(2):448-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18948124</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuroscience. 1997 Oct;80(4):987-1000</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9284055</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Pharmacol Exp Ther. 2009 Jul;330(1):142-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19363060</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pol J Pharmacol. 1995 May-Jun;47(3):237-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8714756</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Dialogues Clin Neurosci. 2006;8(3):335-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17117615</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuropharmacology. 2007 Mar;52(3):733-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17113111</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sleep. 2012 Jan;35(1):103-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22215924</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Pharmacokinet. 2004;43(4):227-38</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15005637</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuron. 2009 Sep 24;63(6):747-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19778505</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Phys Med Rehabil. 2009 May;88(5):410-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19620954</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nihon Shinkei Seishin Yakurigaku Zasshi. 2000 May;20(2):61-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11062863</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Methods. 2011;8(10):871-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21909102</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Neurosci. 2010 Jan;13(1):9-17</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19966841</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuron. 2012 Jan 12;73(1):23-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22243744</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cereb Cortex. 2015 Sep;25(9):2594-609</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24692513</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Brain Res. 2010 Jan 15;1310:181-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19914223</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Psychopharmacol. 2012 Aug;26(8):1081-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22057018</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Methods. 2013 May;10(5):413-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23524393</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Expert Opin Pharmacother. 2012 Apr;13(6):879-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22424586</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Behav Neurosci. 1995 Dec;109(6):1081-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8748959</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Neurosci. 2008 Sep;31(9):469-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18687478</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Psychopharmacol. 1993 Apr;13(2):100-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8463441</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neural Comput. 2011 Jan;23(1):183-214</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20964542</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Prog Neuropsychopharmacol Biol Psychiatry. 2005 May;29(4):557-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15866358</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Physiol. 2006 Sep 15;575(Pt 3):721-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16809358</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuropediatrics. 2010 Oct;41(5):223-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21210338</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Exp Clin Psychopharmacol. 2012 Feb;20(1):28-39</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21928913</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neural Transm (Vienna). 1999;106(5-6):369-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10443544</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuroscience. 2000;96(3):507-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10717431</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Pharmacol. 2003 Jan;63(1):2-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12488530</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sci China Life Sci. 2014 Mar;57(3):269-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24390420</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurophysiol. 2014 Jul 15;112(2):287-99</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24760781</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuropharmacology. 2009 Jun;56(8):1124-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19345234</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sci Transl Med. 2013 Apr 3;5(179):179ra44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23552372</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Prim Care Companion J Clin Psychiatry. 2010;12(6):null</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21494350</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hippocampus. 1998;8(6):608-19</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9882018</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur Neuropsychopharmacol. 1996 May;6(2):119-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8791037</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuron. 2004 Sep 30;44(1):109-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15450164</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci. 2010 Jan 6;30(1):230-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20053905</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Med Sci. 2014 Mar;347(3):178-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23462249</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Prim Care Companion J Clin Psychiatry. 2007;9(1):25-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17599165</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Pharmacol Exp Ther. 1986 May;237(2):649-58</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2871178</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurochem. 2006 Jun;97(5):1349-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16573642</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Neurosci. 2005 Jun;21(11):3002-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15978011</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sleep. 2008 Feb;31(2):259-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18274274</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuroscience. 2000;101(4):815-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11113332</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Drug Saf. 2007 Sep;2(3):220-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18690971</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Behav Brain Res. 2010 Jun 26;210(1):54-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20153782</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>CNS Drugs. 2004;18 Suppl 1:9-15; discussion 41, 43-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15291009</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Recent Pat CNS Drug Discov. 2008 Jan;3(1):55-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18221242</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Front Neurosci. 2014 Feb 14;8:28</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24592208</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Prog Brain Res. 2011;193:17-38</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21854953</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Physiol. 2011 Oct 15;589(Pt 20):4959-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21825022</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Med. 2011 Feb;17(2):223-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21240263</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci. 1999 Jan 15;19(2):578-88</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9880578</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Pharmacol Exp Ther. 1990 Dec;255(3):1246-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2262904</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuroscience. 2013 Apr 16;236:345-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23337532</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>ACS Nano. 2013 Mar 26;7(3):1850-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23514423</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Brain. 2011;4:42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22107761</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Psychiatry. 2007;68 Suppl 5:6-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17539703</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Psychopharmacol. 2009 Jun;29(3):222-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19440075</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Med Res Opin. 2008 Mar;24(3):837-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18257978</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Med Chem. 2007;14(25):2680-701</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17979718</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci. 2013 Mar 6;33(10):4494-504</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23467365</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pharmacol Biochem Behav. 2011 Mar;98(1):81-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21182854</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neurosci Lett. 1998 Apr 3;245(2):77-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9605489</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Psychopharmacology (Berl). 2009 Dec;207(3):461-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19798483</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2013;8(9):e73114</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24023818</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hippocampus. 2010 Nov;20(11):1315-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20928831</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuroreport. 2004 Oct 5;15(14):2299-302</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15371753</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>CNS Drugs. 2004;18(5):297-328</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15089115</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Funct Neurol. 2013 Oct-Dec;28(4):259-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24598393</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Sleep Res. 2009 Dec;18(4):387-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19552733</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Pharm Des. 2014;20(26):4154-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24025066</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Psychopharmacol. 1999;13(4 Suppl 1):S11-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10667451</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Pharmacol. 1996 Oct 10;313(1-2):35-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8905326</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Pharm Des. 2014;20(26):4121-39</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24025054</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Pharmacol. 2000 Dec;131(7):1251-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11090095</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Biol. 2012;10:26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22420899</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Neurosci. 2000 Jun;3(6):587-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10816315</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Pharm Des. 2011;17(15):1471-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21476952</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">2715286</PMID>
+        <DateCompleted>
+            <Year>1989</Year>
+            <Month>06</Month>
+            <Day>22</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>12</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>488</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>1989</Year>
+                        <Month>Mar</Month>
+                        <Day>17</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of chromatography</Title>
+                <ISOAbbreviation>J. Chromatogr.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Determination of the new monoamine oxidase inhibitor brofaromine and its major metabolite in biological material by gas chromatography with electron-capture detection.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>275-82</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>A sensitive gas chromatographic assay for the simultaneous determination of brofaromine [4-(7-bromo-5-methoxy-2-benzofuranyl)piperidine hydrochloride], a new monoamine oxidase-A inhibitor, and its major metabolite was developed and validated. After addition of 4-(5-bromo-2-benzofuranyl)piperidine as internal standard, the compounds were isolated from biological fluids by liquid-liquid extraction at basic pH. After derivatization with heptafluorobutyric anhydride the compounds were chromatographed using a packed column (OV-17) and an electron-capture detector. The limit of quantitation was ca. 0.03 nmol per sample (10 ng) for both compounds. analysis of spiked samples demonstrated the good accuracy and precision of the method, which is suitable for use in pharmacokinetic and bioavailability studies. The method was applied to samples from an experiment in a healthy volunteer treated with a single oral dose of 75 mg of brofaromine hydrochloride. Plasma profiles before and after enzymic hydrolysis showed that about one-third of the total brofaromine in plasma and practically all of the major metabolite (O-desmethylbrofaromine) were present in the conjugated form.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Schneider</LastName>
+                    <ForeName>W</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Research and Development Department, Pharmaceuticals Division, Basle, Switzerland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Keller</LastName>
+                    <ForeName>B</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Degen</LastName>
+                    <ForeName>P H</ForeName>
+                    <Initials>PH</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>J Chromatogr</MedlineTA>
+            <NlmUniqueID>0427043</NlmUniqueID>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D008996">Monoamine Oxidase Inhibitors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010880">Piperidines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>6WV4B8Q07H</RegistryNumber>
+                <NameOfSubstance UI="C038213">brofaromine</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D055598" MajorTopicYN="N">Chemical Phenomena</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002621" MajorTopicYN="N">Chemistry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002849" MajorTopicYN="N">Chromatography, Gas</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004563" MajorTopicYN="N">Electrochemistry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007700" MajorTopicYN="N">Kinetics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008996" MajorTopicYN="N">Monoamine Oxidase Inhibitors</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName UI="Q000652" MajorTopicYN="N">urine</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010880" MajorTopicYN="N">Piperidines</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName UI="Q000652" MajorTopicYN="N">urine</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1989</Year>
+                <Month>3</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1989</Year>
+                <Month>3</Month>
+                <Day>17</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1989</Year>
+                <Month>3</Month>
+                <Day>17</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">2715286</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

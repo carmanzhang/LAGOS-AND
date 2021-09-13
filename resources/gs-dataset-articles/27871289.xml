@@ -1,0 +1,640 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">27871289</PMID>
+        <DateCompleted>
+            <Year>2017</Year>
+            <Month>10</Month>
+            <Day>05</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1742-2094</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>13</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>11</Month>
+                        <Day>21</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of neuroinflammation</Title>
+                <ISOAbbreviation>J Neuroinflammation</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Inhibition of STAT3- and MAPK-dependent PGE<sub>2</sub> synthesis ameliorates phagocytosis of fibrillar β-amyloid peptide (1-42) via EP2 receptor in EMF-stimulated N9 microglial cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>296</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND">Prostaglandin E<sub>2</sub> (PGE<sub>2</sub>)-involved neuroinflammatory processes are prevalent in several neurological conditions and diseases. Amyloid burden is correlated with the activation of E-prostanoid (EP) 2 receptors by PGE<sub>2</sub> in Alzheimer's disease. We previously demonstrated that electromagnetic field (EMF) exposure can induce pro-inflammatory responses and the depression of phagocytosis in microglial cells, but the signaling pathways involved in phagocytosis of fibrillar β-amyloid (fAβ) in microglial cells exposed to EMF are poorly understood. Given the important role of PGE<sub>2</sub> in neural physiopathological processes, we investigated the PGE<sub>2</sub>-related signaling mechanism in the immunomodulatory phagocytosis of EMF-stimulated N9 microglial cells (N9 cells).</AbstractText>
+                <AbstractText Label="METHODS">N9 cells were exposed to EMF with or without pretreatment with the selective inhibitors of cyclooxygenase-2 (COX-2), Janus kinase 2 (JAK2), signal transducer and activator of transcription 3 (STAT3), and mitogen-activated protein kinases (MAPKs) and antagonists of PG receptors EP1-4. The production of endogenous PGE<sub>2</sub> was quantified by enzyme immunoassays. The phagocytic ability of N9 cells was evaluated based on the fluorescence intensity of the engulfed fluorescent-labeled fibrillar β-amyloid peptide (1-42) (fAβ<sub>42</sub>) measured using a flow cytometer and a fluorescence microscope. The effects of pharmacological agents on EMF-activated microglia were investigated based on the expressions of JAK2, STAT3, p38/ERK/JNK MAPKs, COX-2, microsomal prostaglandin E synthase-1 (mPGES-1), and EP2 using real-time PCR and/or western blotting.</AbstractText>
+                <AbstractText Label="RESULTS">EMF exposure significantly increased the production of PGE<sub>2</sub> and decreased the phagocytosis of fluorescent-labeled fAβ<sub>42</sub> by N9 cells. The selective inhibitors of COX-2, JAK2, STAT3, and MAPKs clearly depressed PGE<sub>2</sub> release and ameliorated microglial phagocytosis after EMF exposure. Pharmacological agents suppressed the phosphorylation of JAK2-STAT3 and MAPKs, leading to the amelioration of the phagocytic ability of EMF-stimulated N9 cells. Antagonist studies of EP1-4 receptors showed that EMF depressed the phagocytosis of fAβ<sub>42</sub> through the PGE<sub>2</sub> system, which is linked to EP2 receptors.</AbstractText>
+                <AbstractText Label="CONCLUSIONS">This study indicates that EMF exposure could induce phagocytic depression via JAK2-STAT3- and MAPK-dependent PGE<sub>2</sub>-EP2 receptor signaling pathways in microglia. Therefore, pharmacological inhibition of PGE<sub>2</sub> synthesis and EP2 receptors may be a potential therapeutic strategy to combat the neurobiological deterioration that follows EMF exposure.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>He</LastName>
+                    <ForeName>Gen-Lin</ForeName>
+                    <Initials>GL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Tropic Hygiene, Institute of Tropical Medicine, Third Military Medical University, 30 Gaotanyan Street, Chongqing, 400038, People's Republic of China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Luo</LastName>
+                    <ForeName>Zhen</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Tropic Hygiene, Institute of Tropical Medicine, Third Military Medical University, 30 Gaotanyan Street, Chongqing, 400038, People's Republic of China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shen</LastName>
+                    <ForeName>Ting-Ting</ForeName>
+                    <Initials>TT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Tropic Hygiene, Institute of Tropical Medicine, Third Military Medical University, 30 Gaotanyan Street, Chongqing, 400038, People's Republic of China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Ping</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Tropic Hygiene, Institute of Tropical Medicine, Third Military Medical University, 30 Gaotanyan Street, Chongqing, 400038, People's Republic of China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Ju</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Tropic Hygiene, Institute of Tropical Medicine, Third Military Medical University, 30 Gaotanyan Street, Chongqing, 400038, People's Republic of China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Luo</LastName>
+                    <ForeName>Xue</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Tropic Hygiene, Institute of Tropical Medicine, Third Military Medical University, 30 Gaotanyan Street, Chongqing, 400038, People's Republic of China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Chun-Hai</ForeName>
+                    <Initials>CH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Medical Protection for Electromagnetic Radiation Ministry of Education, Third Military Medical University, Chongqing, 400038, People's Republic of China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gao</LastName>
+                    <ForeName>Peng</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Key Laboratory of Medical Protection for Electromagnetic Radiation Ministry of Education, Third Military Medical University, Chongqing, 400038, People's Republic of China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Xue-Sen</ForeName>
+                    <Initials>XS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Tropic Hygiene, Institute of Tropical Medicine, Third Military Medical University, 30 Gaotanyan Street, Chongqing, 400038, People's Republic of China. xuesenyyy@aliyun.com.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>11</Month>
+                <Day>21</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Neuroinflammation</MedlineTA>
+            <NlmUniqueID>101222974</NlmUniqueID>
+            <ISSNLinking>1742-2094</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016229">Amyloid beta-Peptides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016207">Cytokines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004791">Enzyme Inhibitors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010446">Peptide Fragments</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D050796">STAT3 Transcription Factor</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C075222">amyloid beta-protein (1-42)</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>31C4KY9ESH</RegistryNumber>
+                <NameOfSubstance UI="D009569">Nitric Oxide</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.14.99.1</RegistryNumber>
+                <NameOfSubstance UI="D051546">Cyclooxygenase 2</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.12.2</RegistryNumber>
+                <NameOfSubstance UI="D020929">Mitogen-Activated Protein Kinase Kinases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>K7Q1JQR04M</RegistryNumber>
+                <NameOfSubstance UI="D015232">Dinoprostone</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D016229" MajorTopicYN="N">Amyloid beta-Peptides</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002461" MajorTopicYN="N">Cell Line, Transformed</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051546" MajorTopicYN="N">Cyclooxygenase 2</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016207" MajorTopicYN="N">Cytokines</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015232" MajorTopicYN="N">Dinoprostone</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004305" MajorTopicYN="N">Dose-Response Relationship, Drug</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004307" MajorTopicYN="N">Dose-Response Relationship, Radiation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004574" MajorTopicYN="N">Electromagnetic Fields</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004791" MajorTopicYN="N">Enzyme Inhibitors</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005434" MajorTopicYN="N">Flow Cytometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005786" MajorTopicYN="N">Gene Expression Regulation</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName UI="Q000528" MajorTopicYN="N">radiation effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017628" MajorTopicYN="N">Microglia</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName UI="Q000528" MajorTopicYN="N">radiation effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020929" MajorTopicYN="N">Mitogen-Activated Protein Kinase Kinases</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009569" MajorTopicYN="N">Nitric Oxide</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010446" MajorTopicYN="N">Peptide Fragments</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010587" MajorTopicYN="N">Phagocytosis</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName UI="Q000528" MajorTopicYN="N">radiation effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D050796" MajorTopicYN="N">STAT3 Transcription Factor</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015398" MajorTopicYN="N">Signal Transduction</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName UI="Q000528" MajorTopicYN="N">radiation effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013997" MajorTopicYN="N">Time Factors</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="Y">EMF</Keyword>
+            <Keyword MajorTopicYN="Y">Microglia</Keyword>
+            <Keyword MajorTopicYN="Y">PGE2</Keyword>
+            <Keyword MajorTopicYN="Y">Phagocytosis</Keyword>
+            <Keyword MajorTopicYN="Y">Synthesis</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>08</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>11</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>11</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>11</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>10</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">27871289</ArticleId>
+            <ArticleId IdType="doi">10.1186/s12974-016-0762-9</ArticleId>
+            <ArticleId IdType="pii">10.1186/s12974-016-0762-9</ArticleId>
+            <ArticleId IdType="pmc">PMC5117690</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Toxicology. 2008 Apr 18;246(2-3):248-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18453044</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int Immunopharmacol. 2011 Aug;11(8):1137-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21396905</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neurology. 1996 Dec;47(6):1477-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8960730</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Glia. 1993 Mar;7(3):255-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7681038</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Radiat Biol. 2010 Jan;86(1):27-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20070213</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biochem. 2006 Sep 1;99(1):168-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16598759</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biochem. 2009 Dec 1;108(5):1143-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19739103</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Brain Behav Immun. 2015 Aug;48:86-101</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25774009</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Brain Res. 2010 Apr 6;1323:11-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20144888</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMJ. 2006 Apr 15;332(7546):883-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16428250</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Toxicol Environ Health A. 1998 May 8;54(1):63-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9588349</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci. 2008 Aug 13;28(33):8354-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18701698</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2012;7(2):e29790</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22328918</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Glia. 2008 Jun;56(8):844-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18383341</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Immunol. 1989 Aug;19(8):1443-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2789141</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Histochem. 2005 Jan-Mar;49(1):75-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15823797</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2007 Apr 20;282(16):11613-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17329241</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anesth Analg. 2010 Aug;111(2):554-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20610553</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Immunol. 2006 Jun;119(3):229-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16540375</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neurobiol Dis. 2004 Dec;17(3):445-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15571980</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci. 2005 Sep 7;25(36):8240-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16148231</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Pathol. 2007 Feb;170(2):680-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17255335</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol Gastrointest Liver Physiol. 2002 Sep;283(3):G503-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12181161</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gene Expr. 2002;10(5-6):271-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12450219</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neuroinflammation. 2014 Mar 19;11:49</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24645646</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Apoptosis. 2010 Sep;15(9):1147-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20336374</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Epidemiol. 2006 Mar 15;163(6):512-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16443797</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neuroinflammation. 2010 Sep 09;7:54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20828402</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Biochem Cell Biol. 2010 Feb;42(2):198-201</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19788928</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Protoc. 2008;3(6):1101-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18546601</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nitric Oxide. 2000 Apr;4(2):103-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10835290</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 2015 Jan;125(1):350-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25485684</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neuroinflammation. 2012 Jan 03;9:2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22214188</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2000 Oct 20;275(42):32783-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10869354</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Aging Cell. 2014 Aug;13(4):605-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24621265</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neurology. 1999 Oct 22;53(7):1495-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10534257</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Neurobiol. 2014 Jun;49(3):1422-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24395130</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1999 Jun 22;96(13):7220-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10377395</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2004 Nov 19;279(47):49523-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15347683</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neurobiol Aging. 2000 May-Jun;21(3):383-421</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10858586</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2001 Feb 9;276(6):4469-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11067848</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biomed Pharmacother. 2008 Apr-May;62(4):273-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18424058</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Toxicology. 2007 Aug 16;238(1):23-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17624651</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Alzheimers Dis. 2010;22(2):493-505</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20847443</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci. 2005 Nov 2;25(44):10180-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16267225</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Pathol. 2010 Jul;177(1):346-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20522650</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Pharm Des. 2006;12 (8):943-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16533161</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Pathol. 2005 Apr;166(4):1163-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15793296</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Epidemiol. 2008 Apr;37(2):329-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18245151</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2010 Dec 24;330(6012):1774</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21148344</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol Cell Physiol. 2010 Aug;299(2):C324-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20484658</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurol Neurosurg Psychiatry. 2006 Jan;77(1):85-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15944180</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Cell Biol. 2001 Aug;80(8):562-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11561907</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2016 Jan 29;11(1):e0147721</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26824354</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

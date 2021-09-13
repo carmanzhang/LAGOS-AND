@@ -1,0 +1,125 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">26429467</PMID>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>12</Month>
+            <Day>23</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>10</Month>
+            <Day>02</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1089-7623</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>86</Volume>
+                    <Issue>9</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Review of scientific instruments</Title>
+                <ISOAbbreviation>Rev Sci Instrum</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Simple-design ultra-low phase noise microwave frequency synthesizers for high-performing Cs and Rb vapor-cell atomic clocks.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>094707</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1063/1.4929384</ELocationID>
+            <Abstract>
+                <AbstractText>We report on the development and characterization of novel 4.596 GHz and 6.834 GHz microwave frequency synthesizers devoted to be used as local oscillators in high-performance Cs and Rb vapor-cell atomic clocks. The key element of the synthesizers is a custom module that integrates a high spectral purity 100 MHz oven controlled quartz crystal oscillator frequency-multiplied to 1.6 GHz with minor excess noise. Frequency multiplication, division, and mixing stages are then implemented to generate the exact output atomic resonance frequencies. Absolute phase noise performances of the output 4.596 GHz signal are measured to be -109 and -141 dB rad(2)/Hz at 100 Hz and 10 kHz Fourier frequencies, respectively. The phase noise of the 6.834 GHz signal is -105 and -138 dB rad(2)/Hz at 100 Hz and 10 kHz offset frequencies, respectively. The performances of the synthesis chains contribute to the atomic clock short term fractional frequency stability at a level of 3.1 × 10(-14) for the Cs cell clock and 2 × 10(-14) for the Rb clock at 1 s averaging time. This value is comparable with the clock shot noise limit. We describe the residual phase noise measurements of key components and stages to identify the main limitations of the synthesis chains. The residual frequency stability of synthesis chains is measured to be at the 10(-15) level for 1 s integration time. Relevant advantages of the synthesis design, using only commercially available components, are to combine excellent phase noise performances, simple-architecture, low-cost, and to be easily customized for signal output generation at 4.596 GHz or 6.834 GHz for applications to Cs or Rb vapor-cell frequency standards. </AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>François</LastName>
+                    <ForeName>B</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>FEMTO-ST, CNRS, Université de Franche-Comté, 26 chemin de l'Epitaphe, 25030 Besançon, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Calosso</LastName>
+                    <ForeName>C E</ForeName>
+                    <Initials>CE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>INRIM, Strada delle Cacce 91, 10135 Torino, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Abdel Hafiz</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>FEMTO-ST, CNRS, Université de Franche-Comté, 26 chemin de l'Epitaphe, 25030 Besançon, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Micalizio</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>INRIM, Strada delle Cacce 91, 10135 Torino, Italy.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Boudot</LastName>
+                    <ForeName>R</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>FEMTO-ST, CNRS, Université de Franche-Comté, 26 chemin de l'Epitaphe, 25030 Besançon, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Rev Sci Instrum</MedlineTA>
+            <NlmUniqueID>0405571</NlmUniqueID>
+            <ISSNLinking>0034-6748</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26429467</ArticleId>
+            <ArticleId IdType="doi">10.1063/1.4929384</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

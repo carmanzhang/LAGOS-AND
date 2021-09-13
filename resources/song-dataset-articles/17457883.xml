@@ -1,0 +1,153 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">17457883</PMID>
+        <DateCompleted>
+            <Year>2007</Year>
+            <Month>06</Month>
+            <Day>13</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>05</Month>
+            <Day>25</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0740-3194</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>57</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2007</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Magnetic resonance in medicine</Title>
+                <ISOAbbreviation>Magn Reson Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Complex data analysis in high-resolution SSFP fMRI.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>905-17</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>In transition-band steady-state free precession (SSFP) functional MRI (fMRI), functional contrast originates from a bulk frequency shift induced by a deoxygenated hemoglobin concentration change in the activated brain regions. This frequency shift causes a magnitude and/or phase-signal change depending on the off-resonance distribution of a voxel in the balanced-SSFP (bSSFP) profile. However, in early low-resolution studies, only the magnitude signal activations were shown. In this paper the task-correlated phase-signal change is presented in a high-resolution (1 x 1 x 1 mm3) study. To include this phase activation in a functional analysis, a new complex domain data analysis method is proposed. The results show statistically significant phase-signal changes in a large number of voxels comparable to that of the magnitude-activated voxels. The complex-data analysis method successfully includes these phase activations in the activation map and thus provides wider coverage compared to magnitude-data analysis results.</AbstractText>
+                <CopyrightInformation>(c) 2007 Wiley-Liss, Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Jongho</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Magnetic Resonance Systems Research Laboratory, Department of Electrical Engineering, Stanford University, Stanford, California 94305-9510, USA. jonghoyi@mrsrl.stanford.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shahram</LastName>
+                    <ForeName>Morteza</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schwartzman</LastName>
+                    <ForeName>Armin</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pauly</LastName>
+                    <ForeName>John M</ForeName>
+                    <Initials>JM</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R21EB002969</GrantID>
+                    <Acronym>EB</Acronym>
+                    <Agency>NIBIB NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Magn Reson Med</MedlineTA>
+            <NlmUniqueID>8505245</NlmUniqueID>
+            <ISSNLinking>0740-3194</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Magn Reson Med. 2009 Nov;62(5):1356-7; author reply 1358-60</RefSource>
+                <PMID Version="1">19705465</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000465" MajorTopicYN="N">Algorithms</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001931" MajorTopicYN="N">Brain Mapping</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003198" MajorTopicYN="N">Computer Simulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007091" MajorTopicYN="N">Image Processing, Computer-Assisted</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008279" MajorTopicYN="Y">Magnetic Resonance Imaging</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015233" MajorTopicYN="N">Models, Statistical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008962" MajorTopicYN="N">Models, Theoretical</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2007</Year>
+                <Month>4</Month>
+                <Day>26</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2007</Year>
+                <Month>6</Month>
+                <Day>15</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2007</Year>
+                <Month>4</Month>
+                <Day>26</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">17457883</ArticleId>
+            <ArticleId IdType="doi">10.1002/mrm.21195</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

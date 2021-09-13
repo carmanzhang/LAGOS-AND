@@ -1,0 +1,164 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">12123489</PMID>
+        <DateCompleted>
+            <Year>2003</Year>
+            <Month>02</Month>
+            <Day>12</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2008</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0009-9163</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>62</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2002</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical genetics</Title>
+                <ISOAbbreviation>Clin. Genet.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Quantification of CFTR splice variants in adults with disseminated bronchiectasis, using the TaqMan fluorogenic detection system.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>60-7</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Mutations in the cystic fibrosis transmembrane conductance regulator (CFTR) gene are associated with different related disorders such as congenital bilateral absence of the vas deferens, chronic idiopathic pancreatitis, or disseminated bronchiectasis (DB). Many different disease-causing mutations are associated with DB, particularly the 5T allele (IVS 8 polyT tract), a variant of the splice acceptor site at the end of intron 8 that affects the efficiency with which the site is used. It therefore affects the accuracy of exon 9 splicing and hence expression of the functional CFTR protein. In this study we quantified transcripts from nasal biopsies of patients with DB compared to normal controls. We developed a real-time quantitative reverse transcription polymerase chain reaction assay (using the TaqMan system) to evaluate the relative amounts of accurately spliced transcript, and transcript lacking exon 9. Patients with the 5T allele had increased amounts of aberrant transcript: in genotypes 5T/7T, 7T/7T and 9T/7T, mean fractions of 38.4%, 3.5% and 0.6%, respectively, of transcripts had been spliced incorrectly. There was also some evidence that nasal biopsies can provide similar information on transcripts to bronchial biopsies. This functional test is of interest for monitoring the amount of CFTR transcript in different clinical situations or to monitor the effect of drugs on CFTR transcription.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Andrieux</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratoire de Génétique Moléculaire, EFS-Bretagne-CHU, 29200 Brest, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Audrézet</LastName>
+                    <ForeName>M P</ForeName>
+                    <Initials>MP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Frachon</LastName>
+                    <ForeName>I</ForeName>
+                    <Initials>I</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Leroyer</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Roge</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Scotet</LastName>
+                    <ForeName>V</ForeName>
+                    <Initials>V</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Férec</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Denmark</Country>
+            <MedlineTA>Clin Genet</MedlineTA>
+            <NlmUniqueID>0253664</NlmUniqueID>
+            <ISSNLinking>0009-9163</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C505032">CFTR protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D005456">Fluorescent Dyes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>126880-72-6</RegistryNumber>
+                <NameOfSubstance UI="D019005">Cystic Fibrosis Transmembrane Conductance Regulator</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001987" MajorTopicYN="N">Bronchiectasis</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019005" MajorTopicYN="N">Cystic Fibrosis Transmembrane Conductance Regulator</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005456" MajorTopicYN="N">Fluorescent Dyes</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014644" MajorTopicYN="N">Genetic Variation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012323" MajorTopicYN="N">RNA Processing, Post-Transcriptional</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012326" MajorTopicYN="N">RNA Splicing</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2002</Year>
+                <Month>7</Month>
+                <Day>19</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2003</Year>
+                <Month>2</Month>
+                <Day>14</Day>
+                <Hour>4</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2002</Year>
+                <Month>7</Month>
+                <Day>19</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">12123489</ArticleId>
+            <ArticleId IdType="pii">cge620108</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

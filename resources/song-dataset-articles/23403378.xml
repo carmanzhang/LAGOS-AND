@@ -1,0 +1,454 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">23403378</PMID>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>07</Month>
+            <Day>29</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1559-7016</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>33</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism</Title>
+                <ISOAbbreviation>J Cereb Blood Flow Metab</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Quantitative imaging of cerebral blood flow velocity and intracellular motility using dynamic light scattering-optical coherence tomography.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>819-25</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1038/jcbfm.2013.20</ELocationID>
+            <Abstract>
+                <AbstractText>This paper describes a novel optical method for label-free quantitative imaging of cerebral blood flow (CBF) and intracellular motility (IM) in the rodent cerebral cortex. This method is based on a technique that integrates dynamic light scattering (DLS) and optical coherence tomography (OCT), named DLS-OCT. The technique measures both the axial and transverse velocities of CBF, whereas conventional Doppler OCT measures only the axial one. In addition, the technique produces a three-dimensional map of the diffusion coefficient quantifying nontranslational motions. In the DLS-OCT diffusion map, we observed high-diffusion spots, whose locations highly correspond to neuronal cell bodies and whose diffusion coefficient agreed with that of the motion of intracellular organelles reported in vitro in the literature. Therefore, the present method has enabled, for the first time to our knowledge, label-free imaging of the diffusion-like motion of intracellular organelles in vivo. As an example application, we used the method to monitor CBF and IM during a brief ischemic stroke, where we observed an induced persistent reduction in IM despite the recovery of CBF after stroke. This result supports that the IM measured in this study represent the cellular energy metabolism-related active motion of intracellular organelles rather than free diffusion of intracellular macromolecules.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Jonghwan</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Martinos Center for Biomedical Imaging, Massachusetts General Hospital, Harvard Medical School, Charlestown, Massachusetts 02129, USA. jonghwan@nmr.mgh.harvard.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Radhakrishnan</LastName>
+                    <ForeName>Harsha</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wu</LastName>
+                    <ForeName>Weicheng</ForeName>
+                    <Initials>W</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Daneshmand</LastName>
+                    <ForeName>Ali</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Climov</LastName>
+                    <ForeName>Mihail</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ayata</LastName>
+                    <ForeName>Cenk</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Boas</LastName>
+                    <ForeName>David A</ForeName>
+                    <Initials>DA</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01-EB000790</GrantID>
+                    <Acronym>EB</Acronym>
+                    <Agency>NIBIB NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P01NS055104</GrantID>
+                    <Acronym>NS</Acronym>
+                    <Agency>NINDS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 NS057476</GrantID>
+                    <Acronym>NS</Acronym>
+                    <Agency>NINDS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 EB000790</GrantID>
+                    <Acronym>EB</Acronym>
+                    <Agency>NIBIB NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P01 NS055104</GrantID>
+                    <Acronym>NS</Acronym>
+                    <Agency>NINDS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01-NS057476</GrantID>
+                    <Acronym>NS</Acronym>
+                    <Agency>NINDS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>02</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Cereb Blood Flow Metab</MedlineTA>
+            <NlmUniqueID>8112566</NlmUniqueID>
+            <ISSNLinking>0271-678X</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001783" MajorTopicYN="Y">Blood Flow Velocity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001921" MajorTopicYN="N">Brain</DescriptorName>
+                <QualifierName UI="Q000098" MajorTopicYN="Y">blood supply</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002545" MajorTopicYN="N">Brain Ischemia</DescriptorName>
+                <QualifierName UI="Q000175" MajorTopicYN="Y">diagnosis</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002560" MajorTopicYN="Y">Cerebrovascular Circulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004867" MajorTopicYN="N">Equipment Design</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008027" MajorTopicYN="N">Light</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009474" MajorTopicYN="N">Neurons</DescriptorName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017207" MajorTopicYN="N">Rats, Sprague-Dawley</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012542" MajorTopicYN="N">Scattering, Radiation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020521" MajorTopicYN="N">Stroke</DescriptorName>
+                <QualifierName UI="Q000175" MajorTopicYN="Y">diagnosis</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D041623" MajorTopicYN="N">Tomography, Optical Coherence</DescriptorName>
+                <QualifierName UI="Q000295" MajorTopicYN="Y">instrumentation</QualifierName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>2</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>2</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>7</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">23403378</ArticleId>
+            <ArticleId IdType="pii">jcbfm201320</ArticleId>
+            <ArticleId IdType="doi">10.1038/jcbfm.2013.20</ArticleId>
+            <ArticleId IdType="pmc">PMC3677104</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Cell Biol. 1984 Feb;98(2):565-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6693496</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Magn Reson Med. 1990 May;14(2):330-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2345513</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Stroke. 1998 May;29(5):939-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9596239</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2000 May 12;298(4):677-89</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10788329</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Opt Lett. 1997 Sep 15;22(18):1439-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18188263</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cereb Blood Flow Metab. 1996 Jan;16(1):53-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8530555</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cereb Blood Flow Metab. 1992 Mar;12(2):193-203</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1548292</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biophys J. 1999 Oct;77(4):2251-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10512844</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1975 Mar 6;254(5495):56-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1113878</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Stroke. 1995 Oct;26(10):1930-3; discussion 1934</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7570750</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1991 May 3;252(5006):686-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17746666</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Opt Express. 2012 Sep 24;20(20):22262-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23037374</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Opt Express. 2012 Jan 30;20(3):2220-39</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22330462</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1991 Nov 22;254(5035):1178-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1957169</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Neurosci. 2003 Jun;4(6):469-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12778119</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biomed Opt. 2011 Aug;16(8):087004</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21895331</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cereb Blood Flow Metab. 2000 Apr;20(4):726-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10779017</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biophys J. 1998 Nov;75(5):2547-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9788950</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1984 Nov;81(21):6747-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6387711</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Opt Express. 2011 Oct 24;19(22):21258-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22108978</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biophotonics. 2011 Sep;4(9):583-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21887769</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Med Image Anal. 1998 Jun;2(2):143-68</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10646760</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Opt Express. 2010 Feb 1;18(3):2858-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20174115</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biophys J. 2004 Aug;87(2):1288-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15298931</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Opt Lett. 2010 Jan 1;35(1):43-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20664667</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biol. 2008 Nov 17;183(4):583-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19001127</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1997 Jun 27;276(5321):2037-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9197265</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Phys Rev A. 1990 Aug 15;42(4):2161-2175</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9904264</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cereb Blood Flow Metab. 1989 Oct;9(5):589-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2674168</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Radiol. 2003 Mar;45(3):185-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12595102</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cereb Blood Flow Metab. 2008 May;28(5):961-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18059431</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cereb Blood Flow Metab. 1982 Sep;2(3):321-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6980224</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Brain Res. 2003 Feb 14;963(1-2):81-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12560113</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuroimage. 1999 Dec;10(6):716-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10600417</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Opt Express. 2011 Mar 14;19(6):5536-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21445192</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur Phys J E Soft Matter. 2008 Aug;26(4):435-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19230214</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 1993 Apr 10;341(8850):925-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8096267</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1998 Dec 22;95(26):15741-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9861040</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

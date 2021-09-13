@@ -1,0 +1,181 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">12481016</PMID>
+        <DateCompleted>
+            <Year>2003</Year>
+            <Month>04</Month>
+            <Day>22</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0893-3952</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>15</Volume>
+                    <Issue>12</Issue>
+                    <PubDate>
+                        <Year>2002</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Modern pathology : an official journal of the United States and Canadian Academy of Pathology, Inc</Title>
+                <ISOAbbreviation>Mod Pathol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Biotinyl-tyramide-based in situ hybridization signal patterns distinguish human papillomavirus type and grade of cervical intraepithelial neoplasia.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1339-47</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>In this study, the prevalence of human papillomavirus integration in cervical intraepithelial neoplasia Grades I, II, and III has been investigated using a highly sensitive biotinyl-tyramide-based in situ hybridization methodology. This method is able to demonstrate integrated viral DNA by punctate signals within the nucleus and episomal viral DNA by a diffuse signal throughout the nucleus. Fifteen viral types were identified by General Primer 5+/6+ polymerase chain reaction assay among 26 Grade I and 22 Grade II/III lesions. High-risk human papillomavirus (Types 16, 18, 31, 33, 35, 39, 45, 51, 52, 56, 58, and 66) was found in 20 (77%) Grade I and in 22 (100%) Grade II/III lesions (P =.025). Human papillomavirus Type 16 was identified in 2 (7%) Grade I and in 15 (68%) Grade II/III samples (P &lt;.0001) and was distinguished from other high-risk types by its demonstration in both Grade I and Grade II/III lesions as frequent punctate signals, detectable at all levels of the epithelium including the basal layer. In contrast, punctate signals, when detected among Grade I lesions that were positive for other high-risk types, did not involve the basal layer and were restricted to occasional cells in the superficial layers. However, Grade II/III lesions positive for high-risk types other than human papillomavirus Type 16 demonstrated frequent punctate signals throughout the epithelium. Overall, punctate signals were detected in 22 (100%) high-risk human papillomavirus-positive Grade II/III lesions and in 5 (25%) high-risk positive Grade I lesions (P &lt;.0001). These data are consistent with human papillomavirus Type 16 possessing a high potential for integration, which may explain its frequent association with cervical intraepithelial neoplasia Grade III and carcinomas. Acquisition of the punctate correlate, especially in the basal layer, is also indicated as important in the development of Grade II/III lesions. The data illustrate the unique potential of biotinyl-tyramide-based in situ hybridization to address key issues concerning the biology of cervical intraepithelial neoplasia.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Evans</LastName>
+                    <ForeName>Mark F</ForeName>
+                    <Initials>MF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pathology, University of Vermont, Burlington, Vermont 05405, USA. mark.evans@uvm.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mount</LastName>
+                    <ForeName>Sharon L</ForeName>
+                    <Initials>SL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Beatty</LastName>
+                    <ForeName>Barbara G</ForeName>
+                    <Initials>BG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cooper</LastName>
+                    <ForeName>Kumarasen</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Mod Pathol</MedlineTA>
+            <NlmUniqueID>8806605</NlmUniqueID>
+            <ISSNLinking>0893-3952</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004279">DNA, Viral</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>6SO6U10H04</RegistryNumber>
+                <NameOfSubstance UI="D001710">Biotin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>X8ZC7V0OX3</RegistryNumber>
+                <NameOfSubstance UI="D014439">Tyramine</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001710" MajorTopicYN="N">Biotin</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018290" MajorTopicYN="N">Cervical Intraepithelial Neoplasia</DescriptorName>
+                <QualifierName UI="Q000473" MajorTopicYN="Y">pathology</QualifierName>
+                <QualifierName UI="Q000821" MajorTopicYN="N">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004279" MajorTopicYN="N">DNA, Viral</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017403" MajorTopicYN="N">In Situ Hybridization</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D027383" MajorTopicYN="N">Papillomaviridae</DescriptorName>
+                <QualifierName UI="Q000145" MajorTopicYN="N">classification</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D030361" MajorTopicYN="N">Papillomavirus Infections</DescriptorName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+                <QualifierName UI="Q000821" MajorTopicYN="N">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016133" MajorTopicYN="N">Polymerase Chain Reaction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012680" MajorTopicYN="N">Sensitivity and Specificity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014407" MajorTopicYN="N">Tumor Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014412" MajorTopicYN="N">Tumor Virus Infections</DescriptorName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+                <QualifierName UI="Q000821" MajorTopicYN="N">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014439" MajorTopicYN="N">Tyramine</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002583" MajorTopicYN="N">Uterine Cervical Neoplasms</DescriptorName>
+                <QualifierName UI="Q000473" MajorTopicYN="Y">pathology</QualifierName>
+                <QualifierName UI="Q000821" MajorTopicYN="N">virology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2002</Year>
+                <Month>12</Month>
+                <Day>14</Day>
+                <Hour>4</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2003</Year>
+                <Month>4</Month>
+                <Day>23</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2002</Year>
+                <Month>12</Month>
+                <Day>14</Day>
+                <Hour>4</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">12481016</ArticleId>
+            <ArticleId IdType="doi">10.1038/modpathol.3880698</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

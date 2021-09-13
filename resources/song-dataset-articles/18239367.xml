@@ -1,0 +1,172 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">18239367</PMID>
+        <DateCompleted>
+            <Year>2008</Year>
+            <Month>04</Month>
+            <Day>08</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>07</Month>
+            <Day>24</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0031-6903</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>128</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2008</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Yakugaku zasshi : Journal of the Pharmaceutical Society of Japan</Title>
+                <ISOAbbreviation>Yakugaku Zasshi</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Liposomal boron delivery system for neutron capture therapy].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>193-208</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Boron neutron capture therapy (BNCT) is a binary cancer treatment based on the nuclear reaction of two essentially nontoxic species, (10)B and thermal neutrons. High accumulation and selective delivery of boron into tumor tissue are the most important requirements to achieve efficient neutron capture therapy of cancers. This review focuses on the liposomal boron delivery system (BDS) as a recent promising approach that meets these requirements for BNCT. BDS involves two strategies: (1) encapsulation of boron in the aqueous core of liposomes and (2) accumulation of boron in the liposomal bilayer. Various boronated liposomes have been developed and significant boron accumulation into tumor tissue with high tumor/blood boron ratios has been achieved by BDS.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Nakamura</LastName>
+                    <ForeName>Hiroyuki</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemistry, Faculty of Science, Gakushuin University, Tokyo, Japan. hiro.nakamura@gakushuin.ac.jp</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>jpn</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D004740">English Abstract</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Japan</Country>
+            <MedlineTA>Yakugaku Zasshi</MedlineTA>
+            <NlmUniqueID>0413613</NlmUniqueID>
+            <ISSNLinking>0031-6903</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004338">Drug Combinations</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D008081">Liposomes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C062969">caffeine, chlorpheniramine, dihydrocodeine, methylephedrine drug combination</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>3G6A5W338E</RegistryNumber>
+                <NameOfSubstance UI="D002110">Caffeine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>3U6IO1965U</RegistryNumber>
+                <NameOfSubstance UI="D002744">Chlorpheniramine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>GN83C131XS</RegistryNumber>
+                <NameOfSubstance UI="D004809">Ephedrine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>Q830PW7520</RegistryNumber>
+                <NameOfSubstance UI="D003061">Codeine</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016754" MajorTopicYN="Y">Boron Neutron Capture Therapy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001932" MajorTopicYN="N">Brain Neoplasms</DescriptorName>
+                <QualifierName UI="Q000532" MajorTopicYN="Y">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002110" MajorTopicYN="N">Caffeine</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002744" MajorTopicYN="N">Chlorpheniramine</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003061" MajorTopicYN="N">Codeine</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+                <QualifierName UI="Q000031" MajorTopicYN="Y">analogs &amp; derivatives</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004338" MajorTopicYN="N">Drug Combinations</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016503" MajorTopicYN="Y">Drug Delivery Systems</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004809" MajorTopicYN="N">Ephedrine</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+                <QualifierName UI="Q000031" MajorTopicYN="Y">analogs &amp; derivatives</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005910" MajorTopicYN="N">Glioma</DescriptorName>
+                <QualifierName UI="Q000532" MajorTopicYN="Y">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008081" MajorTopicYN="Y">Liposomes</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>34</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2008</Year>
+                <Month>2</Month>
+                <Day>2</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2008</Year>
+                <Month>4</Month>
+                <Day>9</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2008</Year>
+                <Month>2</Month>
+                <Day>2</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">18239367</ArticleId>
+            <ArticleId IdType="pii">JST.JSTAGE/yakushi/128.193</ArticleId>
+            <ArticleId IdType="doi">10.1248/yakushi.128.193</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

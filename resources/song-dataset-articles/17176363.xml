@@ -1,0 +1,139 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">17176363</PMID>
+        <DateCompleted>
+            <Year>2007</Year>
+            <Month>01</Month>
+            <Day>24</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2008</Year>
+            <Month>05</Month>
+            <Day>28</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0269-4727</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>31</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2006</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of clinical pharmacy and therapeutics</Title>
+                <ISOAbbreviation>J Clin Pharm Ther</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Role of follow-on drugs and indications on the WHO Essential Drug List.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>585-92</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="INTRODUCTION" NlmCategory="BACKGROUND">The World Health Organization's Essential Drug List (EDL) contains first-in-class drugs and subsequent class entrants (follow-on drugs) deemed necessary to combat diseases prevalent throughout the world, with a special emphasis on developing nations. The EDL also includes originally approved and follow-on indications. There are opposing views regarding the value of follow-on drugs and indications. Critics suggest many follow-on drugs and indications offer little or no benefit to patients. Advocates counter that follow-on drugs offer advantages in terms of improved effectiveness, compliance and patient satisfaction.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">In order to inform this debate on the value of follow-on drugs and indications we examined the numbers of follow-on drugs on the EDL and the extent to which follow-on indications are recommended.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We identified all 312 drugs on the 14th edition of the EDL, omitting 72 non-pharmaceutical entities. For the 240 pharmaceutical entities we ascertained whether the Food and Drug Administration (FDA) had approved them, and, if so, when each was approved. We chose a validated therapeutic classification system - the United States Pharmacopeia's Model Guidelines for Medicare formulary management - in order to distinguish first-in-class and follow-on drugs on the EDL. Specifically, we selected the formulary key drug type as our benchmark therapeutic class. We assigned each EDL drug to a formulary key drug type. We defined first-in-class drugs as the first in each formulary key drug type, and follow-on drugs as all other drugs in each formulary key drug type. We identified follow-on indications by comparing WHO-listed indications with the original approved indication(s) by the FDA. Finally, we examined the therapeutic rating (priority vs. standard) given by the FDA to follow-on drugs on the EDL.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Sixty-three per cent of the EDL drugs were follow-ons; 15% of the indications were follow-on indications. Fourteen drugs were listed in multiple WHO (sub) groupings; and 49% of follow-on drugs were given a priority rating by the FDA.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">In light of the fact that the EDL only includes drugs and indications deemed essential, the large number of follow-on drugs, follow-on indications, and priority-rated follow-on drugs on the EDL suggest their importance. From a public policy perspective, it may prove counterproductive to erect hurdles that impede follow-on research and development.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Cohen</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Tufts Center for Study of Drug Development, Boston, MA 02111, USA. joshua.cohen@tufts.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cabanilla</LastName>
+                    <ForeName>L</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sosnov</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Clin Pharm Ther</MedlineTA>
+            <NlmUniqueID>8704308</NlmUniqueID>
+            <ISSNLinking>0269-4727</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D018954">Drugs, Essential</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D003906" MajorTopicYN="N">Developing Countries</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017277" MajorTopicYN="N">Drug Approval</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018954" MajorTopicYN="N">Drugs, Essential</DescriptorName>
+                <QualifierName UI="Q000145" MajorTopicYN="Y">classification</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011634" MajorTopicYN="N">Public Health</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014481" MajorTopicYN="N" Type="Geographic">United States</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014486" MajorTopicYN="N">United States Food and Drug Administration</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014944" MajorTopicYN="Y">World Health Organization</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2006</Year>
+                <Month>12</Month>
+                <Day>21</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2007</Year>
+                <Month>1</Month>
+                <Day>25</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2006</Year>
+                <Month>12</Month>
+                <Day>21</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">17176363</ArticleId>
+            <ArticleId IdType="pii">JCP777</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1365-2710.2006.00777.x</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

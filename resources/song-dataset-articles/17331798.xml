@@ -1,0 +1,162 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">17331798</PMID>
+        <DateCompleted>
+            <Year>2007</Year>
+            <Month>12</Month>
+            <Day>19</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">1386-1425</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>68</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2007</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Spectrochimica acta. Part A, Molecular and biomolecular spectroscopy</Title>
+                <ISOAbbreviation>Spectrochim Acta A Mol Biomol Spectrosc</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Influence of N-substituent and solvent on internal conversion in 1-aminonaphthalenes.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>220-4</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>N-Methyl-N-methoxycarbonylmethyl-1-aminonaphthalene (MMAN) and N,N-dimethoxycarbonylmethyl-1-aminonaphthalene (DCAN) were synthesized and their fluorescence and absorption spectra in solvents of varied polarity were investigated and compared to those of 1-dimethylaminonaphthylene (DMAN). The data were discussed in terms of the N-substitution effects on the internal conversion (IC). Results showed that the IC was enhanced when the N-methyl group in DMAN was replaced by N-CH2CO2CH3.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sun</LastName>
+                    <ForeName>Xiangying</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Material Sciences and Engineering, Huaqiao University, Quanzhou 362021, China. liumy@hqu.edu.cn</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wen</LastName>
+                    <ForeName>Zhen-Chang</ForeName>
+                    <Initials>ZC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jiang</LastName>
+                    <ForeName>Yun-Bao</ForeName>
+                    <Initials>YB</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2006</Year>
+                <Month>11</Month>
+                <Day>24</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Spectrochim Acta A Mol Biomol Spectrosc</MedlineTA>
+            <NlmUniqueID>9602533</NlmUniqueID>
+            <ISSNLinking>1386-1425</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D012997">Solvents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>6S79D2P9H8</RegistryNumber>
+                <NameOfSubstance UI="C418992">1,8-bis(dimethylamino)naphthalene</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9753I242R5</RegistryNumber>
+                <NameOfSubstance UI="D015057">1-Naphthylamine</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D015057" MajorTopicYN="N">1-Naphthylamine</DescriptorName>
+                <QualifierName UI="Q000031" MajorTopicYN="Y">analogs &amp; derivatives</QualifierName>
+                <QualifierName UI="Q000138" MajorTopicYN="N">chemical synthesis</QualifierName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015394" MajorTopicYN="N">Molecular Structure</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011789" MajorTopicYN="N">Quantum Theory</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012997" MajorTopicYN="N">Solvents</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013050" MajorTopicYN="N">Spectrometry, Fluorescence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013053" MajorTopicYN="N">Spectrophotometry</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2006</Year>
+                <Month>09</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2006</Year>
+                <Month>11</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2006</Year>
+                <Month>11</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2007</Year>
+                <Month>3</Month>
+                <Day>3</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2007</Year>
+                <Month>12</Month>
+                <Day>20</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2007</Year>
+                <Month>3</Month>
+                <Day>3</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">17331798</ArticleId>
+            <ArticleId IdType="pii">S1386-1425(06)00684-6</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.saa.2006.11.017</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,211 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">22362024</PMID>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>05</Month>
+            <Day>07</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1741-0444</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>50</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Medical &amp; biological engineering &amp; computing</Title>
+                <ISOAbbreviation>Med Biol Eng Comput</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The theory of velocity selective neural recording: a study based on simulation.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>309-18</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s11517-012-0874-z</ELocationID>
+            <Abstract>
+                <AbstractText>This paper describes the improvements to the theory of velocity selective recording and some simulation results. In this method, activity in different groups of axons is discriminated by their propagation velocity. A multi-electrode cuff and an array of amplifiers produce multiple neural signals; if artificial delays are inserted and the signals are added, the activity in axons of the matched velocity are emphasized. We call this intrinsic velocity selective recording. However, simulation shows that interpreting the time signals is then not straight-forward and the selectivity Q(v) is low. New theory shows that bandpass filters improve the selectivity and explains why this is true in the time domain. A simulation study investigates the limits on the available velocity selectivity both with and without additive noise and with reasonable sampling rates and analogue-to-digital conversion parameters. Bandpass filters can improve the selectivity by factors up to 7 but this depends on the speed of the action potential and the signal-to-noise ratio.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Taylor</LastName>
+                    <ForeName>John</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Electronic and Electrical Engineering, University of Bath, Bath, UK. j.t.taylor@bath.ac.uk</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schuettler</LastName>
+                    <ForeName>Martin</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Clarke</LastName>
+                    <ForeName>Chris</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Donaldson</LastName>
+                    <ForeName>Nick</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2012</Year>
+                <Month>02</Month>
+                <Day>24</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Med Biol Eng Comput</MedlineTA>
+            <NlmUniqueID>7704869</NlmUniqueID>
+            <ISSNLinking>0140-0118</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000200" MajorTopicYN="N">Action Potentials</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004566" MajorTopicYN="N">Electrodes</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004582" MajorTopicYN="N">Electronics, Medical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008959" MajorTopicYN="Y">Models, Neurological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009431" MajorTopicYN="N">Neural Conduction</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012815" MajorTopicYN="N">Signal Processing, Computer-Assisted</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2011</Year>
+                <Month>11</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2012</Year>
+                <Month>02</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>2</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>3</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>5</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">22362024</ArticleId>
+            <ArticleId IdType="doi">10.1007/s11517-012-0874-z</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Med Biol Eng Comput. 1992 May;30(3):303-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1453802</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IEEE Trans Neural Syst Rehabil Eng. 2006 Dec;14(4):427-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17190035</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Med Eng Phys. 2004 Jul;26(6):531-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15234689</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Med Biol Eng Comput. 2004 Sep;42(5):634-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15503964</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Med Eng Phys. 2009 Dec;31(10):1261-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19762269</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acta Physiol Scand Suppl. 1969;321:1-168</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">5383732</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biophys J. 1997 Jun;72(6):2457-69</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9168022</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci Methods. 1981 Oct;4(3):211-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7300428</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Med Biol Eng Comput. 2008 Oct;46(10):1005-18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18696136</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Artif Organs. 1997 Mar;21(3):250-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9148718</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

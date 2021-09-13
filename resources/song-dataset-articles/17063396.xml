@@ -1,0 +1,279 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">17063396</PMID>
+        <DateCompleted>
+            <Year>2007</Year>
+            <Month>01</Month>
+            <Day>26</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">0724-8741</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>24</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2007</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Pharmaceutical research</Title>
+                <ISOAbbreviation>Pharm Res</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Effect of particle size and compression force on compaction behavior and derived mathematical parameters of compressibility.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>111-24</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">To analyze the influence of inherent densification and deformation properties of paracetamol on the mathematical parameters derived from Heckel, Walker, Kawakita, and Adams equations and to correlate these with single particle nominal fracture strength and bulk compression parameters using confined compression on a fully instrumented rotary tablet press.</AbstractText>
+                <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">Force-displacement data were captured during in-die compression for four different particle size fractions (150-250, 300-450, 500-650, and 700-1,000 microm) of paracetamol each at compression force of 5.2, 8.6, and 17.3 kN. Nominal single particle fracture strength was obtained by micro tensile testing.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Apparent mean yield pressure (Py) from Heckel analysis was significantly affected by the applied pressure, and was influenced by elastic energy and Young's modulus. The single particle fracture strength correlated to parameters obtained from Heckel, Walker, Kawakita, and Adams equations. Results obtained from bulk compression and single particle measurements were consistent with, and polynomially related to Py, Kawakita (1/b), and Adams parameter (tau0').</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Values of Py, 1/b, and tau0' obtained from Heckel, Kawakita, and Adams equations, respectively, can be interpreted as a measure of single particle nominal fracture strength during confined compression loading. Walker and Adams parameters were less affected, than Heckel and Kawakita parameters, by the applied pressure.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Patel</LastName>
+                    <ForeName>Sarsvatkumar</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmaceutical Technology (Formulations), National Institute of Pharmaceutical Education and Research (NIPER), S.A.S. Nagar, Punjab, 160 062, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kaushal</LastName>
+                    <ForeName>Aditya Mohan</ForeName>
+                    <Initials>AM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bansal</LastName>
+                    <ForeName>Arvind Kumar</ForeName>
+                    <Initials>AK</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2006</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Pharm Res</MedlineTA>
+            <NlmUniqueID>8406521</NlmUniqueID>
+            <ISSNLinking>0724-8741</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>362O9ITL9D</RegistryNumber>
+                <NameOfSubstance UI="D000082">Acetaminophen</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000082" MajorTopicYN="N">Acetaminophen</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000465" MajorTopicYN="N">Algorithms</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002152" MajorTopicYN="N">Calorimetry, Differential Scanning</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055598" MajorTopicYN="N">Chemical Phenomena</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002626" MajorTopicYN="N">Chemistry, Pharmaceutical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002627" MajorTopicYN="N">Chemistry, Physical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003627" MajorTopicYN="N">Data Interpretation, Statistical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004339" MajorTopicYN="Y">Drug Compounding</DescriptorName>
+                <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004548" MajorTopicYN="N">Elasticity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015233" MajorTopicYN="N">Models, Statistical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010316" MajorTopicYN="Y">Particle Size</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011312" MajorTopicYN="N">Pressure</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013718" MajorTopicYN="N">Tensile Strength</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014961" MajorTopicYN="N">X-Ray Diffraction</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2006</Year>
+                <Month>05</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2006</Year>
+                <Month>07</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2006</Year>
+                <Month>10</Month>
+                <Day>26</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2007</Year>
+                <Month>1</Month>
+                <Day>27</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2006</Year>
+                <Month>10</Month>
+                <Day>26</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">17063396</ArticleId>
+            <ArticleId IdType="doi">10.1007/s11095-006-9129-8</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Pharm Res. 2000 Aug;17(8):949-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11028940</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Pharm Pharmacol. 1978 Jan;30(1):6-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22731</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Pharm Pharmacol. 1989 Aug;41(8):517-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2571694</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Pharm Pharmacol. 1972 Dec;24:Suppl:135P-136</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4144857</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Pharm Biopharm. 2000 May;49(3):267-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10799819</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acta Pharm Suec. 1982;19(6):421-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7164830</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Pharm Sci. 2001 Sep;14(2):149-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11500260</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Pharm. 1997 Nov 28;157(2):127-136</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10477809</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Pharm Sci. 2000 Oct;11(4):307-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11033074</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Pharm Sci. 2005 Mar;94(3):524-39</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15627255</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Pharm. 2003 Feb 18;252(1-2):253-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12550801</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Pharm. 1999 Dec 20;193(1):63-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10581423</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Pharm Biopharm. 1998 Mar;45(2):137-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9704910</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pharm Res. 1998 Jul;15(7):1122-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9688070</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Pharm Sci. 1999 Jul;88(7):725-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10393572</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Drug Dev Ind Pharm. 1999 Feb;25(2):117-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10065345</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pharm Dev Technol. 2001;6(2):193-200</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11416993</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

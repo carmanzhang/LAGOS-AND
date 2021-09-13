@@ -1,0 +1,219 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">18656652</PMID>
+        <DateCompleted>
+            <Year>2008</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-3573</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>76</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2008</Year>
+                        <Month>Aug</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Talanta</Title>
+                <ISOAbbreviation>Talanta</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Design of fluorescent self-assembled multilayers and interfacial sensing for organophosphorus pesticides.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>747-51</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.talanta.2008.04.020</ELocationID>
+            <Abstract>
+                <AbstractText>This paper details the fabrication of indole (ID) self-assembled multilayers (SAMs) and fluorescence interfacial sensing for organophosphorus (OP) pesticides. Quartz/APES/AuNP/L-Cys/ID film was constructed on L-cysteine modified Quartz/APES/AuNP surface via electrostatic attraction between ID and L-cysteine. Cyclic voltammetry indicates that ID is immobilized successfully on the gold surface. Fluorescence of the Quartz/APES/AuNP/L-Cys/ID film shows sensitive response toward OPs. The fluorescent sensing conditions of the SAMs are optimized that allow linear fluorescence response for methylparathion and monocrotophos over 5.97 x 10(-7) to 3.51 x 10(-6)gL(-1) and 3.98 x 10(-6) to 3.47 x 10(-5)gL(-1), with detection limit of 6.1 x 10(-8)gL(-1) and 3.28 x 10(-6)gL(-1), respectively. Compared to bulk phase detection, interfacial fluorescence sensing based on the SAMs technology shows higher sensitivity by at least 2 order of magnitude.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sun</LastName>
+                    <ForeName>Xiangying</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>College of Material Science and Engineering, The Key Laboratory of Functional Materials for Fujian Higher Education, Huaqiao University, Quanzhou 362021, China. liumy@hqu.edu.cn</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xia</LastName>
+                    <ForeName>Kaihao</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Bin</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2008</Year>
+                <Month>04</Month>
+                <Day>22</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Talanta</MedlineTA>
+            <NlmUniqueID>2984816R</NlmUniqueID>
+            <ISSNLinking>0039-9140</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D005456">Fluorescent Dyes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007211">Indoles</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010755">Organophosphates</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010575">Pesticides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>14808-60-7</RegistryNumber>
+                <NameOfSubstance UI="D011791">Quartz</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>41BCL2O91D</RegistryNumber>
+                <NameOfSubstance UI="D008743">Methyl Parathion</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>6923-22-4</RegistryNumber>
+                <NameOfSubstance UI="D008999">Monocrotophos</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>7440-57-5</RegistryNumber>
+                <NameOfSubstance UI="D006046">Gold</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>K848JZ4886</RegistryNumber>
+                <NameOfSubstance UI="D003545">Cysteine</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D002623" MajorTopicYN="N">Chemistry Techniques, Analytical</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003545" MajorTopicYN="N">Cysteine</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004563" MajorTopicYN="N">Electrochemistry</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005456" MajorTopicYN="N">Fluorescent Dyes</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006046" MajorTopicYN="N">Gold</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007211" MajorTopicYN="N">Indoles</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D053768" MajorTopicYN="N">Metal Nanoparticles</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008743" MajorTopicYN="N">Methyl Parathion</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008999" MajorTopicYN="N">Monocrotophos</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010755" MajorTopicYN="N">Organophosphates</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="Y">analysis</QualifierName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010575" MajorTopicYN="N">Pesticides</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="Y">analysis</QualifierName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011791" MajorTopicYN="N">Quartz</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055672" MajorTopicYN="N">Static Electricity</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2007</Year>
+                <Month>10</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2008</Year>
+                <Month>04</Month>
+                <Day>02</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2008</Year>
+                <Month>04</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2008</Year>
+                <Month>7</Month>
+                <Day>29</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2008</Year>
+                <Month>11</Month>
+                <Day>19</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2008</Year>
+                <Month>7</Month>
+                <Day>29</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">18656652</ArticleId>
+            <ArticleId IdType="pii">S0039-9140(08)00276-2</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.talanta.2008.04.020</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

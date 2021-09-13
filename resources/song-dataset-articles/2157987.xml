@@ -1,0 +1,197 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">2157987</PMID>
+        <DateCompleted>
+            <Year>1990</Year>
+            <Month>05</Month>
+            <Day>21</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0028-0836</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>344</Volume>
+                    <Issue>6267</Issue>
+                    <PubDate>
+                        <Year>1990</Year>
+                        <Month>Apr</Month>
+                        <Day>12</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Nature</Title>
+                <ISOAbbreviation>Nature</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Activation in vitro of NF-kappa B by phosphorylation of its inhibitor I kappa B.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>678-82</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Nuclear factor kappa B (NF-kappa B), which was first detected by its binding to the kappa B site in the immunoglobulin kappa-gene enhancer, is important for the regulated expression of the kappa-gene and is partly responsible for the induction in appropriate cells of interleukin-2 (IL-2), IL-2 alpha receptor, beta-interferon and serum amyloid A protein. NF-kappa B is present as a nuclear DNA-binding protein in B lymphocytes and mature macrophages, but is found in the cytoplasm of many cells in a form unable to bind to DNA. The cytoplasmic form is bound to an inhibitor protein, I kappa B, from which it can be released in vitro by deoxycholate and other agents. Activation of cells by various agents, notably the phorbol esters that stimulate protein kinase C (PKC), leads to dissociation in vivo of the NF-kappa B/I kappa B complex and migration of NF-kappa B to the nucleus. Therefore, it acts as a second messenger system, transducing activation signals from the cytoplasm to the nucleus. To elucidate the mechanism of signal transfer, we have used an in vitro system in which addition of purified protein kinases to a partially purified NF-kappa B/I kappa B complex leads to the activation of the DNA-binding activity of NF-kappa B. Using gel retardation assays we found that PKC, cyclic AMP-dependent protein kinase (PKA) and a haem-regulated eIF-2 kinase (HRI) could activate NF-kappa B in vitro, whereas casein kinase II was ineffective. To determine the target for the protein kinases we purified and characterized both NF-kappa B and I kappa B and found that I kappa B is phosphorylated and inactivated in the presence of PKC and HRI but not PKA.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ghosh</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Whitehead Institute for Biomedical Research, Cambridge, Massachusetts 02142.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Baltimore</LastName>
+                    <ForeName>D</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Nature</MedlineTA>
+            <NlmUniqueID>0410462</NlmUniqueID>
+            <ISSNLinking>0028-0836</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016328">NF-kappa B</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014157">Transcription Factors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>8L70Q75FXE</RegistryNumber>
+                <NameOfSubstance UI="D000255">Adenosine Triphosphate</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9007-49-2</RegistryNumber>
+                <NameOfSubstance UI="D004247">DNA</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>E0399OZS9N</RegistryNumber>
+                <NameOfSubstance UI="D000242">Cyclic AMP</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.-</RegistryNumber>
+                <NameOfSubstance UI="D011494">Protein Kinases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.11.1</RegistryNumber>
+                <NameOfSubstance UI="D047388">Casein Kinases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.11.1</RegistryNumber>
+                <NameOfSubstance UI="D019892">eIF-2 Kinase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.11.13</RegistryNumber>
+                <NameOfSubstance UI="D011493">Protein Kinase C</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000255" MajorTopicYN="N">Adenosine Triphosphate</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D047388" MajorTopicYN="N">Casein Kinases</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002460" MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000242" MajorTopicYN="N">Cyclic AMP</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004247" MajorTopicYN="N">DNA</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004591" MajorTopicYN="N">Electrophoresis, Polyacrylamide Gel</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016328" MajorTopicYN="N">NF-kappa B</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010766" MajorTopicYN="N">Phosphorylation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011493" MajorTopicYN="N">Protein Kinase C</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011494" MajorTopicYN="N">Protein Kinases</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015290" MajorTopicYN="N">Second Messenger Systems</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015398" MajorTopicYN="N">Signal Transduction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014157" MajorTopicYN="N">Transcription Factors</DescriptorName>
+                <QualifierName UI="Q000037" MajorTopicYN="Y">antagonists &amp; inhibitors</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019892" MajorTopicYN="N">eIF-2 Kinase</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1990</Year>
+                <Month>4</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1990</Year>
+                <Month>4</Month>
+                <Day>12</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1990</Year>
+                <Month>4</Month>
+                <Day>12</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">2157987</ArticleId>
+            <ArticleId IdType="doi">10.1038/344678a0</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

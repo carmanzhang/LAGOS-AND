@@ -1,0 +1,515 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">24101495</PMID>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>12</Month>
+            <Day>30</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1091-6490</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>110</Volume>
+                    <Issue>43</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Oct</Month>
+                        <Day>22</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Proceedings of the National Academy of Sciences of the United States of America</Title>
+                <ISOAbbreviation>Proc. Natl. Acad. Sci. U.S.A.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Network model of top-down influences on local gain and contextual interactions in visual cortex.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>E4108-17</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1073/pnas.1317019110</ELocationID>
+            <Abstract>
+                <AbstractText>The visual system uses continuity as a cue for grouping oriented line segments that define object boundaries in complex visual scenes. Many studies support the idea that long-range intrinsic horizontal connections in early visual cortex contribute to this grouping. Top-down influences in primary visual cortex (V1) play an important role in the processes of contour integration and perceptual saliency, with contour-related responses being task dependent. This suggests an interaction between recurrent inputs to V1 and intrinsic connections within V1 that enables V1 neurons to respond differently under different conditions. We created a network model that simulates parametrically the control of local gain by hypothetical top-down modification of local recurrence. These local gain changes, as a consequence of network dynamics in our model, enable modulation of contextual interactions in a task-dependent manner. Our model displays contour-related facilitation of neuronal responses and differential foreground vs. background responses over the neuronal ensemble, accounting for the perceptual pop-out of salient contours. It quantitatively reproduces the results of single-unit recording experiments in V1, highlighting salient contours and replicating the time course of contextual influences. We show by means of phase-plane analysis that the model operates stably even in the presence of large inputs. Our model shows how a simple form of top-down modulation of the effective connectivity of intrinsic cortical connections among biophysically realistic neurons can account for some of the response changes seen in perceptual learning and task switching. </AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Piëch</LastName>
+                    <ForeName>Valentin</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Rockefeller University, New York, NY 10065.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Wu</ForeName>
+                    <Initials>W</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Reeke</LastName>
+                    <ForeName>George N</ForeName>
+                    <Initials>GN</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gilbert</LastName>
+                    <ForeName>Charles D</ForeName>
+                    <Initials>CD</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 EY007968</GrantID>
+                    <Acronym>EY</Acronym>
+                    <Agency>NEI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>EY007968</GrantID>
+                    <Acronym>EY</Acronym>
+                    <Agency>NEI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>07</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Proc Natl Acad Sci U S A</MedlineTA>
+            <NlmUniqueID>7505876</NlmUniqueID>
+            <ISSNLinking>0027-8424</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000465" MajorTopicYN="Y">Algorithms</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003198" MajorTopicYN="N">Computer Simulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008959" MajorTopicYN="Y">Models, Neurological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009415" MajorTopicYN="N">Nerve Net</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009431" MajorTopicYN="N">Neural Conduction</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009433" MajorTopicYN="N">Neural Inhibition</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009474" MajorTopicYN="N">Neurons</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010775" MajorTopicYN="N">Photic Stimulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014793" MajorTopicYN="N">Visual Cortex</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014795" MajorTopicYN="N">Visual Pathways</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">feedback</Keyword>
+            <Keyword MajorTopicYN="N">gating</Keyword>
+            <Keyword MajorTopicYN="N">long-range horizontal connections</Keyword>
+            <Keyword MajorTopicYN="N">reentrant</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>9</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24101495</ArticleId>
+            <ArticleId IdType="pii">1317019110</ArticleId>
+            <ArticleId IdType="doi">10.1073/pnas.1317019110</ArticleId>
+            <ArticleId IdType="pmc">PMC3808648</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Neurophysiol. 2000 Oct;84(4):2048-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11024097</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vision Res. 2000;40(10-12):1413-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10788649</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2001 Feb 13;98(4):1935-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11172054</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Neurosci. 2001 Mar;4(3):304-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11224548</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci. 2001 Mar 1;21(5):1698-709</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11222659</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vision Res. 2001 Mar;41(6):711-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11248261</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Neurosci. 2001 May;4(5):519-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11319561</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Exp Brain Res. 2001 Aug;139(3):359-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11545475</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurophysiol. 2001 Nov;86(5):2559-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11698542</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Neurosci. 2002 Jun;5(6):589-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12021764</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuron. 2002 Aug 15;35(4):773-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12194875</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Comput Neurosci. 2002 Sep-Oct;13(2):93-109</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12215724</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci. 2002 Oct 1;22(19):8633-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12351737</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Exp Brain Res. 2002 Nov;147(2):145-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12410329</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuron. 2002 Nov 14;36(4):739-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12441061</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurophysiol. 2003 Mar;89(3):1541-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12626627</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Network. 1999 May;10(2):187-212</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10378191</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1999 Oct 12;96(21):12073-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10518578</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuron. 2006 Jun 15;50(6):951-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16772175</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuron. 2007 Jun 7;54(5):677-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17553419</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuron. 2008 Feb 7;57(3):442-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18255036</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurophysiol. 2009 Feb;101(2):958-68</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19073814</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuron. 2009 May 28;62(4):578-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19477158</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2011 Jun 14;108(24):9739-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21571645</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Comput Biol. 2011 Oct;7(10):e1002162</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21998562</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Biol. 2003 May 27;13(11):985-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12781139</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci. 2003 Aug 20;23(20):7690-701</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12930809</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Neurosci. 2004 Jun;7(6):651-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15156149</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Physiol. 1973 May;231(1):31-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4715359</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Psychol Rev. 1985 Apr;92(2):173-211</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3887450</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci. 1986 Apr;6(4):1160-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3701413</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci. 1989 Jul;9(7):2432-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2746337</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci. 1991 Jun;11(6):1800-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1675266</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurophysiol. 1992 Apr;67(4):961-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1588394</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vis Neurosci. 1992 Aug;9(2):181-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1504027</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Philos Trans R Soc Lond B Biol Sci. 1992 Sep 29;337(1281):371-8; discussion 379</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1359588</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1994 May 27;264(5163):1333-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8191289</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci. 1995 Feb;15(2):1605-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7869121</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1996 Feb 22;379(6567):725-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8602218</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci. 1996 Nov 15;16(22):7376-89</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8929444</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci. 1997 Jun 1;17(11):4382-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9151754</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neural Comput. 1998 May 15;10(4):903-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9573412</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vision Res. 1998 Mar;38(5):719-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9604102</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vision Res. 1998 Mar;38(5):743-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9604103</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1998 Sep 24;395(6700):376-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9759726</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci. 1999 Jan 1;19(1):431-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9870971</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vis Neurosci. 2000 May-Jun;17(3):369-79</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10910105</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1999 Jan 29;283(5402):695-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9924031</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vis Neurosci. 1999 Jan-Feb;16(1):15-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10022475</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuron. 1999 Mar;22(3):593-604</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10197538</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1999 Jun 10;399(6736):575-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10376597</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurophysiol. 2000 Feb;83(2):941-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10669506</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Spat Vis. 2000;13(1):25-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10688228</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Vision Res. 2000;40(10-12):1217-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10788637</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurophysiol. 2001 Jan;85(1):134-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11152714</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

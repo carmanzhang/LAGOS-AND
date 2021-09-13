@@ -1,0 +1,217 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">26368006</PMID>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>09</Month>
+            <Day>19</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>11</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-3150</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>107</Volume>
+                    <Issue>Pt A</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                        <Month>Dec</Month>
+                        <Day>01</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Toxicon : official journal of the International Society on Toxinology</Title>
+                <ISOAbbreviation>Toxicon</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Genetic diversity within the botulinum neurotoxin-producing bacteria and their neurotoxins.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2-8</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.toxicon.2015.09.011</ELocationID>
+            <ELocationID EIdType="pii" ValidYN="Y">S0041-0101(15)30070-2</ELocationID>
+            <Abstract>
+                <AbstractText>The recent availability of multiple Clostridium botulinum genomic sequences has initiated a new genomics era that strengthens our understanding of the bacterial species that produce botulinum neurotoxins (BoNTs). Analysis of the genomes has reinforced the historical Group I-VI designations and provided evidence that the bont genes can be located within the chromosome, phage or plasmids. The sequences provide the opportunity to examine closely the variation among the toxin genes, the composition and organization of the toxin complex, the regions flanking the toxin complex and the location of the toxin within different bacterial strains. These comparisons provide evidence of horizontal gene transfer and site-specific insertion and recombination events that have contributed to the variation observed among the neurotoxins. Here, examples that have contributed to the variation observed in serotypes A-H strains are presented to illustrate the mechanisms that have contributed to their variation.</AbstractText>
+                <CopyrightInformation>Copyright © 2015 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hill</LastName>
+                    <ForeName>K K</ForeName>
+                    <Initials>KK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Bioscience Division, Los Alamos National Laboratory, Los Alamos, NM 87545, USA. Electronic address: khill@lanl.gov.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xie</LastName>
+                    <ForeName>G</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Bioscience Division, Los Alamos National Laboratory, Los Alamos, NM 87545, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Foley</LastName>
+                    <ForeName>B T</ForeName>
+                    <Initials>BT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Theoretical Division, Los Alamos National Laboratory, Los Alamos, NM 87545, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Smith</LastName>
+                    <ForeName>T J</ForeName>
+                    <Initials>TJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Molecular and Translational Sciences Division, United States Army Medical Research Institute of Infectious Diseases, Fort Detrick, MD 21702, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>U01 AI056493</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>09</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Toxicon</MedlineTA>
+            <NlmUniqueID>1307333</NlmUniqueID>
+            <ISSNLinking>0041-0101</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0Y70779M1F</RegistryNumber>
+                <NameOfSubstance UI="C096323">rimabotulinumtoxinB</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>2C3DD06QGJ</RegistryNumber>
+                <NameOfSubstance UI="C488535">botulinum toxin type G</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>331HTW151K</RegistryNumber>
+                <NameOfSubstance UI="C096325">botulinum toxin type D</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.24.69</RegistryNumber>
+                <NameOfSubstance UI="D001905">Botulinum Toxins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.24.69</RegistryNumber>
+                <NameOfSubstance UI="D019274">Botulinum Toxins, Type A</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>FPM7829VMX</RegistryNumber>
+                <NameOfSubstance UI="C096324">botulinum toxin type C</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>T579M564JY</RegistryNumber>
+                <NameOfSubstance UI="C096326">botulinum toxin type E</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>U1R2P71O7G</RegistryNumber>
+                <NameOfSubstance UI="C096321">botulinum toxin type F</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001905" MajorTopicYN="N">Botulinum Toxins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019274" MajorTopicYN="N">Botulinum Toxins, Type A</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003014" MajorTopicYN="N">Clostridium botulinum</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005798" MajorTopicYN="N">Genes, Bacterial</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014644" MajorTopicYN="N">Genetic Variation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016680" MajorTopicYN="N">Genome, Bacterial</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Botulinum neurotoxin</Keyword>
+            <Keyword MajorTopicYN="N">Clostridium botulinum</Keyword>
+            <Keyword MajorTopicYN="N">Genetic diversity</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>04</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2015</Year>
+                <Month>08</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>09</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>9</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>9</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26368006</ArticleId>
+            <ArticleId IdType="pii">S0041-0101(15)30070-2</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.toxicon.2015.09.011</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

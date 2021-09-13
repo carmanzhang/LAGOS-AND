@@ -1,0 +1,393 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20593466</PMID>
+        <DateCompleted>
+            <Year>2010</Year>
+            <Month>09</Month>
+            <Day>07</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>10</Month>
+            <Day>08</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0006-3525</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>94</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2010</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biopolymers</Title>
+                <ISOAbbreviation>Biopolymers</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The early years of retroviral protease crystal structures.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>521-9</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/bip.21387</ELocationID>
+            <Abstract>
+                <AbstractText>Soon after its discovery, the attempts to develop anti-AIDS therapeutics focused on the retroviral protease (PR)-an enzyme used by lentiviruses to process the precursor polypeptide into mature viral proteins. An urgent need for the three-dimensional structure of PR to guide rational drug design prompted efforts to produce milligram quantities of this enzyme. However, only minute amounts of PR were present in the HIV-1 and HIV-2 viruses, and initial attempts to express this protein in bacteria were not successful. This review describes X-ray crystallographic studies of the retroviral proteases carried out at NCI-Frederick in the late 1980s and early 1990s and puts into perspective the crucial role that the total protein chemical synthesis played in unraveling the structure, mechanism of action, and inhibition of HIV-1 PR. Notably, the first fully correct structure of HIV-1 PR and the first cocrystal structure of its complex with an inhibitor (a substrate-derived, reduced isostere hexapeptide MVT-101) were determined using chemically synthesized protein. Most importantly, these sets of coordinates were made freely available to the research community and were used worldwide to solve X-ray structures of HIV-1 PR complexes with an array of inhibitors and set in motion a variety of theoretical studies. Publication of the structure of chemically synthesized HIV-1 PR complexed with MVT-101 preceded only by six years the approval of the first PR inhibitor as an anti-AIDS drug.</AbstractText>
+                <CopyrightInformation>Copyright (c) 2010 Wiley Periodicals, Inc.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Miller</LastName>
+                    <ForeName>Maria</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Protein Structure Section, Macromolecular Crystallography Laboratory, NCI-Frederick, Frederick, MD 21702-1201, USA. mariami@mail.nih.gov</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>Z99 CA999999</GrantID>
+                    <Agency>Intramural NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016456">Historical Article</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Biopolymers</MedlineTA>
+            <NlmUniqueID>0372525</NlmUniqueID>
+            <ISSNLinking>0006-3525</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D017320">HIV Protease Inhibitors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009842">Oligopeptides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>125552-93-4</RegistryNumber>
+                <NameOfSubstance UI="C061946">MVT 101</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.23.-</RegistryNumber>
+                <NameOfSubstance UI="D016333">HIV Protease</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D018360" MajorTopicYN="N">Crystallography, X-Ray</DescriptorName>
+                <QualifierName UI="Q000266" MajorTopicYN="N">history</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016333" MajorTopicYN="N">HIV Protease</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000266" MajorTopicYN="N">history</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017320" MajorTopicYN="N">HIV Protease Inhibitors</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000266" MajorTopicYN="N">history</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015497" MajorTopicYN="N">HIV-1</DescriptorName>
+                <QualifierName UI="Q000201" MajorTopicYN="Y">enzymology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015498" MajorTopicYN="N">HIV-2</DescriptorName>
+                <QualifierName UI="Q000201" MajorTopicYN="Y">enzymology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D049673" MajorTopicYN="N">History, 20th Century</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009842" MajorTopicYN="N">Oligopeptides</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000266" MajorTopicYN="N">history</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017434" MajorTopicYN="N">Protein Structure, Tertiary</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013329" MajorTopicYN="N">Structure-Activity Relationship</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>48</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>7</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>7</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2010</Year>
+                <Month>9</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20593466</ArticleId>
+            <ArticleId IdType="doi">10.1002/bip.21387</ArticleId>
+            <ArticleId IdType="pmc">PMC2938048</ArticleId>
+            <ArticleId IdType="mid">NIHMS214731</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Cell. 1988 Jul 29;54(3):363-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3293801</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Chem Soc. 2009 Jan 28;131(3):884-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19117390</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Biochem. 1988;57:957-89</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3052294</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gene Anal Tech. 1988 Nov-Dec;5(6):109-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3063643</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 1988 Nov 5;204(1):211-2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2851050</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1989 Feb 5;264(4):1919-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2644246</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1989 Feb 9;337(6207):576-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2536902</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1989 Feb 16;337(6208):615-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2645523</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1989 Feb 17;243(4893):928-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2537531</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1989 Aug 11;245(4918):616-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2548279</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1989 Dec 1;246(4934):1149-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2686029</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proteins. 2002 Dec 1;49(4):429-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12402352</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1987 Sep 24-30;329(6137):351-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3306411</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEBS Lett. 1990 Jan 29;260(2):201-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2153583</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Med Chem. 1990 May;33(5):1285-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2184237</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Biophys Biophys Chem. 1990;19:189-215</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2194475</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 1990 Jun 26;29(25):5889-98</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2166563</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1990 Sep;87(17):6644-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2204060</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1990 Nov;87(22):8805-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2247451</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Biochem Sci. 1990 Nov;15(11):425-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2278102</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 1991 Feb 12;30(6):1600-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1993177</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 1991 May 14;30(19):4663-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1851433</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1992 Apr 10;256(5054):221-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1566069</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1992 Jun 5;256(5062):1445-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1604320</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Protein Eng. 1992 Oct;5(7):659-67</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1480620</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Protein Sci. 1992 Aug;1(8):1061-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1304383</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Med Chem. 1993 Jul 23;36(15):2142-67</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8340918</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Biochem. 1993;62:543-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8352596</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1993 Dec 15;90(24):11638-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8265601</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Protein Eng. 1994 Mar;7(3):309-17</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8177879</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Methods Enzymol. 1994;241:178-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7854178</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Adv Exp Med Biol. 1995;362:425-38</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8540353</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proteins. 1997 Feb;27(2):184-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9061782</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proteins. 1997 Feb;27(2):195-203</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9061783</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Angew Chem Int Ed Engl. 2007;46(10):1667-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17397076</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2007 Oct 26;373(3):573-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17869270</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioorg Med Chem Lett. 2008 Aug 15;18(16):4554-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18657969</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1988 Oct;85(19):7129-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3050988</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

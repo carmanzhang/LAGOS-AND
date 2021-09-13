@@ -1,0 +1,125 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+        <PMID Version="1">13100892</PMID>
+        <DateCompleted>
+            <Year>2003</Year>
+            <Month>05</Month>
+            <Day>01</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>12</Month>
+            <Day>01</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0014-2565</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>50</Volume>
+                    <Issue>1-2</Issue>
+                    <PubDate>
+                        <MedlineDate>1953 Jul 15-31</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Revista clinica espanola</Title>
+                <ISOAbbreviation>Rev Clin Esp</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[Isolation and identification of indirubin in urine of subjects of amyloid nephrosis].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>39-42</MedlinePgn>
+            </Pagination>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>CASTRO MENDOZA</LastName>
+                    <ForeName>H J</ForeName>
+                    <Initials>HJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>FERNANDEZCRIADO</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+            </AuthorList>
+            <Language>und</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <VernacularTitle>Aislamiento e identificación de la indirrubina en orinas de enfermos con nefrosis amiloidea.</VernacularTitle>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Spain</Country>
+            <MedlineTA>Rev Clin Esp</MedlineTA>
+            <NlmUniqueID>8608576</NlmUniqueID>
+            <ISSNLinking>0014-2565</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007211">Indoles</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010860">Pigments, Biological</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>V86L8P74GI</RegistryNumber>
+                <NameOfSubstance UI="C027185">indirubin</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>OM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007211" MajorTopicYN="Y">Indoles</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009401" MajorTopicYN="Y">Nephrosis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010860" MajorTopicYN="Y">Pigments, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014556" MajorTopicYN="Y">Urine</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="CLML">5425:21859:362:487</OtherID>
+        <KeywordList Owner="NLM">
+            <Keyword MajorTopicYN="Y">PIGMENTS</Keyword>
+            <Keyword MajorTopicYN="Y">URINE</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1953</Year>
+                <Month>7</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1953</Year>
+                <Month>7</Month>
+                <Day>15</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1953</Year>
+                <Month>7</Month>
+                <Day>15</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">13100892</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

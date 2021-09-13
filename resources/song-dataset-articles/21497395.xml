@@ -1,0 +1,174 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21497395</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>12</Month>
+            <Day>09</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>11</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1532-1991</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>50</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cell calcium</Title>
+                <ISOAbbreviation>Cell Calcium</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Acidic Ca(2+) stores come to the fore.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>109-12</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ceca.2011.03.009</ELocationID>
+            <Abstract>
+                <AbstractText>Changes in the concentration of cytosolic Ca(2+) form the basis of a ubiquitous signal transduction pathway. Accumulating evidence implicates acidic organelles in the control of Ca(2+) dynamics in organisms across phyla. In this special issue, we discuss Ca(2+) signalling by these &quot;acidic Ca(2+) stores&quot; which include acidocalcisomes, vacuoles, the endo-lysosomal system, lysosome-related organelles, secretory vesicles and the Golgi complex. Ca(2+) release from these morphologically very different organelles is mediated by members of the TRP channel superfamily and two-pore channels. Inositol trisphosphate and ryanodine receptors which are traditionally viewed as endoplasmic reticulum Ca(2+) release channels can also mobilize acidic Ca(2+) stores. Ca(2+) uptake into acidic Ca(2+) stores is driven by Ca(2+) ATPases and Ca(2+)/H(+) exchangers. In animal cells, the Ca(2+)-mobilizing messenger NAADP plays a central role in mediating Ca(2+) signals from acidic Ca(2+) stores through activation of two-pore channels. These signals are important for several physiological processes including muscle contraction and differentiation. Dysfunctional acidic Ca(2+) stores have been implicated in diseases such as acute pancreatitis and lysosomal storage disorders. Acidic Ca(2+) stores are therefore emerging as essential components of the Ca(2+) signalling network and merit extensive further study.</AbstractText>
+                <CopyrightInformation>2011 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Patel</LastName>
+                    <ForeName>Sandip</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Muallem</LastName>
+                    <ForeName>Shmuel</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>BB/G013721/1</GrantID>
+                    <Agency>Biotechnology and Biological Sciences Research Council</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016421">Editorial</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>04</Month>
+                <Day>16</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Cell Calcium</MedlineTA>
+            <NlmUniqueID>8006226</NlmUniqueID>
+            <ISSNLinking>0143-4160</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000143">Acids</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D015220">Calcium Channels</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>SY7Q814VUP</RegistryNumber>
+                <NameOfSubstance UI="D002118">Calcium</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000143" MajorTopicYN="N">Acids</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002118" MajorTopicYN="N">Calcium</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015220" MajorTopicYN="N">Calcium Channels</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020013" MajorTopicYN="N">Calcium Signaling</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003600" MajorTopicYN="N">Cytosol</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005658" MajorTopicYN="N">Fungi</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008247" MajorTopicYN="N">Lysosomes</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010944" MajorTopicYN="N">Plants</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014617" MajorTopicYN="N">Vacuoles</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2011</Year>
+                <Month>03</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2011</Year>
+                <Month>03</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>4</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21497395</ArticleId>
+            <ArticleId IdType="pii">S0143-4160(11)00058-3</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.ceca.2011.03.009</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

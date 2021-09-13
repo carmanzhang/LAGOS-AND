@@ -1,0 +1,192 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20044971</PMID>
+        <DateCompleted>
+            <Year>2010</Year>
+            <Month>05</Month>
+            <Day>06</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>11</Month>
+            <Day>26</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">0006-3002</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>1797</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2010</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biochimica et biophysica acta</Title>
+                <ISOAbbreviation>Biochim. Biophys. Acta</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Stimulation of F(1)-ATPase activity by sodium dodecyl sulfate.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>435-42</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.bbabio.2009.12.018</ELocationID>
+            <Abstract>
+                <AbstractText>F(1)-ATPase is a rotary molecular motor in which the gamma subunit rotates inside the cylinder made of alpha(3)beta(3) subunits. We have studied the effects of sodium dodecyl sulfate (SDS) on the rotational and ATP hydrolysis activities of F(1)-ATPase. Bulk hydrolysis activity at various SDS concentrations was examined at 2mM ATP. Maximal stimulation was obtained at 0.003% (w/v) SDS, the initial (least inhibited) activity being about 1.4 times and the steady-state activity 3-4 times the values in the absence of SDS. Rotation rates observed with a 40-nm gold bead or a 0.29-mum bead duplex as well as the torque were unaffected by the presence of 0.003% SDS. The fraction of beads that rotated, in contrast, tended to increase in the presence of SDS. SDS seems to bring inactive F(1) molecules into an active form but it does not alter or enhance the function of already active F(1) molecules significantly.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hossain</LastName>
+                    <ForeName>Mohammad Delawar</ForeName>
+                    <Initials>MD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physics, Faculty of Science and Engineering, Waseda University, Shinjuku-ku, Tokyo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Furuike</LastName>
+                    <ForeName>Shou</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Onoue</LastName>
+                    <ForeName>Yasuhiro</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Adachi</LastName>
+                    <ForeName>Kengo</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yoshida</LastName>
+                    <ForeName>Masasuke</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kinosita</LastName>
+                    <ForeName>Kazuhiko</ForeName>
+                    <Initials>K</Initials>
+                    <Suffix>Jr</Suffix>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>01</Month>
+                <Day>04</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Biochim Biophys Acta</MedlineTA>
+            <NlmUniqueID>0217513</NlmUniqueID>
+            <ISSNLinking>0006-3002</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D001426">Bacterial Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>368GB5141J</RegistryNumber>
+                <NameOfSubstance UI="D012967">Sodium Dodecyl Sulfate</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>8L70Q75FXE</RegistryNumber>
+                <NameOfSubstance UI="D000255">Adenosine Triphosphate</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.6.3.14</RegistryNumber>
+                <NameOfSubstance UI="D006180">Proton-Translocating ATPases</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000255" MajorTopicYN="N">Adenosine Triphosphate</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001407" MajorTopicYN="N">Bacillus</DescriptorName>
+                <QualifierName UI="Q000201" MajorTopicYN="N">enzymology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001426" MajorTopicYN="N">Bacterial Proteins</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006868" MajorTopicYN="N">Hydrolysis</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007700" MajorTopicYN="N">Kinetics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006180" MajorTopicYN="N">Proton-Translocating ATPases</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012967" MajorTopicYN="N">Sodium Dodecyl Sulfate</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2009</Year>
+                <Month>08</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2009</Year>
+                <Month>12</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2009</Year>
+                <Month>12</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>1</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>1</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2010</Year>
+                <Month>5</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20044971</ArticleId>
+            <ArticleId IdType="pii">S0005-2728(09)00322-3</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.bbabio.2009.12.018</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

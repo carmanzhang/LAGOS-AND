@@ -1,0 +1,150 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20470001</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>01</Month>
+            <Day>25</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>11</Month>
+            <Day>25</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1744-8328</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>10</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2010</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Expert review of anticancer therapy</Title>
+                <ISOAbbreviation>Expert Rev Anticancer Ther</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Radiotherapy for metastatic bone disease: current standards and future prospectus.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>683-95</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1586/era.10.32</ELocationID>
+            <Abstract>
+                <AbstractText>Changes in population dynamics will require increased end-of-life cancer care in the coming years. Palliative radiotherapy successfully relieves symptoms of advanced cancer, with the most common indication for its use being uncomplicated painful bone metastases. Single-fraction radiotherapy provides successful, time-efficient and cost-effective management of bone metastases. Newer technologies, such as stereotactic body radiotherapy, hold promise for some patients with spine metastases, although their niche has not been properly defined and their use outside of a protocol setting is inappropriate. Surgery should be considered for circumstances of completed or impending pathologic fracture, spinal instability, or spinal cord compression in patients who have adequate performance status and prognosis. Multiple sites of painful metastases may be treated with injectible radiopharmaceuticals or hemibody radiation. The future developments in palliative radiotherapy for bone metastases will mirror several forces affecting all of medicine, including resource allocation, the adoption of clinical guidelines and the integration of newer technologies.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lutz</LastName>
+                    <ForeName>Stephen</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Blanchard Valley Regional Cancer Center, 15990 Medical Drive South, Findlay, OH 45840, USA. slutz@bvha.org</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lo</LastName>
+                    <ForeName>Simon S</ForeName>
+                    <Initials>SS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chow</LastName>
+                    <ForeName>Edward</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sahgal</LastName>
+                    <ForeName>Arjun</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hoskin</LastName>
+                    <ForeName>Peter</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Expert Rev Anticancer Ther</MedlineTA>
+            <NlmUniqueID>101123358</NlmUniqueID>
+            <ISSNLinking>1473-7140</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001847" MajorTopicYN="N">Bone Diseases</DescriptorName>
+                <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+                <QualifierName UI="Q000532" MajorTopicYN="N">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001859" MajorTopicYN="N">Bone Neoplasms</DescriptorName>
+                <QualifierName UI="Q000000981" MajorTopicYN="N">diagnostic imaging</QualifierName>
+                <QualifierName UI="Q000532" MajorTopicYN="Y">radiotherapy</QualifierName>
+                <QualifierName UI="Q000556" MajorTopicYN="Y">secondary</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002986" MajorTopicYN="N">Clinical Trials as Topic</DescriptorName>
+                <QualifierName UI="Q000592" MajorTopicYN="N">standards</QualifierName>
+                <QualifierName UI="Q000639" MajorTopicYN="N">trends</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005544" MajorTopicYN="N">Forecasting</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010166" MajorTopicYN="N">Palliative Care</DescriptorName>
+                <QualifierName UI="Q000639" MajorTopicYN="N">trends</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011859" MajorTopicYN="N">Radiography</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>103</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>5</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>5</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20470001</ArticleId>
+            <ArticleId IdType="doi">10.1586/era.10.32</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

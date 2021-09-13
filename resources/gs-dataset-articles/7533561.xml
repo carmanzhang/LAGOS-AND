@@ -1,0 +1,632 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">7533561</PMID>
+        <DateCompleted>
+            <Year>1995</Year>
+            <Month>04</Month>
+            <Day>12</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0167-6806</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>31</Volume>
+                    <Issue>2-3</Issue>
+                    <PubDate>
+                        <Year>1994</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Breast cancer research and treatment</Title>
+                <ISOAbbreviation>Breast Cancer Res. Treat.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Breast carcinoma: a collective disorder.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>203-15</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The development and differentiation of the epithelial component of glandular tissues such as the breast is regulated by two apparently unrelated processes. One of these is presumed to be epithelial cell collective autonomous, that is, it is mediated by gene products which act directly on the epithelial cells. An important component of autonomous regulation is the functional expression of homotypic cell-cell adhesion molecules such as cadherins. The second process is non-autonomous and involves an inductive effect of the neighboring mesenchymal cell collective. An important component of non-autonomous regulation is the aggregation/condensation of mesenchyme closely associated with the epithelium. We propose that molecular alterations in autonomous and non-autonomous pathways are important causes and indicators respectively of breast cancer progression and that these two fundamental regulators of epithelial collective organization are in fact inter-dependent. For example, we show that the expression of hepatocyte growth factor (HGF), an epithelially targeted mesenchymally derived morphogenic factor is regulated by mesenchymal cell density (condensation) and by factors released from epithelial cells. Breast epithelial cells produce factors which inhibit and stimulate HGF expression. The inhibitory factor is transforming growth factor beta (TGF-beta) and the activation state of TGF-beta is a crucial element in HGF homeostasis. The balance of negative and positive HGF regulators is markedly affected by the growth conditions and differentiation state of the epithelial cells. The expression of the HGF receptor, met, is high in normal breast epithelial cells and in dedifferentiated (ER negative) tumor cells but is reduced or lost in ER positive well differentiated epithelial cells. Our results indicate that the expression of at least one epithelial morphogen, HGF, is inter-dependently regulated by mesenchymal condensation and by factors released by neighboring epithelial cells.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Byers</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Cell Biology, Georgetown University Medical Center, N.W., Washington, DC 20007.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Park</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sommers</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Seslar</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Breast Cancer Res Treat</MedlineTA>
+            <NlmUniqueID>8111104</NlmUniqueID>
+            <ISSNLinking>0167-6806</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009363">Neoplasm Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016212">Transforming Growth Factor beta</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>67256-21-7</RegistryNumber>
+                <NameOfSubstance UI="D017228">Hepatocyte Growth Factor</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.10.1</RegistryNumber>
+                <NameOfSubstance UI="D019859">Proto-Oncogene Proteins c-met</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.10.1</RegistryNumber>
+                <NameOfSubstance UI="D020794">Receptor Protein-Tyrosine Kinases</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <GeneSymbolList>
+            <GeneSymbol>met</GeneSymbol>
+        </GeneSymbolList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001943" MajorTopicYN="N">Breast Neoplasms</DescriptorName>
+                <QualifierName UI="Q000098" MajorTopicYN="N">blood supply</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="Y">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002448" MajorTopicYN="N">Cell Adhesion</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002450" MajorTopicYN="N">Cell Communication</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002454" MajorTopicYN="N">Cell Differentiation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004848" MajorTopicYN="N">Epithelium</DescriptorName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005347" MajorTopicYN="N">Fibroblasts</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015972" MajorTopicYN="N">Gene Expression Regulation, Neoplastic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017228" MajorTopicYN="N">Hepatocyte Growth Factor</DescriptorName>
+                <QualifierName UI="Q000096" MajorTopicYN="N">biosynthesis</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008648" MajorTopicYN="N">Mesoderm</DescriptorName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008954" MajorTopicYN="N">Models, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009363" MajorTopicYN="N">Neoplasm Proteins</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009389" MajorTopicYN="N">Neovascularization, Pathologic</DescriptorName>
+                <QualifierName UI="Q000209" MajorTopicYN="N">etiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019859" MajorTopicYN="N">Proto-Oncogene Proteins c-met</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020794" MajorTopicYN="N">Receptor Protein-Tyrosine Kinases</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016212" MajorTopicYN="N">Transforming Growth Factor beta</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>77</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1994</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1994</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1994</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">7533561</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Crit Rev Oncol Hematol. 1992 Jan;12(1):1-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1540336</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Exp Cell Biol. 1987;55(1):11-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3569635</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 1989 Aug 1;49(15):4322-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2472877</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 1991 Oct;10(10):2867-78</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1655405</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 1991 Dec 1;51(23 Pt 1):6328-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1933895</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncogene. 1992 Jan;7(1):181-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1741162</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Biophys Res Commun. 1989 Sep 15;163(2):967-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2528952</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1989 May 11;339(6220):155-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2541345</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Respir Cell Mol Biol. 1993 Apr;8(4):417-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8476635</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Cell Biol. 1988 Jun;66(6):530-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3048328</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Dev Biol. 1988 Aug;128(2):245-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2456233</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Endocrinology. 1995 May;136(5):1945-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7720642</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Development. 1989 Feb;105(2):271-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2806126</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 1991 Jan 19;337(8734):130-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1670786</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEBS Lett. 1992 Oct 12;311(1):17-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1383032</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biol. 1993 Oct;123(1):223-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8408200</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biol. 1992 Aug;118(4):901-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1380001</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1989 Apr;86(7):2438-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2488545</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biol. 1990 Nov;111(5 Pt 1):2097-108</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2146276</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncogene. 1991 Apr;6(4):501-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1827664</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1990 Jul 19;346(6281):228</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2142751</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Cells. 1991 Jun;3(6):227-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1832923</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1992 May 1;89(9):3800-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1533283</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1987 Sep;84(18):6379-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2819873</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1993 Mar 1;90(5):1937-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7680481</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 1989 Apr 15;49(8):2128-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2702654</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 1992 Nov;12(11):5152-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1406687</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Dev Biol. 1993 Jun;157(2):308-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8388815</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 1992 May 15;52(10):2916-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1581909</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1991 Nov 29;254(5036):1382-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1720571</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 1990 Jun 1;61(5):759-67</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2188735</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Soc Exp Biol Med. 1990 Oct;195(1):34-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2144630</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncogene. 1991 Nov;6(11):1997-2003</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1719465</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 1992 May 1;69(3):471-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1581962</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 1992 Dec;11(13):4825-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1334458</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1991 Feb 15;251(4995):802-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1846706</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 1992 Oct 1;52(19):5190-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1382837</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Growth Differ. 1991 Aug;2(8):365-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1793731</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1992 Oct 5;267(28):20493-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1328201</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1986 Sep;83(17):6489-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3529086</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1992 Jun 5;267(16):10931-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1375931</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1989 Feb;86(3):802-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2915979</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1990 Dec 20-27;348(6303):699-704</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1701851</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Natl Cancer Inst. 1992 Dec 16;84(24):1875-87</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1281237</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hepatology. 1992 Dec;16(6):1485-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1280246</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biol. 1990 Aug;111(2):757-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1696270</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biol. 1992 Nov;119(3):629-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1383237</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Biophys Res Commun. 1991 May 31;177(1):559-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1828343</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Sci. 1988 Jul;90 ( Pt 3):391-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3253289</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Growth Differ. 1993 Jul;4(7):571-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8398897</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1993 May 7;260(5109):810-2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8484120</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1988 Mar;85(5):1539-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3422749</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 1991 Nov 29;67(5):901-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1835669</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Pathol. 1991 Jul;139(1):17-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1713020</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 1992 Jan 18;339(8786):139-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1346009</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1991 Aug 15;88(16):7001-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1831266</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1991 Jan 15;88(2):415-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1824873</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 1987 Jun 27;1(8548):1455-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2885452</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hepatology. 1992 Nov;16(5):1227-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1427661</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 1993 Mar 15;53(6):1233-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8443802</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Cells. 1991 May;3(5):186-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1679992</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int Rev Cytol. 1991;125:165-202</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2032784</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biol. 1988 May;106(5):1659-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2967299</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1986 Nov;83(21):8235-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3464950</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEBS Lett. 1991 Oct 21;291(2):229-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1657643</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1993 Mar 1;90(5):1843-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8446598</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 1986 Oct 10;47(1):131-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2428505</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1992 Aug 28;257(5074):1258-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1387731</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 1991 Jan 3;324(1):1-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1701519</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 1994 Jul 1;54(13):3544-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8012979</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biol. 1991 Apr;113(1):173-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2007622</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1987 May 21-27;327(6119):239-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2952888</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Sci. 1988 Jul;90 ( Pt 3):401-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3253290</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

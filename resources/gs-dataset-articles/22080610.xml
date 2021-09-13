@@ -1,0 +1,555 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">22080610</PMID>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>01</Month>
+            <Day>23</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1091-6490</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>108</Volume>
+                    <Issue>48</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Nov</Month>
+                        <Day>29</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Proceedings of the National Academy of Sciences of the United States of America</Title>
+                <ISOAbbreviation>Proc. Natl. Acad. Sci. U.S.A.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Decrease in topoisomerase I is responsible for activation-induced cytidine deaminase (AID)-dependent somatic hypermutation.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>19305-10</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1073/pnas.1114522108</ELocationID>
+            <Abstract>
+                <AbstractText>Somatic hypermutation (SHM) and class-switch recombination (CSR) of the Ig gene require both the transcription of the locus and the expression of activation-induced cytidine deaminase (AID). During CSR, AID decreases the amount of topoisomerase I (Top1); this decrease alters the DNA structure and induces cleavage in the S region. Similarly, Top1 is involved in transcription-associated mutation at dinucleotide repeats in yeast and in triplet-repeat contraction in mammals. Here, we report that the AID-induced decrease in Top1 is critical for SHM. Top1 knockdown or haploinsufficiency enhanced SHM, whereas Top1 overexpression down-regulated it. A specific Top1 inhibitor, camptothecin, suppressed SHM, indicating that Top1's activity is required for DNA cleavage. Nonetheless, suppression of transcription abolished SHM, even in cells with Top1 knockdown, suggesting that transcription is critical. These results are consistent with a model proposed for CSR and triplet instability, in which transcription-induced non-B structure formation is enhanced by Top1 reduction and provides the target for irreversible cleavage by Top1. We speculate that the mechanism for transcription-coupled genome instability was adopted to generate immune diversity when AID evolved.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kobayashi</LastName>
+                    <ForeName>Maki</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Immunology and Genomic Medicine, Graduate School of Medicine,  Kyoto University, Kyoto 606-8501,  Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sabouri</LastName>
+                    <ForeName>Zahra</ForeName>
+                    <Initials>Z</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sabouri</LastName>
+                    <ForeName>Somayeh</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kitawaki</LastName>
+                    <ForeName>Yoko</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pommier</LastName>
+                    <ForeName>Yves</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Abe</LastName>
+                    <ForeName>Takaya</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kiyonari</LastName>
+                    <ForeName>Hiroshi</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Honjo</LastName>
+                    <ForeName>Tasuku</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>11</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Proc Natl Acad Sci U S A</MedlineTA>
+            <NlmUniqueID>7505876</NlmUniqueID>
+            <ISSNLinking>0027-8424</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C485184">enhanced green fluorescent protein</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>147336-22-9</RegistryNumber>
+                <NameOfSubstance UI="D049452">Green Fluorescent Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.5.4.-</RegistryNumber>
+                <NameOfSubstance UI="C438563">AICDA (activation-induced cytidine deaminase)</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.5.4.5</RegistryNumber>
+                <NameOfSubstance UI="D003564">Cytidine Deaminase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 5.99.1.2</RegistryNumber>
+                <NameOfSubstance UI="D004264">DNA Topoisomerases, Type I</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>XT3Z54Z28A</RegistryNumber>
+                <NameOfSubstance UI="D002166">Camptothecin</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015153" MajorTopicYN="N">Blotting, Western</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002166" MajorTopicYN="N">Camptothecin</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D045744" MajorTopicYN="N">Cell Line, Tumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003001" MajorTopicYN="N">Cloning, Molecular</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003564" MajorTopicYN="N">Cytidine Deaminase</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004264" MajorTopicYN="N">DNA Topoisomerases, Type I</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055785" MajorTopicYN="N">Gene Knockdown Techniques</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005822" MajorTopicYN="N">Genetic Vectors</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D049452" MajorTopicYN="N">Green Fluorescent Proteins</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D057895" MajorTopicYN="N">Haploinsufficiency</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017578" MajorTopicYN="N">Immunoglobulin Class Switching</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018345" MajorTopicYN="N">Mice, Knockout</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008954" MajorTopicYN="Y">Models, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D027041" MajorTopicYN="N">Somatic Hypermutation, Immunoglobulin</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>11</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>11</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">22080610</ArticleId>
+            <ArticleId IdType="pii">1114522108</ArticleId>
+            <ArticleId IdType="doi">10.1073/pnas.1114522108</ArticleId>
+            <ArticleId IdType="pmc">PMC3228476</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Biochim Biophys Acta. 1991 Jun 13;1089(2):175-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2054380</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2001 Dec 6;414(6864):660-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11740565</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2000 Sep 1;102(5):553-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11007474</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2000 Sep 1;102(5):565-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11007475</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2001 Mar 1;61(5):1964-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11280753</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2001 Apr 15;166(8):5051-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11290786</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Med. 2001 Aug 6;194(3):365-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11489955</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 2002 Feb 1;21(3):195-201</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11823412</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Immunity. 1996 Jan;4(1):57-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8574852</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 1996 Dec;16(12):6804-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8943335</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 1997 May 15;25(10):1913-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9115357</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1998 Jan 6;95(1):87-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9419331</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Immunity. 1998 Jul;9(1):105-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9697840</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2004 Nov 12;279(46):47411-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15326170</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2005 Mar 22;102(12):4506-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15767564</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Med. 2002 Feb 18;195(4):529-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11854365</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2002 Jun 14;296(5575):2033-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12065838</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Cancer Res. 2002 Aug;8(8):2499-504</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12171875</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Immunol. 2002 Sep;3(9):815-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12145648</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Front Biosci. 2003 Jan 1;8:d210-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12456359</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2003 Mar 4;100(5):2634-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12591955</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood. 2003 May 15;101(10):4029-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12521993</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2003 Sep 1;171(5):2504-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12928399</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Immunol. 2003 Sep;4(9):843-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12910268</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell. 2003 Aug;12(2):501-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14536088</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2004 Aug 20;118(4):431-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15315756</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 1986 Jan;5(1):95-102</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3007121</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 1986 Jun 15;136(12):4695-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3086440</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1986 Dec 11-17;324(6097):585-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3491327</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 1986 Dec 1;5(12):3259-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3028778</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1987 Oct;84(20):7024-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2823250</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 1990 Sep 11;18(17):5322</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1698283</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Cancer. 2006 Oct;6(10):789-802</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16990856</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Immunol. 2007 Feb;44(5):934-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16730063</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Med. 2007 Apr;13(4):470-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17401375</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Genet Dev. 2007 Apr;17(2):88-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17307351</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Biochem Sci. 2007 Jun;32(6):271-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17493823</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncogene. 2007 Aug 16;26(38):5587-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17404578</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2007 Sep 15;67(18):8752-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17875716</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Med. 2007 Nov 26;204(12):2989-3001</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17998390</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2007 Dec 13;450(7172):1106-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18033247</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2008 Feb 14;451(7180):841-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18273020</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Immunol. 2008 Aug;45(13):3589-99</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18585784</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 2009 Jan 21;28(2):99-111</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19078966</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2009 Feb 24;106(8):2758-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19202055</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Cell Biol. 2009 Nov;11(11):1315-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19838172</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2009 Dec 29;106(52):22375-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20018730</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Mol Life Sci. 2010 Jan;67(1):43-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19727556</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2010 Dec 21;107(51):22190-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21139053</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Carcinogenesis. 2011 Jan;32(1):110-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20974684</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2011 Jan 11;108(2):698-703</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21177427</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2011 Jan 11;108(2):692-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21177431</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Genet. 2010 Apr;11(4):247-58</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20177426</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 2011 Aug;31(15):3105-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21628532</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Experientia. 1994 Mar 15;50(3):261-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8143800</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

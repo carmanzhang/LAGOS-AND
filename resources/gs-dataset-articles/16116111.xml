@@ -1,0 +1,232 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">16116111</PMID>
+        <DateCompleted>
+            <Year>2006</Year>
+            <Month>01</Month>
+            <Day>23</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1526-632X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>65</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2005</Year>
+                        <Month>Aug</Month>
+                        <Day>23</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Neurology</Title>
+                <ISOAbbreviation>Neurology</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Mutation in the glutamate transporter EAAT1 causes episodic ataxia, hemiplegia, and seizures.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>529-34</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Transporters, ion pumps, and ion channels are membrane proteins that regulate selective permeability and maintain ionic gradients across cell membranes. Mutations in CACNA1A encoding a neuronal calcium channel and ATP1A2 encoding an ion pump cause episodic ataxia, hemiplegic migraine, and seizures. Mutant gene products of both CACNA1A and ATP1A2 may affect neurotransmission of glutamate, the most abundant excitatory amino acid neurotransmitter.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We examined our patient population with episodic ataxia and hemiplegic migraine but with no mutation in either CACNA1A or ATP1A2. We looked for mutations in SLC1A3, which encodes the glutamate transporter excitatory amino acid transporter (EAAT) 1 that is important in removing glutamate from the synaptic cleft.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">A patient with episodic ataxia, seizures, migraine, and alternating hemiplegia has a heterozygous mutation in SLC1A3 that is not present in his asymptomatic parents and controls. Expression studies of the mutant EAAT1 showed decreased expression of the protein with a markedly reduced capacity for glutamate uptake. When coexpressed, the mutant EAAT1 decreased the activity of wild-type EAAT1 but not of two other transporters EAAT2 or EAAT3, suggesting that mutant EAAT1 specifically multimerizes with wild-type EAAT1 to exert its dominant negative effect.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Our data show that a heterozygous mutation in EAAT1 can lead to decreased glutamate uptake, which can contribute to neuronal hyperexcitability to cause seizures, hemiplegia, and episodic ataxia.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Jen</LastName>
+                    <ForeName>J C</ForeName>
+                    <Initials>JC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, School of Medicine, University of California, Los Angeles, CA 90095, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wan</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Palos</LastName>
+                    <ForeName>T P</ForeName>
+                    <Initials>TP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Howard</LastName>
+                    <ForeName>B D</ForeName>
+                    <Initials>BD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Baloh</LastName>
+                    <ForeName>R W</ForeName>
+                    <Initials>RW</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>DC05524</GrantID>
+                    <Acronym>DC</Acronym>
+                    <Agency>NIDCD NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D002363">Case Reports</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Neurology</MedlineTA>
+            <NlmUniqueID>0401060</NlmUniqueID>
+            <ISSNLinking>0028-3878</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D027341">Excitatory Amino Acid Transporter 1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C493394">SLC1A3 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>3KX376GY7L</RegistryNumber>
+                <NameOfSubstance UI="D018698">Glutamic Acid</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001259" MajorTopicYN="N">Ataxia</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001921" MajorTopicYN="N">Brain</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001923" MajorTopicYN="N">Brain Chemistry</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001929" MajorTopicYN="N">Brain Edema</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019556" MajorTopicYN="N">COS Cells</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002522" MajorTopicYN="N">Cercopithecus aethiops</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002648" MajorTopicYN="N">Child</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004252" MajorTopicYN="N">DNA Mutational Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D027341" MajorTopicYN="N">Excitatory Amino Acid Transporter 1</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020022" MajorTopicYN="N">Genetic Predisposition to Disease</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005820" MajorTopicYN="N">Genetic Testing</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018698" MajorTopicYN="N">Glutamic Acid</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006429" MajorTopicYN="N">Hemiplegia</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006579" MajorTopicYN="N">Heterozygote</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008279" MajorTopicYN="N">Magnetic Resonance Imaging</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009154" MajorTopicYN="N">Mutation</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010375" MajorTopicYN="N">Pedigree</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012640" MajorTopicYN="N">Seizures</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2005</Year>
+                <Month>8</Month>
+                <Day>24</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2006</Year>
+                <Month>1</Month>
+                <Day>24</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2005</Year>
+                <Month>8</Month>
+                <Day>24</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">16116111</ArticleId>
+            <ArticleId IdType="pii">65/4/529</ArticleId>
+            <ArticleId IdType="doi">10.1212/01.wnl.0000172638.58172.5a</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

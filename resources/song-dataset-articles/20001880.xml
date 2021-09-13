@@ -1,0 +1,155 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20001880</PMID>
+        <DateCompleted>
+            <Year>2010</Year>
+            <Month>03</Month>
+            <Day>16</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>19</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1441-2772</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>11</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2009</Year>
+                        <Month>Dec</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Critical care and resuscitation : journal of the Australasian Academy of Critical Care Medicine</Title>
+                <ISOAbbreviation>Crit Care Resusc</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Assessment of tissue cortisol activity.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>287-9</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The concept of relative adrenal insufficiency in patients with severe sepsis continues to be controversial. This arises in part from the lack of an accepted &quot;gold standard&quot; for the diagnosis of adrenal insufficiency in the critically ill. Historically, assessment of adrenal function in this population has relied on measurement of plasma total cortisol level, in a blood sample taken either at random or as part of a corticotropin stimulation test. However, an alternative is to focus on the site of glucocorticoid activity within the tissues as a potentially more useful index of functional adrenal status. We review the mechanisms known to affect tissue glucocorticoid activity and examine how they may be modified by critical illness. These include both free and interstitial cortisol concentrations, intracellular cortisol generation, and glucocorticoid-receptor activity and density. Changes in these factors are not reflected in plasma total cortisol concentrations, and more sophisticated techniques, including genetic transcriptional surveys, may be required to reveal the role of glucocorticoid insufficiency in critical illness.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Cohen</LastName>
+                    <ForeName>Jeremy</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Burns Trauma and Critical Care Research Centre, University of Queensland, Brisbane, QLD. jeremy_cohen@health.qld.gov.au</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Venkatesh</LastName>
+                    <ForeName>Bala</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Australia</Country>
+            <MedlineTA>Crit Care Resusc</MedlineTA>
+            <NlmUniqueID>100888170</NlmUniqueID>
+            <ISSNLinking>1441-2772</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011965">Receptors, Glucocorticoid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9002-60-2</RegistryNumber>
+                <NameOfSubstance UI="D000324">Adrenocorticotropic Hormone</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.1.1.146</RegistryNumber>
+                <NameOfSubstance UI="D042842">11-beta-Hydroxysteroid Dehydrogenases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>WI4X0X7BPJ</RegistryNumber>
+                <NameOfSubstance UI="D006854">Hydrocortisone</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Crit Care Resusc. 2009 Dec;11(4):235-6</RefSource>
+                <PMID Version="1">20001869</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D042842" MajorTopicYN="N">11-beta-Hydroxysteroid Dehydrogenases</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000309" MajorTopicYN="N">Adrenal Insufficiency</DescriptorName>
+                <QualifierName UI="Q000175" MajorTopicYN="N">diagnosis</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000324" MajorTopicYN="N">Adrenocorticotropic Hormone</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016638" MajorTopicYN="N">Critical Illness</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006854" MajorTopicYN="N">Hydrocortisone</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011965" MajorTopicYN="N">Receptors, Glucocorticoid</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014018" MajorTopicYN="N">Tissue Distribution</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>18</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2009</Year>
+                <Month>12</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2009</Year>
+                <Month>12</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2010</Year>
+                <Month>3</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20001880</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

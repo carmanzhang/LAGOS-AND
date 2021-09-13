@@ -1,0 +1,212 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">24816891</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>10</Month>
+            <Day>01</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1945-7928</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <PubDate>
+                        <Year>2013</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Proceedings. IEEE International Symposium on Biomedical Imaging</Title>
+                <ISOAbbreviation>Proc IEEE Int Symp Biomed Imaging</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>LONGITUDINAL INTENSITY NORMALIZATION IN THE PRESENCE OF MULTIPLE SCLEROSIS LESIONS.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1384-1387</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>This paper proposes a longitudinal intensity normalization algorithm for <i>T</i><sub>1</sub>-weighted magnetic resonance images of human brains in the presence of multiple sclerosis lesions, aiming towards stable and consistent longitudinal segmentations. Unlike previous longitudinal segmentation methods, we propose a 4D intensity normalization that can be used as a preprocessing step to any segmentation method. The variability in intensities arising from the relapsing and remitting nature of the multiple sclerosis lesions is modeled into an otherwise smooth intensity transform based on first order autoregressive models, resulting in smooth changes in segmentation statistics of normal tissues, while keeping the lesion information unaffected. We validated our method on both simulated and real longitudinal normal subjects and on multiple sclerosis subjects.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Roy</LastName>
+                    <ForeName>Snehashis</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Electrical and Computer Engineering, The Johns Hopkins University.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Carass</LastName>
+                    <ForeName>Aaron</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Electrical and Computer Engineering, The Johns Hopkins University.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shiee</LastName>
+                    <ForeName>Navid</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CNRM, The Henry M. Jackson Foundation for the Advancement of Military Medicine.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pham</LastName>
+                    <ForeName>Dzung L</ForeName>
+                    <Initials>DL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>CNRM, The Henry M. Jackson Foundation for the Advancement of Military Medicine.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Calabresi</LastName>
+                    <ForeName>Peter</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Neurology, The Johns Hopkins Hospital.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Reich</LastName>
+                    <ForeName>Daniel</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Translational Neuroradiology Unit, NINDS, NIH.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Prince</LastName>
+                    <ForeName>Jerry L</ForeName>
+                    <Initials>JL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Electrical and Computer Engineering, The Johns Hopkins University.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 NS070906</GrantID>
+                    <Acronym>NS</Acronym>
+                    <Agency>NINDS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R21 EB012765</GrantID>
+                    <Acronym>EB</Acronym>
+                    <Agency>NIBIB NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Proc IEEE Int Symp Biomed Imaging</MedlineTA>
+            <NlmUniqueID>101492570</NlmUniqueID>
+            <ISSNLinking>1945-7928</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">MRI</Keyword>
+            <Keyword MajorTopicYN="N">brain</Keyword>
+            <Keyword MajorTopicYN="N">intensity normalization</Keyword>
+            <Keyword MajorTopicYN="N">intensity standardization</Keyword>
+            <Keyword MajorTopicYN="N">segmentation</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>5</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24816891</ArticleId>
+            <ArticleId IdType="doi">10.1109/ISBI.2013.6556791</ArticleId>
+            <ArticleId IdType="pmc">PMC4013288</ArticleId>
+            <ArticleId IdType="mid">NIHMS574755</ArticleId>
+        </ArticleIdList>
+        <?nihms?>
+        <ReferenceList>
+            <Reference>
+                <Citation>PLoS One. 2012;7(9):e44596</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23049751</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Neurol. 2008 Sep;64(3):255-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18661561</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IEEE Trans Med Imaging. 2007 Apr;26(4):487-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17427736</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuroimage. 2006 Apr 1;30(2):388-99</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16275137</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mult Scler. 2010 Feb;16(2):166-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20142309</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IEEE Trans Med Imaging. 2006 May;25(5):649-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16689268</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuroimage. 2010 Jan 15;49(2):1524-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19766196</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cereb Cortex. 2000 May;10 (5):464-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10847596</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Magn Reson Med. 1999 Dec;42(6):1072-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10571928</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

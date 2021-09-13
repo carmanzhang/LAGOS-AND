@@ -1,0 +1,132 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">27886667</PMID>
+        <DateCompleted>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>15</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1089-8638</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>428</Volume>
+                    <Issue>24 Pt A</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>12</Month>
+                        <Day>04</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of molecular biology</Title>
+                <ISOAbbreviation>J. Mol. Biol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Membrane Lipid Galore.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>4737-4738</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0022-2836(16)30473-9</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.jmb.2016.11.004</ELocationID>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Simons</LastName>
+                    <ForeName>Kai</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Max-Planck-Institute of Molecular Cell Biology and Genetics, Pfotenhauerstr. 108, Dresden, Germany. Electronic address: simons@mpi-cbg.de.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Coskun</LastName>
+                    <ForeName>Ünal</ForeName>
+                    <Initials>Ü</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Paul Langerhans Institute Dresden of the Helmholtz Zentrum München at the University Clinic Carl Gustav Carus, TU Dresden, 01307 Dresden, Germany; German Center for Diabetes Research (DZD e.V.), 85764 Neuherberg, Germany. Electronic address: coskun@plid.de.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016421">Editorial</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Mol Biol</MedlineTA>
+            <NlmUniqueID>2985088R</NlmUniqueID>
+            <ISSNLinking>0022-2836</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D008563">Membrane Lipids</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002462" MajorTopicYN="N">Cell Membrane</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020285" MajorTopicYN="N">Cryoelectron Microscopy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008563" MajorTopicYN="N">Membrane Lipids</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D057054" MajorTopicYN="N">Molecular Imaging</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>11</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>11</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">27886667</ArticleId>
+            <ArticleId IdType="pii">S0022-2836(16)30473-9</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.jmb.2016.11.004</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

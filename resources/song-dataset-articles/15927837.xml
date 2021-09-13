@@ -1,0 +1,224 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">15927837</PMID>
+        <DateCompleted>
+            <Year>2005</Year>
+            <Month>09</Month>
+            <Day>14</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0968-0896</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>13</Volume>
+                    <Issue>13</Issue>
+                    <PubDate>
+                        <Year>2005</Year>
+                        <Month>Jul</Month>
+                        <Day>01</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Bioorganic &amp; medicinal chemistry</Title>
+                <ISOAbbreviation>Bioorg Med Chem</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>An estradiol-conjugate for radiolabelling with 177Lu: an attempt to prepare a radiotherapeutic agent.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>4315-22</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>177Lu is presently being considered as one of the most promising radionuclide for targeted therapy owing to its suitable decay characteristics. 177Lu in high radionuclidic purity (99.99%) and moderate specific activity (100-110 TBq/g) was produced using enriched (60.6% 176Lu) Lu2O3 target. The macrocycle 1,4,7,10-tetraazacyclododecane-1,4,7,10-tetraacetic acid (DOTA) is known to form stable complexes with lanthanides. Herein, we describe a novel attempt to introduce 177Lu in the estradiol moiety through a steroidal-BFCA (Bifunctional Chelating Agent) conjugate. The preparation of a steroid conjugate via coupling of 6alpha-amino-17beta-estradiol with a C-functionalized DOTA derivative viz. p-NCS-benzyl-DOTA as a BFCA and thereafter the radiolabelling of the conjugate with 177Lu is reported. Biological activity of the resultant estradiol-DOTA conjugate after radiolabelling was studied by carrying out preliminary in vitro cell uptake studies with MCF-7, human breast carcinoma cell line expressing estrogen receptors as well as binding studies with anti-estradiol antibodies.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Banerjee</LastName>
+                    <ForeName>Sharmila</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Radiopharmaceuticals Division, Bhabha Atomic Research Centre, Mumbai 400085, India. sharmila@apsara.barc.ernet.in</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Das</LastName>
+                    <ForeName>Tapas</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chakraborty</LastName>
+                    <ForeName>Sudipta</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Samuel</LastName>
+                    <ForeName>Grace</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Korde</LastName>
+                    <ForeName>Aruna</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Venkatesh</LastName>
+                    <ForeName>Meera</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pillai</LastName>
+                    <ForeName>M R A</ForeName>
+                    <Initials>MR</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Bioorg Med Chem</MedlineTA>
+            <NlmUniqueID>9413298</NlmUniqueID>
+            <ISSNLinking>0968-0896</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C496695">177Lu-DOTA-lanreotide</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D002614">Chelating Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D006573">Heterocyclic Compounds, 1-Ring</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007074">Immunoglobulin G</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010456">Peptides, Cyclic</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D019275">Radiopharmaceuticals</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>4TI98Z838E</RegistryNumber>
+                <NameOfSubstance UI="D004958">Estradiol</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>5H0DOZ21UJ</RegistryNumber>
+                <NameOfSubstance UI="D008187">Lutetium</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001943" MajorTopicYN="N">Breast Neoplasms</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000532" MajorTopicYN="Y">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D045744" MajorTopicYN="N">Cell Line, Tumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002614" MajorTopicYN="N">Chelating Agents</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004958" MajorTopicYN="N">Estradiol</DescriptorName>
+                <QualifierName UI="Q000031" MajorTopicYN="Y">analogs &amp; derivatives</QualifierName>
+                <QualifierName UI="Q000138" MajorTopicYN="N">chemical synthesis</QualifierName>
+                <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006573" MajorTopicYN="N">Heterocyclic Compounds, 1-Ring</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007074" MajorTopicYN="N">Immunoglobulin G</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008187" MajorTopicYN="N">Lutetium</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010456" MajorTopicYN="N">Peptides, Cyclic</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011863" MajorTopicYN="N">Radioimmunoassay</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019275" MajorTopicYN="N">Radiopharmaceuticals</DescriptorName>
+                <QualifierName UI="Q000138" MajorTopicYN="N">chemical synthesis</QualifierName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2004</Year>
+                <Month>12</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2005</Year>
+                <Month>03</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2005</Year>
+                <Month>04</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2005</Year>
+                <Month>6</Month>
+                <Day>2</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2005</Year>
+                <Month>9</Month>
+                <Day>15</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2005</Year>
+                <Month>6</Month>
+                <Day>2</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">15927837</ArticleId>
+            <ArticleId IdType="pii">S0968-0896(05)00291-9</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.bmc.2005.04.009</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

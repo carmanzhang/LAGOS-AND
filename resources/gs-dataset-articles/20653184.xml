@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20653184</PMID>
+        <DateCompleted>
+            <Year>2010</Year>
+            <Month>08</Month>
+            <Day>13</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2010</Year>
+            <Month>07</Month>
+            <Day>26</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0037-9247</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>Spec No 1</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2010</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Bulletin de la Societe des sciences medicales du Grand-Duche de Luxembourg</Title>
+                <ISOAbbreviation>Bull Soc Sci Med Grand Duche Luxemb</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Probabilistic estimation of the economic effect of operating accidents in the oil and gas industry.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>135-43</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Performance of the company staff is determined by the proficiency of available personal resources. Some of the respective key indicators could be influenced by planner, but most of them are out of direct control. This opens the strong demand on reliable prediction modeling. Decision maker is interested not only in knowing of labor supply/demand situation, but also about the proficiency and reliability of employees. Presented work is intended to find out, which statistical methods are suitable for certain aspects of the staff planning process. General broad modeling of stochastically changing workforce availability numbers could be considered like a description of the random events observation. These events could be categorized and forecasted by the mean of further development of NPI (nonparametric predictive inference) method suggested by Augustin and Coolen. Its capability to learn from multinomial data, especially such as strongly influenced by business environment, geography, state policy, etc., extracted from market reports, and induced from managerial experience seems to be promising. After demand and supply of workforce is forecasted, manager must start the process of hiring. Individual staff evaluation is also quite challenging because of lack or incorrectness of initial information about possible profile type of the candidate. Dempster-Shafer Theory may be good one, but speaking of &quot;gambles&quot; could disappoint many HRspecialists. So, adaptation of the Theory of Adaptive Utility proposed by Houlding and Coolen is assumed as perspective tool for solving this problem. HR decision maker can also follow this kind of sequential process. When the completion of team and groups is done, the labor activity begins. Here, each employee demonstrates his performance rate, qualification and reliability. In this case interaction between workers is strongly matters. Conditional probability is in charge of that kind of evaluation and therefore Bayesian schemes and Walley technique are further developed and applied. Dismissed employees flowing out of the firm again into workforce market and will be available for other companies, also for competitors. Feedback to initial step is recommended.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Belenky</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Russian State University of Oil and Gas. asd_102030@mail.ru</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stepin</LastName>
+                    <ForeName>Y</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Luxembourg</Country>
+            <MedlineTA>Bull Soc Sci Med Grand Duche Luxemb</MedlineTA>
+            <NlmUniqueID>7503402</NlmUniqueID>
+            <ISSNLinking>0037-9247</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D005648">Fuel Oils</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D005742">Gasoline</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000062" MajorTopicYN="N">Accidents, Occupational</DescriptorName>
+                <QualifierName UI="Q000191" MajorTopicYN="Y">economics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004651" MajorTopicYN="N">Employment</DescriptorName>
+                <QualifierName UI="Q000191" MajorTopicYN="N">economics</QualifierName>
+                <QualifierName UI="Q000592" MajorTopicYN="N">standards</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005648" MajorTopicYN="N">Fuel Oils</DescriptorName>
+                <QualifierName UI="Q000191" MajorTopicYN="Y">economics</QualifierName>
+                <QualifierName UI="Q000592" MajorTopicYN="N">standards</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005742" MajorTopicYN="N">Gasoline</DescriptorName>
+                <QualifierName UI="Q000191" MajorTopicYN="Y">economics</QualifierName>
+                <QualifierName UI="Q000592" MajorTopicYN="N">standards</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005843" MajorTopicYN="N">Geography</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007182" MajorTopicYN="N">Income</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011336" MajorTopicYN="N">Probability</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011640" MajorTopicYN="N">Public Policy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018570" MajorTopicYN="N">Risk Assessment</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>7</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>7</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2010</Year>
+                <Month>8</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20653184</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

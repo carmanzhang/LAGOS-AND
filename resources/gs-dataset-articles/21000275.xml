@@ -1,0 +1,135 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+        <PMID Version="1">21000275</PMID>
+        <DateCompleted>
+            <Year>2010</Year>
+            <Month>10</Month>
+            <Day>28</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>12</Month>
+            <Day>01</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0022-1767</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>54</Volume>
+                    <PubDate>
+                        <Year>1946</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of immunology (Baltimore, Md. : 1950)</Title>
+                <ISOAbbreviation>J. Immunol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The action of urea and some of its derivatives on bacteria; the effect of combining urea or urethane with penicillin on mixed cultures of gram-positive and gram-negative bacteria.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>145-9</MedlinePgn>
+            </Pagination>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>WEINSTEIN</LastName>
+                    <ForeName>L</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Immunol</MedlineTA>
+            <NlmUniqueID>2985117R</NlmUniqueID>
+            <ISSNLinking>0022-1767</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000890">Anti-Infective Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010406">Penicillins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>3IN71E75Z5</RegistryNumber>
+                <NameOfSubstance UI="D014520">Urethane</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>8W8T17847W</RegistryNumber>
+                <NameOfSubstance UI="D014508">Urea</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>OM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000890" MajorTopicYN="Y">Anti-Infective Agents</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001419" MajorTopicYN="Y">Bacteria</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006090" MajorTopicYN="Y">Gram-Negative Bacteria</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010406" MajorTopicYN="N">Penicillins</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014508" MajorTopicYN="N">Urea</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014520" MajorTopicYN="N">Urethane</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="CLML">4611:857p</OtherID>
+        <KeywordList Owner="NLM">
+            <Keyword MajorTopicYN="Y">BACTERIA/effective agents</Keyword>
+            <Keyword MajorTopicYN="Y">ETHYL CARBAMATE/effects</Keyword>
+            <Keyword MajorTopicYN="Y">GERMICIDES</Keyword>
+            <Keyword MajorTopicYN="Y">PENICILLIN/effects</Keyword>
+            <Keyword MajorTopicYN="Y">UREA/effects</Keyword>
+            <Keyword MajorTopicYN="Y">URETHANE/effects</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1946</Year>
+                <Month>10</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1946</Year>
+                <Month>10</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21000275</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,184 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">9110123</PMID>
+        <DateCompleted>
+            <Year>1997</Year>
+            <Month>07</Month>
+            <Day>02</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>10</Month>
+            <Day>20</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0920-3206</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>10</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>1997</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cardiovascular drugs and therapy</Title>
+                <ISOAbbreviation>Cardiovasc Drugs Ther</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A head-to-head comparison of the cost effectiveness of HMG-CoA reductase inhibitors and fibrates in different types of primary hyperlipidemia.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>787-94</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The objective of this study was to compare the lifetime cost-effectiveness of HMG-CoA reductase inhibitors and fibrates for the treatment of hyperlipidemia. Estimates of lipid modification achieved due to drug therapy were based on published head-to-head comparisons of specific HMG-CoA reductase inhibitors and fibrates in randomized, double-blind studies. We used a validated coronary heart disease (CHD) prevention computer model to estimate the costs and benefits of lifelong lipid modification. The patients were middle-aged men and women who were free of CHD, with either primary type IIa or IIb hyperlipidemia. The intervention used were specific HMG-CoA reductase inhibitors and fibrates at several dosages, which reduced total cholesterol 11-34% and increased high-density lipoprotein cholesterol 1-29%. The main outcome measure was the cost per year of life saved after discounting benefits and costs by 5% annually. The lifetime cost effectiveness of HMG-CoA reductase inhibitors (fluvastatin, lovastatin, pravastatin, simvastatin) and fibrates (bezafibrate, fenofibrate, gemfibrozil) for the treatment of primary hyperlipidemia varied according to patient population, the effectiveness of each drug in modifying lipid levels, and the price of each drug. The estimates of cost per year of life saved for HMG-CoA reductase inhibitors range from $19,886 to $73,632, and $16,955 to $59,488 for fibrates according to gender and type of primary hyperlipidemia. Fluvastatin 20 mg/day was significantly more cost effective than gemfibrozil 1200 mg/day for male patients with type IIa hyperlipidemia. Simvastatin 17.3 mg/day or 20 mg/day yielded similar cost-effectiveness ratios compared with fibrates among type II hyperlipidemic patients. However, micronized fenofibrate was more cost effective than simvastatin 20 mg/day among type IIb patients. The cost effectiveness of lipid therapy varies widely and can be maximized by selecting specific drugs for specific lipid abnormalities.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Perreault</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for the Analysis of Cost-Effective Care, Montreal General Hospital, Quebec, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hamilton</LastName>
+                    <ForeName>V H</ForeName>
+                    <Initials>VH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lavoie</LastName>
+                    <ForeName>F</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Grover</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016430">Clinical Trial</PublicationType>
+                <PublicationType UI="D003160">Comparative Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D017418">Meta-Analysis</PublicationType>
+                <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Cardiovasc Drugs Ther</MedlineTA>
+            <NlmUniqueID>8712220</NlmUniqueID>
+            <ISSNLinking>0920-3206</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D019161">Hydroxymethylglutaryl-CoA Reductase Inhibitors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000960">Hypolipidemic Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>Q8X02027X3</RegistryNumber>
+                <NameOfSubstance UI="D015248">Gemfibrozil</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>U202363UOS</RegistryNumber>
+                <NameOfSubstance UI="D011345">Fenofibrate</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>Y9449Q51XH</RegistryNumber>
+                <NameOfSubstance UI="D001629">Bezafibrate</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001629" MajorTopicYN="N">Bezafibrate</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003327" MajorTopicYN="N">Coronary Disease</DescriptorName>
+                <QualifierName UI="Q000517" MajorTopicYN="N">prevention &amp; control</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003362" MajorTopicYN="N">Cost-Benefit Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004311" MajorTopicYN="N">Double-Blind Method</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011345" MajorTopicYN="N">Fenofibrate</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015248" MajorTopicYN="N">Gemfibrozil</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019161" MajorTopicYN="Y">Hydroxymethylglutaryl-CoA Reductase Inhibitors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006950" MajorTopicYN="N">Hyperlipidemia, Familial Combined</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName UI="Q000191" MajorTopicYN="N">economics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006949" MajorTopicYN="N">Hyperlipidemias</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName UI="Q000191" MajorTopicYN="N">economics</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000960" MajorTopicYN="N">Hypolipidemic Agents</DescriptorName>
+                <QualifierName UI="Q000191" MajorTopicYN="N">economics</QualifierName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1997</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1997</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1997</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">9110123</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

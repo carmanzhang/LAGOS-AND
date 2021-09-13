@@ -1,0 +1,418 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20350805</PMID>
+        <DateCompleted>
+            <Year>2010</Year>
+            <Month>07</Month>
+            <Day>27</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>10</Month>
+            <Day>08</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1464-3405</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>20</Volume>
+                    <Issue>9</Issue>
+                    <PubDate>
+                        <Year>2010</Year>
+                        <Month>May</Month>
+                        <Day>01</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Bioorganic &amp; medicinal chemistry letters</Title>
+                <ISOAbbreviation>Bioorg Med Chem Lett</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A rapid oxime linker-based library approach to identification of bivalent inhibitors of the Yersinia pestis protein-tyrosine phosphatase, YopH.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2813-6</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.bmcl.2010.03.058</ELocationID>
+            <Abstract>
+                <AbstractText>A bivalent tethered approach toward YopH inhibitor development is presented that joins aldehydes with mixtures of bis-aminooxy-containing linkers using oxime coupling. The methodology is characterized by its facility and ease of use and its ability to rapidly identify low micromolar affinity inhibitors. The generality of the approach may potentially make it amenable to the development of bivalent inhibitors directed against other phosphatases.</AbstractText>
+                <CopyrightInformation>Published by Elsevier Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Fa</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Chemical Biology Laboratory, Molecular Discovery Program, Center for Cancer Research, National Cancer Institute, National Institutes of Health, NCI-Frederick, Frederick, MD 21702, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hakami</LastName>
+                    <ForeName>Ramin Mollaaghababa</ForeName>
+                    <Initials>RM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dyas</LastName>
+                    <ForeName>Beverly</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bahta</LastName>
+                    <ForeName>Medhanit</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lountos</LastName>
+                    <ForeName>George T</ForeName>
+                    <Initials>GT</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Waugh</LastName>
+                    <ForeName>David S</ForeName>
+                    <Initials>DS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ulrich</LastName>
+                    <ForeName>Robert G</ForeName>
+                    <Initials>RG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Burke</LastName>
+                    <ForeName>Terrence R</ForeName>
+                    <Initials>TR</Initials>
+                    <Suffix>Jr</Suffix>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>Z01 BC006198-18</GrantID>
+                    <Agency>Intramural NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>Z01 BC006198-19</GrantID>
+                    <Agency>Intramural NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>Z99 CA999999</GrantID>
+                    <Agency>Intramural NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052060">Research Support, N.I.H., Intramural</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>03</Month>
+                <Day>15</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Bioorg Med Chem Lett</MedlineTA>
+            <NlmUniqueID>9107377</NlmUniqueID>
+            <ISSNLinking>0960-894X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000447">Aldehydes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D001425">Bacterial Outer Membrane Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004791">Enzyme Inhibitors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010091">Oximes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D054852">Small Molecule Libraries</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.3.48</RegistryNumber>
+                <NameOfSubstance UI="D017027">Protein Tyrosine Phosphatases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.3.48</RegistryNumber>
+                <NameOfSubstance UI="C067571">yopH protein, Yersinia</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000447" MajorTopicYN="N">Aldehydes</DescriptorName>
+                <QualifierName UI="Q000138" MajorTopicYN="N">chemical synthesis</QualifierName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001425" MajorTopicYN="N">Bacterial Outer Membrane Proteins</DescriptorName>
+                <QualifierName UI="Q000037" MajorTopicYN="Y">antagonists &amp; inhibitors</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001665" MajorTopicYN="N">Binding Sites</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003198" MajorTopicYN="N">Computer Simulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018360" MajorTopicYN="N">Crystallography, X-Ray</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004791" MajorTopicYN="N">Enzyme Inhibitors</DescriptorName>
+                <QualifierName UI="Q000138" MajorTopicYN="N">chemical synthesis</QualifierName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010091" MajorTopicYN="N">Oximes</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017027" MajorTopicYN="N">Protein Tyrosine Phosphatases</DescriptorName>
+                <QualifierName UI="Q000037" MajorTopicYN="Y">antagonists &amp; inhibitors</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D054852" MajorTopicYN="N">Small Molecule Libraries</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015010" MajorTopicYN="N">Yersinia pestis</DescriptorName>
+                <QualifierName UI="Q000201" MajorTopicYN="Y">enzymology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2010</Year>
+                <Month>02</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2010</Year>
+                <Month>03</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2010</Year>
+                <Month>03</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>3</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>3</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2010</Year>
+                <Month>7</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20350805</ArticleId>
+            <ArticleId IdType="pii">S0960-894X(10)00379-3</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.bmcl.2010.03.058</ArticleId>
+            <ArticleId IdType="pmc">PMC2863121</ArticleId>
+            <ArticleId IdType="mid">NIHMS189731</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2000 Mar 14;97(6):2419-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10716979</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Cycle. 2007 Nov 15;6(22):2773-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17998804</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Med Chem. 2003 Oct 9;46(21):4477-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14521410</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 2003 Nov 18;42(45):13113-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14609321</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Biophys Biomol Struct. 2004;33:199-223</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15139811</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioorg Med Chem. 2004 Jun 15;12(12):3289-98</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15158797</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioorg Med Chem Lett. 2004 Nov 15;14(22):5543-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15482920</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 1994 May 31;33(21):6490-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7515682</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Biophys Res Commun. 1994 Oct 14;204(1):129-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7524496</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Med Chem. 2005 Mar 10;48(5):1576-87</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15743199</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2005 Mar 11;280(10):9400-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15615724</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioorg Med Chem. 2005 Apr 15;13(8):2981-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15781408</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioorg Med Chem Lett. 2005 Sep 15;15(18):4037-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16039123</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Chem Soc. 2005 Dec 14;127(49):17412-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16332091</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Org Lett. 2006 Feb 16;8(4):713-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16468749</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Cancer. 2006 Apr;6(4):307-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16557282</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Med Chem. 2006 Apr 6;49(7):2151-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16570910</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Cancer Drug Targets. 2006 Sep;6(6):519-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17017875</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioorg Med Chem. 2007 Jan 1;15(1):458-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17046267</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2007 Dec 11;104(50):19767-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18056643</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEBS J. 2008 Mar;275(5):867-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18298793</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Org Lett. 2008 Jun 5;10(11):2295-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18457404</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Drugs R D. 2008;9(4):217-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18588353</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Med Chem. 2008 Jul 10;51(13):3661-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18457385</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Med Chem. 2009;16(6):706-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19199933</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Chem Biol. 2009 Jun;5(6):407-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19396178</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Org Lett. 2009 Nov 19;11(22):5102-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19852491</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Med Chem. 2002 Aug 29;45(18):3946-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12190316</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

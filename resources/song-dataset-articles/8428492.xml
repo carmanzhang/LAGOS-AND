@@ -1,0 +1,156 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">8428492</PMID>
+        <DateCompleted>
+            <Year>1993</Year>
+            <Month>03</Month>
+            <Day>08</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>07</Month>
+            <Day>06</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0090-3493</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>21</Volume>
+                    <Issue>2 Suppl</Issue>
+                    <PubDate>
+                        <Year>1993</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Critical care medicine</Title>
+                <ISOAbbreviation>Crit Care Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Endotoxin-induced organ injury.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>S19-24</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To review the effects of endotoxemia on the major organ systems of the body and discuss potential mechanisms of tissue injury.</AbstractText>
+                <AbstractText Label="DESIGN" NlmCategory="METHODS">Appraisal of 60 articles representing a cross section of studies relating to in vivo and in vitro responses to endotoxin.</AbstractText>
+                <AbstractText Label="MAIN METHODS" NlmCategory="METHODS">Cell cultures, isolated tissue preparations, animal and human studies.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Endotoxemia results in the activation of numerous cellular and hematogenous mediators. These mediators range from prostaglandins, thromboxanes, and leukotrienes, to complement components. Tumor necrosis factor may be responsible for initiating many of the observed responses to endotoxin. Species and tissue specificity are a prominent feature of the response to endotoxin.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">No single agent can yet be implicated as the common mediator of endotoxin-induced organ injury. Endotoxin initiates the elaboration of a cascade of secondary mediators that amplify the response to the initial insult. The relative importance of individual agents as mediators of the response to endotoxin varies with the experimental model studied.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ghosh</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Anaesthesia, Papworth Hospital, Cambridge, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Latimer</LastName>
+                    <ForeName>R D</ForeName>
+                    <Initials>RD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gray</LastName>
+                    <ForeName>B M</ForeName>
+                    <Initials>BM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Harwood</LastName>
+                    <ForeName>R J</ForeName>
+                    <Initials>RJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Oduro</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Crit Care Med</MedlineTA>
+            <NlmUniqueID>0355501</NlmUniqueID>
+            <ISSNLinking>0090-3493</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004731">Endotoxins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004064" MajorTopicYN="N">Digestive System</DescriptorName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004731" MajorTopicYN="N">Endotoxins</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006321" MajorTopicYN="N">Heart</DescriptorName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008168" MajorTopicYN="N">Lung</DescriptorName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009102" MajorTopicYN="N">Multiple Organ Failure</DescriptorName>
+                <QualifierName UI="Q000503" MajorTopicYN="Y">physiopathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018805" MajorTopicYN="N">Sepsis</DescriptorName>
+                <QualifierName UI="Q000503" MajorTopicYN="N">physiopathology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>60</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1993</Year>
+                <Month>2</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1993</Year>
+                <Month>2</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1993</Year>
+                <Month>2</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">8428492</ArticleId>
+            <ArticleId IdType="doi">10.1097/00003246-199302001-00005</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

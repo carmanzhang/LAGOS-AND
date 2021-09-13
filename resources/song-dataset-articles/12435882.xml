@@ -1,0 +1,140 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">12435882</PMID>
+        <DateCompleted>
+            <Year>2003</Year>
+            <Month>05</Month>
+            <Day>12</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>11</Month>
+            <Day>01</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0001-5652</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>53</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2002</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Human heredity</Title>
+                <ISOAbbreviation>Hum Hered</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>How do homozygous parents affect TDT as a test for association?</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>181-6</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The traditional transmission disequilibrium test (TDT) (Spielman et al., 1993) is a powerful test for association only in the presence of linkage. Since allele transmissions from homozygous parents do not carry any information on linkage, the TDT statistic uses data only on heterozygous parents. However, homozygous parents carry information on association between alleles at a marker locus and a disease locus. In this article, we explore whether inclusion of homozygous parents increases the power to detect association. The resultant test statistic follows a chi(2) distribution with 2 degrees of freedom. Monte-Carlo simulations are included to compare the performance of this test with the traditional TDT under different disease models.</AbstractText>
+                <CopyrightInformation>Copyright 2002 S. Karger AG, Basel</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ghosh</LastName>
+                    <ForeName>Saurabh</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Psychiatry, Washington University School of Medicine, St Louis, MO 63110-1093, USA. saurabh@sikver.wustl.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Reich</LastName>
+                    <ForeName>Theodore</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>U10AA08401</GrantID>
+                    <Acronym>AA</Acronym>
+                    <Agency>NIAAA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U10AA08403</GrantID>
+                    <Acronym>AA</Acronym>
+                    <Agency>NIAAA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>Hum Hered</MedlineTA>
+            <NlmUniqueID>0200525</NlmUniqueID>
+            <ISSNLinking>0001-5652</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000483" MajorTopicYN="N">Alleles</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016009" MajorTopicYN="N">Chi-Square Distribution</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006579" MajorTopicYN="N">Heterozygote</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006720" MajorTopicYN="Y">Homozygote</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015810" MajorTopicYN="Y">Linkage Disequilibrium</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009010" MajorTopicYN="N">Monte Carlo Method</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010290" MajorTopicYN="N">Parents</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2002</Year>
+                <Month>11</Month>
+                <Day>19</Day>
+                <Hour>4</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2003</Year>
+                <Month>5</Month>
+                <Day>13</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2002</Year>
+                <Month>11</Month>
+                <Day>19</Day>
+                <Hour>4</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">12435882</ArticleId>
+            <ArticleId IdType="pii">66192</ArticleId>
+            <ArticleId IdType="doi">10.1159/000066192</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

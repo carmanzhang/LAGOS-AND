@@ -1,0 +1,141 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20672817</PMID>
+        <DateCompleted>
+            <Year>2010</Year>
+            <Month>12</Month>
+            <Day>27</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2010</Year>
+            <Month>09</Month>
+            <Day>02</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1520-5827</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>26</Volume>
+                    <Issue>17</Issue>
+                    <PubDate>
+                        <Year>2010</Year>
+                        <Month>Sep</Month>
+                        <Day>07</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Langmuir : the ACS journal of surfaces and colloids</Title>
+                <ISOAbbreviation>Langmuir</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Role of interaction energies in the behavior of mixed surfactant systems: a lattice Monte Carlo simulation.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>13786-96</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/la100330c</ELocationID>
+            <Abstract>
+                <AbstractText>We have investigated micellization in systems containing two surfactant molecules with the same structure using a lattice Monte Carlo simulation method. For the binary systems containing two surfactants, we have varied the head-head interactions or tail-tail repulsions in order to mimic the nonideal behavior of mixed surfactant systems and to manipulate the net interactions between surfactant molecules. The simulation results indicate that interactions between headgroups or tailgroups have an effect on thermodynamic properties such as the mixed critical micelle concentration (cmc), distribution of aggregates, shape of the aggregates, and composition of the micelles formed. Moreover, we have compared the simulation results with estimates based on regular solution theory, a mean-field theory, to determine the applicability of this theory to the nonideal mixed surfactant systems. We have found that the simulation results agree reasonable well with regular solution theory for the systems with attractions between headgroups and repulsions between tailgroups. However, the large discrepancies observed for the systems with head-head repulsions could be attributed to the disregarding of the correlation effect on the interaction among surfactant molecules and the nonrandom mixing effect in the theory.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Poorgholami-Bejarpasi</LastName>
+                    <ForeName>Niaz</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Molecular Simulation Research Laboratory, Department of Chemistry, Iran University of Science &amp; Technology, Tehran, Iran.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hashemianzadeh</LastName>
+                    <ForeName>Majid</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mousavi-Khoshdel</LastName>
+                    <ForeName>S Morteza</ForeName>
+                    <Initials>SM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sohrabi</LastName>
+                    <ForeName>Beheshteh</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Langmuir</MedlineTA>
+            <NlmUniqueID>9882736</NlmUniqueID>
+            <ISSNLinking>0743-7463</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D008823">Micelles</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D013501">Surface-Active Agents</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000465" MajorTopicYN="N">Algorithms</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008823" MajorTopicYN="N">Micelles</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008958" MajorTopicYN="N">Models, Molecular</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009010" MajorTopicYN="N">Monte Carlo Method</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013501" MajorTopicYN="N">Surface-Active Agents</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013816" MajorTopicYN="Y">Thermodynamics</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>8</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>8</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20672817</ArticleId>
+            <ArticleId IdType="doi">10.1021/la100330c</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

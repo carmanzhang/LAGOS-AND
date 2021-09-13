@@ -1,0 +1,126 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">26583249</PMID>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>12</Month>
+            <Day>22</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>20</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1549-9626</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>10</Volume>
+                    <Issue>12</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Dec</Month>
+                        <Day>09</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of chemical theory and computation</Title>
+                <ISOAbbreviation>J Chem Theory Comput</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Assessment of a Cost-Effective Approach to the Calculation of Kinetic and Thermodynamic Properties of Methyl Methacrylate Homopolymerization: A Comprehensive Theoretical Study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>5668-76</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/ct500507f</ELocationID>
+            <Abstract>
+                <AbstractText>In this work, we carried out a comprehensive density functional theory (DFT) study on the basis of a trimer-to-tetramer radical reaction model to assess a cost-effective approach to perform the calculation of kinetic and thermodynamic properties of methyl methacrylate (MMA) free-radical homopolymerization. By comparing results from several different functionals (PBE, M06-2X, wB97XD, KMLYP, and MPW1B95), in conjunction with a series of basis sets (6-31G(d,p), 6-31+G(d,p), 6-31G(2df,p), 6-311G(d,p), 6-311+G(d,p), 6-311+G(2df,p), 6-311+G(2df,2p)), we show that calculations using M06-2X/6-311+G(2df,p)//B3LYP/6-31G(2df,p) provide an activation energy of 5.25 kcal mol(-1) for the homopropagation step, which is within 1 kcal mol(-1) of the experimental value. However, this method predicts a heat of polymerization of 17.37 kcal mol(-1) that is larger than the experimental value by 3.5 kcal mol(-1). MPW1B95/6-311+G(2df,p) on the B3LYP/6-31G(2df,p) geometries produces a heat of polymerization value within 1 kcal mol(-1) of experimental data, yet overestimates the activation energy by 3 kcal mol(-1). In addition, we evaluated the performance of ONIOM MO:MO calculations on the geometry optimization of species comprising our MMA polymerization model and found that ONIOM(B3LYP/6-31G(2df,p):B3LYP/6-31G(d)) is capable of producing geometries in very good agreement with the full B3LYP/6-31G(2df,p) calculations. Subsequent calculations of energies using M06-2X/6-311+G(2df,p) based on the ONIOM geometries provided an activation energy value comparable to that based on the full B3LYP/6-31G(2df,p) geometries. </AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Guozhen</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemical and Biological Engineering, Northwestern University , Evanston, Illinois 60208, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Konstantinov</LastName>
+                    <ForeName>Ivan A</ForeName>
+                    <Initials>IA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Dow Chemical Company, 2301 N. Brazosport Blvd., Freeport, Texas 77541, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Arturo</LastName>
+                    <ForeName>Steven G</ForeName>
+                    <Initials>SG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Dow Chemical Company, 400 Arcola Rd., Collegeville, Pennsylvania 19426, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yu</LastName>
+                    <ForeName>Decai</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Dow Chemical Company, 1776 Building, Midland, Michigan 48674, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Broadbelt</LastName>
+                    <ForeName>Linda J</ForeName>
+                    <Initials>LJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemical and Biological Engineering, Northwestern University , Evanston, Illinois 60208, United States.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Chem Theory Comput</MedlineTA>
+            <NlmUniqueID>101232704</NlmUniqueID>
+            <ISSNLinking>1549-9618</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>11</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26583249</ArticleId>
+            <ArticleId IdType="doi">10.1021/ct500507f</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

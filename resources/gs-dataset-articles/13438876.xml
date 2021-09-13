@@ -1,0 +1,153 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+        <PMID Version="1">13438876</PMID>
+        <DateCompleted>
+            <Year>2002</Year>
+            <Month>05</Month>
+            <Day>01</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>12</Month>
+            <Day>01</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0021-9258</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>226</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>1957</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of biological chemistry</Title>
+                <ISOAbbreviation>J. Biol. Chem.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The reactivity of esterases and proteases in the presence of organophosphorus compounds.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>873-9</MedlinePgn>
+            </Pagination>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>MOUNTER</LastName>
+                    <ForeName>L A</ForeName>
+                    <Initials>LA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>TUCK</LastName>
+                    <ForeName>K D</ForeName>
+                    <Initials>KD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>ALEXANDER</LastName>
+                    <ForeName>H C</ForeName>
+                    <Initials>HC</Initials>
+                    <Suffix>3rd</Suffix>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>DIEN</LastName>
+                    <ForeName>L T</ForeName>
+                    <Initials>LT</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Biol Chem</MedlineTA>
+            <NlmUniqueID>2985121R</NlmUniqueID>
+            <ISSNLinking>0021-9258</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009943">Organophosphorus Compounds</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>27YLU75U4W</RegistryNumber>
+                <NameOfSubstance UI="D010758">Phosphorus</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.-</RegistryNumber>
+                <NameOfSubstance UI="D006867">Hydrolases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.-</RegistryNumber>
+                <NameOfSubstance UI="D004950">Esterases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.-</RegistryNumber>
+                <NameOfSubstance UI="D010450">Endopeptidases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.-</RegistryNumber>
+                <NameOfSubstance UI="D010447">Peptide Hydrolases</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>OM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D010450" MajorTopicYN="Y">Endopeptidases</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004950" MajorTopicYN="Y">Esterases</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006867" MajorTopicYN="Y">Hydrolases</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009943" MajorTopicYN="Y">Organophosphorus Compounds</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010447" MajorTopicYN="Y">Peptide Hydrolases</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010758" MajorTopicYN="N">Phosphorus</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="CLML">5732:37156</OtherID>
+        <KeywordList Owner="NLM">
+            <Keyword MajorTopicYN="Y">ESTERASES</Keyword>
+            <Keyword MajorTopicYN="Y">PHOSPHORUS/effects</Keyword>
+            <Keyword MajorTopicYN="Y">PROTEASES</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1957</Year>
+                <Month>6</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1957</Year>
+                <Month>6</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1957</Year>
+                <Month>6</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">13438876</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

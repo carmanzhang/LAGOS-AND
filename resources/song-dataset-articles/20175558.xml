@@ -1,0 +1,523 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20175558</PMID>
+        <DateCompleted>
+            <Year>2010</Year>
+            <Month>04</Month>
+            <Day>09</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1520-4995</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>49</Volume>
+                    <Issue>11</Issue>
+                    <PubDate>
+                        <Year>2010</Year>
+                        <Month>Mar</Month>
+                        <Day>23</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biochemistry</Title>
+                <ISOAbbreviation>Biochemistry</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A thiolate anion buried within the hydrocarbon ruler perturbs PagP lipid acyl chain selection.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2368-79</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/bi901669q</ELocationID>
+            <Abstract>
+                <AbstractText>The Escherichia coli outer membrane phospholipid:lipid A palmitoyltransferase PagP exhibits remarkable selectivity because its binding pocket for lipid acyl chains excludes those differing in length from palmitate by a solitary methylene unit. This narrow detergent-binding hydrophobic pocket buried within the eight-strand antiparallel beta-barrel is known as the hydrocarbon ruler. Gly88 lines the acyl chain binding pocket floor, and its substitution can raise the floor to correspondingly shorten the selected acyl chain. An aromatic exciton interaction between Tyr26 and Trp66 provides an intrinsic spectroscopic probe located immediately adjacent to Gly88. The Gly88Cys PagP enzyme was engineered to function as a dedicated myristoyltransferase, but the mutant enzyme instead selected both myristoyl and pentadecanoyl groups, was devoid of the exciton, and displayed a 21 degrees C reduction in thermal stability. We now demonstrate that the structural perturbation results from a buried thiolate anion attributed to suppression of the Cys sulfhydryl group pK(a) from 9.4 in aqueous solvent to 7.5 in the hydrocarbon ruler microenvironment. The Cys thiol is sandwiched at the interface between a nonpolar and a polar beta-barrel interior milieu, suggesting that local electrostatics near the otherwise hydrophobic hydrocarbon ruler pocket serve to perturb the thiol pK(a). Neutralization of the Cys thiolate anion by protonation restores wild-type exciton and thermal stability signatures to Gly88Cys PagP, which then functions as a dedicated myristoyltransferase at pH 7. Gly88Cys PagP assembled in bacterial membranes recapitulates lipid A myristoylation in vivo. Hydrocarbon ruler-exciton coupling in PagP thus reveals a thiol-thiolate ionization mechanism for modulating lipid acyl chain selection.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Khan</LastName>
+                    <ForeName>M Adil</ForeName>
+                    <Initials>MA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry and Biomedical Sciences and Michael G. DeGroote Institute for Infectious Disease Research, McMaster University, Hamilton, Ontario, Canada L8N 3Z5.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Moktar</LastName>
+                    <ForeName>Joel</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mott</LastName>
+                    <ForeName>Patrick J</ForeName>
+                    <Initials>PJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bishop</LastName>
+                    <ForeName>Russell E</ForeName>
+                    <Initials>RE</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>84329-1</GrantID>
+                    <Agency>Canadian Institutes of Health Research</Agency>
+                    <Country>Canada</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>MOP-84329</GrantID>
+                    <Agency>Canadian Institutes of Health Research</Agency>
+                    <Country>Canada</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Biochemistry</MedlineTA>
+            <NlmUniqueID>0370623</NlmUniqueID>
+            <ISSNLinking>0006-2960</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D003902">Detergents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D029968">Escherichia coli Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D005960">Glucosides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D006838">Hydrocarbons</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D008055">Lipids</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011522">Protons</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D012997">Solvents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D013438">Sulfhydryl Compounds</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>69227-93-6</RegistryNumber>
+                <NameOfSubstance UI="C040358">dodecyl maltoside</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.3.-</RegistryNumber>
+                <NameOfSubstance UI="D000217">Acyltransferases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.3.1.-</RegistryNumber>
+                <NameOfSubstance UI="C468520">PagP protein, E coli</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>JU58VJ6Y3B</RegistryNumber>
+                <NameOfSubstance UI="D019791">Guanidine</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000217" MajorTopicYN="N">Acyltransferases</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003902" MajorTopicYN="N">Detergents</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004795" MajorTopicYN="N">Enzyme Stability</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004926" MajorTopicYN="N">Escherichia coli</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D029968" MajorTopicYN="N">Escherichia coli Proteins</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005960" MajorTopicYN="N">Glucosides</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019791" MajorTopicYN="N">Guanidine</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006838" MajorTopicYN="Y">Hydrocarbons</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006863" MajorTopicYN="N">Hydrogen-Ion Concentration</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D050356" MajorTopicYN="Y">Lipid Metabolism</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008055" MajorTopicYN="N">Lipids</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008958" MajorTopicYN="N">Models, Molecular</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016297" MajorTopicYN="N">Mutagenesis, Site-Directed</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009154" MajorTopicYN="N">Mutation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011487" MajorTopicYN="N">Protein Conformation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011489" MajorTopicYN="N">Protein Denaturation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015202" MajorTopicYN="N">Protein Engineering</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017510" MajorTopicYN="N">Protein Folding</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011522" MajorTopicYN="N">Protons</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012997" MajorTopicYN="N">Solvents</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055672" MajorTopicYN="N">Static Electricity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013379" MajorTopicYN="N">Substrate Specificity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013438" MajorTopicYN="Y">Sulfhydryl Compounds</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013696" MajorTopicYN="N">Temperature</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">CAMS5906</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>2</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>2</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2010</Year>
+                <Month>4</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20175558</ArticleId>
+            <ArticleId IdType="doi">10.1021/bi901669q</ArticleId>
+            <ArticleId IdType="pmc">PMC5007130</ArticleId>
+            <ArticleId IdType="mid">CAMS5906</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Cell. 2005 Aug 12;122(3):461-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16096064</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 2005 Sep 21;24(18):3159-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16138081</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 1998 Jun 2;37(22):8191-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9609715</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2005 Aug;57(4):900-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16091033</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Immun. 2002 Jul;70(7):3546-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12065494</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochim Biophys Acta. 2008 Sep;1778(9):1881-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17880914</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Immun. 2001 Jul;69(7):4276-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11401964</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2001 Jan 12;276(2):1156-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11042192</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Biochem. 2007;76:295-329</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17362200</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Rapid Commun Mass Spectrom. 2007;21(11):1721-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17477452</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1999 Jun 25;274(26):18503-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10373459</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 2000 Oct 2;19(19):5071-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11013210</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 1998 Oct 16;95(2):189-98</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9790526</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IUBMB Life. 2002 Feb;53(2):85-98</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12049200</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 2009 Oct 20;48(41):9745-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19769329</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1993 Sep 5;268(25):19033-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8360190</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2004 May 7;279(19):20044-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15014080</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2002 Oct 15;99(21):13560-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12357033</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2009 May 15;284(20):13285-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19164280</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anal Biochem. 1985 Oct;150(1):76-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3843705</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 2004 Aug 4;23(15):2931-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15272304</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2008 Feb 15;283(7):4332-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18070877</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2004 Jun 29;101(26):9618-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15210985</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gene. 1995 May 26;158(1):9-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7789817</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 1967 Jul;6(7):1948-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6049437</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Syst Biol. 2006;2:2006.0008</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16738554</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2005 Dec 1;438(7068):581-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16319877</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1968 Jun;95(6):2054-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4876126</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2004 Oct 22;279(43):44966-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15319435</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2008 Apr 8;105(14):5537-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18375759</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Immun. 2004 May;72(5):2837-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15102794</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1995 Jul;177(14):4121-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7608087</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1971 Jun 25;246(12):4090-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">5105446</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2008 Jul 11;321(5886):213-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18621661</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Microbiol. 2005 Jan;3(1):36-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15608698</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1999 Sep 14;96(19):10695-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10485888</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1997 Aug 8;272(32):19688-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9242624</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 1976 Jul 5;104(3):541-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">781293</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 2007 Apr 17;46(15):4565-79</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17375935</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2003 May;48(3):725-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12694617</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Faraday Discuss. 1994;(99):245-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7549540</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2009 May 21;459(7245):393-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19458715</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 2000 Mar 15;164(6):3149-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10706705</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

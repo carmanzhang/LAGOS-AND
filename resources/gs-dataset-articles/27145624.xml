@@ -1,0 +1,157 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">27145624</PMID>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>05</Month>
+            <Day>19</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>05</Month>
+            <Day>05</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0012-9658</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>97</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Ecology</Title>
+                <ISOAbbreviation>Ecology</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Drought tolerance as a driver of tropical forest assembly: resolving spatial signatures for multiple processes.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>503-14</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Spatial patterns in trait variation reflect underlying community assembly processes, allowing us to test hypotheses about their trait and environmental drivers by identifying the strongest correlates of characteristic spatial patterns. For 43 evergreen tree species (&gt; 1 cm dbh) in a 20-ha seasonal tropical rainforest plot in Xishuangbanna, China, we compared the ability of drought-tolerance traits, other physiological traits, and commonly measured functional traits to predict the spatial patterns expected from the assembly processes of habitat associations, niche-overlap-based competition, and hierarchical competition. We distinguished the neighborhood-scale (0-20 m) patterns expected from competition from larger-scale habitat associations with a wavelet method. Species' drought tolerance and habitat variables related to soil water supply were strong drivers of habitat associations, and drought tolerance showed a significant spatial signal for influencing competition. Overall, the traits most strongly associated with habitat, as quantified using multivariate models, were leaf density, leaf turgor loss point (π(tlp); also known as the leaf wilting point), and stem hydraulic conductivity (r2 range for the best fit models = 0.27-0.36). At neighborhood scales, species spatial associations were positively correlated with similarity in π(tlp), consistent with predictions for hierarchical competition. Although the correlation between π(tlp) and interspecific spatial associations was weak (r2 &lt; 0.01), this showed a persistent influence of drought tolerance on neighborhood interactions and community assembly. Quantifying the full impact of traits on competitive interactions in forests may require incorporating plasticity among individuals within species, especially among specific life stages, and moving beyond individual traits to integrate the impact of multiple traits on whole-plant performance and resource demand.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Bartlett</LastName>
+                    <ForeName>M K</ForeName>
+                    <Initials>MK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Y</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kreidler</LastName>
+                    <ForeName>N</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sun</LastName>
+                    <ForeName>S w</ForeName>
+                    <Initials>Sw</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lin</LastName>
+                    <ForeName>L</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hu</LastName>
+                    <ForeName>Y H</ForeName>
+                    <Initials>YH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cao</LastName>
+                    <ForeName>K F</ForeName>
+                    <Initials>KF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sack</LastName>
+                    <ForeName>L</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Ecology</MedlineTA>
+            <NlmUniqueID>0043541</NlmUniqueID>
+            <ISSNLinking>0012-9658</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D055864" MajorTopicYN="Y">Droughts</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D065928" MajorTopicYN="Y">Forests</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010802" MajorTopicYN="N">Phylogeny</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018515" MajorTopicYN="N">Plant Leaves</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013045" MajorTopicYN="N">Species Specificity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014197" MajorTopicYN="N">Trees</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014329" MajorTopicYN="Y">Tropical Climate</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>5</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>5</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>5</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">27145624</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,182 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">2646762</PMID>
+        <DateCompleted>
+            <Year>1989</Year>
+            <Month>04</Month>
+            <Day>20</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>08</Month>
+            <Day>19</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0300-483X</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>54</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>1989</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Toxicology</Title>
+                <ISOAbbreviation>Toxicology</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Comparative effects of kainic, quisqualic, and ibotenic acids on phenylethanolamine-N-methyltransferase-containing cells of rat retina.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>177-82</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Phenylethanolamine-N-methyltransferase (PNMT) activity is located in a subpopulation of amacrine cells in the inner nuclear layer of the rat retina. Kainic, quisqualic, and ibotenic acids, all of which are analogues of glutamic acid, were injected intravitreally to the right and saline to the contralateral left eyes of adult male rats in order to determine the effect of these agents upon retinal PNMT activity. Animals were sacrificed 1 week later for tissue removal. The effect of these agents was measured by radiometric assay for PNMT. The fall in PNMT activity was used to measure the sensitivity of the PNMT-containing cells to these agents. Kainic acid was the most potent, producing the greatest reduction in PNMT activity in the smallest doses. Quisqualic acid was intermediate in potency to that of kainic and ibotenic acids. Ibotenic acid reduced PNMT activity only in extremely high doses. The PNMT-containing cells are sensitive to the toxic actions of kainic and quisqualic acids, but relatively insensitive to the actions of ibotenic acid.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Cohen</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacology, Graduate School of Arts and Sciences, Howard University, Washington, D.C. 20059.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>S06RR08016</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D003160">Comparative Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Ireland</Country>
+            <MedlineTA>Toxicology</MedlineTA>
+            <NlmUniqueID>0361055</NlmUniqueID>
+            <ISSNLinking>0300-483X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010069">Oxadiazoles</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010080">Oxazoles</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>2552-55-8</RegistryNumber>
+                <NameOfSubstance UI="D007051">Ibotenic Acid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>8OC22C1B99</RegistryNumber>
+                <NameOfSubstance UI="D016318">Quisqualic Acid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.1.1.28</RegistryNumber>
+                <NameOfSubstance UI="D010625">Phenylethanolamine N-Methyltransferase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.3.1.6</RegistryNumber>
+                <NameOfSubstance UI="D002795">Choline O-Acetyltransferase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>SIV03811UC</RegistryNumber>
+                <NameOfSubstance UI="D007608">Kainic Acid</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002795" MajorTopicYN="N">Choline O-Acetyltransferase</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007051" MajorTopicYN="N">Ibotenic Acid</DescriptorName>
+                <QualifierName UI="Q000633" MajorTopicYN="Y">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007608" MajorTopicYN="N">Kainic Acid</DescriptorName>
+                <QualifierName UI="Q000633" MajorTopicYN="Y">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009929" MajorTopicYN="N">Organ Size</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010069" MajorTopicYN="N">Oxadiazoles</DescriptorName>
+                <QualifierName UI="Q000633" MajorTopicYN="Y">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010080" MajorTopicYN="N">Oxazoles</DescriptorName>
+                <QualifierName UI="Q000633" MajorTopicYN="Y">toxicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010625" MajorTopicYN="N">Phenylethanolamine N-Methyltransferase</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="Y">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016318" MajorTopicYN="N">Quisqualic Acid</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011919" MajorTopicYN="N">Rats, Inbred Strains</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012160" MajorTopicYN="N">Retina</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName UI="Q000201" MajorTopicYN="N">enzymology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1989</Year>
+                <Month>2</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1989</Year>
+                <Month>2</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1989</Year>
+                <Month>2</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">2646762</ArticleId>
+            <ArticleId IdType="pii">0300-483X(89)90043-7</ArticleId>
+            <ArticleId IdType="doi">10.1016/0300-483x(89)90043-7</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

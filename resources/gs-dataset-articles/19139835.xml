@@ -1,0 +1,594 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">19139835</PMID>
+        <DateCompleted>
+            <Year>2009</Year>
+            <Month>09</Month>
+            <Day>25</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1432-1440</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>87</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2009</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of molecular medicine (Berlin, Germany)</Title>
+                <ISOAbbreviation>J. Mol. Med.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Regional administration of oncolytic Echovirus 1 as a novel therapy for the peritoneal dissemination of gastric cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>385-99</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s00109-008-0433-0</ELocationID>
+            <Abstract>
+                <AbstractText>The dissemination of malignant gastric cells to the peritoneum occurs frequently, usually as an early event in disease, and results in poor patient prognosis. Surgery and chemotherapy offer limited therapeutic success. The low-pathogenic human enterovirus, Echovirus 1 (EV1), is an oncolytic virus that selectively targets and destroys malignant prostate and ovarian cancer xenografts in vivo. Lytic EV1 infection requires the cell surface expression of alpha(2)beta(1), an integrin involved in the dissemination of gastric cancer cells to the peritoneum. Herein, we evaluated the capacity of EV1 for anti-neoplastic cell action in gastric peritoneal carcinomatosis. Flow cytometric analysis demonstrated that alpha(2)beta(1) was abundantly surface expressed on a panel of gastric cancer cell lines, rendering the majority of lines highly susceptible to in vitro lytic EV1 infection and supportive of efficient viral progeny production. A bioluminescent MKN-45-Luc SCID mouse model of peritoneal dissemination was developed to allow real-time non-invasive monitoring of peritoneal tumor burden. Employing this mouse model, we demonstrated a therapeutic dose-response for escalating oncolytic EV1 doses. Taken together, these results emphasize the exciting potential for EV1 as a single or adjunct therapy for the control of the peritoneal dissemination of gastric cancer.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Haley</LastName>
+                    <ForeName>Erin S</ForeName>
+                    <Initials>ES</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The University of Newcastle, NSW, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Au</LastName>
+                    <ForeName>Gough G</ForeName>
+                    <Initials>GG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Carlton</LastName>
+                    <ForeName>Brian R</ForeName>
+                    <Initials>BR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Barry</LastName>
+                    <ForeName>Richard D</ForeName>
+                    <Initials>RD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shafren</LastName>
+                    <ForeName>Darren R</ForeName>
+                    <Initials>DR</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2009</Year>
+                <Month>01</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>J Mol Med (Berl)</MedlineTA>
+            <NlmUniqueID>9504370</NlmUniqueID>
+            <ISSNLinking>0946-2716</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D038982">Integrin alpha2beta1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.13.12.-</RegistryNumber>
+                <NameOfSubstance UI="D008156">Luciferases</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D045744" MajorTopicYN="N">Cell Line, Tumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D029822" MajorTopicYN="N">Enterovirus B, Human</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005434" MajorTopicYN="N">Flow Cytometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D038982" MajorTopicYN="N">Integrin alpha2beta1</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008156" MajorTopicYN="N">Luciferases</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008163" MajorTopicYN="N">Luminescent Measurements</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008807" MajorTopicYN="N">Mice, Inbred BALB C</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016513" MajorTopicYN="N">Mice, SCID</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D050130" MajorTopicYN="N">Oncolytic Virotherapy</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D050504" MajorTopicYN="N">Oncolytic Viruses</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010534" MajorTopicYN="N">Peritoneal Neoplasms</DescriptorName>
+                <QualifierName UI="Q000556" MajorTopicYN="N">secondary</QualifierName>
+                <QualifierName UI="Q000628" MajorTopicYN="Y">therapy</QualifierName>
+                <QualifierName UI="Q000821" MajorTopicYN="N">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010537" MajorTopicYN="N">Peritoneum</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+                <QualifierName UI="Q000821" MajorTopicYN="N">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013274" MajorTopicYN="N">Stomach Neoplasms</DescriptorName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+                <QualifierName UI="Q000628" MajorTopicYN="Y">therapy</QualifierName>
+                <QualifierName UI="Q000821" MajorTopicYN="N">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016019" MajorTopicYN="N">Survival Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014162" MajorTopicYN="N">Transfection</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D047368" MajorTopicYN="N">Tumor Burden</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D023041" MajorTopicYN="Y">Xenograft Model Antitumor Assays</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2008</Year>
+                <Month>09</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2008</Year>
+                <Month>12</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2008</Year>
+                <Month>11</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2009</Year>
+                <Month>1</Month>
+                <Day>14</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2009</Year>
+                <Month>1</Month>
+                <Day>14</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2009</Year>
+                <Month>9</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">19139835</ArticleId>
+            <ArticleId IdType="doi">10.1007/s00109-008-0433-0</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Antimicrob Agents Chemother. 2006 Jul;50(7):2409-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16801419</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acta Pathol Jpn. 1986 Jan;36(1):65-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3962675</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAMA. 2006 Aug 23;296(8):964-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16926356</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Mol Med. 2000 Jan;5(1):21-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10601569</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 1993 Jul;92(1):232-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7686920</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Med Virol. 2003 May;70(1):99-108</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12629650</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Diagn Lab Immunol. 1995 May;2(3):385-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7545081</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Cancer. 2005 Jun 10;115(2):320-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15688406</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Cancer Res. 2006 May 15;12(10):3137-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16707613</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Virology. 1997 Sep 1;235(2):293-301</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9281509</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2004 Mar 19;279(12):11632-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14701832</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Haematol. 2007 Apr;137(2):133-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17391493</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Soc Exp Biol Med. 1952 Dec;81(3):621-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">13037743</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Adhes Commun. 1994 Oct;2(5):455-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7842258</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Cancer Res. 2004 Jan 1;10(1 Pt 1):53-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14734451</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cancer Ther. 2008 Jun;7(6):1624-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18566233</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Surg Endosc. 2003 Nov;17(11):1812-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12958678</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2001 Apr 15;61(8):3501-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11309314</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cancer Res Clin Oncol. 1997;123(6):310-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9222296</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Infect Dis. 2007 Nov 15;196(10):1459-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18008224</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>CA Cancer J Clin. 2005 Mar-Apr;55(2):74-108</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15761078</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Lett. 2007 Sep 8;254(2):178-216</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17383089</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Urol. 2008 Mar;18(2):129-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18303531</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biol Direct. 2006 Feb 17;1:6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16542009</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Med Chem. 2007 May 31;50(11):2742-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17447751</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cancer Ther. 2007 Oct;6(10):2728-36</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17938266</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2006 Aug 1;66(15):7532-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16885351</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Sci. 2007 Jan;98(1):11-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17052255</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gastric Cancer. 2007;10(4):197-204</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18095074</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>World J Gastroenterol. 2006 Jan 21;12(3):354-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16489633</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 1965 Apr;44:535-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14278169</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Cancer. 1996 Nov;74(9):1406-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8912536</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Sci. 2005 Jun;96(6):323-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15958054</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hum Cell. 2002 Sep;15(3):138-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12703544</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Gene Ther. 2007 May;14(5):480-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17290283</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>MMWR Surveill Summ. 2006 Sep 15;55(8):1-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16971890</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer. 1989 Jan 15;63(2):364-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2910444</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hum Gene Ther. 2004 Jun;15(6):609-18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15212719</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Biol Cell. 2004 Nov;15(11):4911-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15356270</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1992 Mar 27;255(5052):1718-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1553561</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>World J Gastroenterol. 2008 Feb 28;14(8):1159-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18300340</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Ther. 2003 Sep;8(3):449-58</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12946318</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Gene Ther. 2002 May;2(2):243-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12109220</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer. 2000 Jan 15;88(2):358-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10640968</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Prostate. 2008 May 1;68(6):577-87</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18288643</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2002 Aug 15;62(16):4656-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12183422</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Chest. 1973 Mar;63(3):457-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4690897</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Cancer. 2005 Dec;5(12):965-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16294217</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2007 Nov 23;282(47):34594-604</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17905740</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Surg. 2000 Feb;87(2):236-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10671934</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Surg Today. 1998;28(10):1001-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9786570</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Oncol. 2001 Apr;18(4):809-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11251178</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Oncol. 2000 May;16(5):893-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10762624</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Intervirology. 1987;28(3):163-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2836335</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Surg Oncol. 2008 Jul 1;98(1):54-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18521842</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Breast Cancer Res Treat. 2009 Jan;113(1):21-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18256929</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Diagn Lab Immunol. 2004 Mar;11(2):351-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15013987</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Surg. 2008 Jan;247(1):85-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18156927</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Med (Berl). 2000;78(3):166-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10868479</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Gene Med. 2005 May;7(5):638-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15754306</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Gene Ther. 2002 Nov;9(11):935-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12386832</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

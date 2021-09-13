@@ -1,0 +1,168 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">12943458</PMID>
+        <DateCompleted>
+            <Year>2004</Year>
+            <Month>07</Month>
+            <Day>21</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>10</Month>
+            <Day>26</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1471-2598</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>3</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2003</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Expert opinion on biological therapy</Title>
+                <ISOAbbreviation>Expert Opin Biol Ther</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Therapeutic value of alpha-4 integrin blockade in inflammatory bowel disease:the role of natalizumab.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>995-1000</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Lymphocyte infiltration into the intestinal tract in Crohn's disease is mediated by the interaction between alpha(4) integrin, expressed on lymphocytes, and its ligand mucosal vascular addressin cell-adhesion molecule-1 (MADCAM-1), expressed on the endothelial cells of the microvasculature in inflamed intestinal tract. Natalizumab, a recombinant, humanised monoclonal antibody against alpha(4) integrin was effective in Crohn's disease in a Phase II, randomised, controlled trial. The highest response rate and remission rates were 71 and 44% at 6 weeks, respectively, after two infusions of 3 mg of natalizumab administered 4 weeks apart. Natalizumab was well-tolerated in this study. The Phase III trial results are awaited.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ghosh</LastName>
+                    <ForeName>Subrata</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Imperial College London, Hammersmith Hospital, Ducane Road, London W12 0NN, UK. s.ghosh@ic.ac.uk</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Expert Opin Biol Ther</MedlineTA>
+            <NlmUniqueID>101125414</NlmUniqueID>
+            <ISSNLinking>1471-2598</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000911">Antibodies, Monoclonal</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D061067">Antibodies, Monoclonal, Humanized</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007136">Immunoglobulins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C504265">MADCAM1 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009088">Mucoproteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000069442">Natalizumab</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016201">Receptors, Lymphocyte Homing</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>143198-26-9</RegistryNumber>
+                <NameOfSubstance UI="D039441">Integrin alpha4</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000911" MajorTopicYN="N">Antibodies, Monoclonal</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D061067" MajorTopicYN="N">Antibodies, Monoclonal, Humanized</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002986" MajorTopicYN="N">Clinical Trials as Topic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003424" MajorTopicYN="N">Crohn Disease</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007136" MajorTopicYN="N">Immunoglobulins</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D039441" MajorTopicYN="N">Integrin alpha4</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009088" MajorTopicYN="N">Mucoproteins</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000069442" MajorTopicYN="N">Natalizumab</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016201" MajorTopicYN="N">Receptors, Lymphocyte Homing</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>9</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2003</Year>
+                <Month>8</Month>
+                <Day>29</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2004</Year>
+                <Month>7</Month>
+                <Day>22</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2003</Year>
+                <Month>8</Month>
+                <Day>29</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">12943458</ArticleId>
+            <ArticleId IdType="doi">10.1517/14712598.3.6.995</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

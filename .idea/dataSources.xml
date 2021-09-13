@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="ch-version-20.3" uuid="bf9dba01-ae31-43d3-8f71-07654cdc1eec">
+      <driver-ref>clickhouse</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>ru.yandex.clickhouse.ClickHouseDriver</jdbc-driver>
+      <jdbc-url>jdbc:clickhouse://localhost:8124</jdbc-url>
+      <driver-properties>
+        <property name="socket_timeout" value="30000000" />
+      </driver-properties>
+    </data-source>
+    <data-source source="LOCAL" name="ch-data-54" uuid="d4e20b5a-04cd-4856-8c09-baa93741dc75">
+      <driver-ref>clickhouse</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>ru.yandex.clickhouse.ClickHouseDriver</jdbc-driver>
+      <jdbc-url>jdbc:clickhouse://202.114.70.54:8123</jdbc-url>
+    </data-source>
+  </component>
+</project>

@@ -1,0 +1,226 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">27873572</PMID>
+        <DateCompleted>
+            <Year>2017</Year>
+            <Month>06</Month>
+            <Day>13</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>11</Month>
+            <Day>25</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1469-4409</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>145</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2017</Year>
+                        <Month>02</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Epidemiology and infection</Title>
+                <ISOAbbreviation>Epidemiol. Infect.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Risk assessment of dengue fever in Zhongshan, China: a time-series regression tree analysis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>451-461</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1017/S095026881600265X</ELocationID>
+            <Abstract>
+                <AbstractText>Dengue fever (DF) is the most prevalent and rapidly spreading mosquito-borne disease globally. Control of DF is limited by barriers to vector control and integrated management approaches. This study aimed to explore the potential risk factors for autochthonous DF transmission and to estimate the threshold effects of high-order interactions among risk factors. A time-series regression tree model was applied to estimate the hierarchical relationship between reported autochthonous DF cases and the potential risk factors including the timeliness of DF surveillance systems (median time interval between symptom onset date and diagnosis date, MTIOD), mosquito density, imported cases and meteorological factors in Zhongshan, China from 2001 to 2013. We found that MTIOD was the most influential factor in autochthonous DF transmission. Monthly autochthonous DF incidence rate increased by 36·02-fold [relative risk (RR) 36·02, 95% confidence interval (CI) 25·26-46·78, compared to the average DF incidence rate during the study period] when the 2-month lagged moving average of MTIOD was &gt;4·15 days and the 3-month lagged moving average of the mean Breteau Index (BI) was ⩾16·57. If the 2-month lagged moving average MTIOD was between 1·11 and 4·15 days and the monthly maximum diurnal temperature range at a lag of 1 month was &lt;9·6 °C, the monthly mean autochthonous DF incidence rate increased by 14·67-fold (RR 14·67, 95% CI 8·84-20·51, compared to the average DF incidence rate during the study period). This study demonstrates that the timeliness of DF surveillance systems, mosquito density and diurnal temperature range play critical roles in the autochthonous DF transmission in Zhongshan. Better assessment and prediction of the risk of DF transmission is beneficial for establishing scientific strategies for DF early warning surveillance and control.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>K-K</ForeName>
+                    <Initials>KK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Public Health,Key Laboratory of Tropical Disease Control of Ministry of Education,Sun Yat-Sen University,Guangzhou,PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>T</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Zhongshan Research Institute of Public Health,School of Public Health,Sun Yat-Sen University,Zhonghsan,PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Huang</LastName>
+                    <ForeName>X-D</ForeName>
+                    <Initials>XD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Public Health and Social Work,Institute of Health and Biomedical Innovation,Queensland University of Technology,Brisbane,Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>G-L</ForeName>
+                    <Initials>GL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Public Health,Key Laboratory of Tropical Disease Control of Ministry of Education,Sun Yat-Sen University,Guangzhou,PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xia</LastName>
+                    <ForeName>Y</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Public Health,Key Laboratory of Tropical Disease Control of Ministry of Education,Sun Yat-Sen University,Guangzhou,PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Y-T</ForeName>
+                    <Initials>YT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Public Health,Key Laboratory of Tropical Disease Control of Ministry of Education,Sun Yat-Sen University,Guangzhou,PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jing</LastName>
+                    <ForeName>Q-L</ForeName>
+                    <Initials>QL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Public Health,Key Laboratory of Tropical Disease Control of Ministry of Education,Sun Yat-Sen University,Guangzhou,PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Huang</LastName>
+                    <ForeName>J-W</ForeName>
+                    <Initials>JW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Public Health,Key Laboratory of Tropical Disease Control of Ministry of Education,Sun Yat-Sen University,Guangzhou,PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>X-X</ForeName>
+                    <Initials>XX</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Zhongshan Research Institute of Public Health,School of Public Health,Sun Yat-Sen University,Zhonghsan,PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lu</LastName>
+                    <ForeName>J-H</ForeName>
+                    <Initials>JH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Public Health,Key Laboratory of Tropical Disease Control of Ministry of Education,Sun Yat-Sen University,Guangzhou,PR China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hu</LastName>
+                    <ForeName>W-B</ForeName>
+                    <Initials>WB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Public Health and Social Work,Institute of Health and Biomedical Innovation,Queensland University of Technology,Brisbane,Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>11</Month>
+                <Day>22</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Epidemiol Infect</MedlineTA>
+            <NlmUniqueID>8703737</NlmUniqueID>
+            <ISSNLinking>0950-2688</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002681" MajorTopicYN="N">China</DescriptorName>
+                <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003715" MajorTopicYN="N">Dengue</DescriptorName>
+                <QualifierName UI="Q000453" MajorTopicYN="Y">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015994" MajorTopicYN="N">Incidence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015233" MajorTopicYN="N">Models, Statistical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000072138" MajorTopicYN="N">Mosquito Vectors</DescriptorName>
+                <QualifierName UI="Q000254" MajorTopicYN="Y">growth &amp; development</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018570" MajorTopicYN="N">Risk Assessment</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013696" MajorTopicYN="N">Temperature</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013997" MajorTopicYN="N">Time Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014887" MajorTopicYN="Y">Weather</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="Y">CART model</Keyword>
+            <Keyword MajorTopicYN="Y">dengue fever</Keyword>
+            <Keyword MajorTopicYN="Y">meteorological factors</Keyword>
+            <Keyword MajorTopicYN="Y">mosquito vector</Keyword>
+            <Keyword MajorTopicYN="Y">timeliness of diagnosis</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>11</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>6</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>11</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">27873572</ArticleId>
+            <ArticleId IdType="pii">S095026881600265X</ArticleId>
+            <ArticleId IdType="doi">10.1017/S095026881600265X</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

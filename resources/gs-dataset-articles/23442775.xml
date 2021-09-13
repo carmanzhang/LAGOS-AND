@@ -1,0 +1,232 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">23442775</PMID>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>10</Month>
+            <Day>17</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>19</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1536-0210</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>48</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Investigative radiology</Title>
+                <ISOAbbreviation>Invest Radiol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Integrated whole-body PET/MR hybrid imaging: clinical experience.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>280-9</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1097/RLI.0b013e3182845a08</ELocationID>
+            <Abstract>
+                <AbstractText Label="OBJECTIVES" NlmCategory="OBJECTIVE">Integrated whole-body positron emission tomography (PET)/magnetic resonance (MR) scanners have recently been introduced and potentially offer new possibilities in hybrid imaging of oncologic patients. Integration of PET in a whole-body MR system requires new PET detector technology and new approaches to attenuation correction of PET data based on MR imaging. The aim of this study was to evaluate the clinical performance and image quality parameters of integrated whole-body PET/MR hybrid imaging in intraindividual comparison with PET/CT in oncologic patients.</AbstractText>
+                <AbstractText Label="MATERIALS AND METHODS" NlmCategory="METHODS">Eighty patients underwent a single-injection, dual-imaging protocol including whole-body PET/computed tomography (CT) and subsequent whole-body PET/MR hybrid imaging. Positron emission tomography/computed tomography was performed after adequate resting time (73 ± 13 minutes post injectionem of 227 ± 52.7 MBq Fluor-18-Fluordesoxyglucose, 3 minutes of acquisition time for each of 7 bed positions), followed by PET/MR (172 ± 33 minutes post injectionem, 10 minutes acquisition time for each of 4 bed positions). Positron emission tomographic data for both modalities were reconstructed iteratively. Two observers evaluated the following parameters: qualitative correlation of tracer-avid lesions in PET/CT versus PET/MR and PET image quality of PET/CT versus PET/MR. Magnetic resonance image quality of standard sequences (T1-weighted, T2-weighted), performance of the Dixon sequence for MR-based attenuation correction in comparison with corresponding T1-weighted images, artifacts in PET/MR data, and spatial coregistration of PET and MR data were evaluated by another observer.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">In 70 of the 80 patients, both image data sets were complete. In these patients, 192 tracer-avid lesions were identified on PET/CT; 195, on PET/MR. A total of 187 lesions were identified concordantly by both modalities, and this corresponds to an agreement rate of 97.4%. The overall PET image quality was rated good to excellent for PET from PET/CT (12/28, excellent, 42.9%; 16/28, good, 57.1%; 0/28, poor, 0.0%) and slightly superior compared with PET from PET/MR, which was rated good (3/28, excellent, 10.7%; 20/28, good, 71.4%; 5/28, poor, 17.9%) in a subset of 28 patients. The overall image quality of the MR image data sets in all 70 of the 80 patients was rated excellent (260/280, excellent, 92.8%; 15/280, good, 5.4%; 5/280, poor, 1.8%). The Dixon sequence and conversion to μ-maps for MR-based attenuation correction provided robust tissue segmentation in all 280 bed positions of the acquired PET/MR data. No artifacts such as elevated noise and radiofrequency disturbances related to hardware cross talk between the PET and MR components in the hybrid system could be detected in the MR images. No major spatial mismatches between PET and MR data were detected.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Integrated PET/MR hybrid imaging is feasible in a clinical setting with similar detection rates as those of PET/CT. Attenuation correction can be performed sufficiently with Dixon sequences, although bone is disregarded. The administration of specific radiotracers and dedicated imaging sequences will foster this hybrid imaging modality in various indications.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Quick</LastName>
+                    <ForeName>Harald H</ForeName>
+                    <Initials>HH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Medical Physics, Friedrich-Alexander-University Erlangen-Nürnberg, Erlangen, Germany. Harald.Quick@imp.uni-erlangen.de</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>von Gall</LastName>
+                    <ForeName>Carl</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zeilinger</LastName>
+                    <ForeName>Martin</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wiesmüller</LastName>
+                    <ForeName>Marco</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Braun</LastName>
+                    <ForeName>Harald</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ziegler</LastName>
+                    <ForeName>Susanne</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kuwert</LastName>
+                    <ForeName>Torsten</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Uder</LastName>
+                    <ForeName>Michael</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dörfler</LastName>
+                    <ForeName>Arnd</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kalender</LastName>
+                    <ForeName>Willi A</ForeName>
+                    <Initials>WA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lell</LastName>
+                    <ForeName>Michael</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Invest Radiol</MedlineTA>
+            <NlmUniqueID>0045377</NlmUniqueID>
+            <ISSNLinking>0020-9996</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D019275">Radiopharmaceuticals</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0Z5B2CJX4D</RegistryNumber>
+                <NameOfSubstance UI="D019788">Fluorodeoxyglucose F18</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016477" MajorTopicYN="N">Artifacts</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003937" MajorTopicYN="N">Diagnosis, Differential</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019788" MajorTopicYN="N">Fluorodeoxyglucose F18</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007091" MajorTopicYN="N">Image Processing, Computer-Assisted</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008279" MajorTopicYN="N">Magnetic Resonance Imaging</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D064847" MajorTopicYN="N">Multimodal Imaging</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009369" MajorTopicYN="N">Neoplasms</DescriptorName>
+                <QualifierName UI="Q000175" MajorTopicYN="Y">diagnosis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015588" MajorTopicYN="N">Observer Variation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D049268" MajorTopicYN="N">Positron-Emission Tomography</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019275" MajorTopicYN="N">Radiopharmaceuticals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015203" MajorTopicYN="N">Reproducibility of Results</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012680" MajorTopicYN="N">Sensitivity and Specificity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014057" MajorTopicYN="N">Tomography, X-Ray Computed</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051598" MajorTopicYN="N">Whole Body Imaging</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055815" MajorTopicYN="N">Young Adult</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>2</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>2</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">23442775</ArticleId>
+            <ArticleId IdType="doi">10.1097/RLI.0b013e3182845a08</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

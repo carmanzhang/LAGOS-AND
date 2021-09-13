@@ -1,0 +1,220 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">18977324</PMID>
+        <DateCompleted>
+            <Year>2008</Year>
+            <Month>11</Month>
+            <Day>18</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1878-3686</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>14</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2008</Year>
+                        <Month>Nov</Month>
+                        <Day>04</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cancer cell</Title>
+                <ISOAbbreviation>Cancer Cell</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Glycogen synthase kinase-3 and cancer: good cop, bad cop?</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>351-3</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ccr.2008.10.013</ELocationID>
+            <Abstract>
+                <AbstractText>Dogma held that inhibition of the pleiotropic protein kinase glycogen synthase kinase-3 (GSK-3) was procarcinogenic due to its natural repression of beta-catenin. Now, Wang et al. have found the reverse in certain leukemias, possibly paving the way for small-molecule GSK-3 inhibitors as selective anticancer agents.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Patel</LastName>
+                    <ForeName>Satish</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Samuel Lunenfeld Research Institute, Toronto, ON, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Woodgett</LastName>
+                    <ForeName>Jim</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>74711</GrantID>
+                    <Agency>Canadian Institutes of Health Research</Agency>
+                    <Country>Canada</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Cancer Cell</MedlineTA>
+            <NlmUniqueID>101130617</NlmUniqueID>
+            <ISSNLinking>1535-6108</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004791">Enzyme Inhibitors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D051176">beta Catenin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.11.26</RegistryNumber>
+                <NameOfSubstance UI="D038362">Glycogen Synthase Kinase 3</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D004791" MajorTopicYN="N">Enzyme Inhibitors</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005786" MajorTopicYN="N">Gene Expression Regulation</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D038362" MajorTopicYN="N">Glycogen Synthase Kinase 3</DescriptorName>
+                <QualifierName UI="Q000037" MajorTopicYN="Y">antagonists &amp; inhibitors</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007938" MajorTopicYN="N">Leukemia</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015398" MajorTopicYN="N">Signal Transduction</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051176" MajorTopicYN="N">beta Catenin</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="NLM">CAMS1555</OtherID>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2008</Year>
+                <Month>11</Month>
+                <Day>4</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2008</Year>
+                <Month>11</Month>
+                <Day>19</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2008</Year>
+                <Month>11</Month>
+                <Day>4</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">18977324</ArticleId>
+            <ArticleId IdType="pii">S1535-6108(08)00336-X</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.ccr.2008.10.013</ArticleId>
+            <ArticleId IdType="pmc">PMC3006450</ArticleId>
+            <ArticleId IdType="mid">CAMS1555</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Cell Sci. 2003 Apr 1;116(Pt 7):1175-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12615961</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 2005 Apr 20;24(8):1571-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15791206</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Leukemia. 2006 Sep;20(9):1572-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16855632</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Cancer Res. 2006 Sep 1;12(17):5074-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16951223</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2008 Oct 30;455(7217):1205-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18806775</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Dev Cell. 2007 Jun;12(6):957-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17543867</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Cancer. 2007 Nov;7(11):823-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17957188</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Med Chem. 2008;15(15):1493-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18537625</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Med Res Rev. 2008 Sep;28(5):773-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18271054</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Genet Dev. 2007 Feb;17(1):45-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17208432</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

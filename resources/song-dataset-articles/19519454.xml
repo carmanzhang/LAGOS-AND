@@ -1,0 +1,1433 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">19519454</PMID>
+        <DateCompleted>
+            <Year>2009</Year>
+            <Month>09</Month>
+            <Day>02</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>10</Month>
+            <Day>27</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1389-2037</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>10</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2009</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Current protein &amp; peptide science</Title>
+                <ISOAbbreviation>Curr Protein Pept Sci</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The importance of being flexible: the case of basic region leucine zipper transcriptional regulators.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>244-69</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Large volumes of protein sequence and structure data acquired by proteomic studies led to the development of computational bioinformatic techniques that made possible the functional annotation and structural characterization of proteins based on their primary structure. It has become evident from genome-wide analyses that many proteins in eukaryotic cells are either completely disordered or contain long unstructured regions that are crucial for their biological functions. The content of disorder increases with evolution indicating a possibly important role of disorder in the regulation of cellular systems. Transcription factors are no exception and several proteins of this class have recently been characterized as premolten/molten globules. Yet, mammalian cells rely on these proteins to control expression of their 30,000 or so genes. Basic region:leucine zipper (bZIP) DNA-binding proteins constitute a major class of eukaryotic transcriptional regulators. This review discusses how conformational flexibility &quot;built&quot; into the amino acid sequence allows bZIP proteins to interact with a large number of diverse molecular partners and to accomplish their manifold cellular tasks in a strictly regulated and coordinated manner.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Miller</LastName>
+                    <ForeName>Maria</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Macromolecular Crystallography Laboratory, National Cancer Institute at Frederick, Frederick, MD 21702-1201, USA. millerm@ncifcrf.gov</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>Z99 CA999999</GrantID>
+                    <Agency>Intramural NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052060">Research Support, N.I.H., Intramural</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United Arab Emirates</Country>
+            <MedlineTA>Curr Protein Pept Sci</MedlineTA>
+            <NlmUniqueID>100960529</NlmUniqueID>
+            <ISSNLinking>1389-2037</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D050976">Basic-Leucine Zipper Transcription Factors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9007-49-2</RegistryNumber>
+                <NameOfSubstance UI="D004247">DNA</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000595" MajorTopicYN="N">Amino Acid Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D050976" MajorTopicYN="N">Basic-Leucine Zipper Transcription Factors</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004247" MajorTopicYN="N">DNA</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008969" MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017510" MajorTopicYN="N">Protein Folding</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017434" MajorTopicYN="N">Protein Structure, Tertiary</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015533" MajorTopicYN="N">Transcriptional Activation</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>217</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2009</Year>
+                <Month>6</Month>
+                <Day>13</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2009</Year>
+                <Month>6</Month>
+                <Day>13</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2009</Year>
+                <Month>9</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">19519454</ArticleId>
+            <ArticleId IdType="pmc">PMC2800128</ArticleId>
+            <ArticleId IdType="mid">NIHMS161530</ArticleId>
+            <ArticleId IdType="doi">10.2174/138920309788452164</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>EMBO J. 2001 Dec 3;20(23):6712-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11726507</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell. 2001 Nov;8(5):937-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11741530</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2002 Jan 1;30(1):276-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11752314</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2001 Dec 21;294(5551):2507-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11701890</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Biochem. 2001;70:475-501</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11395415</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2002 Jan 11;108(1):57-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11792321</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2002 Jan 22;99(2):546-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11805309</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Struct Biol. 2002 Feb;12(1):54-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11839490</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2002 Feb 22;108(4):439-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11909516</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2002 Jan 1;30(1):242-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11752305</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2002 Feb 22;108(4):475-87</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11909519</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Protein Sci. 2002 Apr;11(4):739-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11910019</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Struct Biol. 2002 Apr;9(4):252-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11875518</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2002 Apr 16;99(8):5367-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11959990</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 2002 May 28;41(21):6573-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12022860</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Dev. 2002 Jun 15;16(12):1509-17</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12080089</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2002 Jun 28;277(26):23563-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11980905</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem J. 2002 Aug 1;365(Pt 3):561-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12006103</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Res. 2002 Aug;12(8):1190-200</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12176927</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 2002 Sep;22(18):6321-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12192032</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2002 Aug 30;321(5):891-908</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12206769</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gene. 2002 Jul 10;294(1-2):1-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12234662</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2006 Feb 3;355(5):1005-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16253272</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2006 Feb 3;355(5):1125-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16359704</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Proteome Res. 2006 Apr;5(4):888-98</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16602696</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochim Biophys Acta. 2006 Jan-Feb;1759(1-2):4-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16580748</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 2006 Jun 6;45(22):6873-88</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16734424</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2006 May 30;103(22):8390-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16717195</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2006 Jun 16;359(4):1137-49</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16697407</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Comput Biol. 2006 Jul 7;2(7):e78</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16839193</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2006 Jul 28;313(5786):449-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16873633</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2006 Jul 28;313(5786):533-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16873666</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Biochem Sci. 2002 Oct;27(10):527-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12368089</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Protein Sci. 2002 Nov;11(11):2740-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12381856</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 2002 Nov 26;41(47):13956-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12437352</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2004;32(11):3435-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15226410</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2004 Jul 1;430(6995):88-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15190252</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Chem Rev. 2004 Aug;104(8):3607-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15303830</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2004 Aug 10;101(32):11554-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15286281</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 2004 Sep;24(17):7380-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15314150</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 2004 Sep 1;23(17):3538-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15306851</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1977 Jun;74(6):2236-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">196283</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1988 May 19;333(6170):210-2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3367995</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1988 Jun 24;240(4860):1759-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3289117</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1988 Aug 25;334(6184):721-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3412449</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1989 Mar 31;243(4899):1681-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2494700</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1990 Oct 11;347(6293):575-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2145515</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1991 Jan 1;88(1):139-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1846034</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 1991 May 31;65(5):717-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2040012</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1991 Aug 5;266(22):14139-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1650349</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncogene. 1991 Jul;6(7):1243-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1907361</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 1991 Sep 17;30(37):9030-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1892816</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Biochem Sci. 1991 Nov;16(11):417-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1776171</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1992 Jan 10;255(5041):203-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1553548</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 1992 Apr 28;31(16):4150-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1314658</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Genet Dev. 1992 Apr;2(2):205-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1638114</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 1992 Dec 24;71(7):1223-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1473154</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 1993 Jun 1;32(21):5491-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8504069</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Dev. 1993 Jun;7(6):1047-58</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8504929</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1994 Feb 11;263(5148):777-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8303294</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1994 Jul 15;265(5170):346-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8023157</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 1994 Jun 15;13(12):2849-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8026470</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1994 Jul 19;91(15):7360-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8041795</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 1994 Sep;14(9):6021-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8065335</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1994 Oct 14;269(41):25613-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7929265</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1995 Jan 19;373(6511):257-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7816143</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 1994 Dec 11;22(24):5173-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7816602</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 1995 Jan 27;80(2):199-211</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7834740</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Protein Profile. 1995;2(2):101-68</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7780801</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Genet Dev. 1995 Apr;5(2):190-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7613088</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 2000 Mar 14;39(10):2708-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10704222</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2000 Mar 3;296(4):1105-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10686107</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2000 Apr 14;297(5):1183-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10764582</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Genet Dev. 2001 Apr;11(2):205-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11250145</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Cell Biol. 2001 Jun;13(3):310-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11343901</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 2001 May 29;40(21):6267-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11371188</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncogene. 2001 Apr 30;20(19):2334-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11402330</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncogene. 2001 Apr 30;20(19):2438-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11402339</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochim Biophys Acta. 2001 May 28;1519(1-2):13-29</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11406267</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Cell Biol. 2001;79(3):253-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11467739</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gene. 2001 Jul 25;273(1):1-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11483355</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Struct Biol. 2001 Sep;8(9):756-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11524676</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Biotechnol. 2001 Sep;19(9):805-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11533628</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Protein Sci. 2001 Oct;10(10):1970-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11567088</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2001 Oct 26;276(43):40127-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11514548</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 2001 Nov 1;20(21):6095-103</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11689449</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2007 May 15;104(20):8311-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17494761</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biophys J. 2007 Jun 15;92(12):L109-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17416623</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Genomics. 2007;8:136</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17535445</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2007 Jun 21;447(7147):1021-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17522630</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Cycle. 2006 Nov 1;5(21):2501-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17102635</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2007 Jul 6;282(27):19872-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17491014</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Cell Biol. 2007 Jul;17(7):318-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17658261</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Comput Biol. 2007 Aug;3(8):e162</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17722973</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antioxid Redox Signal. 2007 Dec;9(12):2305-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17887918</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1993 Nov 26;262(5138):1401-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8248779</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 1995 Jul 3;14(13):3170-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7621830</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 1995 Sep 1;14(17):4318-28</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7556073</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 1995 Nov 1;14(21):5329-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7489722</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2000 May 26;275(21):15912-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10821850</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Dev. 2000 Jul 1;14(13):1553-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10887150</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2003 Jul 1;31(13):3833-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12824431</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2003 Jun 27;300(5628):2097-101</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12805554</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2003 Jul 10;424(6945):147-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12853946</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proteins. 2003 Sep 1;52(4):573-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12910457</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2003 Sep 19;278(38):36959-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12857754</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 1999 Oct 22;293(2):321-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10550212</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1999 Nov 26;274(48):34196-202</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10567391</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Cells. 1999 Nov;4(11):643-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10620011</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Biochem Sci. 1997 Nov;22(11):437-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9397686</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 1997 Dec 12;91(6):741-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9413984</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 1998 Jan 27;37(4):965-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9467467</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gene Expr. 1997;6(6):371-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9495318</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1998 Mar 5;392(6671):42-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9510247</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2000 Aug 1;97(16):8868-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10908673</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Biochem Sci. 2000 Sep;25(9):448-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10973059</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Struct Biol. 2000 Oct;7(10):889-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11017199</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proteins. 2000 Nov 15;41(3):415-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11025552</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2000 Nov 10;275(45):35242-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10952992</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proteins. 2001 Jan 1;42(1):38-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11093259</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2001 Jan 5;276(1):505-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11018027</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 2001 Jan 9;40(1):130-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11141063</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Structure. 2000 Dec 15;8(12):1329-39</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11188697</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Recognit. 2001 Jan-Feb;14(1):42-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11180561</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Cells. 2001 Jan;6(1):1-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11168592</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proteins. 2005 Jan 1;58(1):144-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15476208</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2005 Jan 1;21(1):137-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15310560</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2005 Feb 11;346(1):175-89</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15663936</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 2005 Feb 15;44(6):1989-2000</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15697224</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2005 Mar 4;346(4):1121-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15701522</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Struct Biol. 2005 Feb;15(1):35-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15718131</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Mol Cell Biol. 2005 Mar;6(3):197-208</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15738986</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 2005 Mar 15;44(10):3955-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15751971</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2005 Mar 22;102(12):4459-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15753290</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2005 Apr 1;280(13):12246-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15661739</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proteomics. 2005 Apr;5(6):1494-506</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15798993</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2005 May 1;21(9):1891-900</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15657106</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Biochem Sci. 2005 May;30(5):250-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15896743</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEBS Lett. 2005 Jun 13;579(15):3346-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15943980</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2005 Aug 15;21(16):3435-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15955783</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Recognit. 2005 Sep-Oct;18(5):343-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16094605</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 2005 Sep 20;44(37):12454-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16156658</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sci STKE. 2005 Sep 13;2005(301):pe44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16160121</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEBS J. 2005 Oct;272(20):5129-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16218947</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2005 Oct 21;280(42):35081-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16123044</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2005 Nov 18;280(46):38700-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16166081</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Biol. 2005 Dec;3(12):e405</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16279839</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proteins. 2006 Jan 1;62(1):24-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16287116</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2006 Jan 27;355(4):845-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16324711</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proteins. 2006 Feb 1;62(2):309-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16299712</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood. 1996 Jun 1;87(11):4607-17</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8639829</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1996 Jun 7;271(23):13716-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8662719</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proteins. 1996 Apr;24(4):427-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9162943</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1996 Nov 8;274(5289):948-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8875929</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 1996 Dec 6;264(3):546-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8969304</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Struct Biol. 1997 Feb;4(2):115-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9033590</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1997 Apr 10;386(6625):569-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9121580</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Fold Des. 1997;2(2):R17-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9135978</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1997 Aug 29;277(5330):1310-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9271577</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Chem Biol. 1995 Nov;2(11):709-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9383477</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEBS Lett. 1998 Mar 20;425(1):14-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9540998</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Biochem Sci. 1998 May;23(5):185-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9612083</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1998 Jun 12;273(24):14796-804</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9614080</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biophys J. 1998 Jun;74(6):3190-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9635772</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1998 Aug 14;273(33):20820-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9694827</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Chem Biol. 1998 Feb;2(1):18-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9667910</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1998 Dec 4;273(49):32377-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9829964</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 1999 Feb 5;285(5):2133-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9925790</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 1999 Feb 5;285(5):2177-98</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9925793</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 1999 Apr 2;287(3):593-607</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10092462</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1999 Jun 18;274(25):17643-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10364202</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Biophys Biomol Struct. 1999;28:29-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10410794</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 1999 Jul 9;98(1):1-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10412974</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1999 Oct 12;96(21):11735-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10518519</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 2004 Nov 10;23(22):4384-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15510218</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2005 Jan 14;345(2):275-87</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15571721</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 2003 Feb 17;22(4):882-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12574124</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Biochem Sci. 2003 Feb;28(2):81-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12575995</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Struct Biol. 2003 Feb;13(1):40-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12581658</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncogene. 2003 Mar 6;22(9):1273-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12618752</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2003 Apr 25;278(17):15178-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12578822</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2003 Apr 29;100(9):5148-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12697905</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Cell Biol. 2003 Jun;15(3):345-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12787778</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Phys Rev Lett. 2003 May 9;90(18):188101</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12786043</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2003 Jul 1;31(13):3625-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12824381</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2003 Jul 1;31(13):3701-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12824398</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Chem Biol. 2007 Feb;3(2):83-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17235341</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biophys J. 2007 Mar 1;92(5):1439-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17158572</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2007 Mar 2;282(9):6283-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17209043</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Biol Evol. 2007 Mar;24(3):827-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17194801</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Immunol. 2007 Apr;44(11):2933-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17335903</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell. 2003 Aug;12(2):413-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14536081</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2003 Oct 24;302(5645):636-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14576432</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2003 Oct 24;302(5645):639-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14576433</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2003 Nov 28;302(5650):1571-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14645851</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Biol. 2004;5(2):R11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14759261</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2004;32(3):1037-49</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14960716</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2004 Mar 26;337(3):521-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15019774</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2004 Mar 26;337(3):635-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15019783</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2004 May 14;338(5):1015-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15111064</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2004 May 14;279(20):20613-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14998990</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2004 Jun 18;279(25):26257-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15087451</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 2006 Aug;26(16):5969-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16880509</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Cycle. 2006 Jul;5(14):1481-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16861894</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proteins. 2006 Oct 1;65(1):1-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16856179</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2006 Oct 6;362(5):1043-59</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16935303</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2006 Oct 13;281(41):30621-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16893889</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2006 Nov 16;444(7117):279-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17051147</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proteins. 2006 Dec 1;65(4):856-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17001643</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2007 Jan 12;282(2):956-67</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17110376</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proteins. 2007 Mar 1;66(4):761-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17154416</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Protein Pept Sci. 2007 Apr;8(2):135-49</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17430195</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Protein Pept Sci. 2007 Apr;8(2):197-203</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17430201</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Phys Rev Lett. 2007 Mar 23;98(12):128105</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17501161</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

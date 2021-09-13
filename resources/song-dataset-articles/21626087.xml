@@ -1,0 +1,439 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21626087</PMID>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>05</Month>
+            <Day>17</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>04</Month>
+            <Day>02</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1437-1596</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>126</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>International journal of legal medicine</Title>
+                <ISOAbbreviation>Int J Legal Med</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Potential forensic application of DNA methylation profiling to body fluid identification.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>55-62</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s00414-011-0569-2</ELocationID>
+            <Abstract>
+                <AbstractText>DNA analysis of various body fluid stains at crime scenes facilitates the identification of individuals but does not currently determine the type and origin of the biological material. Recent advances in whole genome epigenetic analysis indicate that chromosome pieces called tDMRs (tissue-specific differentially methylated regions) show different DNA methylation profiles according to the type of cell or tissue. We examined the potential of tissue-specific differential DNA methylation for body fluid identification. Five tDMRs for the genes DACT1, USP49, HOXA4, PFN3, and PRMT2 were selected, and DNA methylation profiles for these tDMRs were produced by bisulfite sequencing using pooled DNA from blood, saliva, semen, menstrual blood, and vaginal fluid. The tDMRs for DACT1 and USP49 showed semen-specific hypomethylation, and the tDMRs for HOXA4, PFN3, and PRMT2 displayed varying degrees of methylation according to the type of body fluid. Preliminary tests using methylation-specific PCR for the DACT1 and USP49 tDMRs showed that these two markers could be used successfully to identify semen samples including sperm cells. Body fluid-specific differential DNA methylation may be a promising indicator for body fluid identification. Because DNA methylation profiling uses the same biological source of DNA for individual identification profiling, the determination of more body fluid-specific tDMRs and the development of convenient tDMR analysis methods will facilitate the broad implementation of body fluid identification in forensic casework.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Hwan Young</ForeName>
+                    <Initials>HY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Forensic Medicine and Brain Korea 21 Project for Medical Science, Yonsei University College of Medicine, Seoul 120-752, South Korea. hylee192@yuhs.ac</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Park</LastName>
+                    <ForeName>Myung Jin</ForeName>
+                    <Initials>MJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Choi</LastName>
+                    <ForeName>Ajin</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>An</LastName>
+                    <ForeName>Ja Hyun</ForeName>
+                    <Initials>JH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>Woo Ick</ForeName>
+                    <Initials>WI</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shin</LastName>
+                    <ForeName>Kyoung-Jin</ForeName>
+                    <Initials>KJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>04</Month>
+                <Day>06</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Int J Legal Med</MedlineTA>
+            <NlmUniqueID>9101456</NlmUniqueID>
+            <ISSNLinking>0937-9827</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D048868">Adaptor Proteins, Signal Transducing</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C491683">DACT1 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D018398">Homeodomain Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D047908">Intracellular Signaling Peptides and Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009687">Nuclear Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D051304">Profilins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C571993">USP49 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>127609-92-1</RegistryNumber>
+                <NameOfSubstance UI="C073547">HOXA4 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.1.1.319</RegistryNumber>
+                <NameOfSubstance UI="C077013">PRMT2 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.1.1.319</RegistryNumber>
+                <NameOfSubstance UI="D011484">Protein-Arginine N-Methyltransferases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.4.19.12</RegistryNumber>
+                <NameOfSubstance UI="D043222">Ubiquitin Thiolesterase</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D048868" MajorTopicYN="N">Adaptor Proteins, Signal Transducing</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001769" MajorTopicYN="N">Blood</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001826" MajorTopicYN="Y">Body Fluids</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003415" MajorTopicYN="N">Crime</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019175" MajorTopicYN="Y">DNA Methylation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D044127" MajorTopicYN="N">Epigenesis, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D053803" MajorTopicYN="Y">Forensic Genetics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020869" MajorTopicYN="Y">Gene Expression Profiling</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018398" MajorTopicYN="N">Homeodomain Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D047908" MajorTopicYN="N">Intracellular Signaling Peptides and Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009687" MajorTopicYN="N">Nuclear Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051304" MajorTopicYN="N">Profilins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011484" MajorTopicYN="N">Protein-Arginine N-Methyltransferases</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012463" MajorTopicYN="N">Saliva</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012661" MajorTopicYN="N">Semen</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D043222" MajorTopicYN="N">Ubiquitin Thiolesterase</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014621" MajorTopicYN="N">Vagina</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2011</Year>
+                <Month>03</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>6</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>6</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>5</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21626087</ArticleId>
+            <ArticleId IdType="doi">10.1007/s00414-011-0569-2</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Bioinformatics. 2002 Nov;18(11):1427-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12424112</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Forensic Sci Int. 2006 Mar 10;157(2-3):181-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16289614</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hum Mol Genet. 2009 Dec 15;18(24):4808-17</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19776032</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1975 Jan 24;187(4173):226-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1111098</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genomics. 2009 Feb;93(2):130-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18952162</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2005 Mar 1;102(9):3336-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15728362</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Forensic Sci. 2008 Mar;53(2):296-305</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18298493</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Forensic Sci. 2002 Nov;47(6):1278-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12455649</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2009 Dec;41(12):1350-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19881528</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Forensic Sci. 2003 Nov;48(6):1275-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14640270</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Legal Med. 2008 Mar;122(2):135-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17579879</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genomics. 2007 Mar;89(3):326-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17188838</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Genet. 2009 Aug;5(8):e1000602</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19680444</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Placenta. 2008 Mar;29 Suppl A:S29-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18031808</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2008 Mar;36(5):e34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18296484</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Legal Med. 2009 Jan;123(1):71-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18594850</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Forensic Sci. 2007 Nov;52(6):1252-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17868268</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Forensic Sci Int. 2003 Aug 12;135(2):85-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12927408</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Forensic Sci Int. 2003 Dec 17;138(1-3):94-103</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14642725</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Forensic Sci Int Genet. 2011 Nov;5(5):517-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21196138</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Methods Mol Biol. 2000;132:365-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10547847</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anal Biochem. 2009 Apr 15;387(2):303-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19454234</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genomics. 2007 Sep;90(3):314-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17582736</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Biophys Res Commun. 2008 Nov 28;376(4):658-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18805397</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2005 Nov 1;21(21):4067-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16141249</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Forensic Sci Int. 2009 Jul 1;188(1-3):1-17</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19328638</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Legal Med. 2004 Jun;118(3):158-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14963718</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Biol. 2008 Jan;6(1):e22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18232738</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Hum Genet. 2009 Aug;54(8):450-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19629140</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Forensic Sci Int. 2005 Aug 11;152(1):1-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15939171</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1986 May 15-21;321(6067):209-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2423876</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

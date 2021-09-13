@@ -1,0 +1,155 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+        <PMID Version="1">27442810</PMID>
+        <DateCompleted>
+            <Year>2017</Year>
+            <Month>07</Month>
+            <Day>19</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>12</Month>
+            <Day>02</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1534-7362</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>16</Volume>
+                    <Issue>9</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>07</Month>
+                        <Day>01</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of vision</Title>
+                <ISOAbbreviation>J Vis</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The perception of ego-motion change in environments with varying depth: Interaction of stereo and optic flow.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>4</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1167/16.9.4</ELocationID>
+            <Abstract>
+                <AbstractText>When estimating ego-motion in environments (e.g., tunnels, streets) with varying depth, human subjects confuse ego-acceleration with environment narrowing and ego-deceleration with environment widening. Festl, Recktenwald, Yuan, and Mallot (2012) demonstrated that in nonstereoscopic viewing conditions, this happens despite the fact that retinal measurements of acceleration rate-a variable related to tau-dot-should allow veridical perception. Here we address the question of whether additional depth cues (specifically binocular stereo, object occlusion, or constant average object size) help break the confusion between narrowing and acceleration. Using a forced-choice paradigm, the confusion is shown to persist even if unambiguous stereo information is provided. The confusion can also be demonstrated in an adjustment task in which subjects were asked to keep a constant speed in a tunnel with varying diameter: Subjects increased speed in widening sections and decreased speed in narrowing sections even though stereoscopic depth information was provided. If object-based depth information (stereo, occlusion, constant average object size) is added, the confusion between narrowing and acceleration still remains but may be slightly reduced. All experiments are consistent with a simple matched filter algorithm for ego-motion detection, neglecting both parallactic and stereoscopic depth information, but leave open the possibility of cue combination at a later stage.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ott</LastName>
+                    <ForeName>Florian</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pohl</LastName>
+                    <ForeName>Ladina</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Halfmann</LastName>
+                    <ForeName>Marc</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hardiess</LastName>
+                    <ForeName>Gregor</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mallot</LastName>
+                    <ForeName>Hanspeter A</ForeName>
+                    <Initials>HA</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Vis</MedlineTA>
+            <NlmUniqueID>101147197</NlmUniqueID>
+            <ISSNLinking>1534-7362</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000054" MajorTopicYN="N">Acceleration</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003463" MajorTopicYN="Y">Cues</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003867" MajorTopicYN="N">Depth Perception</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004777" MajorTopicYN="Y">Environment</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009039" MajorTopicYN="N">Motion Perception</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D057849" MajorTopicYN="N">Optic Flow</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015357" MajorTopicYN="N">Vision Disparity</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055815" MajorTopicYN="N">Young Adult</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>7</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>7</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>7</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">27442810</ArticleId>
+            <ArticleId IdType="pii">2536852</ArticleId>
+            <ArticleId IdType="doi">10.1167/16.9.4</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,213 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">11149953</PMID>
+        <DateCompleted>
+            <Year>2001</Year>
+            <Month>04</Month>
+            <Day>26</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>01</Month>
+            <Day>09</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">0027-8424</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>98</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2001</Year>
+                        <Month>Jan</Month>
+                        <Day>16</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Proceedings of the National Academy of Sciences of the United States of America</Title>
+                <ISOAbbreviation>Proc Natl Acad Sci U S A</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A model for the emergence of cooperation, interdependence, and structure in evolving networks.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>543-7</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Evolution produces complex and structured networks of interacting components in chemical, biological, and social systems. We describe a simple mathematical model for the evolution of an idealized chemical system to study how a network of cooperative molecular species arises and evolves to become more complex and structured. The network is modeled by a directed weighted graph whose positive and negative links represent &quot;catalytic&quot; and &quot;inhibitory&quot; interactions among the molecular species, and which evolves as the least populated species (typically those that go extinct) are replaced by new ones. A small autocatalytic set, appearing by chance, provides the seed for the spontaneous growth of connectivity and cooperation in the graph. A highly structured chemical organization arises inevitably as the autocatalytic set enlarges and percolates through the network in a short analytically determined timescale. This self organization does not require the presence of self-replicating species. The network also exhibits catastrophes over long timescales triggered by the chance elimination of &quot;keystone&quot; species, followed by recoveries.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Jain</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Theoretical Studies and Physics Department, Indian Institute of Science, Bangalore 560 012, India. jain@santafe.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Krishna</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2001</Year>
+                <Month>01</Month>
+                <Day>09</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Proc Natl Acad Sci U S A</MedlineTA>
+            <NlmUniqueID>7505876</NlmUniqueID>
+            <ISSNLinking>0027-8424</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D046911">Macromolecular Substances</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005075" MajorTopicYN="Y">Biological Evolution</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003299" MajorTopicYN="N">Cooperative Behavior</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004190" MajorTopicYN="N">Disasters</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019143" MajorTopicYN="N">Evolution, Molecular</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007398" MajorTopicYN="Y">Interpersonal Relations</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D046911" MajorTopicYN="Y">Macromolecular Substances</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008954" MajorTopicYN="N">Models, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008956" MajorTopicYN="N">Models, Chemical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008962" MajorTopicYN="Y">Models, Theoretical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000069497" MajorTopicYN="N">Origin of Life</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011157" MajorTopicYN="Y">Population Dynamics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012641" MajorTopicYN="N">Selection, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013816" MajorTopicYN="N">Thermodynamics</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2001</Year>
+                <Month>1</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2001</Year>
+                <Month>5</Month>
+                <Day>1</Day>
+                <Hour>10</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2001</Year>
+                <Month>1</Month>
+                <Day>10</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">11149953</ArticleId>
+            <ArticleId IdType="doi">10.1073/pnas.021545098</ArticleId>
+            <ArticleId IdType="pii">021545098</ArticleId>
+            <ArticleId IdType="pmc">PMC14623</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Phys Rev Lett. 1993 Dec 13;71(24):4083-4086</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10055149</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1999 Oct 15;286(5439):509-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10521342</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2000 Apr 11;97(8):4112-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10760281</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Comput Phys Commun. 1999;121-122:126-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11542688</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Theor Biol. 1986 Mar 7;119(1):1-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3713221</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Z Naturforsch B. 1971 Aug;26(8):741-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4399275</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Naturwissenschaften. 1971 Oct;58(10):465-523</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4942363</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1998 Jun 4;393(6684):440-2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9623998</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Theor Biol. 1998 Dec 7;195(3):329-38</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9826487</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

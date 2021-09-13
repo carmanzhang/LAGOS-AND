@@ -1,0 +1,461 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">24644045</PMID>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>05</Month>
+            <Day>11</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>09</Month>
+            <Day>22</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1527-3350</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>60</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Hepatology (Baltimore, Md.)</Title>
+                <ISOAbbreviation>Hepatology</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Prediagnostic circulating vitamin D levels and risk of hepatocellular carcinoma in European populations: a nested case-control study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1222-30</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/hep.27079</ELocationID>
+            <Abstract>
+                <AbstractText Label="UNLABELLED">The association between vitamin D status and hepatocellular carcinoma (HCC) has not been well investigated, despite experimental evidence supporting an important role of vitamin D in liver pathophysiology. Our objective was to investigate the association between prediagnostic circulating 25-hydroxyvitamin D [25(OH)D] serum levels and the risk of HCC in a prospective, nested case-control study among 520,000 participants in the European Prospective Investigation into Cancer and Nutrition (EPIC) cohort. Each case (n = 138) diagnosed between 1992 and 2010 was matched to one control by age, sex, study center, date and time of blood collection, and fasting status. Serum baseline levels of 25(OH)D were measured by liquid chromatography/tandem mass spectrometry. Multivariable incident rate ratios (IRRs) of HCC associated with continuous (per 10 nmol/L) or categorical levels (tertiles or a priori-defined categories) of prediagnostic 25(OH)D were calculated using conditional logistic regression. Higher 25(OH)D levels were associated with a 49% reduction in the risk of HCC (highest versus lowest tertile: multivariable IRR = 0.51, 95% confidence interval [CI], 0.26 to 0.99; Ptrend  = 0.04; per 10 nmol/L increase: IRR = 0.80, 95% CI, 0.68-0.94). The finding did not vary substantially by time from enrolment to diagnosis, and did not change after adjustment for biomarkers of preexisting liver damage, nor chronic infection with hepatitis B or C viruses. The findings were not modified by body size or smoking status.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">In this prospective study on western European populations, serum levels of 25(OH)D were inversely associated with the risk of HCC. Given the rising incidence of this cancer in low-risk developed countries and the strong public health interest surrounding the potentially cancer-protective roles of vitamin D, additional studies in different populations are required.</AbstractText>
+                <CopyrightInformation>© 2014 by the American Association for the Study of Liver Diseases.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Fedirko</LastName>
+                    <ForeName>Veronika</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology, Rollins School of Public Health, Winship Cancer Institute, Emory University, Atlanta GA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Duarte-Salles</LastName>
+                    <ForeName>Talita</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bamia</LastName>
+                    <ForeName>Christina</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Trichopoulou</LastName>
+                    <ForeName>Antonia</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aleksandrova</LastName>
+                    <ForeName>Krasimira</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Trichopoulos</LastName>
+                    <ForeName>Dimitrios</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Trepo</LastName>
+                    <ForeName>Elisabeth</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tjønneland</LastName>
+                    <ForeName>Anne</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Olsen</LastName>
+                    <ForeName>Anja</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Overvad</LastName>
+                    <ForeName>Kim</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Boutron-Ruault</LastName>
+                    <ForeName>Marie-Christine</ForeName>
+                    <Initials>MC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Clavel-Chapelon</LastName>
+                    <ForeName>Françoise</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kvaskoff</LastName>
+                    <ForeName>Marina</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kühn</LastName>
+                    <ForeName>Tilman</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lukanova</LastName>
+                    <ForeName>Annie</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Boeing</LastName>
+                    <ForeName>Heiner</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Buijsse</LastName>
+                    <ForeName>Brian</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Klinaki</LastName>
+                    <ForeName>Eleni</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tsimakidi</LastName>
+                    <ForeName>Chrysanthi</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Naccarati</LastName>
+                    <ForeName>Alessio</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tagliabue</LastName>
+                    <ForeName>Giovanna</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Panico</LastName>
+                    <ForeName>Salvatore</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tumino</LastName>
+                    <ForeName>Rosario</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Palli</LastName>
+                    <ForeName>Domenico</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bueno-de-Mesquita</LastName>
+                    <ForeName>H Bas</ForeName>
+                    <Initials>HB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Siersema</LastName>
+                    <ForeName>Peter D</ForeName>
+                    <Initials>PD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Peters</LastName>
+                    <ForeName>Petra H</ForeName>
+                    <Initials>PH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lund</LastName>
+                    <ForeName>Eiliv</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brustad</LastName>
+                    <ForeName>Magritt</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Olsen</LastName>
+                    <ForeName>Karina Standahl</ForeName>
+                    <Initials>KS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Weiderpass</LastName>
+                    <ForeName>Elisabete</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zamora-Ros</LastName>
+                    <ForeName>Raul</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sánchez</LastName>
+                    <ForeName>María-José</ForeName>
+                    <Initials>MJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ardanaz</LastName>
+                    <ForeName>Eva</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Amiano</LastName>
+                    <ForeName>Pilar</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Navarro</LastName>
+                    <ForeName>Carmen</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Quirós</LastName>
+                    <ForeName>J Ramón</ForeName>
+                    <Initials>JR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Werner</LastName>
+                    <ForeName>Mårten</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sund</LastName>
+                    <ForeName>Malin</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lindkvist</LastName>
+                    <ForeName>Björn</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Malm</LastName>
+                    <ForeName>Johan</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Travis</LastName>
+                    <ForeName>Ruth C</ForeName>
+                    <Initials>RC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Khaw</LastName>
+                    <ForeName>Kay-Tee</ForeName>
+                    <Initials>KT</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stepien</LastName>
+                    <ForeName>Magdalena</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Scalbert</LastName>
+                    <ForeName>Augustin</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Romieu</LastName>
+                    <ForeName>Isabelle</ForeName>
+                    <Initials>I</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lagiou</LastName>
+                    <ForeName>Pagona</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Riboli</LastName>
+                    <ForeName>Elio</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jenab</LastName>
+                    <ForeName>Mazda</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <Agency>British Heart Foundation</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <Agency>Medical Research Council</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>G1000143</GrantID>
+                    <Agency>Medical Research Council</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <Agency>Department of Health</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>14136</GrantID>
+                    <Agency>Cancer Research UK</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <Agency>Cancer Research UK</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>G0401527</GrantID>
+                    <Agency>Medical Research Council</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <Agency>Wellcome Trust</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016448">Multicenter Study</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2014</Year>
+                <Month>08</Month>
+                <Day>28</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Hepatology</MedlineTA>
+            <NlmUniqueID>8302946</NlmUniqueID>
+            <ISSNLinking>0270-9139</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D015415">Biomarkers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>1406-16-2</RegistryNumber>
+                <NameOfSubstance UI="D014807">Vitamin D</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Hepatology. 2014 Oct;60(4):1130-2</RefSource>
+                <PMID Version="1">24752901</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015415" MajorTopicYN="N">Biomarkers</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006528" MajorTopicYN="N">Carcinoma, Hepatocellular</DescriptorName>
+                <QualifierName UI="Q000453" MajorTopicYN="Y">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016022" MajorTopicYN="N">Case-Control Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005060" MajorTopicYN="N" Type="Geographic">Europe</DescriptorName>
+                <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015994" MajorTopicYN="N">Incidence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008113" MajorTopicYN="N">Liver Neoplasms</DescriptorName>
+                <QualifierName UI="Q000453" MajorTopicYN="Y">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015999" MajorTopicYN="N">Multivariate Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011446" MajorTopicYN="N">Prospective Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012307" MajorTopicYN="N">Risk Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014807" MajorTopicYN="N">Vitamin D</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>11</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2014</Year>
+                <Month>02</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>3</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>3</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>5</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24644045</ArticleId>
+            <ArticleId IdType="doi">10.1002/hep.27079</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,172 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">8115416</PMID>
+        <DateCompleted>
+            <Year>1994</Year>
+            <Month>03</Month>
+            <Day>25</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0091-3057</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>47</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>1994</Year>
+                        <Month>Jan</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Pharmacology, biochemistry, and behavior</Title>
+                <ISOAbbreviation>Pharmacol. Biochem. Behav.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Differential interactions between ethanol and Ro 15-4513 on two anxiety tests in rats.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>147-51</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The effects of low (2 g/kg) and high (4 g/kg) doses of ethanol and their interaction with the imidazobenzodiazepine Ro 15-4513 (a partial inverse agonist of the benzodiazepine receptor) were studied in two different models of anxiety in rats: the &quot;elevated plus-maze&quot; test and the early acquisition of two-way (shuttlebox) avoidance. In the elevated plus-maze, ethanol (2 g/kg) increased the percentage of entries into the open arms (%EOA) and both ethanol doses increased the percentage of time spent into the open arms (%TOA), thus indicating an anxiolytic action which was reversed by Ro 15-4513 (5 mg/kg). By contrast, Ro 15-4513 did not counteract the anxiolytic effect of the low dose of ethanol in the acquisition of shuttlebox avoidance. Thus, the treatment with 2 g/kg of ethanol (plus either vehicle or Ro 15-4513) significantly increased the total number of avoidances. Conversely, animals treated with 4 g/kg of ethanol showed impaired shuttlebox avoidance acquisition, and this effect was completely reversed by Ro 15-4513. Ro 15-4513 was without effect on its own in any of the anxiety-related parameters (i.e., %EOA, %TOA, and avoidance acquisition). The results indicate a different pattern of ethanol effects and Ethanol x Ro 15-4513 interactions depending upon the task used.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Prunell</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Laboratorio de Fisiología Animal, Facultad de Biología, Universidad de la Laguna, Tenerife, Spain.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Escorihuela</LastName>
+                    <ForeName>R M</ForeName>
+                    <Initials>RM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fernández-Teruel</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Núñez</LastName>
+                    <ForeName>J F</ForeName>
+                    <Initials>JF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tobeña</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Pharmacol Biochem Behav</MedlineTA>
+            <NlmUniqueID>0367050</NlmUniqueID>
+            <ISSNLinking>0091-3057</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D001386">Azides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011963">Receptors, GABA-A</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>12794-10-4</RegistryNumber>
+                <NameOfSubstance UI="D001569">Benzodiazepines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>3K9958V90M</RegistryNumber>
+                <NameOfSubstance UI="D000431">Ethanol</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>91917-65-6</RegistryNumber>
+                <NameOfSubstance UI="C042957">Ro 15-4513</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001007" MajorTopicYN="N">Anxiety</DescriptorName>
+                <QualifierName UI="Q000523" MajorTopicYN="Y">psychology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001362" MajorTopicYN="N">Avoidance Learning</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001386" MajorTopicYN="N">Azides</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001569" MajorTopicYN="N">Benzodiazepines</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000431" MajorTopicYN="N">Ethanol</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017207" MajorTopicYN="N">Rats, Sprague-Dawley</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011963" MajorTopicYN="N">Receptors, GABA-A</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1994</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1994</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1994</Year>
+                <Month>1</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">8115416</ArticleId>
+            <ArticleId IdType="pii">0091-3057(94)90124-4</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

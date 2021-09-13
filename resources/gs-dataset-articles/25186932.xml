@@ -1,0 +1,154 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">25186932</PMID>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>12</Month>
+            <Day>13</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>12</Month>
+            <Day>30</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0289-0003</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>31</Volume>
+                    <Issue>9</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Zoological science</Title>
+                <ISOAbbreviation>Zool. Sci.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Location of 45S Ribosomal Genes in Mitotic and Meiotic Chromosomes of Buthid Scorpions.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>603-7</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.2108/zs140005</ELocationID>
+            <Abstract>
+                <AbstractText>Buthid scorpions exhibit a high variability in diploid number within genera and even within species. Cytogenetically, Buthidae differs from other families of Scorpiones based on its low diploid numbers, holocentric chromosomes, and complex chromosomal chains, which form during meiosis. In this study, we analyzed the distribution of the 45S ribosomal DNA (rDNA) genes in the mitotic and meiotic chromosomes of seven buthid species belonging to the genera Rhopalurus and Tityus with the ultimate goal of elucidating the chromosome organization in these scorpions. The chromosome number ranged from 2n=6 to 2n=28. Despite the high variance in diploid number, all species examined carried their 45S rDNA sites in the terminal region of exactly two chromosomes. Analyses of meiotic cells revealed 45S rDNA clusters in the chromosomal chains of Rhopalurus agamemnon, Tityus bahiensis, Tityus confluens, and Tityus martinpaechi, or in bivalent-like configuration in Rhopalurus rochai, Tityus bahiensis, Tityus confluens, Tityus fasciolatus, and Tityus paraguayensis. In the species examined, the 45S rDNA sites colocalized with constitutive heterochromatin regions. In light of the high chromosome variability and maintenance of number and terminal position of 45S rDNA sites in buthids, the heterochromatin may act to conserve the integrity of the ribosomal genes.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Mattos</LastName>
+                    <ForeName>Viviane Fagundes</ForeName>
+                    <Initials>VF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1 Universidade Estadual Paulista, UNESP, Instituto de Biociências, Departamento de Biologia, Avenida 24-A, 1515, Caixa Postal 199, 13506-900, Rio Claro, Sao Paulo, Brazil.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Carvalho</LastName>
+                    <ForeName>Leonardo Sousa</ForeName>
+                    <Initials>LS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cella</LastName>
+                    <ForeName>Doralice Maria</ForeName>
+                    <Initials>DM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schneider</LastName>
+                    <ForeName>Marielle Cristina</ForeName>
+                    <Initials>MC</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Japan</Country>
+            <MedlineTA>Zoolog Sci</MedlineTA>
+            <NlmUniqueID>8702287</NlmUniqueID>
+            <ISSNLinking>0289-0003</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D012335">RNA, Ribosomal</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C088179">RNA, ribosomal, 45S</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002874" MajorTopicYN="N">Chromosome Mapping</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002875" MajorTopicYN="N">Chromosomes</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008540" MajorTopicYN="N">Meiosis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008938" MajorTopicYN="N">Mitosis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012335" MajorTopicYN="N">RNA, Ribosomal</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012605" MajorTopicYN="N">Scorpions</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">chromosome chain</Keyword>
+            <Keyword MajorTopicYN="N">constitutive heterochromatin</Keyword>
+            <Keyword MajorTopicYN="N">diploid number</Keyword>
+            <Keyword MajorTopicYN="N">fluorescent in situ hybridization</Keyword>
+            <Keyword MajorTopicYN="N">holocentric chromosomes</Keyword>
+            <Keyword MajorTopicYN="N">rDNA</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>9</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>9</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>12</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">25186932</ArticleId>
+            <ArticleId IdType="doi">10.2108/zs140005</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

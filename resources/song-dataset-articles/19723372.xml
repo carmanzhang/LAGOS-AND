@@ -1,0 +1,149 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">19723372</PMID>
+        <DateCompleted>
+            <Year>2009</Year>
+            <Month>10</Month>
+            <Day>01</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>12</Month>
+            <Day>01</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1027-3719</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>13</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>2009</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The international journal of tuberculosis and lung disease : the official journal of the International Union against Tuberculosis and Lung Disease</Title>
+                <ISOAbbreviation>Int J Tuberc Lung Dis</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Aspergillus hypersensitivity and allergic bronchopulmonary aspergillosis in patients with bronchial asthma: systematic review and meta-analysis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>936-44</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">The prevalence of Aspergillus hypersensitivity (AH) and allergic bronchopulmonary aspergillosis (ABPA) in bronchial asthma is reported differently in various studies.</AbstractText>
+                <AbstractText Label="OBJECTIVE" NlmCategory="OBJECTIVE">To determine the prevalence of AH and ABPA in asthma using a systematic review.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We searched the MEDLINE and EMBASE databases for studies published from 1965 to 2008 and included studies that report the prevalence of AH/ABPA in asthma. We calculated the proportions with 95% confidence interval (CI) to assess the prevalence of AH/ABPA in the individual studies and pooled the results using a random effects model.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Our search yielded 21 eligible studies. The prevalence of AH in bronchial asthma was 28% (95%CI 24-34), and was higher with an intradermal test vs. a prick test (28.7% vs. 24.8%, P = 0.002), but did not vary with the type of antigen used (indigenous or commercial). The prevalence of ABPA in bronchial asthma and Aspergillus-hypersensitive bronchial asthma was respectively 12.9% (95%CI 7.9-18.9) and 40% (95%CI 27-53). There was a wide variation in the criteria used for the diagnosis of ABPA. There was significant statistical heterogeneity assessed by the I(2) test and Cochran Q statistic in all the outcomes.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">There is a high prevalence of AH and ABPA in patients with bronchial asthma. Careful screening should therefore be performed in all patients with bronchial asthma. Intradermal tests are more sensitive than prick tests for the diagnosis of AH. Finally, there is a need to adopt a uniform methodology and criteria for the diagnosis of AH/ABPA.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Agarwal</LastName>
+                    <ForeName>R</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pulmonary Medicine, Postgraduate Institute of Medical Education and Research, Chandigarh, India. riteshpgi@gmail.com</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Aggarwal</LastName>
+                    <ForeName>A N</ForeName>
+                    <Initials>AN</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gupta</LastName>
+                    <ForeName>D</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jindal</LastName>
+                    <ForeName>S K</ForeName>
+                    <Initials>SK</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D017418">Meta-Analysis</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+                <PublicationType UI="D000078182">Systematic Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>France</Country>
+            <MedlineTA>Int J Tuberc Lung Dis</MedlineTA>
+            <NlmUniqueID>9706389</NlmUniqueID>
+            <ISSNLinking>1027-3719</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000946">Antigens, Fungal</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000946" MajorTopicYN="N">Antigens, Fungal</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001229" MajorTopicYN="N">Aspergillosis, Allergic Bronchopulmonary</DescriptorName>
+                <QualifierName UI="Q000453" MajorTopicYN="Y">epidemiology</QualifierName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001249" MajorTopicYN="N">Asthma</DescriptorName>
+                <QualifierName UI="Q000453" MajorTopicYN="Y">epidemiology</QualifierName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015897" MajorTopicYN="N">Comorbidity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007428" MajorTopicYN="N">Intradermal Tests</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015995" MajorTopicYN="N">Prevalence</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>46</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2009</Year>
+                <Month>9</Month>
+                <Day>3</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2009</Year>
+                <Month>9</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2009</Year>
+                <Month>10</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">19723372</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

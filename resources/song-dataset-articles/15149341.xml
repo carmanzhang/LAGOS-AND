@@ -1,0 +1,196 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">15149341</PMID>
+        <DateCompleted>
+            <Year>2004</Year>
+            <Month>12</Month>
+            <Day>15</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0085-2538</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>65</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2004</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Kidney international</Title>
+                <ISOAbbreviation>Kidney Int</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Oxidative stress and renal injury with intravenous iron in patients with chronic kidney disease.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2279-89</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Intravenous iron is widely prescribed in patients with chronic kidney disease (CKD) and can cause oxidative stress. The relationship of oxidative stress and renal injury in patients with CKD is unknown. Whether renal injury can occur at a time point when transferrin is incompletely saturated is also unclear.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We conducted a randomized, open-label, parallel group trial to compare the oxidative stress induced by intravenous administration of 100 mg iron sucrose over 5 minutes and its protection with N-acetylcysteine (NAC) in 20 subjects with stage 3 or 4 CKD. Transferrin saturation was measured with urea polyacrylamide gel electrophoresis, oxidative stress by malondialdehyde (MDA) measurement by high-performance liquid chromatography, and renal injury by enzymuria and proteinuria. Reduced and oxidized glutathione and free radical scavengers as well as urinary monocyte chemoattractant protein-1 were also measured.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Parenteral iron increased plasma concentration and urinary excretion rate of MDA, a biomarker of lipid peroxidation, within 15 to 30 minutes of iron sucrose administration. This was accompanied by enzymuria and increase in proteinuria. In contrast, saturation of transferrin was not maximally seen until 3 hours after the end of infusion. Oxidative stress, enzymuria and proteinuria were transient and were completely resolved in 24 hours. NAC reduced acute generation of systemic oxidative stress but failed to abrogate proteinuria or enzymuria.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Intravenous iron produces oxidative stress that is associated with transient proteinuria and tubular damage. The rapid production of oxidative stress even when transferrin is not completely saturation suggests free iron independent mechanism(s) to be operative in producing oxidative stress and transient renal injury. Long-term implications of these findings need further study.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Agarwal</LastName>
+                    <ForeName>Rajiv</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Nephrology, Department of Medicine, Indiana University School of Medicine, and Richard L. Roudebush VA Medical Center, Indianapolis, 46202, USA. ragarwal@iupui.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vasavada</LastName>
+                    <ForeName>Nina</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sachs</LastName>
+                    <ForeName>Nadine G</ForeName>
+                    <Initials>NG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chase</LastName>
+                    <ForeName>Shawn</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016430">Clinical Trial</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Kidney Int</MedlineTA>
+            <NlmUniqueID>0323470</NlmUniqueID>
+            <ISSNLinking>0085-2538</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016166">Free Radical Scavengers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014168">Transferrin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>4Y8F71G49Q</RegistryNumber>
+                <NameOfSubstance UI="D008315">Malondialdehyde</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>E1UOL152H7</RegistryNumber>
+                <NameOfSubstance UI="D007501">Iron</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>WYQ7N0BPYC</RegistryNumber>
+                <NameOfSubstance UI="D000111">Acetylcysteine</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000111" MajorTopicYN="N">Acetylcysteine</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000369" MajorTopicYN="N">Aged, 80 and over</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016166" MajorTopicYN="N">Free Radical Scavengers</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007262" MajorTopicYN="N">Infusions, Intravenous</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007501" MajorTopicYN="N">Iron</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+                <QualifierName UI="Q000009" MajorTopicYN="Y">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007668" MajorTopicYN="N">Kidney</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName UI="Q000293" MajorTopicYN="Y">injuries</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007676" MajorTopicYN="N">Kidney Failure, Chronic</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015227" MajorTopicYN="N">Lipid Peroxidation</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008315" MajorTopicYN="N">Malondialdehyde</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008954" MajorTopicYN="N">Models, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018384" MajorTopicYN="N">Oxidative Stress</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014168" MajorTopicYN="N">Transferrin</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2004</Year>
+                <Month>5</Month>
+                <Day>20</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2004</Year>
+                <Month>12</Month>
+                <Day>16</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2004</Year>
+                <Month>5</Month>
+                <Day>20</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">15149341</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.1523-1755.2004.00648.x</ArticleId>
+            <ArticleId IdType="pii">S0085-2538(15)49973-9</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

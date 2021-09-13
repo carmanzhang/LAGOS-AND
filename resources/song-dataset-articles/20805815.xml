@@ -1,0 +1,151 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20805815</PMID>
+        <DateCompleted>
+            <Year>2010</Year>
+            <Month>12</Month>
+            <Day>28</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>12</Month>
+            <Day>01</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1523-1755</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>78</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2010</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Kidney international</Title>
+                <ISOAbbreviation>Kidney Int</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Lead-time bias in studies of cinacalcet prescriptions.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>535-7</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1038/ki.2010.220</ELocationID>
+            <Abstract>
+                <AbstractText>Observational studies have suggested a link between higher serum phosphate, calcium, parathyroid hormone levels, and cardiovascular mortality. The administration of cinacalcet has proven efficient in the treatment of secondary hyperparathyroidism among hemodialysis patients. In an observational study by Block et al., cinacalcet treatment is associated with a much improved all-cause and cardiovascular mortality. However, the results should be interpreted cautiously, as observational studies may be influenced by bias. This Commentary discusses the role of some common potential biases.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Evans</LastName>
+                    <ForeName>Marie</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Renal Medicine, Department of Clinical Science Intervention and Technology, Karolinska University Hospital, Huddinge, Stockholm, Sweden. Marie.Evans@ki.se</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fored</LastName>
+                    <ForeName>Carl Michael</ForeName>
+                    <Initials>CM</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016420">Comment</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Kidney Int</MedlineTA>
+            <NlmUniqueID>0323470</NlmUniqueID>
+            <ISSNLinking>0085-2538</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009281">Naphthalenes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>UAZ6V7728S</RegistryNumber>
+                <NameOfSubstance UI="D000069449">Cinacalcet</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentOn">
+                <RefSource>Kidney Int. 2010 Sep;78(6):578-89</RefSource>
+                <PMID Version="1">20555319</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D015982" MajorTopicYN="N">Bias</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002318" MajorTopicYN="N">Cardiovascular Diseases</DescriptorName>
+                <QualifierName UI="Q000401" MajorTopicYN="N">mortality</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002423" MajorTopicYN="N">Cause of Death</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000069449" MajorTopicYN="N">Cinacalcet</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006962" MajorTopicYN="N">Hyperparathyroidism, Secondary</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+                <QualifierName UI="Q000401" MajorTopicYN="N">mortality</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009281" MajorTopicYN="N">Naphthalenes</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019370" MajorTopicYN="N">Observation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>9</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>9</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>29</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20805815</ArticleId>
+            <ArticleId IdType="pii">S0085-2538(15)54586-9</ArticleId>
+            <ArticleId IdType="doi">10.1038/ki.2010.220</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

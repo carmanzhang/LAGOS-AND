@@ -1,0 +1,354 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">17239251</PMID>
+        <DateCompleted>
+            <Year>2007</Year>
+            <Month>03</Month>
+            <Day>12</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1742-4682</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>4</Volume>
+                    <PubDate>
+                        <Year>2007</Year>
+                        <Month>Jan</Month>
+                        <Day>19</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Theoretical biology &amp; medical modelling</Title>
+                <ISOAbbreviation>Theor Biol Med Model</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Bayesian profiling of molecular signatures to predict event times.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>3</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">It is of particular interest to identify cancer-specific molecular signatures for early diagnosis, monitoring effects of treatment and predicting patient survival time. Molecular information about patients is usually generated from high throughput technologies such as microarray and mass spectrometry. Statistically, we are challenged by the large number of candidates but only a small number of patients in the study, and the right-censored clinical data further complicate the analysis.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">We present a two-stage procedure to profile molecular signatures for survival outcomes. Firstly, we group closely-related molecular features into linkage clusters, each portraying either similar or opposite functions and playing similar roles in prognosis; secondly, a Bayesian approach is developed to rank the centroids of these linkage clusters and provide a list of the main molecular features closely related to the outcome of interest. A simulation study showed the superior performance of our approach. When it was applied to data on diffuse large B-cell lymphoma (DLBCL), we were able to identify some new candidate signatures for disease prognosis.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">This multivariate approach provides researchers with a more reliable list of molecular features profiled in terms of their prognostic relationship to the event times, and generates dependable information for subsequent identification of prognostic molecular signatures through either biological procedures or further data analysis.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Dabao</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Statistics, Purdue University, West Lafayette, Indiana 47907-2067, USA. zhangdb@stat.purdue.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Min</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2007</Year>
+                <Month>01</Month>
+                <Day>19</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Theor Biol Med Model</MedlineTA>
+            <NlmUniqueID>101224383</NlmUniqueID>
+            <ISSNLinking>1742-4682</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001499" MajorTopicYN="Y">Bayes Theorem</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016393" MajorTopicYN="N">Lymphoma, B-Cell</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000401" MajorTopicYN="N">mortality</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016403" MajorTopicYN="N">Lymphoma, Large B-Cell, Diffuse</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000401" MajorTopicYN="N">mortality</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008433" MajorTopicYN="N">Mathematics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015999" MajorTopicYN="N">Multivariate Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011379" MajorTopicYN="N">Prognosis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016016" MajorTopicYN="N">Proportional Hazards Models</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2006</Year>
+                <Month>09</Month>
+                <Day>24</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2007</Year>
+                <Month>01</Month>
+                <Day>19</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2007</Year>
+                <Month>1</Month>
+                <Day>24</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2007</Year>
+                <Month>3</Month>
+                <Day>14</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2007</Year>
+                <Month>1</Month>
+                <Day>24</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">17239251</ArticleId>
+            <ArticleId IdType="pii">1742-4682-4-3</ArticleId>
+            <ArticleId IdType="doi">10.1186/1742-4682-4-3</ArticleId>
+            <ArticleId IdType="pmc">PMC1796541</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Genome Biol. 2000;1(2):RESEARCH0003</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11178228</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Bioinformatics. 2008;9:251</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18510743</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Immunity. 2001 Sep;15(3):375-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11567628</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2001 Sep 25;98(20):11462-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11562467</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2002 Jan;18(1):39-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11836210</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2002 Jun 20;346(25):1937-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12075054</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Med. 2002 Aug;8(8):816-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12118244</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2002;18 Suppl 1:S120-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12169539</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pac Symp Biocomput. 2003;:65-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12603018</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2003 Jun 12;19(9):1100-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12801870</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Appl Microbiol. 2004;96(1):18-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14678155</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Biol. 2004 Apr;2(4):E108</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15094809</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2004 Apr 29;350(18):1828-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15115829</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2004 Jun 12;20(9):1453-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14871861</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2004 Aug 4;20 Suppl 1:i208-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15262801</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Cancer Res. 2004 Jul 15;10(14):4597-606</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15269130</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer. 1984 Jun 1;53(11):2404-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6713344</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Detect Prev. 1986;9(3-4):303-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3742506</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 1990 Mar;9(3):765-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2311578</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 1991 Dec 11;19(23):6565-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1754394</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biochem. 1992 Dec;50(4):411-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1469072</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 1996 Dec 15;157(12):5613-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8955214</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 1999 Feb;19(2):1334-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9891067</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genomics. 1999 Sep 15;60(3):341-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10493833</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1999 Oct 15;286(5439):531-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10521349</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2005 Jan 15;21(2):171-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15308542</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Biol. 2005;6(3):211</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15774034</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genetics. 2005 Apr;169(4):2305-18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15520261</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2005 May 15;21(10):2403-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15713732</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2005 Jul 1;21(13):3001-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15814556</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biometrics. 2005 Jun;61(2):488-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16011696</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2006 Feb 15;22(4):466-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16339281</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2006 Sep 15;22(18):2262-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16845144</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2001 Jun;17(6):520-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11395428</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

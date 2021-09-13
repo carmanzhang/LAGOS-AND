@@ -1,0 +1,357 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">19540432</PMID>
+        <DateCompleted>
+            <Year>2009</Year>
+            <Month>09</Month>
+            <Day>17</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-5169</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>30</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>2009</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Peptides</Title>
+                <ISOAbbreviation>Peptides</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Effect of reducing hypothalamic ghrelin receptor gene expression on energy balance.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1336-41</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.peptides.2009.03.013</ELocationID>
+            <Abstract>
+                <AbstractText>Central and peripheral injections of fghrelin potently stimulates food intake via its receptor, GHSR1a expressed in the brain. In this study, we explored the role of GHSR1a in the paraventricular nucleus of the hypothalamus (PVN) by reducing their gene expression using the RNA interference (RNAi). pSUPER plasmids inserted with sh (short hairpin)-GHSR1a were injected into the PVN to reduce its expression. The transfected rats were monitored daily for their food intake and body weight throughout the experimental period lasting 8 days. We found that knockdown of GHSR1a did not affect daily food intake but significantly reduced body weight and blood ghrelin levels. This suggests that the central ghrelin system could selectively regulate body weight without affecting energy intake.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Shrestha</LastName>
+                    <ForeName>Yogendra B</ForeName>
+                    <Initials>YB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Foods and Nutrition, 280 Dawson Hall, University of Georgia, Athens, GA 30602, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wickwire</LastName>
+                    <ForeName>Kathie</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Giraudo</LastName>
+                    <ForeName>Silvia</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 DK059836</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 DK059836-01</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2009</Year>
+                <Month>03</Month>
+                <Day>27</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Peptides</MedlineTA>
+            <NlmUniqueID>8008690</NlmUniqueID>
+            <ISSNLinking>0196-9781</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D054439">Ghrelin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D054440">Receptors, Ghrelin</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001835" MajorTopicYN="N">Body Weight</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004435" MajorTopicYN="N">Eating</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004734" MajorTopicYN="Y">Energy Metabolism</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005786" MajorTopicYN="Y">Gene Expression Regulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D054439" MajorTopicYN="N">Ghrelin</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007031" MajorTopicYN="N">Hypothalamus</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010286" MajorTopicYN="N">Paraventricular Hypothalamic Nucleus</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016133" MajorTopicYN="N">Polymerase Chain Reaction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D034622" MajorTopicYN="N">RNA Interference</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011863" MajorTopicYN="N">Radioimmunoassay</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017207" MajorTopicYN="N">Rats, Sprague-Dawley</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D054440" MajorTopicYN="N">Receptors, Ghrelin</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2009</Year>
+                <Month>02</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2009</Year>
+                <Month>03</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2009</Year>
+                <Month>03</Month>
+                <Day>17</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2009</Year>
+                <Month>6</Month>
+                <Day>23</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2009</Year>
+                <Month>6</Month>
+                <Day>23</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2009</Year>
+                <Month>9</Month>
+                <Day>18</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">19540432</ArticleId>
+            <ArticleId IdType="pii">S0196-9781(09)00116-8</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.peptides.2009.03.013</ArticleId>
+            <ArticleId IdType="pmc">PMC2700781</ArticleId>
+            <ArticleId IdType="mid">NIHMS105840</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Endocrinology. 2004 Oct;145(10):4645-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15231700</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Endocrinology. 2004 Jun;145(6):2607-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14962995</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 2005 Dec;115(12):3564-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16322794</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Comp Neurol. 2006 Jan 20;494(3):528-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16320257</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 2006 Jul;116(7):1983-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16767221</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2006 Aug 29;103(35):13226-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16891413</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol Regul Integr Comp Physiol. 2006 Dec;291(6):R1613-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16840651</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1999 Dec 9;402(6762):656-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10604470</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochim Biophys Acta. 2000 Feb 24;1484(1):41-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10685029</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2000 Jul 21;275(29):21995-2000</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10801861</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2000 Oct 19;407(6806):908-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11057670</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Endocrinology. 2000 Nov;141(11):4255-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11089560</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Endocrinology. 2000 Nov;141(11):4325-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11089570</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Biophys Res Commun. 2000 Dec 29;279(3):909-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11162448</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2002 Apr 19;296(5567):550-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11910072</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Endocrinol Metab. 2002 Jun;87(6):2988</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12050285</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2002 Jul 4;418(6893):38-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12097900</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Endocrinology. 2002 Sep;143(9):3268-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12193538</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuron. 2003 Feb 20;37(4):649-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12597862</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Neurosci. 2002 Nov 7;3:18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12423556</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gut. 2003 Jul;52(7):947-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12801949</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neurosci Lett. 2003 Oct 2;349(2):75-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12946556</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Obes Res. 2003 Dec;11(12):1429-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14694206</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2004 Mar 30;101(13):4679-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15070777</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1996 Aug 16;273(5277):974-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8688086</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

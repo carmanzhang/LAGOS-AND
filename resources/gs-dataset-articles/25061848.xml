@@ -1,0 +1,181 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">25061848</PMID>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>10</Month>
+            <Day>20</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>12</Month>
+            <Day>02</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1520-5207</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>118</Volume>
+                    <Issue>32</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Aug</Month>
+                        <Day>14</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The journal of physical chemistry. B</Title>
+                <ISOAbbreviation>J Phys Chem B</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Biocolloids based on amphiphilic block copolymers as a medium for enzyme encapsulation.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>9808-16</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/jp504449y</ELocationID>
+            <Abstract>
+                <AbstractText>The ability of two biocompatible amphiphilic block copolymers consisting of hydrophilic poly(ethylene oxide) and hydrophobic poly(ε-caprolactone) with different hydrophilic/hydrophobic block ratio to act as stabilizers of water-in-oil (w/o) microemulsions and enzyme encapsulation therein has been tested. Phase diagrams of the two block copolymers in mixtures of chloroform/isopropanol/water were constructed, revealing that the systems can incorporate important amounts of aqueous phase. The w/o microemulsions were then used to encapsulate R. miehei lipase. Empty as well as lipase-loaded systems were characterized by DLS as well as EPR spectroscopy. It was found that the incorporated lipase was preferably localized in the interior of the droplets. The apparent hydrodynamic radii of the droplets were found to vary from 86 to 3000 nm and from 66 to 2140 nm for empty PEO-PCL 30 and PEO-PCL 53 stabilized systems, respectively. In the presence of the lipase, the hydrodynamic radii were considerably decreased. The catalytic activity of the encapsulated lipase was successfully tested via a model esterification reaction. The effect of temperature on the catalytic behavior of the encapsulated R. miehei lipase was investigated, revealing that the initial rate of the esterification reaction depended on the type of the block copolymer used. </AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sereti</LastName>
+                    <ForeName>Victoria</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Biology, Medicinal Chemistry &amp; Biotechnology and ‡Theoretical &amp; Physical Chemistry Institute, National Hellenic Research Foundation , 48, Vassileos Constantinou Avenue, Athens 11635, Greece.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zoumpanioti</LastName>
+                    <ForeName>Maria</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Papadimitriou</LastName>
+                    <ForeName>Vassiliki</ForeName>
+                    <Initials>V</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pispas</LastName>
+                    <ForeName>Stergios</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Xenakis</LastName>
+                    <ForeName>Aristotelis</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2014</Year>
+                <Month>08</Month>
+                <Day>05</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Phys Chem B</MedlineTA>
+            <NlmUniqueID>101157530</NlmUniqueID>
+            <ISSNLinking>1520-5207</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D003102">Colloids</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011091">Polyesters</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D013501">Surface-Active Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>24980-41-4</RegistryNumber>
+                <NameOfSubstance UI="C016240">polycaprolactone</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>3WJQ0SDW1A</RegistryNumber>
+                <NameOfSubstance UI="D011092">Polyethylene Glycols</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.1.3</RegistryNumber>
+                <NameOfSubstance UI="D008049">Lipase</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D055162" MajorTopicYN="N">Biocatalysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003102" MajorTopicYN="N">Colloids</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008049" MajorTopicYN="N">Lipase</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011091" MajorTopicYN="N">Polyesters</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011092" MajorTopicYN="N">Polyethylene Glycols</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020103" MajorTopicYN="N">Rhizomucor</DescriptorName>
+                <QualifierName UI="Q000201" MajorTopicYN="N">enzymology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013501" MajorTopicYN="N">Surface-Active Agents</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>7</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>7</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>10</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">25061848</ArticleId>
+            <ArticleId IdType="doi">10.1021/jp504449y</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

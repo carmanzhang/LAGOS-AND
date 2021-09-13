@@ -1,0 +1,172 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">19655794</PMID>
+        <DateCompleted>
+            <Year>2009</Year>
+            <Month>11</Month>
+            <Day>30</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1520-5126</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>131</Volume>
+                    <Issue>34</Issue>
+                    <PubDate>
+                        <Year>2009</Year>
+                        <Month>Sep</Month>
+                        <Day>02</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of the American Chemical Society</Title>
+                <ISOAbbreviation>J Am Chem Soc</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Mass-produced nanogap sensor arrays for ultrasensitive detection of DNA.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>12211-7</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/ja901704t</ELocationID>
+            <Abstract>
+                <AbstractText>In this report, an electrical detection scheme for the quantification of DNA using a nanogap sensor array is detailed. The prime objective is to develop a novel sensing procedure, based on the electronic transduction mechanism, which would mitigate the problems intrinsic to nanostructure-based biosensing devices. Design considerations of the sensor array take into account the feasibility of mass production in a cost-effective way by using standard silicon microfabrication technologies. The sensing mechanism relies on bridging the nanogap upon hybridization of the two termini of a target DNA with two different surface-bound capture probes, followed by a simple metallization step. About 2 orders of magnitude enhancement in conductance, as referred to a clean background (&lt;1.0 pS) observed at a control sensor, was obtained in the presence of as little as 1.0 fM target DNA. This sensitivity is comparable to the best of electrochemical/electrical biosensors. A linear relationship between the conductance and the DNA concentration was obtained from 1.0 fM to 1.0 pM with an exceptional signal intensity of 2.1 x 10(4)% change per unit concentration. This change in conductivity is so large that it can unambiguously detect the concentration of DNA quantitatively and may obviate the need for target amplification used in current DNA tests. Moreover, the sensor array exhibited excellent single-base mismatch discrimination due to its unique vertically aligned nanostructure and the two-probe configuration.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Roy</LastName>
+                    <ForeName>Somenath</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute of Bioengineering and Nanotechnology, 31 Biopolis Way, Singapore 138669.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Xiaojun</ForeName>
+                    <Initials>X</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>Mo-Huang</ForeName>
+                    <Initials>MH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Peng</LastName>
+                    <ForeName>Yanfen</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Anariba</LastName>
+                    <ForeName>Franklin</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gao</LastName>
+                    <ForeName>Zhiqiang</ForeName>
+                    <Initials>Z</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Am Chem Soc</MedlineTA>
+            <NlmUniqueID>7503056</NlmUniqueID>
+            <ISSNLinking>0002-7863</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D015342">DNA Probes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>3M4G523W1G</RegistryNumber>
+                <NameOfSubstance UI="D012834">Silver</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9007-49-2</RegistryNumber>
+                <NameOfSubstance UI="D004247">DNA</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D015374" MajorTopicYN="N">Biosensing Techniques</DescriptorName>
+                <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004247" MajorTopicYN="N">DNA</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="Y">analysis</QualifierName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015342" MajorTopicYN="N">DNA Probes</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004563" MajorTopicYN="N">Electrochemistry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D036103" MajorTopicYN="N">Nanotechnology</DescriptorName>
+                <QualifierName UI="Q000295" MajorTopicYN="Y">instrumentation</QualifierName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D053770" MajorTopicYN="N">Nanowires</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009693" MajorTopicYN="N">Nucleic Acid Hybridization</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015203" MajorTopicYN="N">Reproducibility of Results</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012834" MajorTopicYN="N">Silver</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2009</Year>
+                <Month>8</Month>
+                <Day>7</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2009</Year>
+                <Month>8</Month>
+                <Day>7</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2009</Year>
+                <Month>12</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">19655794</ArticleId>
+            <ArticleId IdType="doi">10.1021/ja901704t</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

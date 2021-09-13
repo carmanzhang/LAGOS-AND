@@ -1,0 +1,225 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">16834942</PMID>
+        <DateCompleted>
+            <Year>2006</Year>
+            <Month>09</Month>
+            <Day>28</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>11</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1531-3433</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>10</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2006</Year>
+                        <Month>Aug</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Current pain and headache reports</Title>
+                <ISOAbbreviation>Curr Pain Headache Rep</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Chemotherapy-induced peripheral neuropathy: underreported and underappreciated.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>275-8</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Chemotherapy-induced neuropathy is one of the most serious non-life-threatening side effects experienced by patients receiving this group of pharmaceutical agents. Although frequently reversible, some patients may remain with symptoms for the remainder of their lives. Early recognition that &quot;numbness and tingling&quot; in the hands and feet of a patient receiving chemotherapy is due to the antineoplastic drug, with subsequent dose reduction or discontinuation of the offending agent, may prevent the development of serious neurologic dysfunction.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Markman</LastName>
+                    <ForeName>Maurie</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Texas M.D. Anderson Cancer Center (Mail Box #121), 1515 Holcombe Boulevard, Houston, TX 77030, USA. mmarkman@mdanderson.org</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Curr Pain Headache Rep</MedlineTA>
+            <NlmUniqueID>100970666</NlmUniqueID>
+            <ISSNLinking>1534-3081</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000970">Antineoplastic Agents</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000970" MajorTopicYN="N">Antineoplastic Agents</DescriptorName>
+                <QualifierName UI="Q000009" MajorTopicYN="Y">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009369" MajorTopicYN="N">Neoplasms</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010523" MajorTopicYN="N">Peripheral Nervous System Diseases</DescriptorName>
+                <QualifierName UI="Q000139" MajorTopicYN="Y">chemically induced</QualifierName>
+                <QualifierName UI="Q000175" MajorTopicYN="Y">diagnosis</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <NumberOfReferences>18</NumberOfReferences>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2006</Year>
+                <Month>7</Month>
+                <Day>13</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2006</Year>
+                <Month>9</Month>
+                <Day>29</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2006</Year>
+                <Month>7</Month>
+                <Day>13</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">16834942</ArticleId>
+            <ArticleId IdType="doi">10.1007/s11916-006-0032-0</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Cancer. 1992 Jan 1;69(1):203-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1309303</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 1990 Jan 11;322(2):126-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2152970</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Oncol. 2003 Nov 15;21(22):4207-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14615449</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurol. 2002 Jan;249(1):9-17</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11954874</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Oncol. 2005 Oct 20;23(30):7685-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16234530</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gynecol Oncol. 2000 Aug;78(2):261-2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10926815</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 1990 Jan 4;322(1):1-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2104664</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 1999 Feb 4;340(5):351-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9929525</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Treat Rev. 1994 Apr;20(2):191-214</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8156541</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Oncol. 1998 Jul;9(7):739-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9739440</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Gynecol Cancer. 1995 May;5(3):161-169</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11578472</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Oncol. 2003 Mar 1;21(5):927-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12610195</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Neurol. 2002 Oct;15(5):633-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12352008</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gynecol Oncol. 1997 Nov;67(2):172-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9367703</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neurology. 2005 Jan 11;64(1):26-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15642899</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Invest. 2003 Jun;21(3):439-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12901290</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Oncol Rep. 2004 Jan;6(1):20-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14664756</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

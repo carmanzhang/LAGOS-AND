@@ -1,0 +1,126 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">26991188</PMID>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>07</Month>
+            <Day>20</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>03</Month>
+            <Day>19</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1079-7114</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>116</Volume>
+                    <Issue>9</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Mar</Month>
+                        <Day>04</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Physical review letters</Title>
+                <ISOAbbreviation>Phys. Rev. Lett.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Coexistence of Incommensurate Magnetism and Superconductivity in the Two-Dimensional Hubbard Model.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>096402</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1103/PhysRevLett.116.096402</ELocationID>
+            <Abstract>
+                <AbstractText>We analyze the competition of magnetism and superconductivity in the two-dimensional Hubbard model with a moderate interaction strength, including the possibility of incommensurate spiral magnetic order. Using an unbiased renormalization group approach, we compute magnetic and superconducting order parameters in the ground state. In addition to previously established regions of Néel order coexisting with d-wave superconductivity, the calculations reveal further coexistence regions where superconductivity is accompanied by incommensurate magnetic order. </AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yamase</LastName>
+                    <ForeName>Hiroyuki</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Max Planck Institute for Solid State Research, D-70569 Stuttgart, Germany.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>National Institute for Materials Science, Tsukuba 305-0047, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Eberlein</LastName>
+                    <ForeName>Andreas</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Max Planck Institute for Solid State Research, D-70569 Stuttgart, Germany.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Physics, Harvard University, Cambridge, Massachusetts 02138, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Metzner</LastName>
+                    <ForeName>Walter</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Max Planck Institute for Solid State Research, D-70569 Stuttgart, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>03</Month>
+                <Day>04</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Phys Rev Lett</MedlineTA>
+            <NlmUniqueID>0401141</NlmUniqueID>
+            <ISSNLinking>0031-9007</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2015</Year>
+                <Month>07</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>3</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>3</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>3</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">26991188</ArticleId>
+            <ArticleId IdType="doi">10.1103/PhysRevLett.116.096402</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

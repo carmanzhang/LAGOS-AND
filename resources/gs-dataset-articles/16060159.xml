@@ -1,0 +1,173 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">16060159</PMID>
+        <DateCompleted>
+            <Year>2005</Year>
+            <Month>09</Month>
+            <Day>19</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2006</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1533-4880</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>5</Volume>
+                    <Issue>6</Issue>
+                    <PubDate>
+                        <Year>2005</Year>
+                        <Month>Jun</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of nanoscience and nanotechnology</Title>
+                <ISOAbbreviation>J Nanosci Nanotechnol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Hierarchy of DNA immobilization and hybridization on poly-L-lysine using an atomic force microscopy study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>951-7</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The atomic force microscopy has been used to analyze the immobilization of single stranded DNA on poly-L-lysine-coated glass and subsequent hybridization with complimentary DNA with the Z-threshold parameter and fractal analysis methods. The poly-L-lysine layer, which has a thickness of approximately 7 nm, presents nano-defects that could be critical for DNA immobilization by acting as a nucleation sites for ssDNA and subsequently for dsDNA aggregates. The Z-threshold for the dsDNA aggregates is much larger than for ssDNA, but the statistical fractal dimension is very similar, suggesting a conformal increase of the dimensions of the dsDNA aggregates mainly in the Z-direction, due to an effective ssDNA-ccDNA molecular recognition. This study demonstrates the use of fractal analysis in conjunction with the distribution of heights to evaluate the efficiency of DNA-DNA molecular recognition on surfaces and the impact of nanodefects.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sawant</LastName>
+                    <ForeName>P D</ForeName>
+                    <Initials>PD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Swinburne University of Technology, P.O. Box 218, Hawthorn, Vic 3122, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Watson</LastName>
+                    <ForeName>G S</ForeName>
+                    <Initials>GS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nicolau</LastName>
+                    <ForeName>D</ForeName>
+                    <Initials>D</Initials>
+                    <Suffix>Jr</Suffix>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Myhra</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nicolau</LastName>
+                    <ForeName>D V</ForeName>
+                    <Initials>DV</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Nanosci Nanotechnol</MedlineTA>
+            <NlmUniqueID>101088195</NlmUniqueID>
+            <ISSNLinking>1533-4880</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D020099">Coated Materials, Biocompatible</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>25104-18-1</RegistryNumber>
+                <NameOfSubstance UI="D011107">Polylysine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9007-49-2</RegistryNumber>
+                <NameOfSubstance UI="D004247">DNA</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000327" MajorTopicYN="N">Adsorption</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001665" MajorTopicYN="N">Binding Sites</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020099" MajorTopicYN="N">Coated Materials, Biocompatible</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003460" MajorTopicYN="N">Crystallization</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004247" MajorTopicYN="N">DNA</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000648" MajorTopicYN="Y">ultrastructure</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017403" MajorTopicYN="N">In Situ Hybridization</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008422" MajorTopicYN="N">Materials Testing</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018625" MajorTopicYN="Y">Microscopy, Atomic Force</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009690" MajorTopicYN="N">Nucleic Acid Conformation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011107" MajorTopicYN="N">Polylysine</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011485" MajorTopicYN="N">Protein Binding</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2005</Year>
+                <Month>8</Month>
+                <Day>3</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2005</Year>
+                <Month>9</Month>
+                <Day>20</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2005</Year>
+                <Month>8</Month>
+                <Day>3</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">16060159</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

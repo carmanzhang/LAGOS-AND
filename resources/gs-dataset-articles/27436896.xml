@@ -1,0 +1,426 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">27436896</PMID>
+        <DateCompleted>
+            <Year>2018</Year>
+            <Month>02</Month>
+            <Day>05</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1091-6490</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>113</Volume>
+                    <Issue>31</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>08</Month>
+                        <Day>02</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Proceedings of the National Academy of Sciences of the United States of America</Title>
+                <ISOAbbreviation>Proc. Natl. Acad. Sci. U.S.A.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Transcriptional control of amino acid homeostasis is disrupted in Huntington's disease.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>8843-8</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1073/pnas.1608264113</ELocationID>
+            <Abstract>
+                <AbstractText>Disturbances in amino acid metabolism, which have been observed in Huntington's disease (HD), may account for the profound inanition of HD patients. HD is triggered by an expansion of polyglutamine repeats in the protein huntingtin (Htt), impacting diverse cellular processes, ranging from transcriptional regulation to cognitive and motor functions. We show here that the master regulator of amino acid homeostasis, activating transcription factor 4 (ATF4), is dysfunctional in HD because of oxidative stress contributed by aberrant cysteine biosynthesis and transport. Consistent with these observations, antioxidant supplementation reverses the disordered ATF4 response to nutrient stress. Our findings establish a molecular link between amino acid disposition and oxidative stress leading to cytotoxicity. This signaling cascade may be relevant to other diseases involving redox imbalance and deficits in amino acid metabolism.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sbodio</LastName>
+                    <ForeName>Juan I</ForeName>
+                    <Initials>JI</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Solomon H. Snyder Department of Neuroscience, The Johns Hopkins University School of Medicine, Baltimore, MD 21205;</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Snyder</LastName>
+                    <ForeName>Solomon H</ForeName>
+                    <Initials>SH</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Solomon H. Snyder Department of Neuroscience, The Johns Hopkins University School of Medicine, Baltimore, MD 21205; Department of Pharmacology and Molecular Sciences, The Johns Hopkins University School of Medicine, Baltimore, MD 21205; Department of Psychiatry, The Johns Hopkins University School of Medicine, Baltimore, MD 21205 ssnyder@jhmi.edu bpaul8@jhmi.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Paul</LastName>
+                    <ForeName>Bindu D</ForeName>
+                    <Initials>BD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Solomon H. Snyder Department of Neuroscience, The Johns Hopkins University School of Medicine, Baltimore, MD 21205; ssnyder@jhmi.edu bpaul8@jhmi.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 MH018501</GrantID>
+                    <Acronym>MH</Acronym>
+                    <Agency>NIMH NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R37 MH018501</GrantID>
+                    <Acronym>MH</Acronym>
+                    <Agency>NIMH NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>07</Month>
+                <Day>19</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Proc Natl Acad Sci U S A</MedlineTA>
+            <NlmUniqueID>7505876</NlmUniqueID>
+            <ISSNLinking>0027-8424</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C497109">ATF4 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000596">Amino Acids</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>145891-90-3</RegistryNumber>
+                <NameOfSubstance UI="D051701">Activating Transcription Factor 4</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 4.4.1.1</RegistryNumber>
+                <NameOfSubstance UI="D003542">Cystathionine gamma-Lyase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>K848JZ4886</RegistryNumber>
+                <NameOfSubstance UI="D003545">Cysteine</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D051701" MajorTopicYN="N">Activating Transcription Factor 4</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000596" MajorTopicYN="N">Amino Acids</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002460" MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002478" MajorTopicYN="N">Cells, Cultured</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003542" MajorTopicYN="N">Cystathionine gamma-Lyase</DescriptorName>
+                <QualifierName UI="Q000172" MajorTopicYN="N">deficiency</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003545" MajorTopicYN="N">Cysteine</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005786" MajorTopicYN="Y">Gene Expression Regulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006706" MajorTopicYN="N">Homeostasis</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006816" MajorTopicYN="N">Huntington Disease</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008810" MajorTopicYN="N">Mice, Inbred C57BL</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018345" MajorTopicYN="N">Mice, Knockout</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009043" MajorTopicYN="N">Motor Activity</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018384" MajorTopicYN="N">Oxidative Stress</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="Y">ATF4</Keyword>
+            <Keyword MajorTopicYN="Y">CSE</Keyword>
+            <Keyword MajorTopicYN="Y">Huntington’s disease</Keyword>
+            <Keyword MajorTopicYN="Y">cysteine</Keyword>
+            <Keyword MajorTopicYN="Y">oxidative stress</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>7</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>7</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>2</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">27436896</ArticleId>
+            <ArticleId IdType="pii">1608264113</ArticleId>
+            <ArticleId IdType="doi">10.1073/pnas.1608264113</ArticleId>
+            <ArticleId IdType="pmc">PMC4978294</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Biochem J. 2004 Jul 1;381(Pt 1):113-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15038791</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2012 May 25;149(5):1060-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22632970</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Pathol. 2016 Jan;238(2):321-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26467985</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2005 Dec 29;123(7):1241-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16377565</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell. 2003 Mar;11(3):619-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12667446</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Antioxid Redox Signal. 2006 Nov-Dec;8(11-12):2061-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17034350</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Biochem Sci. 2015 Nov;40(11):687-700</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26439534</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acta Paediatr Scand. 1974 Nov;63(6):801-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4215278</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mech Ageing Dev. 2002 May;123(9):1269-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12020948</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Arch Neurol. 2011 Feb;68(2):265-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21320997</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Rep. 2013 Sep 12;4(5):890-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24012756</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Dev Neurosci. 2015 Nov;46:27-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26150135</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Free Radic Biol Med. 2011 May 15;50(10):1280-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21310231</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Sci Mol Med. 1977 Mar;52(3):311-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">139225</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Endocrinol Metab. 2009 Nov;20(9):436-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19800252</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2012 Mar 2;287(10):7603-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22215680</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FASEB J. 1997 Jan;11(1):84-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9034170</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 1993 Mar 26;72(6):971-83</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8458085</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pharmacology. 1993;46(2):61-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8441757</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2002 Jun 21;296(5576):2238-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11988536</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Genet. 2003 May;19(5):233-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12711212</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Mol Cell Biol. 2012 Jul 11;13(8):499-507</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22781905</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2011 Jul 29;286(30):26450-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21659522</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neurochem Int. 2014 Oct;76:59-69</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25004085</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci. 2010 Mar 31;30(13):4552-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20357106</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2014 May 1;509(7498):96-100</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24670645</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hum Mol Genet. 2000 Nov 22;9(19):2799-809</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11092756</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 1969 Apr 19;1(7599):806-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4180363</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Transl Psychiatry. 2015 Jan 06;5:e492</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25562842</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 1997 Aug 8;90(3):537-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9267033</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1970 Jul 3;169(3940):74-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">5465366</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2008 Oct 24;322(5901):587-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18948540</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2010 Aug 20;285(34):26358-68</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20566639</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Free Radic Biol Med. 2013 Sep;62:102-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23602907</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

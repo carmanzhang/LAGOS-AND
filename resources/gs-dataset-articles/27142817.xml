@@ -1,0 +1,534 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">27142817</PMID>
+        <DateCompleted>
+            <Year>2017</Year>
+            <Month>09</Month>
+            <Day>07</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>01</Month>
+            <Day>11</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1471-2164</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>17</Volume>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>05</Month>
+                        <Day>04</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>BMC genomics</Title>
+                <ISOAbbreviation>BMC Genomics</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Xylan degradation by the human gut Bacteroides xylanisolvens XB1A(T) involves two distinct gene clusters that are linked at the transcriptional level.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>326</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/s12864-016-2680-8</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND">Plant cell wall (PCW) polysaccharides and especially xylans constitute an important part of human diet. Xylans are not degraded by human digestive enzymes in the upper digestive tract and therefore reach the colon where they are subjected to extensive degradation by some members of the symbiotic microbiota. Xylanolytic bacteria are the first degraders of these complex polysaccharides and they release breakdown products that can have beneficial effects on human health. In order to understand better how these bacteria metabolize xylans in the colon, this study was undertaken to investigate xylan breakdown by the prominent human gut symbiont Bacteroides xylanisolvens XB1A(T).</AbstractText>
+                <AbstractText Label="RESULTS">Transcriptomic analyses of B. xylanisolvens XB1A(T) grown on insoluble oat-spelt xylan (OSX) at mid- and late-log phases highlighted genes in a polysaccharide utilization locus (PUL), hereafter called PUL 43, and genes in a fragmentary remnant of another PUL, hereafter referred to as rPUL 70, which were highly overexpressed on OSX relative to glucose. Proteomic analyses supported the up-regulation of several genes belonging to PUL 43 and showed the important over-production of a CBM4-containing GH10 endo-xylanase. We also show that PUL 43 is organized in two operons and that the knockout of the PUL 43 sensor/regulator HTCS gene blocked the growth of the mutant on insoluble OSX and soluble wheat arabinoxylan (WAX). The mutation not only repressed gene expression in the PUL 43 operons but also repressed gene expression in rPUL 70.</AbstractText>
+                <AbstractText Label="CONCLUSION">This study shows that xylan degradation by B. xylanisolvens XB1A(T) is orchestrated by one PUL and one PUL remnant that are linked at the transcriptional level. Coupled to studies on other xylanolytic Bacteroides species, our data emphasize the importance of one peculiar CBM4-containing GH10 endo-xylanase in xylan breakdown and that this modular enzyme may be used as a functional marker of xylan degradation in the human gut. Our results also suggest that B. xylanisolvens XB1A(T) has specialized in the degradation of xylans of low complexity. This functional feature may provide a niche to all xylanolytic bacteria harboring similar PULs. Further functional and ecological studies on fibrolytic Bacteroides species are needed to better understand their role in dietary fiber degradation and their impact on intestinal health.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Despres</LastName>
+                    <ForeName>Jordane</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institut National de la recherche Agronomique (INRA), UR454 Microbiologie, Centre de Clermont-Ferrand-Theix, 63122, Saint-Genès-Champanelle, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Forano</LastName>
+                    <ForeName>Evelyne</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institut National de la recherche Agronomique (INRA), UR454 Microbiologie, Centre de Clermont-Ferrand-Theix, 63122, Saint-Genès-Champanelle, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lepercq</LastName>
+                    <ForeName>Pascale</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institut National de la recherche Agronomique (INRA), UR454 Microbiologie, Centre de Clermont-Ferrand-Theix, 63122, Saint-Genès-Champanelle, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Comtet-Marre</LastName>
+                    <ForeName>Sophie</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institut National de la recherche Agronomique (INRA), UR454 Microbiologie, Centre de Clermont-Ferrand-Theix, 63122, Saint-Genès-Champanelle, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jubelin</LastName>
+                    <ForeName>Gregory</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institut National de la recherche Agronomique (INRA), UR454 Microbiologie, Centre de Clermont-Ferrand-Theix, 63122, Saint-Genès-Champanelle, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chambon</LastName>
+                    <ForeName>Christophe</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>INRA, Plate-forme d'Exploration du Métabolisme, 63122, Saint-Genès Champanelle, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yeoman</LastName>
+                    <ForeName>Carl J</ForeName>
+                    <Initials>CJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Animal and Range Sciences, Montana State University, Bozeman, MT, 59718, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Berg Miller</LastName>
+                    <ForeName>Margaret E</ForeName>
+                    <Initials>ME</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Animal Sciences, University of Illinois at Urbana-Champaign, Urbana, IL, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fields</LastName>
+                    <ForeName>Christopher J</ForeName>
+                    <Initials>CJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Genomic Biology, University of Illinois at Urbana-Champaign, Urbana, IL, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Martens</LastName>
+                    <ForeName>Eric</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology and Immunology, University of Michigan Medical School, Ann Arbor, MI, 48109, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Terrapon</LastName>
+                    <ForeName>Nicolas</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Architecture et Fonction des Macromolécules Biologiques (AFMB), UMR 7257 CNRS, Université Aix-Marseille, 163 Avenue de Luminy, 13288, Marseille, France.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>INRA, USC 1408 AFMB, 13288, Marseille, France.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Henrissat</LastName>
+                    <ForeName>Bernard</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Architecture et Fonction des Macromolécules Biologiques (AFMB), UMR 7257 CNRS, Université Aix-Marseille, 163 Avenue de Luminy, 13288, Marseille, France.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>INRA, USC 1408 AFMB, 13288, Marseille, France.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biological Sciences, King Abdulaziz University, Jeddah, Saudi Arabia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>White</LastName>
+                    <ForeName>Bryan A</ForeName>
+                    <Initials>BA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Animal Sciences, University of Illinois at Urbana-Champaign, Urbana, IL, USA.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Genomic Biology, University of Illinois at Urbana-Champaign, Urbana, IL, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mosoni</LastName>
+                    <ForeName>Pascale</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institut National de la recherche Agronomique (INRA), UR454 Microbiologie, Centre de Clermont-Ferrand-Theix, 63122, Saint-Genès-Champanelle, France. pascale.mosoni@clermont.inra.fr.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>322820</GrantID>
+                    <Agency>European Research Council</Agency>
+                    <Country>International</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>05</Month>
+                <Day>04</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>BMC Genomics</MedlineTA>
+            <NlmUniqueID>100965258</NlmUniqueID>
+            <ISSNLinking>1471-2164</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D001426">Bacterial Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010940">Plant Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014990">Xylans</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001426" MajorTopicYN="N">Bacterial Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="Y">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001439" MajorTopicYN="N">Bacteroides</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000254" MajorTopicYN="Y">growth &amp; development</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D041981" MajorTopicYN="N">Gastrointestinal Tract</DescriptorName>
+                <QualifierName UI="Q000382" MajorTopicYN="N">microbiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020869" MajorTopicYN="N">Gene Expression Profiling</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015964" MajorTopicYN="N">Gene Expression Regulation, Bacterial</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005810" MajorTopicYN="N">Multigene Family</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009876" MajorTopicYN="N">Operon</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010940" MajorTopicYN="N">Plant Proteins</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D040901" MajorTopicYN="N">Proteomics</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017423" MajorTopicYN="N">Sequence Analysis, RNA</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014990" MajorTopicYN="N">Xylans</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="Y">Bacteroides</Keyword>
+            <Keyword MajorTopicYN="Y">CAZymes</Keyword>
+            <Keyword MajorTopicYN="Y">Human gut</Keyword>
+            <Keyword MajorTopicYN="Y">Mutagenesis</Keyword>
+            <Keyword MajorTopicYN="Y">Polysaccharide-Utilization Locus</Keyword>
+            <Keyword MajorTopicYN="Y">Proteomics</Keyword>
+            <Keyword MajorTopicYN="Y">RNA-seq</Keyword>
+            <Keyword MajorTopicYN="Y">Xylan degradation</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>01</Month>
+                <Day>06</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>04</Month>
+                <Day>28</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>5</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>5</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>9</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">27142817</ArticleId>
+            <ArticleId IdType="doi">10.1186/s12864-016-2680-8</ArticleId>
+            <ArticleId IdType="pii">10.1186/s12864-016-2680-8</ArticleId>
+            <ArticleId IdType="pmc">PMC4855328</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Eur J Biochem. 1999 Dec;266(2):566-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10561599</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2016 Mar 15;32(6):929-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26576653</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Methods. 2001 Dec;25(4):402-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11846609</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2003 Nov;69(11):6354-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14602586</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anal Biochem. 1976 May 7;72:248-54</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">942051</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anal Biochem. 1987 Apr;162(1):156-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2440339</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Microbiol. 2006 Feb;14(2):86-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16406528</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEMS Microbiol Ecol. 2007 Jul;61(1):121-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17391327</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 2008 Mar;190(5):1499-506</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18156277</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Syst Evol Microbiol. 2008 Apr;58(Pt 4):1008-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18398210</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Microbiol Methods. 2009 Apr;77(1):8-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19318052</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2009 Aug 15;25(16):2078-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19505943</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2010 Jan 1;26(1):139-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19910308</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2010 Mar 4;464(7285):59-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20203603</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioresour Technol. 2010 Jul;101(13):4775-800</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20171088</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plant Physiol. 2010 Jun;153(2):444-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20406913</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Appl Microbiol. 2010 Aug;109(2):451-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20105245</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Microbiol Biotechnol. 2010 Aug;87(6):2097-105</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20532756</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2010 Sep 24;285(39):30261-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20622018</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2010 Oct;76(19):6701-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20709844</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2011 Jan;79(2):292-304</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21219452</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Crit Rev Food Sci Nutr. 2011 Feb;51(2):178-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21328111</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Biol. 2011 Dec;9(12):e1001221</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22205877</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Microbiol. 2012 May;10(5):323-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22491358</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2013 Aug;41(14):e140</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23716638</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2014 Jan;80(1):204-17</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24141124</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2014 Apr 1;30(7):923-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24227677</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2014 Aug 1;30(15):2114-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24695404</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Carbohydr Polym. 2014 Nov 4;112:587-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25129786</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2014 Sep 2;111(35):E3708-17</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25136124</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Microbiol. 2014;68:279-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25002092</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2014 Nov 25;426(23):3851-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25026064</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2015 Mar 1;31(5):647-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25355788</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2015 Apr 20;43(7):e47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">25605792</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Commun. 2015;6:7481</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26112186</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Genomics. 2016;17:147</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">26920945</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Electrophoresis. 2000 Nov;21(17):3666-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11271485</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

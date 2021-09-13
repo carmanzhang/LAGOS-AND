@@ -1,0 +1,175 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">27151193</PMID>
+        <DateCompleted>
+            <Year>2017</Year>
+            <Month>03</Month>
+            <Day>20</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>03</Month>
+            <Day>20</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1875-5305</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>23</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Protein and peptide letters</Title>
+                <ISOAbbreviation>Protein Pept. Lett.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>PDZ Binding Domains, Structural Disorder and Phosphorylation: A Menage-a-trois Tailing Dcp2 mRNA Decapping Enzymes.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>612-8</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Diverse cellular activities are mediated through the interaction of protein domains and their binding partners. One such protein domain widely distributed in the higher metazoan world is the PDZ domain, which facilitates abundant protein-protein interactions. The PDZ domain-PDZ binding domain interaction has been implicated in several pathologies including Alzheimer's disease, Parkinson's disease and Down syndrome. PDZ domains bind to C-terminal peptides/proteins which have either of the following combinations: S/T-X-hydrophobic-COOH for type I, hydrophobic-Xhydrophobic- COOH for type II, and D/E-X-hydrophobic-COOH for type III, although hydrophobicity in the termini form the key characteristic of the PDZ-binding domains. We identified and characterized a Dcp2 type mRNA decapping enzyme from Arabidopsis thaliana, a protein containing a putative PDZ-binding domain using mutagenesis and protein biochemistry. Now we are using bioinformatics to study the Cterminal end of mRNA decapping enzymes from complex metazoans with the aim of (1) identifying putative PDZ-binding domains (2) Correlating structural disorder with PDZ binding domains and (3) Demonstrating the presence of phosphorylation sites in C-terminal extremities of Dcp2 type mRNA decapping enzymes. It is proposed here that the trinity of PDZbinding domains, structural disorder and phosphorylation-susceptible sites are a feature of the Dcp2 family of decapping enzymes and perhaps is a wider trick in protein evolution where scaffolding/tethering is a requirement for localization and function. It is critical though laboratory-based supporting evidence is sought to back-up this bioinformatics exploration into tail regions of mRNA decapping enzymes. </AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gunawardana</LastName>
+                    <ForeName>Dilantha</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Botany, University of Sri Jayewardenepura, Gangodawila, Srilanka. dilanthag_12@yahoo.com.au.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Protein Pept Lett</MedlineTA>
+            <NlmUniqueID>9441434</NlmUniqueID>
+            <ISSNLinking>0929-8665</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D029681">Arabidopsis Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D064267">Intrinsically Disordered Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C030052">mRNA decapping enzymes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.-</RegistryNumber>
+                <NameOfSubstance UI="D004722">Endoribonucleases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.27.-</RegistryNumber>
+                <NameOfSubstance UI="C518494">Dcp2 protein, Arabidopsis</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017360" MajorTopicYN="N">Arabidopsis</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D029681" MajorTopicYN="N">Arabidopsis Proteins</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001665" MajorTopicYN="N">Binding Sites</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019295" MajorTopicYN="N">Computational Biology</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004722" MajorTopicYN="N">Endoribonucleases</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D064267" MajorTopicYN="N">Intrinsically Disordered Proteins</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D054731" MajorTopicYN="Y">PDZ Domains</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010766" MajorTopicYN="N">Phosphorylation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011485" MajorTopicYN="N">Protein Binding</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000072417" MajorTopicYN="N">Protein Domains</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2016</Year>
+                <Month>03</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2016</Year>
+                <Month>04</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2016</Year>
+                <Month>05</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>5</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>5</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>3</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">27151193</ArticleId>
+            <ArticleId IdType="pii">PPL-EPUB-75506</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

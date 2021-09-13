@@ -1,0 +1,132 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">12101069</PMID>
+        <DateCompleted>
+            <Year>2002</Year>
+            <Month>09</Month>
+            <Day>11</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>09</Month>
+            <Day>22</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1570-0232</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>775</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2002</Year>
+                        <Month>Jul</Month>
+                        <Day>25</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of chromatography. B, Analytical technologies in the biomedical and life sciences</Title>
+                <ISOAbbreviation>J Chromatogr B Analyt Technol Biomed Life Sci</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Rapid, fluorimetric-liquid chromatographic determination of malondialdehyde in biological samples.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>121-6</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Current chromatographic methods of estimation of malondialdehyde, a marker of oxidative lipid injury, often require extensive extraction procedures, column cleaning or specialized equipment. A rapid and sensitive HPLC method is described for the determination of MDA in plasma and urine. The mobile phase consisted of 40:60 ratio (v/v) of methanol to 50 mM potassium monobasic phosphate at pH 6.8, pumped at a rate of 1.0 ml/min on a Hewlett-Packard Hypersil 5 micro ODS 100 x 4.6 mm placed in a column warmer set to 37 degrees C. Samples of plasma and urine were treated with the antioxidant, butylated hydroxytoluene and heat derivatized at 100 degrees C for 1 h with thiobarbituric acid at an acid pH. Samples were extracted with n-butanol and 10 microl of the extract was injected at 1 min intervals using an autosampler. The Hewlett-Packard model 1046A programmable fluorescence detector was set at excitation of 515 nm and emission of 553 nm. Retention time was 1.87 min, however absence of interfering peaks, allowed analysis to be carried out in increments of 1 min per sample. Within day variability in estimation was between 8.6% and 10.3%. Between days variability was 3.6-7.9%. Recovery was between 88 and 101%. Samples of urine and plasma from ten normotensive volunteers were 1.94 +/- 0.79 micromol/g creatinine and 0.69 +/- 0.13 micromol/l respectively and were similar to those reported in the literature. MDA degrades at room temperature at a rate of 10% per hour. It is therefore, suggested that the total assay time be limited to 1 h beginning with sample preparation.</AbstractText>
+                <CopyrightInformation>Copyright 2002 Elsevier Science BV.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Agarwal</LastName>
+                    <ForeName>Rajiv</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Indiana University School of Medicine and Richard L. Roudebush VA Medical Center, Indianapolis, IN, USA. ragarwal@iupui.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chase</LastName>
+                    <ForeName>Shawn D</ForeName>
+                    <Initials>SD</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>J Chromatogr B Analyt Technol Biomed Life Sci</MedlineTA>
+            <NlmUniqueID>101139554</NlmUniqueID>
+            <ISSNLinking>1570-0232</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>4Y8F71G49Q</RegistryNumber>
+                <NameOfSubstance UI="D008315">Malondialdehyde</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D002851" MajorTopicYN="N">Chromatography, High Pressure Liquid</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008315" MajorTopicYN="N">Malondialdehyde</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="Y">analysis</QualifierName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+                <QualifierName UI="Q000652" MajorTopicYN="N">urine</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012680" MajorTopicYN="N">Sensitivity and Specificity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013050" MajorTopicYN="N">Spectrometry, Fluorescence</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2002</Year>
+                <Month>7</Month>
+                <Day>9</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2002</Year>
+                <Month>9</Month>
+                <Day>12</Day>
+                <Hour>10</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2002</Year>
+                <Month>7</Month>
+                <Day>9</Day>
+                <Hour>10</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">12101069</ArticleId>
+            <ArticleId IdType="pii">S1570023202002738</ArticleId>
+            <ArticleId IdType="doi">10.1016/s1570-0232(02)00273-8</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

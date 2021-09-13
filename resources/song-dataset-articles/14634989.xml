@@ -1,0 +1,135 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">14634989</PMID>
+        <DateCompleted>
+            <Year>2004</Year>
+            <Month>04</Month>
+            <Day>05</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2007</Year>
+            <Month>11</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0192-8651</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>25</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2004</Year>
+                        <Month>Jan</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of computational chemistry</Title>
+                <ISOAbbreviation>J Comput Chem</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>CHARMM fluctuating charge force field for proteins: I parameterization and application to bulk organic liquid simulations.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1-15</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>A first-generation fluctuating charge (FQ) force field to be ultimately applied for protein simulations is presented. The electrostatic model parameters, the atomic hardnesses, and electronegativities, are parameterized by fitting to DFT-based charge responses of small molecules perturbed by a dipolar probe mimicking a water dipole. The nonbonded parameters for atoms based on the CHARMM atom-typing scheme are determined via simultaneously optimizing vacuum water-solute geometries and energies (for a set of small organic molecules) and condensed phase properties (densities and vaporization enthalpies) for pure bulk liquids. Vacuum solute-water geometries, specifically hydrogen bond distances, are fit to 0.19 A r.m.s. error, while dimerization energies are fit to 0.98 kcal/mol r.m.s. error. Properties of the liquids studied include bulk liquid structure and polarization. The FQ model does indeed show a condensed phase effect in the shifting of molecular dipole moments to higher values relative to the gas phase. The FQ liquids also appear to be more strongly associated, in the case of hydrogen bonding liquids, due to the enhanced dipolar interactions as evidenced by shifts toward lower energies in pair energy distributions. We present results from a short simulation of NMA in bulk TIP4P-FQ water as a step towards simulating solvated peptide/protein systems. As expected, there is a nontrivial dipole moment enhancement of the NMA (although the quantitative accuracy is difficult to assess). Furthermore, the distribution of dipole moments of water molecules in the vicinity of the solutes is shifted towards larger values by 0.1-0.2 Debye in keeping with previously reported work.</AbstractText>
+                <CopyrightInformation>Copyright 2003 Wiley Periodicals, Inc. J Comput Chem 25: 1-15, 2004</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Patel</LastName>
+                    <ForeName>Sandeep</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular Biology (TPC-6), The Scripps Research Institute, 10550 N. Torrey Pines Road, La Jolla, California 92037, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brooks</LastName>
+                    <ForeName>Charles L</ForeName>
+                    <Initials>CL</Initials>
+                    <Suffix>3rd</Suffix>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>RR06009</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Comput Chem</MedlineTA>
+            <NlmUniqueID>9878362</NlmUniqueID>
+            <ISSNLinking>0192-8651</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009930">Organic Chemicals</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011506">Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D003198" MajorTopicYN="N">Computer Simulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008962" MajorTopicYN="N">Models, Theoretical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009930" MajorTopicYN="N">Organic Chemicals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011506" MajorTopicYN="N">Proteins</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2003</Year>
+                <Month>11</Month>
+                <Day>25</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2004</Year>
+                <Month>4</Month>
+                <Day>6</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2003</Year>
+                <Month>11</Month>
+                <Day>25</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">14634989</ArticleId>
+            <ArticleId IdType="doi">10.1002/jcc.10355</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

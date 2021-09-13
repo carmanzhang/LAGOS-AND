@@ -1,0 +1,158 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">19001655</PMID>
+        <DateCompleted>
+            <Year>2009</Year>
+            <Month>01</Month>
+            <Day>13</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2008</Year>
+            <Month>11</Month>
+            <Day>12</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1527-1323</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>28</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <MedlineDate>2008 Nov-Dec</MedlineDate>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Radiographics : a review publication of the Radiological Society of North America, Inc</Title>
+                <ISOAbbreviation>Radiographics</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Flat-panel volume CT: fundamental principles, technology, and applications.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2009-22</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1148/rg.287085004</ELocationID>
+            <Abstract>
+                <AbstractText>Flat-panel volume computed tomography (CT) systems have an innovative design that allows coverage of a large volume per rotation, fluoroscopic and dynamic imaging, and high spatial resolution that permits visualization of complex human anatomy such as fine temporal bone structures and trabecular bone architecture. In simple terms, flat-panel volume CT scanners can be thought of as conventional multidetector CT scanners in which the detector rows have been replaced by an area detector. The flat-panel detector has wide z-axis coverage that enables imaging of entire organs in one axial acquisition. Its fluoroscopic and angiographic capabilities are useful for intraoperative and vascular applications. Furthermore, the high-volume coverage and continuous rotation of the detector may enable depiction of dynamic processes such as coronary blood flow and whole-brain perfusion. Other applications in which flat-panel volume CT may play a role include small-animal imaging, nondestructive testing in animal survival surgeries, and tissue-engineering experiments. Such versatility has led some to predict that flat-panel volume CT will gain importance in interventional and intraoperative applications, especially in specialties such as cardiac imaging, interventional neuroradiology, orthopedics, and otolaryngology. However, the contrast resolution of flat-panel volume CT is slightly inferior to that of multidetector CT, a higher radiation dose is needed to achieve a comparable signal-to-noise ratio, and a slower scintillator results in a longer scanning time.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gupta</LastName>
+                    <ForeName>Rajiv</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiology, Massachusetts General Hospital, Boston, MA 02114, USA. rgupta1@partners.org</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cheung</LastName>
+                    <ForeName>Arnold C</ForeName>
+                    <Initials>AC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bartling</LastName>
+                    <ForeName>Soenke H</ForeName>
+                    <Initials>SH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lisauskas</LastName>
+                    <ForeName>Jennifer</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Grasruck</LastName>
+                    <ForeName>Michael</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Leidecker</LastName>
+                    <ForeName>Christianne</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schmidt</LastName>
+                    <ForeName>Bernhard</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Flohr</LastName>
+                    <ForeName>Thomas</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brady</LastName>
+                    <ForeName>Thomas J</ForeName>
+                    <Initials>TJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Radiographics</MedlineTA>
+            <NlmUniqueID>8302501</NlmUniqueID>
+            <ISSNLinking>0271-5333</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D004867" MajorTopicYN="N">Equipment Design</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019544" MajorTopicYN="N">Equipment Failure Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D021621" MajorTopicYN="N">Imaging, Three-Dimensional</DescriptorName>
+                <QualifierName UI="Q000295" MajorTopicYN="Y">instrumentation</QualifierName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013673" MajorTopicYN="N">Technology Assessment, Biomedical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014057" MajorTopicYN="N">Tomography, X-Ray Computed</DescriptorName>
+                <QualifierName UI="Q000295" MajorTopicYN="Y">instrumentation</QualifierName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014963" MajorTopicYN="Y">X-Ray Intensifying Screens</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2008</Year>
+                <Month>11</Month>
+                <Day>13</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2009</Year>
+                <Month>1</Month>
+                <Day>14</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2008</Year>
+                <Month>11</Month>
+                <Day>13</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">19001655</ArticleId>
+            <ArticleId IdType="pii">28/7/2009</ArticleId>
+            <ArticleId IdType="doi">10.1148/rg.287085004</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

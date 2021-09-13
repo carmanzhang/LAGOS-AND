@@ -1,0 +1,612 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">25910247</PMID>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>01</Month>
+            <Day>19</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Electronic-eCollection">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>10</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2015</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS ONE</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Clostridium perfringens Alpha-Toxin Induces Gm1a Clustering and Trka Phosphorylation in the Host Cell Membrane.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e0120497</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0120497</ELocationID>
+            <Abstract>
+                <AbstractText>Clostridium perfringens alpha-toxin elicits various immune responses such as the release of cytokines, chemokines, and superoxide via the GM1a/TrkA complex. Alpha-toxin possesses phospholipase C (PLC) hydrolytic activity that contributes to signal transduction in the pathogenesis of gas gangrene. Little is known about the relationship between lipid metabolism and TrkA activation by alpha-toxin. Using live-cell fluorescence microscopy, we monitored transbilayer movement of diacylglycerol (DAG) with the yellow fluorescent protein-tagged C1AB domain of protein kinase C-γ (EYFP-C1AB). DAG accumulated at the marginal region of the plasma membrane in alpha toxin-treated A549 cells, which also exhibited GM1a clustering and TrkA phosphorylation. Annexin V binding assays showed that alpha-toxin induced the exposure of phosphatidylserine on the outer leaflet of the plasma membrane. However, H148G, a variant toxin which binds cell membrane and has no enzymatic activity, did not induce DAG translocation, GM1a clustering, or TrkA phosphorylation. Alpha-toxin also specifically activated endogenous phospholipase Cγ-1 (PLCγ-1), a TrkA adaptor protein, via phosphorylation. U73122, an endogenous PLC inhibitor, and siRNA for PLCγ-1 inhibited the formation of DAG and release of IL-8. GM1a accumulation and TrkA phosphorylation in A549 cells treated with alpha-toxin were also inhibited by U73122. These results suggest that the flip-flop motion of hydrophobic lipids such as DAG leads to the accumulation of GM1a and TrkA. We conclude that the formation of DAG by alpha-toxin itself (first step) and activation of endogenous PLCγ-1 (second step) leads to alterations in membrane dynamics, followed by strong phosphorylation of TrkA. </AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Takagishi</LastName>
+                    <ForeName>Teruhisa</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, Faculty of Pharmaceutical Sciences, Tokushima Bunri University, Yamashiro-cho 180, Tokushima, 770-8514, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Oda</LastName>
+                    <ForeName>Masataka</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, Faculty of Pharmaceutical Sciences, Tokushima Bunri University, Yamashiro-cho 180, Tokushima, 770-8514, Japan; Division of Microbiology and Infectious Diseases, Niigata University Graduate School of Medical and Dental Sciences, 2-5274, Gakkocho-dori, Chuo-ku, Niigata, 951-8514, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kabura</LastName>
+                    <ForeName>Michiko</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, Faculty of Pharmaceutical Sciences, Tokushima Bunri University, Yamashiro-cho 180, Tokushima, 770-8514, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kurosawa</LastName>
+                    <ForeName>Mie</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Microbiology and Infectious Diseases, Niigata University Graduate School of Medical and Dental Sciences, 2-5274, Gakkocho-dori, Chuo-ku, Niigata, 951-8514, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tominaga</LastName>
+                    <ForeName>Kaori</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, Faculty of Pharmaceutical Sciences, Tokushima Bunri University, Yamashiro-cho 180, Tokushima, 770-8514, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Urano</LastName>
+                    <ForeName>Shiori</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, Faculty of Pharmaceutical Sciences, Tokushima Bunri University, Yamashiro-cho 180, Tokushima, 770-8514, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ueda</LastName>
+                    <ForeName>Yoshibumi</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Hematology and Immunology, Kanazawa Medical University, 1-1 Daigaku, Uchinada-cho, Kahoku-gun, Ishikawa, 920-0293, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kobayashi</LastName>
+                    <ForeName>Keiko</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, Faculty of Pharmaceutical Sciences, Tokushima Bunri University, Yamashiro-cho 180, Tokushima, 770-8514, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kobayashi</LastName>
+                    <ForeName>Toshihide</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Lipid Biology Laboratory, Rikagaku Kenkyujo (RIKEN), 2-1 Hirosawa, Wako, Saitama, 351-0198, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sakurai</LastName>
+                    <ForeName>Jun</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, Faculty of Pharmaceutical Sciences, Tokushima Bunri University, Yamashiro-cho 180, Tokushima, 770-8514, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Terao</LastName>
+                    <ForeName>Yutaka</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Microbiology and Infectious Diseases, Niigata University Graduate School of Medical and Dental Sciences, 2-5274, Gakkocho-dori, Chuo-ku, Niigata, 951-8514, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nagahama</LastName>
+                    <ForeName>Masahiro</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, Faculty of Pharmaceutical Sciences, Tokushima Bunri University, Yamashiro-cho 180, Tokushima, 770-8514, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2015</Year>
+                <Month>04</Month>
+                <Day>24</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C011439">1,2-diacylglycerol</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D001427">Bacterial Toxins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D002135">Calcium-Binding Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004075">Diglycerides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016209">Interleukin-8</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>37758-47-7</RegistryNumber>
+                <NameOfSubstance UI="D005677">G(M1) Ganglioside</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.10.1</RegistryNumber>
+                <NameOfSubstance UI="D020917">Receptor, trkA</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.4.-</RegistryNumber>
+                <NameOfSubstance UI="D010738">Type C Phospholipases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.4.11</RegistryNumber>
+                <NameOfSubstance UI="C522157">PLCG1 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.4.3</RegistryNumber>
+                <NameOfSubstance UI="D051966">Phospholipase C gamma</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.1.4.3</RegistryNumber>
+                <NameOfSubstance UI="C040649">alpha toxin, Clostridium perfringens</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001427" MajorTopicYN="N">Bacterial Toxins</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001692" MajorTopicYN="N">Biological Transport</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002135" MajorTopicYN="N">Calcium-Binding Proteins</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002460" MajorTopicYN="N">Cell Line</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002462" MajorTopicYN="N">Cell Membrane</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004075" MajorTopicYN="N">Diglycerides</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005677" MajorTopicYN="N">G(M1) Ganglioside</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D054884" MajorTopicYN="N">Host-Pathogen Interactions</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016209" MajorTopicYN="N">Interleukin-8</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008954" MajorTopicYN="N">Models, Biological</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051966" MajorTopicYN="N">Phospholipase C gamma</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010766" MajorTopicYN="N">Phosphorylation</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D034622" MajorTopicYN="N">RNA Interference</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020917" MajorTopicYN="N">Receptor, trkA</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010738" MajorTopicYN="N">Type C Phospholipases</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2014</Year>
+                <Month>11</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2015</Year>
+                <Month>01</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2015</Year>
+                <Month>4</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2015</Year>
+                <Month>4</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2016</Year>
+                <Month>1</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">25910247</ArticleId>
+            <ArticleId IdType="doi">10.1371/journal.pone.0120497</ArticleId>
+            <ArticleId IdType="pii">PONE-D-14-51581</ArticleId>
+            <ArticleId IdType="pmc">PMC4409118</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Clin Infect Dis. 1997 Jul;25(1):160</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9243057</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Lipid Res. 2008 May;49(5):1039-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18263851</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2014 Jan 23;9(1):e86475</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24466113</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochim Biophys Acta. 2012 Oct;1822(10):1581-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22721959</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochim Biophys Acta. 2011 Oct;1808(10):2618-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21704605</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Res. 2006 Aug;16(8):1031-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16825665</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2004 Mar 26;279(13):12181-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14702348</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cytometry. 1998 Jan 1;31(1):1-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9450519</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochim Biophys Acta. 2011 Jan;1808(1):279-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20727345</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Microbiol. 1997 Apr;5(4):156-61</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9141190</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Microbiol. 1997 Jul;5(7):265</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9234505</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Invest. 1997 Aug 1;100(3):565-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9239403</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Expert Rev Anti Infect Ther. 2012 Jan;10(1):1-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22149607</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microbiology. 2002 Jan;148(Pt 1):237-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11782516</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1991 Jan 15;266(2):1177-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1985941</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anaerobe. 2012 Apr;18(2):254-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22120198</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Pharmacol Exp Ther. 2008 Dec;327(3):934-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18794379</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FASEB J. 2013 Aug;27(8):3284-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23682124</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1984 Nov 22-28;312(5992):315-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6095092</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Immun. 1996 Sep;64(9):3930-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8751953</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biochem. 2004 Nov;136(5):569-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15632295</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2002 Jan 22;99(2):996-1001</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11792842</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Microbiol Rev. 2001 Jul;14(3):584-640</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11432815</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Biophys Res Commun. 1989 Jul 14;162(1):387-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2665743</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2012 Sep 21;287(39):33070-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22847002</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1995 Mar;177(5):1179-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7868589</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEMS Microbiol Lett. 1993 Jun 1;110(1):45-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8319893</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1978 Nov 16;276(5685):289-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">714162</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Physiol Lung Cell Mol Physiol. 2003 Apr;284(4):L566-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12618418</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 1994 Apr 1;13(7):1585-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8156997</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1985 Feb 10;260(3):1909-16</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3968089</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Cancer. 2007 Apr;7(4):281-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17384583</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Methods Mol Biol. 2009;462:155-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19160667</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Microbiol. 2002 Nov;46(3):661-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12410824</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Lipid Res. 2009 Apr;50 Suppl:S266-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19033211</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Infect Dis. 1997 Sep;25 Suppl 2:S160-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9310664</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1992 Oct 23;258(5082):607-14</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1411571</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Immun. 1994 Feb;62(2):717-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8300231</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 1993 Mar;12(3):933-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8384556</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Immun. 1996 Jan;64(1):358-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8557365</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochim Biophys Acta. 2006 Dec;1758(12):1902-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17070498</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Sci. 2009 Jan 15;122(Pt 2):289-99</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19118221</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEBS Lett. 2010 May 3;584(9):1779-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20043909</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Biophys Res Commun. 2011 Jul 29;411(2):241-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21740889</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Adv Biol Regul. 2013 Sep;53(3):309-18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23925006</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Biol. 1998 Feb 9;140(3):485-98</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9456311</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Microbiol. 2014 Apr;16(4):535-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24245664</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Biochem Sci. 2006 Dec;31(12):694-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17079146</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Toxicon. 2003 Dec 15;42(8):979-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15019495</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Infect Immun. 2006 May;74(5):2876-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16622226</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

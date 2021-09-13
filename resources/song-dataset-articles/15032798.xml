@@ -1,0 +1,145 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">15032798</PMID>
+        <DateCompleted>
+            <Year>2004</Year>
+            <Month>11</Month>
+            <Day>19</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2007</Year>
+            <Month>11</Month>
+            <Day>14</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0006-341X</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>60</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2004</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biometrics</Title>
+                <ISOAbbreviation>Biometrics</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Parametric spatial cure rate models for interval-censored time-to-relapse data.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>268-75</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Several recent papers (e.g., Chen, Ibrahim, and Sinha, 1999, Journal of the American Statistical Association 94, 909-919; Ibrahim, Chen, and Sinha, 2001a, Biometrics 57, 383-388) have described statistical methods for use with time-to-event data featuring a surviving fraction (i.e., a proportion of the population that never experiences the event). Such cure rate models and their multivariate generalizations are quite useful in studies of multiple diseases to which an individual may never succumb, or from which an individual may reasonably be expected to recover following treatment (e.g., various types of cancer). In this article we extend these models to allow for spatial correlation (estimable via zip code identifiers for the subjects) as well as interval censoring. Our approach is Bayesian, where posterior summaries are obtained via a hybrid Markov chain Monte Carlo algorithm. We compare across a broad collection of rather high-dimensional hierarchical models using the deviance information criterion, a tool recently developed for just this purpose. We apply our approach to the analysis of a smoking cessation study where the subjects reside in 53 southeastern Minnesota zip codes. In addition to the usual posterior estimates, our approach yields smoothed zip code level maps of model parameters related to the relapse rates over time and the ultimate proportion of quitters (the cure rates).</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Banerjee</LastName>
+                    <ForeName>Sudipto</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Biostatistics, School of Public Health, University of Minnesota, MMC 303, 420 Delaware Street SE, Minneapolis, Minnesota 55455, USA. sudiptob@biostat.umn.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Carlin</LastName>
+                    <ForeName>Bradley P</ForeName>
+                    <Initials>BP</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>1-R01-CA95955-01</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>5-R01-ES07750-07</GrantID>
+                    <Acronym>ES</Acronym>
+                    <Agency>NIEHS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D003160">Comparative Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Biometrics</MedlineTA>
+            <NlmUniqueID>0370625</NlmUniqueID>
+            <ISSNLinking>0006-341X</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000465" MajorTopicYN="N">Algorithms</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001499" MajorTopicYN="N">Bayes Theorem</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001699" MajorTopicYN="N">Biometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008390" MajorTopicYN="N">Markov Chains</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015233" MajorTopicYN="Y">Models, Statistical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009010" MajorTopicYN="N">Monte Carlo Method</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016540" MajorTopicYN="N">Smoking Cessation</DescriptorName>
+                <QualifierName UI="Q000706" MajorTopicYN="N">statistics &amp; numerical data</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013997" MajorTopicYN="N">Time Factors</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2004</Year>
+                <Month>3</Month>
+                <Day>23</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2004</Year>
+                <Month>12</Month>
+                <Day>16</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2004</Year>
+                <Month>3</Month>
+                <Day>23</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">15032798</ArticleId>
+            <ArticleId IdType="doi">10.1111/j.0006-341X.2004.00032.x</ArticleId>
+            <ArticleId IdType="pii">BIOM032</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

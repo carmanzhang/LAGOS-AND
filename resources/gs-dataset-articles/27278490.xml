@@ -1,0 +1,121 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">27278490</PMID>
+        <DateCompleted>
+            <Year>2016</Year>
+            <Month>06</Month>
+            <Day>10</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2016</Year>
+            <Month>06</Month>
+            <Day>09</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1346-4523</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>31</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2004</Year>
+                        <Month>Mar</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of medical ultrasonics (2001)</Title>
+                <ISOAbbreviation>J Med Ultrason (2001)</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Estimation of Doppler shift frequency using selected phase information for high frame rate color flow mapping.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>5-12</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s10396-003-0005-4</ELocationID>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">We describe a new approach to processing signals used to estimate the Doppler shift frequency in high frame-rate color flow mapping with fewer pulse transmissions. When an ultrasound pulse is transmitted to a large number of scatterers, the echoes from the scatterers overlap and interfere with one another. This interference causes the phase of the received echo signal to fluctuate, thus disturbing the estimated shift in Doppler frequency. The technique proposed here eliminates this disturbed phase information, leaving the remaining information for use in estimating the shift in Doppler frequency. The instantaneous frequency of the echo signal can serve as an index of the influence of interference.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">To test this technique in vivo we used radio-frequency echo signals from the carotid artery for simulation and evaluated the error of the estimated Doppler shift frequency in several cases.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">Performance was enhanced when the number of pulses transmitted was limited and this technique was used.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Tanaka</LastName>
+                    <ForeName>Naohiko</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Electronic Information Systems, Shibaura Institute of Technology, Faculty of Systems Engineering, 307 Fukasaku, Omiya, 330-8570, Japan. tanaka@se.shibaura-it.ac.jp.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ohtsuki</LastName>
+                    <ForeName>Shigeo</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Precision and Intelligence Laboratory, Tokyo Institute of Technology, 4259 Nagatsuta, Midori-ku, Yokohama, 226-8503, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Japan</Country>
+            <MedlineTA>J Med Ultrason (2001)</MedlineTA>
+            <NlmUniqueID>101128385</NlmUniqueID>
+            <ISSNLinking>1346-4523</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Color flow mapping</Keyword>
+            <Keyword MajorTopicYN="N">Doppler shift</Keyword>
+            <Keyword MajorTopicYN="N">Instantaneous frequency</Keyword>
+            <Keyword MajorTopicYN="N">Interference</Keyword>
+            <Keyword MajorTopicYN="N">Pulsed Doppler</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2000</Year>
+                <Month>08</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2001</Year>
+                <Month>01</Month>
+                <Day>15</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>6</Month>
+                <Day>10</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2004</Year>
+                <Month>3</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2004</Year>
+                <Month>3</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">27278490</ArticleId>
+            <ArticleId IdType="doi">10.1007/s10396-003-0005-4</ArticleId>
+            <ArticleId IdType="pii">10.1007/s10396-003-0005-4</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

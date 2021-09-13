@@ -1,0 +1,534 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">18237388</PMID>
+        <DateCompleted>
+            <Year>2008</Year>
+            <Month>04</Month>
+            <Day>02</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1471-2164</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>9</Volume>
+                    <PubDate>
+                        <Year>2008</Year>
+                        <Month>Jan</Month>
+                        <Day>31</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>BMC genomics</Title>
+                <ISOAbbreviation>BMC Genomics</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A novel method to quantify local CpG methylation density by regional methylation elongation assay on microarray.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>59</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1186/1471-2164-9-59</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">DNA methylation based techniques are important tools in both clinical diagnostics and therapeutics. But most of these methods only analyze a few CpG sites in a target region. Indeed, difference of site-specific methylation may also lead to a change of methylation density in many cases, and it has been found that the density of methylation is more important than methylation of single CpG site for gene silencing.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">We have developed a novel approach for quantitative analysis of CpG methylation density on the basis of microarray-based hybridization and incorporation of Cy5-dCTP into the Cy3 labeled target DNA by using Taq DNA Polymerase on microarray. The quantification is achieved by measuring Cy5/Cy3 signal ratio which is proportional to methylation density. This methylation-sensitive technique, termed RMEAM (regional methylation elongation assay on microarray), provides several advantages over existing methods used for methylation analysis. It can determine an exact methylation density of the given region, and has potential of high throughput. We demonstrate a use of this method in determining the methylation density of the promoter region of the tumor-related gene MLH1, TERT and MGMT in colorectal carcinoma patients.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">This technique allows for quantitative analysis of regional methylation density, which is the representative of all allelic methylation patterns in the sample. The results show that this technique has the characteristics of simplicity, rapidness, specificity and high-throughput.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Dingdong</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>State Key Laboratory of Bioelectronics, Southeast University, Nanjing 210096, China. zdd_7597@seu.edu.cn</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>Yan</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bai</LastName>
+                    <ForeName>Yunfei</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ge</LastName>
+                    <ForeName>Qinyu</ForeName>
+                    <Initials>Q</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Qiao</LastName>
+                    <ForeName>Yingjuan</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Luo</LastName>
+                    <ForeName>Junfeng</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jia</LastName>
+                    <ForeName>Chao</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lu</LastName>
+                    <ForeName>Zuhong</ForeName>
+                    <Initials>Z</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>F31 AA020702</GrantID>
+                    <Acronym>AA</Acronym>
+                    <Agency>NIAAA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2008</Year>
+                <Month>01</Month>
+                <Day>31</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>BMC Genomics</MedlineTA>
+            <NlmUniqueID>100965258</NlmUniqueID>
+            <ISSNLinking>1471-2164</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D020121">5' Untranslated Regions</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D048868">Adaptor Proteins, Signal Transducing</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D002232">Carbocyanines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004273">DNA, Neoplasm</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D005456">Fluorescent Dyes</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C501486">MLH1 protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009687">Nuclear Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D025521">Tumor Suppressor Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C089187">cyanine dye 3</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9007-49-2</RegistryNumber>
+                <NameOfSubstance UI="D004247">DNA</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.1.1.-</RegistryNumber>
+                <NameOfSubstance UI="D015254">DNA Modification Methylases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.1.1.63</RegistryNumber>
+                <NameOfSubstance UI="C515491">MGMT protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.7.-</RegistryNumber>
+                <NameOfSubstance UI="D019914">Taq Polymerase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.7.49</RegistryNumber>
+                <NameOfSubstance UI="C509186">TERT protein, human</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.7.49</RegistryNumber>
+                <NameOfSubstance UI="D019098">Telomerase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.6.1.3</RegistryNumber>
+                <NameOfSubstance UI="D000070957">MutL Protein Homolog 1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 6.5.1.-</RegistryNumber>
+                <NameOfSubstance UI="D045643">DNA Repair Enzymes</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D020121" MajorTopicYN="N">5' Untranslated Regions</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D048868" MajorTopicYN="N">Adaptor Proteins, Signal Transducing</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001483" MajorTopicYN="N">Base Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002232" MajorTopicYN="N">Carbocyanines</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015179" MajorTopicYN="N">Colorectal Neoplasms</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018899" MajorTopicYN="Y">CpG Islands</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004247" MajorTopicYN="N">DNA</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019175" MajorTopicYN="Y">DNA Methylation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015254" MajorTopicYN="N">DNA Modification Methylases</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D045643" MajorTopicYN="N">DNA Repair Enzymes</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004273" MajorTopicYN="N">DNA, Neoplasm</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005456" MajorTopicYN="N">Fluorescent Dyes</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008969" MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000070957" MajorTopicYN="N">MutL Protein Homolog 1</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009687" MajorTopicYN="N">Nuclear Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020411" MajorTopicYN="N">Oligonucleotide Array Sequence Analysis</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011401" MajorTopicYN="N">Promoter Regions, Genetic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019914" MajorTopicYN="N">Taq Polymerase</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019098" MajorTopicYN="N">Telomerase</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D025521" MajorTopicYN="N">Tumor Suppressor Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2007</Year>
+                <Month>05</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2008</Year>
+                <Month>01</Month>
+                <Day>31</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2008</Year>
+                <Month>2</Month>
+                <Day>2</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2008</Year>
+                <Month>4</Month>
+                <Day>3</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2008</Year>
+                <Month>2</Month>
+                <Day>2</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>epublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">18237388</ArticleId>
+            <ArticleId IdType="pii">1471-2164-9-59</ArticleId>
+            <ArticleId IdType="doi">10.1186/1471-2164-9-59</ArticleId>
+            <ArticleId IdType="pmc">PMC2262069</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Trends Genet. 2000 Apr;16(4):168-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10729832</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Lett. 2007 Jun 28;251(2):187-98</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17166656</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Intern Med. 2001 Apr 3;134(7):573-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11281740</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncogene. 2001 May 28;20(24):3156-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11420732</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2001 Aug 10;293(5532):1068-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11498573</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Res. 2002 Jan;12(1):153-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11779840</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Res. 2002 Jan;12(1):158-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11779841</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2002 Mar 1;30(5):e21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11861926</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Hum Genet. 2002;47(8):448-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12181645</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2003 Mar 15;31(6):1765-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12626718</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Genomics. 2003 Jan 16;4(1):1</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12529184</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Cancer Res. 2003 Aug 1;9(8):2912-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12912936</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2003 Oct 1;63(19):6178-86</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14559801</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Cancer Res. 2003 Nov 1;9(14):5306-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14614014</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Lett. 2004 Jun 25;209(2):231-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15159026</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anal Biochem. 2004 Oct 1;333(1):119-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15351288</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochemistry. 1970 Jul 7;9(14):2858-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">5459538</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1992 Mar 1;89(5):1827-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1542678</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1993 Dec 15;90(24):11995-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7505451</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 1994 Aug;14(8):5487-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7518564</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anal Biochem. 1995 Mar 20;226(1):161-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7785768</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1996 Sep 3;93(18):9821-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8790415</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 1997 Nov 1;25(21):4422-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9336479</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Cancer. 1998 Nov 23;78(5):561-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9808523</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hum Mol Genet. 1999 Mar;8(3):459-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9949205</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 1999 Feb;21(2):163-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9988266</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 1999 May 1;59(9):2029-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10232580</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 1999 Aug;19(8):5642-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10409753</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Biophys Res Commun. 1999 Sep 7;262(3):671-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10471384</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Blood. 1999 Oct 1;94(7):2445-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10498617</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Pathol. 2005 Feb;58(2):155-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15677535</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Methods. 2005 Mar;2(3):219-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16163803</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2005 Nov 1;102(44):15785-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16243968</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2006;34(2):528-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16428248</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Res. 2006 Feb;16(2):282-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16369045</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncogene. 2006 May 18;25(21):3059-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16407832</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2006;34(13):e96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16893950</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2000 Nov 1;60(21):5954-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11085511</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

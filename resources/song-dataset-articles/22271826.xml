@@ -1,0 +1,340 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">22271826</PMID>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>07</Month>
+            <Day>23</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1558-2531</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>59</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Apr</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>IEEE transactions on bio-medical engineering</Title>
+                <ISOAbbreviation>IEEE Trans Biomed Eng</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A novel quantitative measure of breast curvature based on catenary.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1115-24</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1109/TBME.2012.2184541</ELocationID>
+            <Abstract>
+                <AbstractText>Quantitative, objective measurements of breast curvature computed from clinical photographs could be used to investigate factors that impact reconstruction and facilitate surgical planning. This paper introduces a novel quantitative measure of breast curvature based on catenary. A catenary curve is used to approximate the overall curvature of the breast contour, and the curvature measure is extracted from the catenary curve. The catenary curve was verified by comparing its length, the area enclosed by the curve, and the curvature measure from the catenary curve to those from manual tracings of the breast contour. The evaluation of the proposed analysis employed untreated and postoperative clinical photographs of women who were undergoing tissue expander/implant (TE/Implant) reconstruction. Logistic regression models were developed to distinguish between the curvature of breasts undergoing TE/Implant reconstruction and that of untreated breasts based on the curvature measure and patient variables (age and body mass index). The relationships between the curvature measures of untreated breasts and patient variables were also investigated. The catenary curve approximates breast curvature reliably. The curvature measure contains useful information for quantifying the curvature differences between breasts undergoing TE/Implant reconstruction and untreated breasts, and identifying the effect of patient variables on the breast shape.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Juhun</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Electrical and Computer Engineering, The University of Texas at Austin, Austin, TX 78712, USA. juhunlee@utexas.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Si</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Reece</LastName>
+                    <ForeName>Gregory P</ForeName>
+                    <Initials>GP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Crosby</LastName>
+                    <ForeName>Melissa A</ForeName>
+                    <Initials>MA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Beahm</LastName>
+                    <ForeName>Elisabeth K</ForeName>
+                    <Initials>EK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Markey</LastName>
+                    <ForeName>Mia K</ForeName>
+                    <Initials>MK</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 CA143190</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 CA143190-02</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01CA143190-01A1</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2012</Year>
+                <Month>01</Month>
+                <Day>16</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>IEEE Trans Biomed Eng</MedlineTA>
+            <NlmUniqueID>0012737</NlmUniqueID>
+            <ISSNLinking>0018-9294</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000369" MajorTopicYN="N">Aged, 80 and over</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000465" MajorTopicYN="Y">Algorithms</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001940" MajorTopicYN="N">Breast</DescriptorName>
+                <QualifierName UI="Q000033" MajorTopicYN="Y">anatomy &amp; histology</QualifierName>
+                <QualifierName UI="Q000601" MajorTopicYN="N">surgery</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007090" MajorTopicYN="N">Image Interpretation, Computer-Assisted</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008953" MajorTopicYN="Y">Models, Anatomic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009716" MajorTopicYN="N">Numerical Analysis, Computer-Assisted</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010781" MajorTopicYN="N">Photography</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011300" MajorTopicYN="N">Preoperative Care</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015203" MajorTopicYN="N">Reproducibility of Results</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012680" MajorTopicYN="N">Sensitivity and Specificity</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>7</Month>
+                <Day>24</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">22271826</ArticleId>
+            <ArticleId IdType="doi">10.1109/TBME.2012.2184541</ArticleId>
+            <ArticleId IdType="pmc">PMC3334380</ArticleId>
+            <ArticleId IdType="mid">NIHMS370235</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Br J Plast Surg. 1999 Jul;52(5):355-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10618977</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Plast Surg. 2010 May;64(5):579-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20354434</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Surg. 2000 Nov;87(11):1455-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11091232</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>World Health Organ Tech Rep Ser. 2000;894:i-xii, 1-253</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11234459</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plast Reconstr Surg. 2001 Jun;107(7):1702-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11391188</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Radiat Oncol Biol Phys. 1985 Mar;11(3):575-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3972667</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Radiother Oncol. 1989 Nov;16(3):159-67</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2587807</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Cancer. 1991;27(11):1395-400</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1835855</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plast Reconstr Surg. 1996 Jul;98(1):74-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8657790</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Plast Surg. 1996 Sep;49(6):352-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8881780</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plast Reconstr Surg. 1998 Apr;101(4):964-8; discussion 969-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9514328</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Prog Orthod. 2004;5(2):200-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15546012</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Plast Surg. 2005 Dec;55(6):571-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16327452</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Plast Reconstr Surg. 2006 Sep 15;118(4):832-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16980843</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Comput Biol Med. 2007 Jan;37(1):49-59</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16438948</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Epidemiol. 2006 Nov 15;164(10):1003-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16928728</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Artif Intell Med. 2007 Jun;40(2):115-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17420117</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2008 Oct 9;359(15):1590-601</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18843123</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Aesthet Surg J. 2008 Sep-Oct;28(5):534-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19083576</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Plast Reconstr Aesthet Surg. 2009 May;62(5):626-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18356126</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Breast. 2010 Dec;19(6):521-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21078486</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>AMIA Annu Symp Proc. 2010;2010:432-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21347015</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Orthod. 2000 Apr;22(2):113-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10822884</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

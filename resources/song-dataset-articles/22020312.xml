@@ -1,0 +1,155 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">22020312</PMID>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>03</Month>
+            <Day>05</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2011</Year>
+            <Month>11</Month>
+            <Day>09</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1473-0189</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>11</Volume>
+                    <Issue>23</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Dec</Month>
+                        <Day>07</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Lab on a chip</Title>
+                <ISOAbbreviation>Lab Chip</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A microfluidic device for self-synchronised production of droplets.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>4052-6</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1039/c1lc20695h</ELocationID>
+            <Abstract>
+                <AbstractText>The primary requirement for a mixing operation in droplet-based microfluidic devices is an accurate pairing of droplets of reaction fluids over an extended period of time. In this paper, a novel device for self-synchronous production of droplets has been demonstrated. The device uses a change in impedance across a pair of electrodes introduced due to the passage of a pre-formed droplet to generate a second droplet at a second pair of electrodes. The device was characterised using image analysis. Droplets with a volume of ~23.5 ± 3.1 nl (i.e.~93% of the volume of pre-formed droplets) were produced on applying a voltage of 500 V. The synchronisation efficiency of the device was 83%. As the device enables self-synchronised production of droplets, it has a potential to increase the reliability and robustness of mixing operations in droplet-based microfluidic devices.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gupta</LastName>
+                    <ForeName>Ruchi</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Electrical and Electronics Engineering, The University of Manchester, Manchester, UK. ruchi.gupta@postgrad.manchester.ac.uk</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Baldock</LastName>
+                    <ForeName>Sara J</ForeName>
+                    <Initials>SJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Carreras</LastName>
+                    <ForeName>Pilar</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fielden</LastName>
+                    <ForeName>Peter R</ForeName>
+                    <Initials>PR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Goddard</LastName>
+                    <ForeName>Nick J</ForeName>
+                    <Initials>NJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mohr</LastName>
+                    <ForeName>Stephan</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Razavi</LastName>
+                    <ForeName>Behnam S</ForeName>
+                    <Initials>BS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brown</LastName>
+                    <ForeName>Bernard J Treves</ForeName>
+                    <Initials>BJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>10</Month>
+                <Day>21</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Lab Chip</MedlineTA>
+            <NlmUniqueID>101128948</NlmUniqueID>
+            <ISSNLinking>1473-0189</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>9011-14-7</RegistryNumber>
+                <NameOfSubstance UI="D019904">Polymethyl Methacrylate</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D004566" MajorTopicYN="N">Electrodes</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D046210" MajorTopicYN="N">Microfluidic Analytical Techniques</DescriptorName>
+                <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019904" MajorTopicYN="N">Polymethyl Methacrylate</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>10</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>3</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">22020312</ArticleId>
+            <ArticleId IdType="doi">10.1039/c1lc20695h</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

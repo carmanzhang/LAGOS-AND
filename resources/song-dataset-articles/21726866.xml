@@ -1,0 +1,167 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21726866</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>10</Month>
+            <Day>21</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>12</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-3778</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>1218</Volume>
+                    <Issue>31</Issue>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Aug</Month>
+                        <Day>05</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of chromatography. A</Title>
+                <ISOAbbreviation>J Chromatogr A</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Capillary zone electrophoresis for the analysis of glycoforms of cellobiohydrolase.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>5362-8</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.chroma.2011.06.036</ELocationID>
+            <Abstract>
+                <AbstractText>Cellobiohydrolase (CBH) is an important enzyme for the conversion of lignocellulosic biomass to ethanol. This work separated the glycoforms of CBH possessing different numbers of neutral mannoses using capillary zone electrophoresis (CZE) in a 50 mM, pH 7.5 phosphate buffer. The method analysed CBH in an intact form using a polyacrylamide coated fused silica capillary without requiring additives or labelling of the enzyme. The migration time of the major peak was found to be 21.6±0.1 min (n=3) and the approach is suitable for testing of batch-to-batch consistency of CBH. Ease-of-use, automation and speed are the other benefits due to which the use of CZE for analysing glycoforms of CBH was concluded to be ideal.</AbstractText>
+                <CopyrightInformation>Copyright © 2011 Elsevier B.V. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gupta</LastName>
+                    <ForeName>Ruchi</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Electrical and Electronics Engineering, The University of Manchester, Sackville Street Building, Sackville Street, Manchester M13 9PL, UK. ruchi.gupta@postgrad.manchester.ac.uk</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Baldock</LastName>
+                    <ForeName>Sara J</ForeName>
+                    <Initials>SJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fielden</LastName>
+                    <ForeName>Peter R</ForeName>
+                    <Initials>PR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Grieve</LastName>
+                    <ForeName>Bruce D</ForeName>
+                    <Initials>BD</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D023362">Evaluation Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2011</Year>
+                <Month>06</Month>
+                <Day>17</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>J Chromatogr A</MedlineTA>
+            <NlmUniqueID>9318488</NlmUniqueID>
+            <ISSNLinking>0021-9673</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D005656">Fungal Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.2.1.91</RegistryNumber>
+                <NameOfSubstance UI="D043366">Cellulose 1,4-beta-Cellobiosidase</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D043366" MajorTopicYN="N">Cellulose 1,4-beta-Cellobiosidase</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000302" MajorTopicYN="N">isolation &amp; purification</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019075" MajorTopicYN="N">Electrophoresis, Capillary</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005656" MajorTopicYN="N">Fungal Proteins</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000302" MajorTopicYN="N">isolation &amp; purification</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006031" MajorTopicYN="N">Glycosylation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014242" MajorTopicYN="N">Trichoderma</DescriptorName>
+                <QualifierName UI="Q000201" MajorTopicYN="N">enzymology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2011</Year>
+                <Month>03</Month>
+                <Day>04</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2011</Year>
+                <Month>06</Month>
+                <Day>08</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2011</Year>
+                <Month>06</Month>
+                <Day>09</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>7</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>7</Month>
+                <Day>6</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>10</Month>
+                <Day>22</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21726866</ArticleId>
+            <ArticleId IdType="pii">S0021-9673(11)00848-X</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.chroma.2011.06.036</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

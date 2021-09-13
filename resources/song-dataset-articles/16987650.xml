@@ -1,0 +1,182 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">16987650</PMID>
+        <DateCompleted>
+            <Year>2007</Year>
+            <Month>05</Month>
+            <Day>25</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">0956-5663</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>22</Volume>
+                    <Issue>9-10</Issue>
+                    <PubDate>
+                        <Year>2007</Year>
+                        <Month>Apr</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biosensors &amp; bioelectronics</Title>
+                <ISOAbbreviation>Biosens Bioelectron</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Development of a self-sterilizing lancet coated with a titanium dioxide photocatalytic nano-layer for self-monitoring of blood glucose.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1920-5</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>A photocatalyst was applied to a lancet for pricking the finger to obtain an antibacterial property. A photocatalytic and uniform nano-layer of titanium dioxide (TiO2) on the surface of the lancet (0.36 mm x 24.5 mm) was formed by sputtering and annealed for crystallization of the TiO2 layer. By elementary analysis of the TiO2 layer, titanium and oxygen were detected. Next, for the estimation of the antibacterial properties resulting from the photocatalytic effect, the lancet was packed into a capillary tube filled with a suspension of Escherichia coli K-12 (non-spore-forming bacterium), and was continuously rolled in a continuous UV-irradiation system under black-light irradiation. Distinct antibacterial effects after irradiation at 0.5 mW cm(-2) for 45 min were observed in the crystallized TiO2 layer on the lancet. Finally, lancing resistances obtained by pricking an artificial skin sheet were examined using control lancets, and lancets with an unannealed TiO2 layer or an annealed TiO2 layer. The results showed almost the same lancing resistances for the control (0.53+/-0 N, n=3) and the lancet with an annealed TiO2 layer (0.51+/-0.018 N), while the lancet with an unannealed TiO2 layer showed a high lancing resistance compared with the other lancets (0.62+/-0.05 N). In conclusion, the lancet coated with a crystallized, velvety nano-layer of TiO2 obtained by annealing had antibacterial properties and a similar lancing resistance compared with the bare lancet, and showed potential for application in monitoring blood glucose in diabetes.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Nakamura</LastName>
+                    <ForeName>Hideaki</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Bionics, Tokyo University of Technology, 1404-1 Katakura, Hachioji, Tokyo 192-0982, Japan. nakamura@bs.teu.ac.jp</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tanaka</LastName>
+                    <ForeName>Masanori</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shinohara</LastName>
+                    <ForeName>Shouji</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gotoh</LastName>
+                    <ForeName>Masao</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Karube</LastName>
+                    <ForeName>Isao</ForeName>
+                    <Initials>I</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2006</Year>
+                <Month>09</Month>
+                <Day>20</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Biosens Bioelectron</MedlineTA>
+            <NlmUniqueID>9001289</NlmUniqueID>
+            <ISSNLinking>0956-5663</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D001786">Blood Glucose</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>15FIX9V2JP</RegistryNumber>
+                <NameOfSubstance UI="C009495">titanium dioxide</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>D1JT611TNE</RegistryNumber>
+                <NameOfSubstance UI="D014025">Titanium</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D015374" MajorTopicYN="N">Biosensing Techniques</DescriptorName>
+                <QualifierName UI="Q000295" MajorTopicYN="Y">instrumentation</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001786" MajorTopicYN="N">Blood Glucose</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="Y">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015190" MajorTopicYN="N">Blood Glucose Self-Monitoring</DescriptorName>
+                <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002384" MajorTopicYN="N">Catalysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D048168" MajorTopicYN="N">Escherichia coli K12</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D036103" MajorTopicYN="Y">Nanotechnology</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010777" MajorTopicYN="Y">Photochemistry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013242" MajorTopicYN="N">Sterilization</DescriptorName>
+                <QualifierName UI="Q000295" MajorTopicYN="Y">instrumentation</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014025" MajorTopicYN="Y">Titanium</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2006</Year>
+                <Month>04</Month>
+                <Day>18</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2006</Year>
+                <Month>07</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2006</Year>
+                <Month>08</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2006</Year>
+                <Month>9</Month>
+                <Day>22</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2007</Year>
+                <Month>5</Month>
+                <Day>26</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2006</Year>
+                <Month>9</Month>
+                <Day>22</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">16987650</ArticleId>
+            <ArticleId IdType="pii">S0956-5663(06)00388-5</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.bios.2006.08.018</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,467 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">21298581</PMID>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>12</Month>
+            <Day>11</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1473-4230</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>11</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cerebellum (London, England)</Title>
+                <ISOAbbreviation>Cerebellum</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Diffusion and extrusion shape standing calcium gradients during ongoing parallel fiber activity in dendrites of Purkinje neurons.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>694-705</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1007/s12311-010-0246-x</ELocationID>
+            <Abstract>
+                <AbstractText>Synaptically induced calcium transients in dendrites of Purkinje neurons (PNs) play a key role in the induction of plasticity in the cerebellar cortex (Ito, Physiol Rev 81:1143-1195, 2001). Long-term depression at parallel fiber-PN synapses can be induced by stimulation paradigms that are associated with long-lasting (&gt;1 min) calcium signals. These signals remain strictly localized (Eilers et al., Learn Mem 3:159-168, 1997), an observation that was rather unexpected, given the high concentration of the mobile endogenous calcium-binding proteins parvalbumin and calbindin in PNs (Fierro and Llano, J Physiol (Lond) 496:617-625, 1996; Kosaka et al., Exp Brain Res 93:483-491, 1993). By combining two-photon calcium imaging experiments in acute slices with numerical computer simulations, we found that significant calcium diffusion out of active branches indeed takes places. It is outweighed, however, by rapid and powerful calcium extrusion along the dendritic shaft. The close interplay of diffusion and extrusion defines the spread of calcium between active and inactive dendritic branches, forming a steep gradient in calcium with drop ranges of ~13 μm (interquartile range, 10-18 μm).</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Schmidt</LastName>
+                    <ForeName>Hartmut</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Carl-Ludwig-Institute for Physiology, University Leipzig, Leipzig, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Arendt</LastName>
+                    <ForeName>Oliver</ForeName>
+                    <Initials>O</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Eilers</LastName>
+                    <ForeName>Jens</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Cerebellum</MedlineTA>
+            <NlmUniqueID>101089443</NlmUniqueID>
+            <ISSNLinking>1473-4222</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>SY7Q814VUP</RegistryNumber>
+                <NameOfSubstance UI="D002118">Calcium</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000465" MajorTopicYN="N">Algorithms</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002118" MajorTopicYN="N">Calcium</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020013" MajorTopicYN="N">Calcium Signaling</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D048430" MajorTopicYN="N">Cell Shape</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002531" MajorTopicYN="N">Cerebellum</DescriptorName>
+                <QualifierName UI="Q000166" MajorTopicYN="Y">cytology</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003198" MajorTopicYN="N">Computer Simulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003712" MajorTopicYN="N">Dendrites</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004058" MajorTopicYN="N">Diffusion</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055724" MajorTopicYN="N">Electrophysiological Phenomena</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D066298" MajorTopicYN="N">In Vitro Techniques</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008810" MajorTopicYN="N">Mice, Inbred C57BL</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009473" MajorTopicYN="N">Neuronal Plasticity</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011689" MajorTopicYN="N">Purkinje Cells</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2011</Year>
+                <Month>2</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>2</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>12</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">21298581</ArticleId>
+            <ArticleId IdType="doi">10.1007/s12311-010-0246-x</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Nature. 1998 Dec 24-31;396(6713):757-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9874373</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1998 Dec 24-31;396(6713):753-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9874372</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Physiol Rev. 2001 Jul;81(3):1143-95</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11427694</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2002 May 10;277(19):16662-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11872749</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuron. 1997 Mar;18(3):473-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9115740</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Physiol. 1998 Jul 15;510 ( Pt 2):499-512</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9705999</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Exp Brain Res. 1993;93(3):483-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8519337</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuron. 2007 Jun 7;54(5):787-800</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17553426</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuron. 2002 Jan 31;33(3):425-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11832229</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Biochem. 1994 May 15;222(1):21-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8200345</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1995 Aug 29;92(18):8279-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7667282</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2005 Apr 19;102(16):5850-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15809430</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neurosci Lett. 1982 Dec 13;33(3):253-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6298664</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Neurosci. 2000 Dec;3(12 ):1266-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11100147</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Calcium. 1997 Oct;22(4):255-68</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9481476</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1993 Jun 5;268(16):11528-33</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8389355</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biophys J. 1994 Jul;67(1):447-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7919018</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1991 Apr 19;252(5004):443-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2017683</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuron. 2006 Nov 22;52(4):635-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17114048</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuropharmacology. 1995 Nov;34(11):1423-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8606791</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuron. 2002 Jan 31;33(3):439-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11832230</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuron. 2003 Oct 9;40(2):331-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14556712</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Calcium. 2006 Jul;40(1):73-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16690123</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuron. 1996 Mar;16(3):601-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8785057</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Prog Neurobiol. 1991;36(6):437-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1947173</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biophys J. 2003 Apr;84(4):2599-608</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12668468</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Physiol. 2000 Jun 1;525 Pt 2:419-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10835044</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Physiol. 2003 Aug 15;551(Pt 1):67-78</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12844507</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1995 Jan 12;373(6510):155-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7816097</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuron. 1999 Dec;24(4):989-1002</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10624961</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sci Signal. 2009 Oct 20;2(93):ra67</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19843959</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Physiol. 2007 Jun 1;581(Pt 2):619-29</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17347272</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Comput Neurosci. 1998 Jul;5(3):331-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9663555</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurophysiol. 2005 Aug;94(2):1636-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16079125</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Physiol. 1996 Nov 1;496 ( Pt 3):617-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8930830</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1990 Apr;87(7):2662-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1969639</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2000 Jul 18;97(15):8635-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10890882</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Learn Mem. 1997 May-Jun;4(1):159-68</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10456060</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci Methods. 2003 Oct 30;129(2):115-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14511815</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Physiol. 2003 Aug 15;551(Pt 1):13-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12813159</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuron. 2000 Oct;28(1):233-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11086997</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1990 Jun 25;265(18):10177-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2354995</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biophys J. 2000 Dec;79(6):3009-18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11106608</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Comp Neurol. 2007 Feb 20;500(6):1127-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17183553</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1992 Dec 11;258(5089):1812-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1465619</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci. 1994 Aug;14(8):4705-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8046445</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Biophys Res Commun. 1991 Oct 15;180(1):209-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1930217</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1997 Feb 18;94(4):1488-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9037080</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Neurosci. 2006 Jun;9(6):798-806</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16680164</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Calcium. 2005 May;37(5):459-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15820394</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

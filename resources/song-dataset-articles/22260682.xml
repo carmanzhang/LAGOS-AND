@@ -1,0 +1,163 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">22260682</PMID>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>05</Month>
+            <Day>18</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2012</Year>
+            <Month>01</Month>
+            <Day>20</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1470-8752</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>40</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biochemical Society transactions</Title>
+                <ISOAbbreviation>Biochem Soc Trans</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Triggering of Ca2+ signals by NAADP-gated two-pore channels: a role for membrane contact sites?</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>153-7</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1042/BST20110693</ELocationID>
+            <Abstract>
+                <AbstractText>NAADP (nicotinic acid-adenine dinucleotide phosphate) is a potent Ca2+-mobilizing messenger implicated in many Ca2+-dependent cellular processes. It is highly unusual in that it appears to trigger Ca2+ release from acidic organelles such as lysosomes. These signals are often amplified by archetypal Ca2+ channels located in the endoplasmic reticulum. Recent studies have converged on the TPCs (two-pore channels) which localize to the endolysosomal system as the likely primary targets through which NAADP mediates its effects. 'Chatter' between TPCs and endoplasmic reticulum Ca2+ channels is disrupted when TPCs are directed away from the endolysosomal system. This suggests that intracellular Ca2+ release channels may be closely apposed, possibly at specific membrane contact sites between acidic organelles and the endoplasmic reticulum.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Patel</LastName>
+                    <ForeName>Sandip</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Cell and Developmental Biology, University College London, London WC1E 6BT, UK. patel.s@ucl.ac.uk</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brailoiu</LastName>
+                    <ForeName>Eugen</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>BB/G013721/1</GrantID>
+                    <Agency>Biotechnology and Biological Sciences Research Council</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Biochem Soc Trans</MedlineTA>
+            <NlmUniqueID>7506897</NlmUniqueID>
+            <ISSNLinking>0300-5127</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D015220">Calcium Channels</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D053496">Inositol 1,4,5-Trisphosphate Receptors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D019837">Ryanodine Receptor Calcium Release Channel</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>53-59-8</RegistryNumber>
+                <NameOfSubstance UI="D009249">NADP</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>5502-96-5</RegistryNumber>
+                <NameOfSubstance UI="C024376">NAADP</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015220" MajorTopicYN="N">Calcium Channels</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020013" MajorTopicYN="Y">Calcium Signaling</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D053496" MajorTopicYN="N">Inositol 1,4,5-Trisphosphate Receptors</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007425" MajorTopicYN="N">Intracellular Membranes</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009249" MajorTopicYN="N">NADP</DescriptorName>
+                <QualifierName UI="Q000031" MajorTopicYN="Y">analogs &amp; derivatives</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019837" MajorTopicYN="N">Ryanodine Receptor Calcium Release Channel</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>5</Month>
+                <Day>19</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">22260682</ArticleId>
+            <ArticleId IdType="pii">BST20110693</ArticleId>
+            <ArticleId IdType="doi">10.1042/BST20110693</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

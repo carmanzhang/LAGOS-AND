@@ -1,0 +1,179 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">19117355</PMID>
+        <DateCompleted>
+            <Year>2009</Year>
+            <Month>03</Month>
+            <Day>24</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>12</Month>
+            <Day>10</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0008-543X</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>115</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2009</Year>
+                        <Month>Feb</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cancer</Title>
+                <ISOAbbreviation>Cancer</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Evaluation of the use of prophylactic cranial irradiation in small cell lung cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>842-50</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/cncr.24105</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Prophylactic cranial irradiation has been used in patients with small cell lung cancer to reduce the incidence of brain metastasis after primary therapy. The purpose of this study was to evaluate the effects of prophylactic cranial irradiation (PCI) on overall survival and cause-specific survival.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">A total of 7995 patients with limited stage small cell lung cancer diagnosed between 1988 and 1997 were retrospectively identified from centers participating in the National Cancer Institute's Surveillance, Epidemiology, and End Results (SEER) Program. Of them, 670 were identified as having received PCI as a component of their first course of therapy. Overall survival and cause-specific survival were estimated by the Kaplan-Meier method, comparing patients treated with or without prophylactic whole-brain radiotherapy. The Cox proportional hazards model was used in the multivariate analysis to evaluate potential prognostic factors.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">The median follow-up time was 13 months (range, 1 month to 180 months). Overall survival at 2 years, 5 years, and 10 years was 23%, 11%, and 6%, respectively, in patients who did not receive PCI. In patients who received PCI, the 2-year, 5-year, and 10-year overall survival rates were 42%, 19%, and 9%, respectively (P =or &lt;.001). The cause-specific survival rate at 2 years, 5 years, and 10 years was 28%, 15%, 11%, respectively, in patients who did not receive PCI and 45%, 24%, 17%, respectively, in patients who did receive PCI (P =or &lt;.001). On multivariate analysis of cause-specific and overall survival, age at diagnosis, sex, grade, extent of primary disease, size of disease, extent of lymph node involvement, and PCI were found to be significant (P = or&lt;.001). The hazards ratios for disease-specific and all cause mortality were 1.13 and 1.11, respectively, for those not receiving PCI.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Significantly improved overall and cause-specific survival was observed in patients treated with prophylactic cranial irradiation on unadjusted and adjusted analyses. This study concurs with the previously published European experience. Prophylactic cranial irradiation should be considered for patients with limited stage small cell lung cancer.</AbstractText>
+                <CopyrightInformation>(c) 2008 American Cancer Society.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Patel</LastName>
+                    <ForeName>Shilpen</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, University of Washington, Seattle, Washington 98195-6043, USA. shilpenp@yahoo.com</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Macdonald</LastName>
+                    <ForeName>O Kenneth</ForeName>
+                    <Initials>OK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Suntharalingam</LastName>
+                    <ForeName>Mohan</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D023362">Evaluation Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Cancer</MedlineTA>
+            <NlmUniqueID>0374236</NlmUniqueID>
+            <ISSNLinking>0008-543X</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>AIM</CitationSubset>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000293" MajorTopicYN="N">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000369" MajorTopicYN="N">Aged, 80 and over</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001932" MajorTopicYN="N">Brain Neoplasms</DescriptorName>
+                <QualifierName UI="Q000401" MajorTopicYN="N">mortality</QualifierName>
+                <QualifierName UI="Q000532" MajorTopicYN="Y">radiotherapy</QualifierName>
+                <QualifierName UI="Q000556" MajorTopicYN="N">secondary</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016371" MajorTopicYN="Y">Cranial Irradiation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005500" MajorTopicYN="N">Follow-Up Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008175" MajorTopicYN="N">Lung Neoplasms</DescriptorName>
+                <QualifierName UI="Q000401" MajorTopicYN="N">mortality</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+                <QualifierName UI="Q000532" MajorTopicYN="Y">radiotherapy</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009367" MajorTopicYN="N">Neoplasm Staging</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011379" MajorTopicYN="N">Prognosis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012189" MajorTopicYN="N">Retrospective Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018426" MajorTopicYN="N">SEER Program</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055752" MajorTopicYN="N">Small Cell Lung Carcinoma</DescriptorName>
+                <QualifierName UI="Q000401" MajorTopicYN="N">mortality</QualifierName>
+                <QualifierName UI="Q000532" MajorTopicYN="Y">radiotherapy</QualifierName>
+                <QualifierName UI="Q000556" MajorTopicYN="N">secondary</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015996" MajorTopicYN="N">Survival Rate</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055815" MajorTopicYN="N">Young Adult</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2009</Year>
+                <Month>1</Month>
+                <Day>2</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2009</Year>
+                <Month>1</Month>
+                <Day>2</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2009</Year>
+                <Month>3</Month>
+                <Day>25</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">19117355</ArticleId>
+            <ArticleId IdType="doi">10.1002/cncr.24105</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

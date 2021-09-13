@@ -1,0 +1,378 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">16052222</PMID>
+        <DateCompleted>
+            <Year>2005</Year>
+            <Month>09</Month>
+            <Day>27</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0007-0920</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>93</Volume>
+                    <Issue>3</Issue>
+                    <PubDate>
+                        <Year>2005</Year>
+                        <Month>Aug</Month>
+                        <Day>08</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>British journal of cancer</Title>
+                <ISOAbbreviation>Br J Cancer</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Elevated neutrophil and monocyte counts in peripheral blood are associated with poor survival in patients with metastatic melanoma: a prognostic model.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>273-8</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>We aimed to create a prognostic model in metastatic melanoma based on independent prognostic factors in 321 patients receiving interleukin-2 (IL-2)-based immunotherapy with a median follow-up time for patients currently alive of 52 months (range 15-189 months). The patients were treated as part of several phase II protocols and the majority received treatment with intermediate dose subcutaneous IL-2 and interferon-alpha. Neutrophil and monocyte counts, lactate dehydrogenase (LDH), number of metastatic sites, location of metastases and performance status were all statistically significant prognostic factors in univariate analyses. Subsequently, a multivariate Cox's regression analysis identified elevated LDH (P&lt;0.001, hazard ratio 2.8), elevated neutrophil counts (P=0.02, hazard ratio 1.4) and a performance status of 2 (P=0.008, hazard ratio 1.6) as independent prognostic factors for poor survival. An elevated monocyte count could replace an elevated neutrophil count. Patients were assigned to one of three risk groups according to the cumulative risk defined as the sum of simplified risk scores of the three independent prognostic factors. Low-, intermediate- and high-risk patients achieved a median survival of 12.6 months (95% confidence interval (CI), 11.4-13.8), 6.0 months (95% CI, 4.8-7.2) and 3.4 months (95% CI, 1.2-5.6), respectively. The low-risk group encompassed the majority of long-term survivors, whereas the patients in the high-risk group with a very poor prognosis should probably not be offered IL-2-based immunotherapy.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Schmidt</LastName>
+                    <ForeName>H</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Oncology, Aarhus University Hospital, Norrebrogade 44, 8000 Aarhus C, Denmark. hesch@as.aaa.dk</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bastholt</LastName>
+                    <ForeName>L</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Geertsen</LastName>
+                    <ForeName>P</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Christensen</LastName>
+                    <ForeName>I J</ForeName>
+                    <Initials>IJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Larsen</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gehl</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>von der Maase</LastName>
+                    <ForeName>H</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Br J Cancer</MedlineTA>
+            <NlmUniqueID>0370635</NlmUniqueID>
+            <ISSNLinking>0007-0920</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014408">Biomarkers, Tumor</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D007376">Interleukin-2</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 1.1.1.27</RegistryNumber>
+                <NameOfSubstance UI="D007770">L-Lactate Dehydrogenase</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014408" MajorTopicYN="N">Biomarkers, Tumor</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="Y">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002452" MajorTopicYN="N">Cell Count</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007376" MajorTopicYN="N">Interleukin-2</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007770" MajorTopicYN="N">L-Lactate Dehydrogenase</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008297" MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008545" MajorTopicYN="N">Melanoma</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+                <QualifierName UI="Q000401" MajorTopicYN="Y">mortality</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015233" MajorTopicYN="N">Models, Statistical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009000" MajorTopicYN="N">Monocytes</DescriptorName>
+                <QualifierName UI="Q000166" MajorTopicYN="Y">cytology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009362" MajorTopicYN="N">Neoplasm Metastasis</DescriptorName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009504" MajorTopicYN="N">Neutrophils</DescriptorName>
+                <QualifierName UI="Q000166" MajorTopicYN="Y">cytology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011379" MajorTopicYN="N">Prognosis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012878" MajorTopicYN="N">Skin Neoplasms</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+                <QualifierName UI="Q000401" MajorTopicYN="Y">mortality</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2005</Year>
+                <Month>7</Month>
+                <Day>30</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2005</Year>
+                <Month>9</Month>
+                <Day>28</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2005</Year>
+                <Month>7</Month>
+                <Day>30</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">16052222</ArticleId>
+            <ArticleId IdType="pii">6602702</ArticleId>
+            <ArticleId IdType="doi">10.1038/sj.bjc.6602702</ArticleId>
+            <ArticleId IdType="pmc">PMC2361564</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Cell. 2000 Jan 7;100(1):57-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10647931</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Surg. 1998 Sep;228(3):307-19</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9742914</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer J Sci Am. 2000 Feb;6 Suppl 1:S11-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10685652</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Stat Med. 2000 Feb 29;19(4):453-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10694730</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Melanoma Res. 2000 Feb;10(1):66-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10711642</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Oncol. 2000 Nov 15;18(22):3782-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11078491</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 2001 Feb 17;357(9255):539-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11229684</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Oncol. 2001 Aug 15;19(16):3622-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11504744</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Oncol. 2001 Aug 15;19(16):3635-48</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11504745</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cell Physiol. 2001 Nov;189(2):197-206</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11598905</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Leukoc Biol. 2002 Jul;72(1):9-18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12101257</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur J Cancer. 2002 Jul;38(11):1501-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12110497</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Oncol. 2002 Sep;13(9):1460-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12196373</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Oncol. 2002 Dec;13(12):1919-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12453861</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Cancer. 2003 Jan 20;103(3):335-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12471616</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2002 Dec 19-26;420(6917):860-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12490959</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Cancer. 2003 Feb 10;88(3):348-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12569375</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Cancer. 2004 Jan;4(1):71-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14708027</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Cancer. 2004 Jun 1;90(11):2053-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15164120</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Immunol Immunother. 2004 Aug;53(8):729-39</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15088127</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Cancer. 2004 Jul;4(7):540-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15229479</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem J. 1993 Aug 15;294 ( Pt 1):285-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8363581</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer. 1993 Nov 15;72(10):3091-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8221576</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Melanoma Res. 1995 Jun;5(3):179-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7640519</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Am Coll Surg. 1995 Sep;181(3):193-201</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7670677</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol. 1996 Feb 1;156(3):1132-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8557989</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Oncol. 1998 Mar;16(3):1103-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9508197</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Oncol. 1998 Sep;16(9):2921-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9738559</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Leukoc Biol. 2000 Jan;67(1):53-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10647998</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

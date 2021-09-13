@@ -1,0 +1,257 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20395128</PMID>
+        <DateCompleted>
+            <Year>2010</Year>
+            <Month>11</Month>
+            <Day>29</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>19</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1879-0852</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>46</Volume>
+                    <Issue>11</Issue>
+                    <PubDate>
+                        <Year>2010</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>European journal of cancer (Oxford, England : 1990)</Title>
+                <ISOAbbreviation>Eur J Cancer</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>First-line therapy for ovarian cancer with carboplatin followed by paclitaxel-gemcitabine (SCOTROC5): a feasibility study and comparative analysis of the SCOTROC series.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2020-6</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.ejca.2010.03.006</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">We have conducted a series of four feasibility studies in stage Ic-IV ovarian cancer exploring six sequential first-line schedules with the same entry criteria in a total of 339 patients. Here we present the results of the sixth study, and an analysis of the overall series.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">In this trial patients received 4 cycles of carboplatin AUC 7 every 3 weeks, followed by 4 cycles of concurrent paclitaxel 175 mg/m(2) (day 1) and gemcitabine 1000 mg/m(2) (days 1 and 8) every 3 weeks. The primary end-point of the trial was feasibility of administering all cycles of planned chemotherapy to &gt;60% of patients.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Fifty-four patients were recruited to the trial between June 05 and June 06. A total of 40 (74.1%) patients received all 8 cycles of treatment. Reasons for early discontinuation included toxicity (n=8) and disease progression (n=4). The overall response rate was 73.7%, and the median progression free survival (PFS) was 14.2 months with a median follow-up of 24 months. A comparative analysis of all six regimens from the SCOTROC series suggests that the sequential schedule in which paclitaxel was given weekly (median PFS 19.5m) is most effective.</AbstractText>
+                <AbstractText Label="CONCLUSION" NlmCategory="CONCLUSIONS">The sequential schedule explored in this trial is feasible, but comparative efficacy analysis suggests that trials involving weekly paclitaxel should be prioritised for further study.</AbstractText>
+                <CopyrightInformation>Copyright 2010 Elsevier Ltd. All rights reserved.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Agarwal</LastName>
+                    <ForeName>Roshan</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Section of Medicine, The Institute of Cancer Research and Royal Marsden Hospital, Downs Road, Sutton, Surrey SM2 5PT, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gourley</LastName>
+                    <ForeName>Charlie</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Perren</LastName>
+                    <ForeName>Timothy J</ForeName>
+                    <Initials>TJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Reed</LastName>
+                    <ForeName>Nicholas</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Parkin</LastName>
+                    <ForeName>David E</ForeName>
+                    <Initials>DE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Carty</LastName>
+                    <ForeName>Karen</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rustin</LastName>
+                    <ForeName>Gordon J S</ForeName>
+                    <Initials>GJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gabra</LastName>
+                    <ForeName>Hani</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Paul</LastName>
+                    <ForeName>Jim</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gore</LastName>
+                    <ForeName>Martin E</ForeName>
+                    <Initials>ME</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kaye</LastName>
+                    <ForeName>Stanley B</ForeName>
+                    <Initials>SB</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <CollectiveName>Scottish Gynecological Cancers Trials Group</CollectiveName>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <Agency>Cancer Research UK</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D017427">Clinical Trial, Phase II</PublicationType>
+                <PublicationType UI="D003160">Comparative Study</PublicationType>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D016448">Multicenter Study</PublicationType>
+                <PublicationType UI="D016449">Randomized Controlled Trial</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2010</Year>
+                <Month>04</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Eur J Cancer</MedlineTA>
+            <NlmUniqueID>9005373</NlmUniqueID>
+            <ISSNLinking>0959-8049</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0W860991D6</RegistryNumber>
+                <NameOfSubstance UI="D003841">Deoxycytidine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>B76N6SBZ8R</RegistryNumber>
+                <NameOfSubstance UI="C056507">gemcitabine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>BG3F62OND5</RegistryNumber>
+                <NameOfSubstance UI="D016190">Carboplatin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>P88XT4IS4D</RegistryNumber>
+                <NameOfSubstance UI="D017239">Paclitaxel</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Eur J Cancer. 2010 Aug;46(12):2140-2</RefSource>
+                <PMID Version="1">20452202</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000328" MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000368" MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000971" MajorTopicYN="N">Antineoplastic Combined Chemotherapy Protocols</DescriptorName>
+                <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+                <QualifierName UI="Q000627" MajorTopicYN="Y">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016190" MajorTopicYN="N">Carboplatin</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+                <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003841" MajorTopicYN="N">Deoxycytidine</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+                <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+                <QualifierName UI="Q000031" MajorTopicYN="N">analogs &amp; derivatives</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018572" MajorTopicYN="N">Disease-Free Survival</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005240" MajorTopicYN="N">Feasibility Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005260" MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D053208" MajorTopicYN="N">Kaplan-Meier Estimate</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008875" MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010051" MajorTopicYN="N">Ovarian Neoplasms</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName UI="Q000401" MajorTopicYN="N">mortality</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017239" MajorTopicYN="N">Paclitaxel</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+                <QualifierName UI="Q000009" MajorTopicYN="N">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016896" MajorTopicYN="N">Treatment Outcome</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2010</Year>
+                <Month>03</Month>
+                <Day>05</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2010</Year>
+                <Month>03</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>4</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>4</Month>
+                <Day>17</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2010</Year>
+                <Month>12</Month>
+                <Day>14</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20395128</ArticleId>
+            <ArticleId IdType="pii">S0959-8049(10)00217-0</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.ejca.2010.03.006</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

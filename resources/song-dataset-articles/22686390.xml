@@ -1,0 +1,161 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">22686390</PMID>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>10</Month>
+            <Day>22</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1520-5207</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>116</Volume>
+                    <Issue>27</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Jul</Month>
+                        <Day>12</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The journal of physical chemistry. B</Title>
+                <ISOAbbreviation>J Phys Chem B</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Caffeine-mediated detachment of mutagenic ethidium from various nanoscopic micelles: an ultrafast Förster resonance energy transfer study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>7841-8</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1021/jp302734e</ELocationID>
+            <Abstract>
+                <AbstractText>In the present study we explore the efficacy of caffeine in dissociating the ethidium (Et) molecule, a model DNA-intercalator as well as a potential mutagen, from nanometer sized micelles of various charges. Steady-state and picosecond-resolved spectroscopic studies on the detachment of Et from various biomimicking micelles of different charges (cationic hexadecyltrimethylammonium bromide (CTAB), neutral (polar) Triton X-100 (TX-100), and anionic sodium dodecyl sulfate (SDS)) reveal the specificity of the caffeine molecule for carrying out such dissociation. The picosecond-resolved Förster resonance energy transfer (FRET) studies between a DNA minor groove binder dye Hoeschst 33258 (H258, donor) and Et (acceptor) have been employed to investigate the alteration in their association in the presence of caffeine at the molecular level. Analysis of our experimental results employing both the generalized and the extended version of the well-known &quot;Infelta-Tachiya model&quot; vividly illustrates how the distribution of Et along with the equilibrium constant of its solubilization in the micelle changes in the presence of caffeine in aqueous solution. Finally, our fluorescence micrographs of squamous epithelial cells validate the alteration of FRET efficiency between the donor and the acceptor due to the release of the latter in the presence of caffeine.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Banerjee</LastName>
+                    <ForeName>Soma</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chemical, Biological &amp; Macromolecular Sciences, S. N. Bose National Centre for Basic Sciences , Block JD, Sector III, Salt Lake, Kolkata 700 098, India.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tachiya</LastName>
+                    <ForeName>Masanori</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pal</LastName>
+                    <ForeName>Samir Kumar</ForeName>
+                    <Initials>SK</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2012</Year>
+                <Month>06</Month>
+                <Day>27</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Phys Chem B</MedlineTA>
+            <NlmUniqueID>101157530</NlmUniqueID>
+            <ISSNLinking>1520-5207</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D008823">Micelles</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>3G6A5W338E</RegistryNumber>
+                <NameOfSubstance UI="D002110">Caffeine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>9007-49-2</RegistryNumber>
+                <NameOfSubstance UI="D004247">DNA</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EN464416SI</RegistryNumber>
+                <NameOfSubstance UI="D004996">Ethidium</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D002110" MajorTopicYN="N">Caffeine</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004247" MajorTopicYN="N">DNA</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004847" MajorTopicYN="N">Epithelial Cells</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004996" MajorTopicYN="N">Ethidium</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005453" MajorTopicYN="N">Fluorescence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D031541" MajorTopicYN="Y">Fluorescence Resonance Energy Transfer</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008823" MajorTopicYN="N">Micelles</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008958" MajorTopicYN="N">Models, Molecular</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>6</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>6</Month>
+                <Day>13</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>23</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">22686390</ArticleId>
+            <ArticleId IdType="doi">10.1021/jp302734e</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

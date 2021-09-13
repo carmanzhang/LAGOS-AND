@@ -1,0 +1,234 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">15596429</PMID>
+        <DateCompleted>
+            <Year>2005</Year>
+            <Month>04</Month>
+            <Day>07</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">0021-9258</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>280</Volume>
+                    <Issue>9</Issue>
+                    <PubDate>
+                        <Year>2005</Year>
+                        <Month>Mar</Month>
+                        <Day>04</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of biological chemistry</Title>
+                <ISOAbbreviation>J. Biol. Chem.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Structure and substrate-binding mechanism of human Ap4A hydrolase.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>8471-81</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Asymmetric diadenosine 5',5'''-P(1),P(4)-tetraphosphate (Ap(4)A) hydrolases play a major role in maintaining homeostasis by cleaving the metabolite diadenosine tetraphosphate (Ap(4)A) back into ATP and AMP. The NMR solution structures of the 17-kDa human asymmetric Ap(4)A hydrolase have been solved in both the presence and absence of the product ATP. The adenine moiety of the nucleotide predominantly binds in a ring stacking arrangement equivalent to that observed in the x-ray structure of the homologue from Caenorhabditis elegans. The binding site is, however, markedly divergent to that observed in the plant/pathogenic bacteria class of enzymes, opening avenues for the exploration of specific therapeutics. Binding of ATP induces substantial conformational and dynamic changes that were not observed in the C. elegans structure. In contrast to the C. elegans homologue, important side chains that play a major role in substrate binding do not have to reorient to accommodate the ligand. This may have important implications in the mechanism of substrate recognition in this class of enzymes.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Swarbrick</LastName>
+                    <ForeName>James D</ForeName>
+                    <Initials>JD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry and Molecular Biology, the University of Melbourne, Parkville, Victoria 3010, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Buyya</LastName>
+                    <ForeName>Smrithi</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gunawardana</LastName>
+                    <ForeName>Dilantha</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gayler</LastName>
+                    <ForeName>Kenwyn R</ForeName>
+                    <Initials>KR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>McLennan</LastName>
+                    <ForeName>Alexander G</ForeName>
+                    <Initials>AG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gooley</LastName>
+                    <ForeName>Paul R</ForeName>
+                    <Initials>PR</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>PDB</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>1XSA</AccessionNumber>
+                        <AccessionNumber>1XSB</AccessionNumber>
+                        <AccessionNumber>1XSC</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2004</Year>
+                <Month>12</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Biol Chem</MedlineTA>
+            <NlmUniqueID>2985121R</NlmUniqueID>
+            <ISSNLinking>0021-9258</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D008024">Ligands</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>415SHH325A</RegistryNumber>
+                <NameOfSubstance UI="D000249">Adenosine Monophosphate</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>61D2G4IYVH</RegistryNumber>
+                <NameOfSubstance UI="D000244">Adenosine Diphosphate</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>8L70Q75FXE</RegistryNumber>
+                <NameOfSubstance UI="D000255">Adenosine Triphosphate</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.6.-</RegistryNumber>
+                <NameOfSubstance UI="D017766">Acid Anhydride Hydrolases</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 3.6.1.17</RegistryNumber>
+                <NameOfSubstance UI="C020023">bis(5'-nucleosyl)tetraphosphatase (asymmetrical)</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>JAC85A2161</RegistryNumber>
+                <NameOfSubstance UI="D000225">Adenine</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D017766" MajorTopicYN="N">Acid Anhydride Hydrolases</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000225" MajorTopicYN="N">Adenine</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000244" MajorTopicYN="N">Adenosine Diphosphate</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000249" MajorTopicYN="N">Adenosine Monophosphate</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000255" MajorTopicYN="N">Adenosine Triphosphate</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000595" MajorTopicYN="N">Amino Acid Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001665" MajorTopicYN="N">Binding Sites</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017173" MajorTopicYN="N">Caenorhabditis elegans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018360" MajorTopicYN="N">Crystallography, X-Ray</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008024" MajorTopicYN="N">Ligands</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009682" MajorTopicYN="N">Magnetic Resonance Spectroscopy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008958" MajorTopicYN="N">Models, Molecular</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008969" MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011485" MajorTopicYN="N">Protein Binding</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011487" MajorTopicYN="N">Protein Conformation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017386" MajorTopicYN="N">Sequence Homology, Amino Acid</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012984" MajorTopicYN="N">Software</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013379" MajorTopicYN="N">Substrate Specificity</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2004</Year>
+                <Month>12</Month>
+                <Day>15</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2005</Year>
+                <Month>4</Month>
+                <Day>9</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2004</Year>
+                <Month>12</Month>
+                <Day>15</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">15596429</ArticleId>
+            <ArticleId IdType="pii">M412318200</ArticleId>
+            <ArticleId IdType="doi">10.1074/jbc.M412318200</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

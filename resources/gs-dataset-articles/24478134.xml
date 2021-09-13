@@ -1,0 +1,183 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">24478134</PMID>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>03</Month>
+            <Day>02</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2015</Year>
+            <Month>11</Month>
+            <Day>19</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1521-4036</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>56</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Biometrical journal. Biometrische Zeitschrift</Title>
+                <ISOAbbreviation>Biom J</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Probability estimation with machine learning methods for dichotomous and multicategory outcome: theory.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>534-63</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1002/bimj.201300068</ELocationID>
+            <Abstract>
+                <AbstractText>Probability estimation for binary and multicategory outcome using logistic and multinomial logistic regression has a long-standing tradition in biostatistics. However, biases may occur if the model is misspecified. In contrast, outcome probabilities for individuals can be estimated consistently with machine learning approaches, including k-nearest neighbors (k-NN), bagged nearest neighbors (b-NN), random forests (RF), and support vector machines (SVM). Because machine learning methods are rarely used by applied biostatisticians, the primary goal of this paper is to explain the concept of probability estimation with these methods and to summarize recent theoretical findings. Probability estimation in k-NN, b-NN, and RF can be embedded into the class of nonparametric regression learning machines; therefore, we start with the construction of nonparametric regression estimates and review results on consistency and rates of convergence. In SVMs, outcome probabilities for individuals are estimated consistently by repeatedly solving classification problems. For SVMs we review classification problem and then dichotomous probability estimation. Next we extend the algorithms for estimating probabilities using k-NN, b-NN, and RF to multicategory outcomes and discuss approaches for the multicategory probability estimation problem using SVM. In simulation studies for dichotomous and multicategory dependent variables we demonstrate the general validity of the machine learning methods and compare it with logistic regression. However, each method fails in at least one simulation scenario. We conclude with a discussion of the failures and give recommendations for selecting and tuning the methods. Applications to real data and example code are provided in a companion article (doi:10.1002/bimj.201300077). </AbstractText>
+                <CopyrightInformation>© 2014 WILEY-VCH Verlag GmbH &amp; Co. KGaA, Weinheim.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kruppa</LastName>
+                    <ForeName>Jochen</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institut für Medizinische Biometrie und Statistik, Universität zu Lübeck, Universitätsklinikum Schleswig-Holstein, Campus Lübeck, Ratzeburger Allee 160, Haus 24, 23562 Lübeck, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Yufeng</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Biau</LastName>
+                    <ForeName>Gérard</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kohler</LastName>
+                    <ForeName>Michael</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>König</LastName>
+                    <ForeName>Inke R</ForeName>
+                    <Initials>IR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Malley</LastName>
+                    <ForeName>James D</ForeName>
+                    <Initials>JD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ziegler</LastName>
+                    <ForeName>Andreas</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 CA-149569</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2014</Year>
+                <Month>01</Month>
+                <Day>29</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>Biom J</MedlineTA>
+            <NlmUniqueID>7708048</NlmUniqueID>
+            <ISSNLinking>0323-3847</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001185" MajorTopicYN="Y">Artificial Intelligence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008962" MajorTopicYN="N">Models, Theoretical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011336" MajorTopicYN="Y">Probability</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012044" MajorTopicYN="N">Regression Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018709" MajorTopicYN="N">Statistics, Nonparametric</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D060388" MajorTopicYN="N">Support Vector Machine</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Bagged nearest neighbor</Keyword>
+            <Keyword MajorTopicYN="N">Nonparametric regression</Keyword>
+            <Keyword MajorTopicYN="N">Probability estimation</Keyword>
+            <Keyword MajorTopicYN="N">Random forest</Keyword>
+            <Keyword MajorTopicYN="N">Support vector machine</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>04</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2013</Year>
+                <Month>09</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>1</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>1</Month>
+                <Day>31</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>3</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24478134</ArticleId>
+            <ArticleId IdType="doi">10.1002/bimj.201300068</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

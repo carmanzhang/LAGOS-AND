@@ -1,0 +1,212 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">12880288</PMID>
+        <DateCompleted>
+            <Year>2004</Year>
+            <Month>03</Month>
+            <Day>12</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>08</Month>
+            <Day>18</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0724-8741</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>20</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>2003</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Pharmaceutical research</Title>
+                <ISOAbbreviation>Pharm Res</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Hydrotropic solubilization of paclitaxel: analysis of chemical structures for hydrotropic property.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1022-30</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="PURPOSE" NlmCategory="OBJECTIVE">To identify hydrotropic agents that can increase aqueous paclitaxel (PTX) solubility and to study the chemical structures necessary for hydrotropic properties so that polymeric hydrotropic agents can be synthesized.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">More than 60 candidate hydrotropic agents (or hydrotropes) were tested for their ability to increase the aqueous PTX solubility. A number of nicotinamide analogues were synthesized based on the observation that nicotinamide showed a favorable hydrotropic property. The identified hydrotropes for PTX were used to examine the structure-activity relationship.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">N,N-Diethylnicotinamide (NNDENA) was found to be the most effective hydrotropic agent for PTX. The aqueous PTX solubility was 39 mg/ml and 512 mg/ml at NNDENA concentrations of 3.5 M and 5.95 M, respectively. These values are 5-6 orders of magnitude greater than the intrinsic solubility of 0.30 +/- 0.02 microg/ml. N-Picolylnicotinamide, N-allylnicotinamide, and sodium salicylate were also excellent hydrotropes for PTX. Solubility data showed that an effective hydrotropic agent should be highly water soluble while maintaining a hydrophobic segment.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">The present study identified several hydrotropic agents effective for increasing aqueous solubility of PTX and analyzed the structural requirements for this hydrotropic property. This information can be used to find other hydrotropic compounds and to synthesize polymeric hydrotropes that are effective for PTX and other poorly water-soluble drugs.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Jaehwi</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmaceutics and Biomedical Engineering, Purdue University, West Lafayette, Indiana 47907, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Sang Cheon</ForeName>
+                    <Initials>SC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Acharya</LastName>
+                    <ForeName>Ghanashyam</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chang</LastName>
+                    <ForeName>Ching-jer</ForeName>
+                    <Initials>CJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Park</LastName>
+                    <ForeName>Kinam</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>GM 65284</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+                <PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Pharm Res</MedlineTA>
+            <NlmUniqueID>8406521</NlmUniqueID>
+            <ISSNLinking>0724-8741</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004337">Drug Carriers</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>P88XT4IS4D</RegistryNumber>
+                <NameOfSubstance UI="D017239">Paclitaxel</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D004337" MajorTopicYN="N">Drug Carriers</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015394" MajorTopicYN="N">Molecular Structure</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017239" MajorTopicYN="N">Paclitaxel</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012995" MajorTopicYN="N">Solubility</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2003</Year>
+                <Month>7</Month>
+                <Day>26</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2004</Year>
+                <Month>3</Month>
+                <Day>16</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2003</Year>
+                <Month>7</Month>
+                <Day>26</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">12880288</ArticleId>
+            <ArticleId IdType="doi">10.1023/a:1024458206032</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Pharm Sci. 1991 Jun;80(6):599-604</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1834826</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Prostate. 2000 Jul 1;44(2):156-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10881025</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pharm Res. 1987 Jun;4(3):220-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3509285</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Pharm Sci. 1999 Oct;88(10):1058-66</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10514356</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pharm Acta Helv. 1986;61(3):69-88</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3520598</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pharmacotherapy. 1997 Sep-Oct;17(5 Pt 2):110S-125S</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9322878</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pharm Res. 1996 Oct;13(10):1460-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8899835</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anticancer Res. 1998 Jul-Aug;18(4A):2711-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9703933</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pharm Res. 1994 Feb;11(2):206-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7909371</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

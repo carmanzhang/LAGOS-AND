@@ -1,0 +1,658 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">24662831</PMID>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>11</Month>
+            <Day>10</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>02</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1476-5594</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>33</Volume>
+                    <Issue>37</Issue>
+                    <PubDate>
+                        <Year>2014</Year>
+                        <Month>Sep</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Oncogene</Title>
+                <ISOAbbreviation>Oncogene</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Targeting Epstein-Barr virus oncoprotein LMP1-mediated glycolysis sensitizes nasopharyngeal carcinoma to radiation therapy.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>4568-78</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1038/onc.2014.32</ELocationID>
+            <Abstract>
+                <AbstractText>Our goal in this work was to illustrate the Epstein-Barr virus (EBV)-modulated global biochemical profile and provide a novel metabolism-related target to improve the therapeutic regimen of nasopharyngeal carcinoma (NPC). We used a metabolomics approach to investigate EBV-modulated metabolic changes, and found that the exogenous overexpression of the EBV-encoded latent membrane protein 1 (LMP1) significantly increased glycolysis. The deregulation of several glycolytic genes, including hexokinase 2 (HK2), was determined to be responsible for the reprogramming of LMP1-mediated glucose metabolism in NPC cells. The upregulation of HK2 elevated aerobic glycolysis and facilitated proliferation by blocking apoptosis. More importantly, HK2 was positively correlated with LMP1 in NPC biopsies, and high HK2 levels were significantly associated with poor overall survival of NPC patients following radiation therapy. Knockdown of HK2 effectively enhanced the sensitivity of LMP1-overexpressing NPC cells to irradiation. Finally, c-Myc was demonstrated to be required for LMP1-induced upregulation of HK2. The LMP1-mediated attenuation of the PI3-K/Akt-GSK3beta-FBW7 signaling axis resulted in the stabilization of c-Myc. These findings indicate a close relationship between EBV and glycolysis in NPC. Notably, LMP1 is the key regulator of the reprogramming of EBV-mediated glycolysis in NPC cells. Given the importance of EBV-mediated deregulation of glycolysis, anti-glycolytic therapy might represent a worthwhile avenue of exploration in the treatment of EBV-related cancers. </AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Xiao</LastName>
+                    <ForeName>L</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1] Cancer Research Institute, Xiangya School of Medicine, Central South University, Changsha, China [2] Key Laboratory of Carcinogenesis and Cancer Invasion, Ministry of Education, Changsha, China [3] Key Laboratory of Carcinogenesis, Ministry of Health, Changsha, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hu</LastName>
+                    <ForeName>Z-Y</ForeName>
+                    <Initials>ZY</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1] Cancer Research Institute, Xiangya School of Medicine, Central South University, Changsha, China [2] Key Laboratory of Carcinogenesis and Cancer Invasion, Ministry of Education, Changsha, China [3] Key Laboratory of Carcinogenesis, Ministry of Health, Changsha, China [4] The First Hospital of Changsha City, Changsha, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dong</LastName>
+                    <ForeName>X</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1] Cancer Research Institute, Xiangya School of Medicine, Central South University, Changsha, China [2] Key Laboratory of Carcinogenesis and Cancer Invasion, Ministry of Education, Changsha, China [3] Key Laboratory of Carcinogenesis, Ministry of Health, Changsha, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tan</LastName>
+                    <ForeName>Z</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1] Cancer Research Institute, Xiangya School of Medicine, Central South University, Changsha, China [2] Key Laboratory of Carcinogenesis and Cancer Invasion, Ministry of Education, Changsha, China [3] Key Laboratory of Carcinogenesis, Ministry of Health, Changsha, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>W</ForeName>
+                    <Initials>W</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1] Cancer Research Institute, Xiangya School of Medicine, Central South University, Changsha, China [2] Key Laboratory of Carcinogenesis and Cancer Invasion, Ministry of Education, Changsha, China [3] Key Laboratory of Carcinogenesis, Ministry of Health, Changsha, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tang</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1] Cancer Research Institute, Xiangya School of Medicine, Central South University, Changsha, China [2] Key Laboratory of Carcinogenesis and Cancer Invasion, Ministry of Education, Changsha, China [3] Key Laboratory of Carcinogenesis, Ministry of Health, Changsha, China [4] Metabolic Syndrome Research Center, The Second Xiangya Hospital, Central South University, Changsha, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>L</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1] Cancer Research Institute, Xiangya School of Medicine, Central South University, Changsha, China [2] Key Laboratory of Carcinogenesis and Cancer Invasion, Ministry of Education, Changsha, China [3] Key Laboratory of Carcinogenesis, Ministry of Health, Changsha, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>L</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1] Cancer Research Institute, Xiangya School of Medicine, Central South University, Changsha, China [2] Key Laboratory of Carcinogenesis and Cancer Invasion, Ministry of Education, Changsha, China [3] Key Laboratory of Carcinogenesis, Ministry of Health, Changsha, China [4] Center For Molecular Medicine, Xiangya Hospital, Central South University, Changsha, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tao</LastName>
+                    <ForeName>Y</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1] Cancer Research Institute, Xiangya School of Medicine, Central South University, Changsha, China [2] Key Laboratory of Carcinogenesis and Cancer Invasion, Ministry of Education, Changsha, China [3] Key Laboratory of Carcinogenesis, Ministry of Health, Changsha, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jiang</LastName>
+                    <ForeName>Y</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1] Cancer Research Institute, Xiangya School of Medicine, Central South University, Changsha, China [2] Key Laboratory of Carcinogenesis and Cancer Invasion, Ministry of Education, Changsha, China [3] Key Laboratory of Carcinogenesis, Ministry of Health, Changsha, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1] Cancer Research Institute, Xiangya School of Medicine, Central South University, Changsha, China [2] Key Laboratory of Carcinogenesis and Cancer Invasion, Ministry of Education, Changsha, China [3] Key Laboratory of Carcinogenesis, Ministry of Health, Changsha, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yi</LastName>
+                    <ForeName>B</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Clinical Biochemical Laboratory, Xiangya Hospital, Central South University, Changsha, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Li</LastName>
+                    <ForeName>B</ForeName>
+                    <Initials>B</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Pathology Department, Xiangya Hospital, Central South University, Changsha, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fan</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Pathology Department, The Second Xiangya Hospital, Central South University, Changsha, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>You</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1] Department of Radiation Oncology, Emory University School of Medicine, Winship Cancer Institute of Emory University, Atlanta, GA, USA [2] Endocrinology Department, The Second Xiangya Hospital, Central South University, Changsha, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Deng</LastName>
+                    <ForeName>X</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Radiation Oncology, Emory University School of Medicine, Winship Cancer Institute of Emory University, Atlanta, GA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hu</LastName>
+                    <ForeName>F</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Metabolic Syndrome Research Center, The Second Xiangya Hospital, Central South University, Changsha, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Feng</LastName>
+                    <ForeName>L</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Metabolic Syndrome Research Center, The Second Xiangya Hospital, Central South University, Changsha, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bode</LastName>
+                    <ForeName>A M</ForeName>
+                    <Initials>AM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Hormel Institute, University of Minnesota, Austin, MN, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dong</LastName>
+                    <ForeName>Z</ForeName>
+                    <Initials>Z</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The Hormel Institute, University of Minnesota, Austin, MN, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sun</LastName>
+                    <ForeName>L-Q</ForeName>
+                    <Initials>LQ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center For Molecular Medicine, Xiangya Hospital, Central South University, Changsha, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cao</LastName>
+                    <ForeName>Y</ForeName>
+                    <Initials>Y</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>1] Cancer Research Institute, Xiangya School of Medicine, Central South University, Changsha, China [2] Key Laboratory of Carcinogenesis and Cancer Invasion, Ministry of Education, Changsha, China [3] Key Laboratory of Carcinogenesis, Ministry of Health, Changsha, China.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2014</Year>
+                <Month>03</Month>
+                <Day>24</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Oncogene</MedlineTA>
+            <NlmUniqueID>8711562</NlmUniqueID>
+            <ISSNLinking>0950-9232</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C037662">EBV-associated membrane antigen, Epstein-Barr virus</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016271">Proto-Oncogene Proteins c-myc</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011838">Radiation-Sensitizing Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014763">Viral Matrix Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>33X04XA5AT</RegistryNumber>
+                <NameOfSubstance UI="D019344">Lactic Acid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.1.1</RegistryNumber>
+                <NameOfSubstance UI="D006593">Hexokinase</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>IY9XDZ35W2</RegistryNumber>
+                <NameOfSubstance UI="D005947">Glucose</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D017209" MajorTopicYN="N">Apoptosis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002277" MajorTopicYN="N">Carcinoma</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D045744" MajorTopicYN="N">Cell Line, Tumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D049109" MajorTopicYN="N">Cell Proliferation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002470" MajorTopicYN="N">Cell Survival</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015972" MajorTopicYN="N">Gene Expression Regulation, Neoplastic</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015967" MajorTopicYN="N">Gene Expression Regulation, Viral</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005947" MajorTopicYN="N">Glucose</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006019" MajorTopicYN="Y">Glycolysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004854" MajorTopicYN="N">Herpesvirus 4, Human</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006593" MajorTopicYN="N">Hexokinase</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019344" MajorTopicYN="N">Lactic Acid</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055432" MajorTopicYN="N">Metabolomics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000077274" MajorTopicYN="N">Nasopharyngeal Carcinoma</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009303" MajorTopicYN="N">Nasopharyngeal Neoplasms</DescriptorName>
+                <QualifierName UI="Q000532" MajorTopicYN="Y">radiotherapy</QualifierName>
+                <QualifierName UI="Q000821" MajorTopicYN="Y">virology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016271" MajorTopicYN="N">Proto-Oncogene Proteins c-myc</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011838" MajorTopicYN="N">Radiation-Sensitizing Agents</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015398" MajorTopicYN="N">Signal Transduction</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014763" MajorTopicYN="N">Viral Matrix Proteins</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2013</Year>
+                <Month>07</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2013</Year>
+                <Month>11</Month>
+                <Day>26</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2013</Year>
+                <Month>12</Month>
+                <Day>16</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>3</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>3</Month>
+                <Day>26</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>11</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24662831</ArticleId>
+            <ArticleId IdType="pii">onc201432</ArticleId>
+            <ArticleId IdType="doi">10.1038/onc.2014.32</ArticleId>
+            <ArticleId IdType="pmc">PMC4162460</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Biol Chem. 2002 Mar 1;277(9):7610-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11751859</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2012 Jul 17;109(29):11818-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22752304</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Cancer. 2004 Oct;4(10):757-68</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15510157</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell. 2004 Dec 3;16(5):819-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15574336</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Cancer Res. 2005 Jul 1;11(13):4658-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16000558</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncogene. 2005 Oct 20;24(46):6917-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16007144</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2006 Jul 5;103(27):10397-402</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16798876</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cold Spring Harb Symp Quant Biol. 2005;70:363-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16869773</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2006 Oct 15;66(20):9870-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17047048</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell Mol Immunol. 2007 Jun;4(3):185-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17601372</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Adv Exp Med Biol. 2007;597:173-87</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17633026</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 2007 Nov;27(21):7381-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17785433</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Pathog. 2007 Nov;3(11):e166</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17997602</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2012;7(7):e42072</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22848707</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2012 Aug 17;150(4):685-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22901803</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochim Biophys Acta. 2012 Dec;1826(2):370-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22750268</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2013 Feb;87(3):1301-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23152522</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Oncol. 2013 Aug 10;31(23):2861-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23857969</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Cell. 2013 Aug 12;24(2):213-28</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23911236</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Virology. 2013 Sep;444(1-2):301-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23876457</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Cancer. 2008 Feb;8(2):83-93</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18094723</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Lett. 2008 Jul 8;265(2):226-38</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18353539</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FASEB J. 2008 Aug;22(8):2809-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18381814</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Virol. 2008 Oct;82(20):10175-87</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18684838</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2009 Jan 30;284(5):3001-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19033437</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Pathog. 2010 Jan;6(1):e1000719</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20062526</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2010 Jun 8;107(23):10696-701</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20498071</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neuroimmune Pharmacol. 2010 Sep;5(3):271-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20369303</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2010 Dec 3;330(6009):1340-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21127244</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Cell. 2011 Jan 18;19(1):17-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21251613</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2011 Feb 22;108(8):3270-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21289278</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2011 Mar 4;144(5):646-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21376230</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2011 Apr 15;71(8):2815-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21487041</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Rev Cancer. 2011 May;11(5):325-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21508971</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Pathog. 2011 Jul;7(7):e1002124</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21779165</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2011 Aug 26;286(34):29872-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21690090</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2011 Aug 26;333(6046):1154-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21798897</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2011;6(11):e24647</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22096476</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 2011 Dec 1;71(23):7291-300</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21987722</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cancer Ther. 2012 Jan;11(1):14-23</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22234809</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Radiat Oncol Biol Phys. 2012 Feb 1;82(2):561-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21300483</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Semin Cancer Biol. 2012 Apr;22(2):144-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22249143</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2012 Mar 30;149(1):49-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22401813</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2012 Jun 12;109(24):9593-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22647604</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Cell Biol. 2004 Jun;24(12):5223-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15169887</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

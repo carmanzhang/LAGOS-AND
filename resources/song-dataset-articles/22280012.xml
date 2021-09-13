@@ -1,0 +1,168 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">22280012</PMID>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>03</Month>
+            <Day>25</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2012</Year>
+            <Month>11</Month>
+            <Day>15</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1470-8728</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>442</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Feb</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Biochemical journal</Title>
+                <ISOAbbreviation>Biochem J</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>GRAS proteins: the versatile roles of intrinsically disordered proteins in plant signalling.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1-12</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1042/BJ20111766</ELocationID>
+            <Abstract>
+                <AbstractText>IDPs (intrinsically disordered proteins) are highly abundant in eukaryotic proteomes and important for cellular functions, especially in cell signalling and transcriptional regulation. An IDR (intrinsically disordered region) within an IDP often undergoes disorder-to-order transitions upon binding to various partners, allowing an IDP to recognize and bind different partners at various binding interfaces. Plant-specific GRAS proteins play critical and diverse roles in plant development and signalling, and act as integrators of signals from multiple plant growth regulatory and environmental inputs. Possessing an intrinsically disordered N-terminal domain, the GRAS proteins constitute the first functionally required unfoldome from the plant kingdom. Furthermore, the N-terminal domains of GRAS proteins contain MoRFs (molecular recognition features), short interaction-prone segments that are located within IDRs and are able to recognize their interacting partners by undergoing disorder-to-order transitions upon binding to these specific partners. These MoRFs represent potential protein-protein binding sites and may be acting as molecular bait in recognition events during plant development. Intrinsic disorder provides GRAS proteins with a degree of binding plasticity that may be linked to their functional versatility. As an overview of structure-function relationships for GRAS proteins, the present review covers the main biological functions of the GRAS family, the IDRs within these proteins and their implications for understanding mode-of-action.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sun</LastName>
+                    <ForeName>Xiaolin</ForeName>
+                    <Initials>X</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>The New Zealand Institute for Plant and Food Research, Private Bag 11030, Palmerston North 4474, New Zealand. xiaolin.sun@plantandfood.co.nz</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jones</LastName>
+                    <ForeName>William T</ForeName>
+                    <Initials>WT</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rikkerink</LastName>
+                    <ForeName>Erik H A</ForeName>
+                    <Initials>EH</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D016454">Review</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Biochem J</MedlineTA>
+            <NlmUniqueID>2984726R</NlmUniqueID>
+            <ISSNLinking>0264-6021</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D051942">Phytochrome A</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010940">Plant Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D020816" MajorTopicYN="N">Amino Acid Motifs</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018519" MajorTopicYN="N">Meristem</DescriptorName>
+                <QualifierName UI="Q000254" MajorTopicYN="N">growth &amp; development</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010766" MajorTopicYN="N">Phosphorylation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051942" MajorTopicYN="N">Phytochrome A</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D063245" MajorTopicYN="N">Plant Development</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010940" MajorTopicYN="N">Plant Proteins</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055170" MajorTopicYN="N">Plant Root Nodulation</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018517" MajorTopicYN="N">Plant Roots</DescriptorName>
+                <QualifierName UI="Q000254" MajorTopicYN="N">growth &amp; development</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010944" MajorTopicYN="N">Plants</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017510" MajorTopicYN="N">Protein Folding</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017434" MajorTopicYN="N">Protein Structure, Tertiary</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="N">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015398" MajorTopicYN="N">Signal Transduction</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015533" MajorTopicYN="N">Transcriptional Activation</DescriptorName>
+                <QualifierName UI="Q000502" MajorTopicYN="Y">physiology</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>1</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>3</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">22280012</ArticleId>
+            <ArticleId IdType="pii">BJ20111766</ArticleId>
+            <ArticleId IdType="doi">10.1042/BJ20111766</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

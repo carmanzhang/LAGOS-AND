@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">20168484</PMID>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>10</Month>
+            <Day>02</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>10</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1559-128X</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>16</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>1977</Year>
+                        <Month>Feb</Month>
+                        <Day>01</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Applied optics</Title>
+                <ISOAbbreviation>Appl Opt</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Measurement of the earth radiation balance as an instrument design problem.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>297-9</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1364/AO.16.000297</ELocationID>
+            <Abstract>
+                <AbstractText>The net radiation balance of the earth is important globally for synoptic scale models and long-term climatic trends. It is important at the mesoscale level because it is a strong driving force on local meteorological phenomena. Both synoptic and mesoscale measurements are possible only from earth orbiting spacecraft, and serious efforts have been made to implement them. They have not achieved sufficient accuracy, precision, and stability to be really meaningful meteorologically. Measuring a small difference between two large numbers-the input to the earth and the earth radiation to space-is quite difficult and compounded by the spectral differences between the two. The instrumental considerations to achieving improvements in net radiation balance are discussed. The ratio of input to outflow, like albedo, is a dimensionless number which is amenable to measurement without recourse to calibrated instruments. If the solar constant is indeed reasonably constant, this ratio, which is more easily measured than an absolute value of either quantity, will be acceptable. Instrument stability, both spectral and absolute, as well as calibration methods and accuracy will be discussed with specific emphasis on estimating how and to what degree they can be improved.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Yates</LastName>
+                    <ForeName>H W</ForeName>
+                    <Initials>HW</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Appl Opt</MedlineTA>
+            <NlmUniqueID>0247660</NlmUniqueID>
+            <ISSNLinking>1559-128X</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>2</Month>
+                <Day>20</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1977</Year>
+                <Month>2</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1977</Year>
+                <Month>2</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20168484</ArticleId>
+            <ArticleId IdType="pii">20806</ArticleId>
+            <ArticleId IdType="doi">10.1364/AO.16.000297</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

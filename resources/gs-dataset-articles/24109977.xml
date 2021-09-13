@@ -1,0 +1,156 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Curated" Owner="NLM">
+        <PMID Version="1">24109977</PMID>
+        <DateCompleted>
+            <Year>2015</Year>
+            <Month>08</Month>
+            <Day>10</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>12</Month>
+            <Day>02</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1557-170X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>2013</Volume>
+                    <PubDate>
+                        <Year>2013</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference</Title>
+                <ISOAbbreviation>Conf Proc IEEE Eng Med Biol Soc</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>An ultra-low power (ULP) bandage-type ECG sensor for efficient cardiac disease management.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1474-7</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1109/EMBC.2013.6609790</ELocationID>
+            <Abstract>
+                <AbstractText>This paper proposed an ultra-low power bandage-type ECG sensor (the size: 76 × 34 × 3 (mm(3)) and the power consumption: 1 mW) which allows for a continuous and real-time monitoring of a user's ECG signals over 24h during daily activities. For its compact size and lower power consumption, we designed the analog front-end, the SRP (Samsung Reconfigurable Processor) based DSP of 30 uW/MHz, and the ULP wireless RF of 1 nJ/bit. Also, to tackle motion artifacts(MA), a MA monitoring technique based on the HCP (Half-cell Potential) is proposed which resulted in the high correlation between the MA and the HCP, the correlation coefficient of 0.75 ± 0.18. To assess its feasibility and validity as a wearable health monitor, we performed the comparison of two ECG signals recorded form it and a conventional Holter device. As a result, the performance of the former is a little lower as compared with the latter, although showing no statistical significant difference (the quality of the signal: 94.3% vs 99.4%; the accuracy of arrhythmia detection: 93.7% vs 98.7%). With those results, it has been confirmed that it can be used as a wearable health monitor due to its comfortability, its long operation lifetime and the good quality of the measured ECG signal.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Shin</LastName>
+                    <ForeName>Kunsoo</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Park</LastName>
+                    <ForeName>G G</ForeName>
+                    <Initials>GG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>J P</ForeName>
+                    <Initials>JP</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>T H</ForeName>
+                    <Initials>TH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ko</LastName>
+                    <ForeName>B H</ForeName>
+                    <Initials>BH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kim</LastName>
+                    <ForeName>Y H</ForeName>
+                    <Initials>YH</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Conf Proc IEEE Eng Med Biol Soc</MedlineTA>
+            <NlmUniqueID>101243413</NlmUniqueID>
+            <ISSNLinking>1557-170X</ISSNLinking>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D016477" MajorTopicYN="N">Artifacts</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002318" MajorTopicYN="N">Cardiovascular Diseases</DescriptorName>
+                <QualifierName UI="Q000000981" MajorTopicYN="Y">diagnostic imaging</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004560" MajorTopicYN="N">Electricity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004562" MajorTopicYN="N">Electrocardiography</DescriptorName>
+                <QualifierName UI="Q000295" MajorTopicYN="Y">instrumentation</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004566" MajorTopicYN="N">Electrodes</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008991" MajorTopicYN="N">Monitoring, Physiologic</DescriptorName>
+                <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009038" MajorTopicYN="N">Motion</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012815" MajorTopicYN="N">Signal Processing, Computer-Assisted</DescriptorName>
+                <QualifierName UI="Q000295" MajorTopicYN="N">instrumentation</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014463" MajorTopicYN="N">Ultrasonography</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055986" MajorTopicYN="N">Vital Signs</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D059015" MajorTopicYN="N">Wireless Technology</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>10</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2015</Year>
+                <Month>8</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24109977</ArticleId>
+            <ArticleId IdType="doi">10.1109/EMBC.2013.6609790</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

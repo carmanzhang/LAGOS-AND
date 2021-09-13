@@ -1,0 +1,140 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" IndexingMethod="Automated" Owner="NLM">
+        <PMID Version="1">14242662</PMID>
+        <DateCompleted>
+            <Year>1996</Year>
+            <Month>12</Month>
+            <Day>01</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>12</Month>
+            <Day>01</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0036-7672</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>94</Volume>
+                    <PubDate>
+                        <Year>1964</Year>
+                        <Month>Jul</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Schweizerische medizinische Wochenschrift</Title>
+                <ISOAbbreviation>Schweiz Med Wochenschr</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>[WEGENER'S GRANULOMATOSIS].</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>995-9</MedlinePgn>
+            </Pagination>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>PANZRAM</LastName>
+                    <ForeName>G</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>MEERBACH</LastName>
+                    <ForeName>W</ForeName>
+                    <Initials>W</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>RUEBESAMEN</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+            </AuthorList>
+            <Language>ger</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <VernacularTitle>WEGENER-GRANULOMATOSE.</VernacularTitle>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Switzerland</Country>
+            <MedlineTA>Schweiz Med Wochenschr</MedlineTA>
+            <NlmUniqueID>0404401</NlmUniqueID>
+            <ISSNLinking>0036-7672</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010406">Penicillins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>VB0R961HZT</RegistryNumber>
+                <NameOfSubstance UI="D011241">Prednisone</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>OM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D019867" MajorTopicYN="Y">Anti-Glomerular Basement Membrane Disease</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003937" MajorTopicYN="Y">Diagnosis, Differential</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004358" MajorTopicYN="Y">Drug Therapy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014890" MajorTopicYN="Y">Granulomatosis with Polyangiitis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010336" MajorTopicYN="Y">Pathology</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010406" MajorTopicYN="Y">Penicillins</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011241" MajorTopicYN="Y">Prednisone</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NLM">
+            <Keyword MajorTopicYN="Y">DIAGNOSIS, DIFFERENTIAL</Keyword>
+            <Keyword MajorTopicYN="Y">DRUG THERAPY</Keyword>
+            <Keyword MajorTopicYN="Y">GOODPASTURE'S SYNDROME</Keyword>
+            <Keyword MajorTopicYN="Y">PATHOLOGY</Keyword>
+            <Keyword MajorTopicYN="Y">PENICILLIN</Keyword>
+            <Keyword MajorTopicYN="Y">PREDNISONE</Keyword>
+            <Keyword MajorTopicYN="Y">WEGENER'S GRANULOMATOSIS</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1964</Year>
+                <Month>7</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1964</Year>
+                <Month>7</Month>
+                <Day>11</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1964</Year>
+                <Month>7</Month>
+                <Day>11</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">14242662</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

@@ -1,0 +1,152 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">11199992</PMID>
+        <DateCompleted>
+            <Year>2001</Year>
+            <Month>02</Month>
+            <Day>22</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>07</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0003-2700</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>73</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2001</Year>
+                        <Month>Jan</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Analytical chemistry</Title>
+                <ISOAbbreviation>Anal Chem</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A compactly integrated flow cell with a chemiluminescent FIA system for determining lactate concentration in serum.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>373-8</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>We have fabricated an integrated flow cell as a total microanalysis system (microTAS). This flow cell (size, 15 x 20 mm; total inner volume, 12.2 microL) was designed for a rational analyzing system of lactate determination for serum. This cell was made by micromachining techniques and consisted of two hollows of a lactate oxidase (LOD) reactor and a mixing cell, a spiral groove, and three penetrated holes. To form the reactor and capillary, these patterns, etched on a silicon wafer, were attached to a glass plate by the anodic bonding method. A photodiode was put under part of the spiral capillary. The compactly accumulated devices were integrated into a flow injection analysis (FIA) system. In the flow cell, lactate was catalyzed to pyruvate and hydrogen peroxide at the LOD reactor; subsequently, hydrogen peroxide reacted with the luminol-ferricyanic reagent at the mixing cell. The resulting chemiluminescent light was detected by the photodiode. Using the miniaturized flow cell, the sample volume for one measurement was greatly reduced to 0.2 microL. The response to lactate was obtained within 30 s and was linear between 0.5 and 5.0 mM (4.5 and 45 mg/dL) lactate with excellent correlative variances of 3.2% (average of three measurements at 5.0 mM). For practical application, the lactate concentration in control human serum was determined using this system. The results showed a good correlation coefficient (r = 0.979) with the results obtained by the spectrophotometric reference method. No difference in sera (normal or pathological) was found. Consequently, this integrated flow cell shows potential as a clinical device for lactate determination in serum. In this article, the effect of the design on the chemiluminescent FIA system is also described.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Nakamura</LastName>
+                    <ForeName>H</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Research Center for Advanced Science and Technology, The University of Tokyo, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Murakami</LastName>
+                    <ForeName>Y</ForeName>
+                    <Initials>Y</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yokoyama</LastName>
+                    <ForeName>K</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tamiya</LastName>
+                    <ForeName>E</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Karube</LastName>
+                    <ForeName>I</ForeName>
+                    <Initials>I</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Suda</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Uchiyama</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Anal Chem</MedlineTA>
+            <NlmUniqueID>0370536</NlmUniqueID>
+            <ISSNLinking>0003-2700</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004800">Enzymes, Immobilized</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>33X04XA5AT</RegistryNumber>
+                <NameOfSubstance UI="D019344">Lactic Acid</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D004800" MajorTopicYN="N">Enzymes, Immobilized</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016231" MajorTopicYN="N">Fluorescence Polarization Immunoassay</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019344" MajorTopicYN="N">Lactic Acid</DescriptorName>
+                <QualifierName UI="Q000097" MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008163" MajorTopicYN="N">Luminescent Measurements</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2001</Year>
+                <Month>2</Month>
+                <Day>24</Day>
+                <Hour>12</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2001</Year>
+                <Month>3</Month>
+                <Day>3</Day>
+                <Hour>10</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2001</Year>
+                <Month>2</Month>
+                <Day>24</Day>
+                <Hour>12</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">11199992</ArticleId>
+            <ArticleId IdType="doi">10.1021/ac000855u</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

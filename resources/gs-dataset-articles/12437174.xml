@@ -1,0 +1,131 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">12437174</PMID>
+        <DateCompleted>
+            <Year>2003</Year>
+            <Month>04</Month>
+            <Day>11</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>01</Month>
+            <Day>23</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0021-9673</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>973</Volume>
+                    <Issue>1-2</Issue>
+                    <PubDate>
+                        <Year>2002</Year>
+                        <Month>Oct</Month>
+                        <Day>11</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of chromatography. A</Title>
+                <ISOAbbreviation>J Chromatogr A</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Detection of multiple anions by thin-layer chromatography.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>159-66</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>A novel detection method for 21 different anions by thin-layer chromatography is presented. Anions on the target plate form salts with amine in a developing solvent and are visualized after staining with citric acid-acetic anhydride reagent as white spots contrasting against a pale red-pink background. This method has particularly high sensitivity for anions of chlorate, sulfate, phosphate, chromate and dichromate (0.02-0.05 microg). The method is demonstrated to efficiently detect toxic arsenite in curry sauce as an example application. The proposed method offers highly efficient indirect detection for a wide range of anions, and serves as a purification procedure for the preparation of anionic sample solutions for other analytical methods.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kato</LastName>
+                    <ForeName>Noriyuki</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Scientific Criminal Investigation Laboratory, Kanagawa Prefectural Police Headquarters, Yokohama, Japan.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sakayanagi</LastName>
+                    <ForeName>Masataka</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nakayama</LastName>
+                    <ForeName>Takahiro</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nishimura</LastName>
+                    <ForeName>Hideo</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ogamo</LastName>
+                    <ForeName>Akira</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>J Chromatogr A</MedlineTA>
+            <NlmUniqueID>9318488</NlmUniqueID>
+            <ISSNLinking>0021-9673</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000838">Anions</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000838" MajorTopicYN="N">Anions</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="Y">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002855" MajorTopicYN="N">Chromatography, Thin Layer</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2002</Year>
+                <Month>11</Month>
+                <Day>20</Day>
+                <Hour>4</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2003</Year>
+                <Month>4</Month>
+                <Day>12</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2002</Year>
+                <Month>11</Month>
+                <Day>20</Day>
+                <Hour>4</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">12437174</ArticleId>
+            <ArticleId IdType="pii">S0021-9673(02)01115-9</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

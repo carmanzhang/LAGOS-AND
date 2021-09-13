@@ -1,0 +1,192 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">22920099</PMID>
+        <DateCompleted>
+            <Year>2013</Year>
+            <Month>01</Month>
+            <Day>07</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1089-7690</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>137</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                        <Month>Aug</Month>
+                        <Day>21</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of chemical physics</Title>
+                <ISOAbbreviation>J Chem Phys</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A derivation of the master equation from path entropy maximization.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>074103</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The master equation and, more generally, Markov processes are routinely used as models for stochastic processes. They are often justified on the basis of randomization and coarse-graining assumptions. Here instead, we derive nth-order Markov processes and the master equation as unique solutions to an inverse problem. We find that when constraints are not enough to uniquely determine the stochastic model, an nth-order Markov process emerges as the unique maximum entropy solution to this otherwise underdetermined problem. This gives a rigorous alternative for justifying such models while providing a systematic recipe for generalizing widely accepted stochastic models usually assumed to follow from the first principles.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Julian</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Bioinformatics and Life Science, Soongsil University, Seoul, South Korea. jul@ssu.ac.kr</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pressé</LastName>
+                    <ForeName>Steve</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 GM090205</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01GM090205-03</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Chem Phys</MedlineTA>
+            <NlmUniqueID>0375360</NlmUniqueID>
+            <ISSNLinking>0021-9606</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D012996">Solutions</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D019277" MajorTopicYN="Y">Entropy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008390" MajorTopicYN="Y">Markov Chains</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012996" MajorTopicYN="N">Solutions</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013269" MajorTopicYN="N">Stochastic Processes</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>8</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>8</Month>
+                <Day>28</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2013</Year>
+                <Month>1</Month>
+                <Day>8</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">22920099</ArticleId>
+            <ArticleId IdType="doi">10.1063/1.4743955</ArticleId>
+            <ArticleId IdType="pmc">PMC4108628</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Methods. 2010 Sep;52(1):99-105</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20570730</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Chem Phys. 2011 Jun 28;134(24):244108</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21721613</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Phys. 2006 Feb 1;74(2):123-133</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23585693</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biophys J. 1992 Jan;61(1):235-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1540692</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Pac Symp Biocomput. 2010;:260-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19908378</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Chem Phys. 2008 May 21;128(19):194102</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18500851</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Phys Chem B. 2008 Oct 16;112(41):12867-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18816095</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Chem Phys. 2012 Feb 14;136(6):064108</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22360170</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acc Chem Res. 2006 Jun;39(6):363-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16784214</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

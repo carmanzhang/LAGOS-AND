@@ -1,0 +1,150 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">16323966</PMID>
+        <DateCompleted>
+            <Year>2006</Year>
+            <Month>01</Month>
+            <Day>03</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>11</Month>
+            <Day>09</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1175-5636</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>3</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2004</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Applied bioinformatics</Title>
+                <ISOAbbreviation>Appl Bioinformatics</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>caGEDA: a web application for the integrated analysis of global gene expression patterns in cancer.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>49-62</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The explosion of microarray data from pilot studies, basic research and large-scale clinical trials requires the development of integrative computational tools that can not only analyse gene expression patterns but that can also evaluate the methods of analysis adopted and then provide a boost to post-analysis translational interpretation of those patterns. We have developed a web application called caGEDA (cancer gene expression data analyzer) that can: (1) upload gene expression profiles from cDNA or oligonucleotide microarrays; (2) conduct a diverse range of serial linear normalisations; (3) identify differentially expressed genes using a variety of tests - either threshold or permutation tests; (4) produce tables of literature references to papers reporting that specific genes (identified by accession numbers) are up- or down-regulated in specific cancers; (5) estimate the error of sample class prediction using the significant gene set for features; (6) perform low-bias and accurate validated learning using three computational validation techniques (leave-one out validation, k-fold validation, random re-sampling validation); and (7) validate a classifier with a randomly selected or user-defined validation set. Significant genes are reported in a table of links to entries in the following databases: Locus Link, Genome View, UCSC, Ensembl, UniGene, dbSNP, AmiGO and OMIM. caGEDA is seamlessly integrated via embedded forms with UCSD's (University of California at San Diego) 2HAPI server (for medical subject heading (MeSH) term exploration) and EZ-Retrieve (to identify common transcription factors located upstream of sets of genes that exhibit similar modes of differential expression). caGEDA offers a variety of previously described and novel tests for differentially expressed genes, most notably the permutation percentile separability test, which is most appropriate for identifying genes that are significantly differentially expressed in a subset of patients. caGEDA, which is open source and free to academic users, will soon be greatly enhanced by operating with the components of the National Cancer Institute's new cancer bioinformatics grid (caBIG).</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Patel</LastName>
+                    <ForeName>Satish</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>University of Pittsburgh Cancer Institute, University of Pittsburg Medical School, Pittsburg, PA 15232, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lyons-Weiler</LastName>
+                    <ForeName>James</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>New Zealand</Country>
+            <MedlineTA>Appl Bioinformatics</MedlineTA>
+            <NlmUniqueID>101150311</NlmUniqueID>
+            <ISSNLinking>1175-5636</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014408">Biomarkers, Tumor</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009363">Neoplasm Proteins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D014408" MajorTopicYN="N">Biomarkers, Tumor</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000145" MajorTopicYN="N">classification</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020869" MajorTopicYN="N">Gene Expression Profiling</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020407" MajorTopicYN="N">Internet</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009363" MajorTopicYN="N">Neoplasm Proteins</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000145" MajorTopicYN="N">classification</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009369" MajorTopicYN="N">Neoplasms</DescriptorName>
+                <QualifierName UI="Q000175" MajorTopicYN="Y">diagnosis</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020411" MajorTopicYN="N">Oligonucleotide Array Sequence Analysis</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012984" MajorTopicYN="Y">Software</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018511" MajorTopicYN="N">Systems Integration</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014584" MajorTopicYN="Y">User-Computer Interface</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2005</Year>
+                <Month>12</Month>
+                <Day>6</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2006</Year>
+                <Month>1</Month>
+                <Day>4</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2005</Year>
+                <Month>12</Month>
+                <Day>6</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">16323966</ArticleId>
+            <ArticleId IdType="pii">316</ArticleId>
+            <ArticleId IdType="doi">10.2165/00822942-200403010-00007</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

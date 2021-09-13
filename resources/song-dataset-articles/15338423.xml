@@ -1,0 +1,359 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">15338423</PMID>
+        <DateCompleted>
+            <Year>2004</Year>
+            <Month>11</Month>
+            <Day>16</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">1367-5435</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>31</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>2004</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of industrial microbiology &amp; biotechnology</Title>
+                <ISOAbbreviation>J Ind Microbiol Biotechnol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Removal of carbonaceous and nitrogenous pollutants from a synthetic wastewater using a membrane-coupled bioreactor.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>353-61</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Two modified Ludzack-Ettinger (MLE)-type membrane-coupled bioreactors (MBRs) were investigated in this study for the purpose of removing both nitrogenous and carbonaceous pollutants from a synthetic wastewater. During the first MBR experiment, removal efficiencies were high (&gt;90%) for chemical oxygen demand (COD) and ammonia, but total nitrogenous pollutant removal efficiency was poor (approximately 25%). Bacterial community analysis of ammonia oxidizing bacteria (AOB) by a nested PCR-DGGE approach detected two Nitrosomonas-like populations and one Nitrosospira-like population. During the initial portion of the second MBR experiment, COD and ammonia removal efficiencies were similar to the first MBR experiment until the COD of the influent wastewater was increased to provide additional electron donors to support denitrification. Total nitrogen removal efficiencies eventually exceeded 90%, with a hydraulic residence time (HRT) of 24 h and a recirculation ratio of 8. When the HRT of the MBR experiment was decreased to 12 h, however, ammonia removal efficiency was adversely affected. A subsequent increase in the HRT to 18 h helped improve removal efficiencies for both ammonia (&gt;85%) and total nitrogenous compounds (approximately 70%). Our research demonstrates that MBRs can be effectively designed to remove both carbonaceous and nitrogenous pollutants. The ability of the microbial community to switch between anoxic (denitrifying) and oxic (nitrifying) conditions, however, represents a critical process constraint for the application of MLE-type MBR systems, such that little benefit is gained compared to conventional designs.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ghosh</LastName>
+                    <ForeName>Sudeshna</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Civil Engineering, University of Minnesota, 500 Pillsbury Drive SE, 122 CivE, Minneapolis, MN 55455, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>LaPara</LastName>
+                    <ForeName>Timothy M</ForeName>
+                    <Initials>TM</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <DataBankList CompleteYN="Y">
+                <DataBank>
+                    <DataBankName>GENBANK</DataBankName>
+                    <AccessionNumberList>
+                        <AccessionNumber>AY428951</AccessionNumber>
+                        <AccessionNumber>AY428952</AccessionNumber>
+                        <AccessionNumber>AY428953</AccessionNumber>
+                        <AccessionNumber>AY428954</AccessionNumber>
+                        <AccessionNumber>AY428955</AccessionNumber>
+                    </AccessionNumberList>
+                </DataBank>
+            </DataBankList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2004</Year>
+                <Month>07</Month>
+                <Day>28</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Germany</Country>
+            <MedlineTA>J Ind Microbiol Biotechnol</MedlineTA>
+            <NlmUniqueID>9705544</NlmUniqueID>
+            <ISSNLinking>1367-5435</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D004269">DNA, Bacterial</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009566">Nitrates</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009573">Nitrites</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D017672">Nitrogen Compounds</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009930">Organic Chemicals</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011506">Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D014874">Water Pollutants, Chemical</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>7664-41-7</RegistryNumber>
+                <NameOfSubstance UI="D000641">Ammonia</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000332" MajorTopicYN="N">Aerobiosis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000641" MajorTopicYN="N">Ammonia</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000693" MajorTopicYN="N">Anaerobiosis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019149" MajorTopicYN="Y">Bioreactors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001709" MajorTopicYN="N">Biotechnology</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="N">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D050260" MajorTopicYN="N">Carbohydrate Metabolism</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016172" MajorTopicYN="N">DNA Fingerprinting</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004269" MajorTopicYN="N">DNA, Bacterial</DescriptorName>
+                <QualifierName UI="Q000032" MajorTopicYN="N">analysis</QualifierName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+                <QualifierName UI="Q000302" MajorTopicYN="N">isolation &amp; purification</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008969" MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009566" MajorTopicYN="N">Nitrates</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009573" MajorTopicYN="N">Nitrites</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017672" MajorTopicYN="N">Nitrogen Compounds</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D043369" MajorTopicYN="N">Nitrosomonadaceae</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000302" MajorTopicYN="Y">isolation &amp; purification</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009606" MajorTopicYN="N">Nitrosomonas</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000302" MajorTopicYN="N">isolation &amp; purification</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009691" MajorTopicYN="N">Nucleic Acid Denaturation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009930" MajorTopicYN="N">Organic Chemicals</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011506" MajorTopicYN="N">Proteins</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017422" MajorTopicYN="N">Sequence Analysis, DNA</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013997" MajorTopicYN="N">Time Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014874" MajorTopicYN="N">Water Pollutants, Chemical</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018508" MajorTopicYN="N">Water Purification</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2003</Year>
+                <Month>12</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2004</Year>
+                <Month>04</Month>
+                <Day>07</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2004</Year>
+                <Month>9</Month>
+                <Day>1</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2004</Year>
+                <Month>11</Month>
+                <Day>17</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2004</Year>
+                <Month>9</Month>
+                <Day>1</Day>
+                <Hour>5</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">15338423</ArticleId>
+            <ArticleId IdType="doi">10.1007/s10295-004-0152-7</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Anal Biochem. 1972 Aug;48(2):422-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4115981</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2002 Jan 1;30(1):17-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11752243</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 1997 Apr;63(4):1489-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9097446</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biotechnol Bioeng. 2003 May 5;82(3):313-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12599258</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2003 Feb;69(2):852-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12571004</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biotechnol Bioeng. 1996 Mar 20;49(6):601-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18626855</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Ind Microbiol Biotechnol. 2001 Apr;26(4):203-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11464370</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEMS Microbiol Ecol. 2003 Mar 1;43(2):195-206</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19719680</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 1996 Sep;62(9):3292-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8795219</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 2000 Dec;66(12):5368-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11097916</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Bacteriol. 1996 Aug;178(15):4367-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8755862</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Water Res. 2002 Jan;36(2):413-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11827347</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Biotechnol. 2002 Jun;13(3):218-27</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12180096</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Water Sci Technol. 2002;46(9):193-200</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12448469</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Microb Ecol. 2002 Nov;44(4):317-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12399897</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>FEMS Microbiol Rev. 1997 Nov;21(3):213-29</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9451814</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1951 Nov;193(1):265-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14907713</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Water Sci Technol. 2003;47(1):133-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12578185</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 1993 Mar;59(3):695-700</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7683183</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

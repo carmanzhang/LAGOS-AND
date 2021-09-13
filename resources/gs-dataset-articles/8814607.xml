@@ -1,0 +1,323 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">8814607</PMID>
+        <DateCompleted>
+            <Year>1996</Year>
+            <Month>12</Month>
+            <Day>04</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2019</Year>
+            <Month>05</Month>
+            <Day>12</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0022-3751</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>494 ( Pt 1)</Volume>
+                    <PubDate>
+                        <Year>1996</Year>
+                        <Month>Jul</Month>
+                        <Day>01</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of physiology</Title>
+                <ISOAbbreviation>J. Physiol. (Lond.)</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Noradrenaline transport and transporter mRNA of rat chromaffin cells are controlled by dexamethasone and nerve growth factor.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>67-75</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>1. The biochemical basis for differences in noradrenaline (NA) transporter function between chromaffin cells in the adrenal medulla and those maintained in primary culture was investigated. 2. Intact adrenal medullae of neonatal rats accumulated small amounts of [3H]NA. In contrast, dissociated chromaffin cells placed in culture for 2-6 days accumulated 100-1000 times more [3H]NA. 3. Nerve growth factor (NGF) stimulated, whereas glucocorticoids dose dependently and reversibly inhibited, [3H]NA transport in chromaffin cells maintained in culture up to 6 days. During this period, no change in the morphological or biochemical characteristics of either NGF-treated or -untreated chromaffin cells was evident. 4. A rat NA transporter cDNA clone was isolated for use in the quantification of NA transporter mRNA. Intact adrenal medullae contained 40% less NA transporter mRNA than an equivalent number of chromaffin cells in culture. Furthermore, dexamethasone produced nearly 90% loss and NGF elicited approximately 60% increase in NA transporter mRNA levels in cultured cells. 5. In cultured cells, and possibly in vivo, glucocorticoids inhibit NA transporter function of chromaffin cells at least in part through a decrease in NA transporter mRNA.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wakade</LastName>
+                    <ForeName>A R</ForeName>
+                    <Initials>AR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Pharmacology, Wayne State University School of Medicine, Detroit, MI 48201, USA. awakade@cms.cc.wayne.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wakade</LastName>
+                    <ForeName>T D</ForeName>
+                    <Initials>TD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Poosch</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bannon</LastName>
+                    <ForeName>M J</ForeName>
+                    <Initials>MJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>DA-06470</GrantID>
+                    <Acronym>DA</Acronym>
+                    <Agency>NIDA NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>HL-22170</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>NS-34935</GrantID>
+                    <Acronym>NS</Acronym>
+                    <Agency>NINDS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>J Physiol</MedlineTA>
+            <NlmUniqueID>0266262</NlmUniqueID>
+            <ISSNLinking>0022-3751</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009414">Nerve Growth Factors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>7S5I7G3JQL</RegistryNumber>
+                <NameOfSubstance UI="D003907">Dexamethasone</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>X4W3ENH1CV</RegistryNumber>
+                <NameOfSubstance UI="D009638">Norepinephrine</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001692" MajorTopicYN="N">Biological Transport</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002478" MajorTopicYN="N">Cells, Cultured</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019439" MajorTopicYN="N">Chromaffin Cells</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003907" MajorTopicYN="N">Dexamethasone</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004305" MajorTopicYN="N">Dose-Response Relationship, Drug</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009414" MajorTopicYN="N">Nerve Growth Factors</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009638" MajorTopicYN="N">Norepinephrine</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051381" MajorTopicYN="N">Rats</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>1996</Year>
+                <Month>7</Month>
+                <Day>1</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>1996</Year>
+                <Month>7</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>1996</Year>
+                <Month>7</Month>
+                <Day>1</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">8814607</ArticleId>
+            <ArticleId IdType="pmc">PMC1160615</ArticleId>
+            <ArticleId IdType="doi">10.1113/jphysiol.1996.sp021476</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Cell Tissue Res. 1982;225(3):525-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6127163</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Pharmacol Exp Ther. 1959 Dec;127:251-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">13795315</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neurosci Lett. 1984 Sep 7;50(1-3):139-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6493620</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Pharmacol Exp Ther. 1970 Mar;172(1):100-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">5416937</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Pharmacol. 1973;13:169-80</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4576887</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1978 Jul;75(7):3498-502</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">28526</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1979 Mar 15;278(5701):256-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">423974</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuroscience. 1980;5(9):1547-56</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7422129</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurochem. 1982 Feb;38(2):427-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7108549</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurochem. 1985 Jan;44(1):265-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3917291</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurosci. 1985 Aug;5(8):2119-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4020432</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurochem. 1985 Oct;45(4):1154-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4031884</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurochem. 1986 Feb;46(2):516-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2867127</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Pharmacol. 1986 Feb;29(2):134-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2869403</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuroscience. 1986 Aug;18(4):877-88</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3762930</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anal Biochem. 1987 Apr;162(1):156-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2440339</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Dev. 1990 Apr;4(4):477-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1972929</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1991 Mar 28;350(6316):350-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2008212</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuron. 1992 Jul;9(1):55-67</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1352985</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Neurochem. 1992 Sep;59(3):1179-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1494906</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1992 Aug 1;89(15):7095-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1353885</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Endocr Rev. 1993 Aug;14(4):459-79</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8223341</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 1993 Nov 15;268(32):23891-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8226929</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1984 Apr;81(7):2242-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6371811</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

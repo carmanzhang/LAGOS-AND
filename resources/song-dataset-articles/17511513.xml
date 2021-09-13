@@ -1,0 +1,579 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">17511513</PMID>
+        <DateCompleted>
+            <Year>2007</Year>
+            <Month>06</Month>
+            <Day>19</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>03</Month>
+            <Day>04</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1553-7358</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>3</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2007</Year>
+                        <Month>May</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PLoS computational biology</Title>
+                <ISOAbbreviation>PLoS Comput Biol</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>The human genomic melting map.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e93</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>In a living cell, the antiparallel double-stranded helix of DNA is a dynamically changing structure. The structure relates to interactions between and within the DNA strands, and the array of other macromolecules that constitutes functional chromatin. It is only through its changing conformations that DNA can organize and structure a large number of cellular functions. In particular, DNA must locally uncoil, or melt, and become single-stranded for DNA replication, repair, recombination, and transcription to occur. It has previously been shown that this melting occurs cooperatively, whereby several base pairs act in concert to generate melting bubbles, and in this way constitute a domain that behaves as a unit with respect to local DNA single-strandedness. We have applied a melting map calculation to the complete human genome, which provides information about the propensities of forming local bubbles determined from the whole sequence, and present a first report on its basic features, the extent of cooperativity, and correlations to various physical and biological features of the human genome. Globally, the melting map covaries very strongly with GC content. Most importantly, however, cooperativity of DNA denaturation causes this correlation to be weaker at resolutions fewer than 500 bps. This is also the resolution level at which most structural and biological processes occur, signifying the importance of the informational content inherent in the genomic melting map. The human DNA melting map may be further explored at http://meltmap.uio.no.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Liu</LastName>
+                    <ForeName>Fang</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Tumor Biology, Institute for Cancer Research, Rikshospitalet-Radiumhospitalet Medical Center, Oslo, Norway.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tøstesen</LastName>
+                    <ForeName>Eivind</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sundet</LastName>
+                    <ForeName>Jostein K</ForeName>
+                    <Initials>JK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jenssen</LastName>
+                    <ForeName>Tor-Kristian</ForeName>
+                    <Initials>TK</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bock</LastName>
+                    <ForeName>Christoph</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jerstad</LastName>
+                    <ForeName>Geir Ivar</ForeName>
+                    <Initials>GI</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Thilly</LastName>
+                    <ForeName>William G</ForeName>
+                    <Initials>WG</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hovig</LastName>
+                    <ForeName>Eivind</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2007</Year>
+                <Month>04</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS Comput Biol</MedlineTA>
+            <NlmUniqueID>101238922</NlmUniqueID>
+            <ISSNLinking>1553-734X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>9007-49-2</RegistryNumber>
+                <NameOfSubstance UI="D004247">DNA</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D001482" MajorTopicYN="N">Base Composition</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001483" MajorTopicYN="N">Base Sequence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003198" MajorTopicYN="N">Computer Simulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004247" MajorTopicYN="N">DNA</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000648" MajorTopicYN="Y">ultrastructure</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008956" MajorTopicYN="Y">Models, Chemical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008958" MajorTopicYN="Y">Models, Molecular</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008969" MajorTopicYN="N">Molecular Sequence Data</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009690" MajorTopicYN="N">Nucleic Acid Conformation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009691" MajorTopicYN="N">Nucleic Acid Denaturation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017422" MajorTopicYN="N">Sequence Analysis, DNA</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013329" MajorTopicYN="N">Structure-Activity Relationship</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013696" MajorTopicYN="N">Temperature</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2006</Year>
+                <Month>12</Month>
+                <Day>21</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2007</Year>
+                <Month>04</Month>
+                <Day>11</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2007</Year>
+                <Month>5</Month>
+                <Day>22</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2007</Year>
+                <Month>6</Month>
+                <Day>20</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2007</Year>
+                <Month>5</Month>
+                <Day>22</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">17511513</ArticleId>
+            <ArticleId IdType="pii">06-PLCB-RA-0535R2</ArticleId>
+            <ArticleId IdType="doi">10.1371/journal.pcbi.0030093</ArticleId>
+            <ArticleId IdType="pmc">PMC1868775</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Phys Rev Lett. 2005 May 6;94(17):178101</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15904337</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Phys Rev Lett. 2005 Nov 18;95(21):218104</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16384189</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gene. 2000 Sep 19;255(2):139-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11024275</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2003 Jan 1;31(1):51-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12519945</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Phys Rev E Stat Nonlin Soft Matter Phys. 2005 Jun;71(6 Pt 1):061922</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16089780</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1993 Apr 1;90(7):2999-3003</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8385354</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2001 Feb 16;291(5507):1304-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11181995</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int Rev Cytol. 2005;247:165-221</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16344113</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Phys Rev Lett. 1989 Jun 5;62(23):2755-2758</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10040080</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Biol. 2005 May;3(5):e157</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15839726</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Genet. 2002 Jul;18(7):337-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12127766</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Biol Evol. 2004 Oct;21(10):1820-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15175414</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Comput Biol. 2004;11(4):519-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15579230</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2003 Jul 1;31(13):3819-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12824427</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Comput Biol. 2005 Jun;1(1):e7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16103908</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gene. 2006 Mar 1;368:110-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16380220</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2006;34(19):5491-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17020921</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biopolymers. 2003 Oct;70(3):364-76</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14579309</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Genet. 2002 Jul;31(3):241-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12053178</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Res. 2006 Apr;16(4):536-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16597586</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Res. 2004 May;14(5):925-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15078858</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mutat Res. 1991 Jan;262(1):63-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1702518</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2006 Jul 1;34(Web Server issue):W686-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16845098</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 1993 Sep 11;21(18):4239-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8414978</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Phys Rev Lett. 2005 Aug 5;95(6):068101</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16090995</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gene. 2000 Sep 19;255(2):151-68</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11024276</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Phys Rev E Stat Nonlin Soft Matter Phys. 2006 Jan;73(1 Pt 1):011908</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16486186</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 2002 Mar 1;316(4):903-18</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11884131</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2006 Jan 1;34(Database issue):D373-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16381890</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2003 Apr 1;31(7):1838-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12654999</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Struct Mol Biol. 2004 Nov;11(11):1092-100</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15502847</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Phys Rev Lett. 2004 Sep 3;93(10):108101</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15447453</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trends Genet. 2000 Jun;16(6):276-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10827456</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biopolymers. 1974;13(9):1859-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">4415504</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hum Mol Genet. 2003 Oct 1;12(19):2411-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12915446</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Comput Biol. 2007 Jun;3(6):e110</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17559301</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Genet. 2005 Dec 30;6 Suppl 1:S130</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16451589</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur Phys J E Soft Matter. 2006 Mar;19(3):263-77</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16477390</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Curr Opin Struct Biol. 2006 Jun;16(3):362-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16713247</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2004 Jul 1;32(Web Server issue):W287-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15215396</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Biol Evol. 2001 Jun;18(6):1139-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11371603</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biopolymers. 1977 Dec;16(12):2693-704</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">597576</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Phys Rev E Stat Phys Plasmas Fluids Relat Interdiscip Topics. 1993 Jan;47(1):R44-R47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9960075</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biopolymers. 2004 Feb 5;73(2):216-28</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14755579</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1998 Feb 17;95(4):1460-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9465037</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Biol. 2006;7 Suppl 1:S3.1-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16925837</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Genet. 2004;38:305-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15568979</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Methods Enzymol. 1987;155:482-501</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2828875</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bioinformatics. 2004 Jun 12;20(9):1477-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15130924</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Genet. 2006 Mar;2(3):e26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16520826</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biol Chem. 2005 Aug;386(8):745-51</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16201869</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Comput Biol. 2006 Jan;2(1):e2</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16410829</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2005 Jul 1;33(Web Server issue):W573-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15980539</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Bioinformatics. 2006 May 05;7:248</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16677393</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Biol. 2003;5(1):201</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14709165</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Mol Biol. 1996 Jan 26;255(3):425-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8568887</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2004 Oct 21;431(7011):931-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15496913</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genome Biol. 2006;7 Suppl 1:S2.1-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16925836</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 1994 Feb 11;22(3):364-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8127674</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2004 Mar 05;32(4):1584-90</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15004245</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nat Methods. 2006 Jul;3(7):511-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16791208</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1953 Apr 25;171(4356):737-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">13054692</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 2006 Aug 17;442(7104):772-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16862119</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nucleic Acids Res. 2003 Jul 1;31(13):3843-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12824434</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

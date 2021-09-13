@@ -1,0 +1,274 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">20889418</PMID>
+        <DateCompleted>
+            <Year>2011</Year>
+            <Month>01</Month>
+            <Day>10</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1525-8955</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>57</Volume>
+                    <Issue>10</Issue>
+                    <PubDate>
+                        <Year>2010</Year>
+                        <Month>Oct</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>IEEE transactions on ultrasonics, ferroelectrics, and frequency control</Title>
+                <ISOAbbreviation>IEEE Trans Ultrason Ferroelectr Freq Control</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Calibration of sound forces in acoustic traps.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>2305-10</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1109/TUFFC.2010.1691</ELocationID>
+            <Abstract>
+                <AbstractText>A two-dimensional or transverse acoustic trapping and its capability to noninvasively manipulate micrometersized particles with focused sound beams were experimentally demonstrated in our previous work. To apply this technique, as in optical tweezers, for studying mechanical properties of and interactions among biological particles such as cells, the trapping forces must be calibrated against known forces, i.e., viscous drag forces exerted by fluid flows. The trapping forces and the trap stiffness were measured under various conditions and the results were reported in this paper. In the current experimental arrangement, because the trapped particles were positioned against an acoustically transparent mylar membrane, the ultrasound beam intensity distribution near the membrane must be carefully considered. The total intensity field (the sum of incident and scattering intensity fields) around the droplet was thus computed by finite element analysis (FEA) with the membrane included, and it was then used in the ray acoustics model to calculate the trapping forces. The membrane effect on trapping forces was discussed by comparing effective beam widths with and without the membrane. The FEA results found that the broader beam width, caused by the scattered beams from the neighboring membrane and the droplet, resulted in the lower intensity, or smaller force, on the droplet. The experimental results showed that the measured forces were as high as 64 nN. The trap stiffness, approximated as a linear spring, was estimated by linear regressions and found to be 1.3 to 4.4 nN/μm, which was on a larger scale than that of optical trapping estimated for red blood cells, a few tenths of piconewtons/nanometer. The experimental and theoretical results were in good agreement.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Jungwoo</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biomedical Engineering, University of Southern California, Los Angeles, CA, USA. jungwool@usc.edu</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lee</LastName>
+                    <ForeName>Changyang</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shung</LastName>
+                    <ForeName>K Kirk</ForeName>
+                    <Initials>KK</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>P41 EB002182</GrantID>
+                    <Acronym>EB</Acronym>
+                    <Agency>NIBIB NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 EB012058-01A1</GrantID>
+                    <Acronym>EB</Acronym>
+                    <Agency>NIBIB NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P41 EB002182-14</GrantID>
+                    <Acronym>EB</Acronym>
+                    <Agency>NIBIB NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P41-EB2182</GrantID>
+                    <Acronym>EB</Acronym>
+                    <Agency>NIBIB NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R21-EB5202</GrantID>
+                    <Acronym>EB</Acronym>
+                    <Agency>NIBIB NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R21 EB005202</GrantID>
+                    <Acronym>EB</Acronym>
+                    <Agency>NIBIB NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 EB012058</GrantID>
+                    <Acronym>EB</Acronym>
+                    <Agency>NIBIB NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>IEEE Trans Ultrason Ferroelectr Freq Control</MedlineTA>
+            <NlmUniqueID>9882735</NlmUniqueID>
+            <ISSNLinking>0885-3010</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D008567">Membranes, Artificial</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011093">Polyethylene Terephthalates</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>25038-59-9</RegistryNumber>
+                <NameOfSubstance UI="C025539">Lavsan</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000162" MajorTopicYN="Y">Acoustics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002138" MajorTopicYN="N">Calibration</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004548" MajorTopicYN="N">Elasticity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020342" MajorTopicYN="N">Finite Element Analysis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016014" MajorTopicYN="N">Linear Models</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008567" MajorTopicYN="N">Membranes, Artificial</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D052898" MajorTopicYN="N">Optical Tweezers</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011093" MajorTopicYN="N">Polyethylene Terephthalates</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012212" MajorTopicYN="N">Rheology</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2010</Year>
+                <Month>10</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>1</Month>
+                <Day>11</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">20889418</ArticleId>
+            <ArticleId IdType="doi">10.1109/TUFFC.2010.1691</ArticleId>
+            <ArticleId IdType="pmc">PMC3056275</ArticleId>
+            <ArticleId IdType="mid">NIHMS277594</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>J Acoust Soc Am. 2006 Aug;120(2):1084-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16938994</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1996 Feb 9;271(5250):795-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8628994</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Acoust Soc Am. 2007 Dec;122(6):3162-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18247728</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Opt. 1995 Feb 20;34(6):977-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21037620</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biophys J. 1992 Feb;61(2):569-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19431818</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Methods Enzymol. 1998;298:460-89</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9751903</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Colloids Surf B Biointerfaces. 2009 May 1;70(2):169-73</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19168336</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 1997 May 13;94(10):4853-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9144154</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Opt Lett. 1986 May 1;11(5):288</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19730608</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biophys J. 1997 Oct;73(4):2012-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9336196</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Phys Lett. 2009 Aug 17;95(7):73701</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19798424</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Annu Rev Biophys Biomol Struct. 1994;23:247-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7919782</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ultrasound Med Biol. 2010 Feb;36(2):350-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20045590</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

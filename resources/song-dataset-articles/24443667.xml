@@ -1,0 +1,208 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="PubMed-not-MEDLINE" Owner="NLM">
+        <PMID Version="1">24443667</PMID>
+        <DateRevised>
+            <Year>2020</Year>
+            <Month>10</Month>
+            <Day>01</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">1945-7928</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>2011</Volume>
+                    <PubDate>
+                        <Year>2011</Year>
+                        <Month>Dec</Month>
+                        <Day>31</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Proceedings. IEEE International Symposium on Biomedical Imaging</Title>
+                <ISOAbbreviation>Proc IEEE Int Symp Biomed Imaging</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>COMPRESSED SENSING BASED INTENSITY NON-UNIFORMITY CORRECTION.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>101-104</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>We present a compressed sensing based approach to remove gain field from magnetic resonance (MR) images of the human brain. During image acquisition, the inhomogeneity present in the radio-frequency (RF) coil appears as shading artifact in the intensity image. The inhomogeneity poses problem in any automatic algorithm that uses intensity as a feature. It has been shown that at low field strength, the shading can be assumed to be a smooth field that is composed of low frequency components. Thus most inhomogeneity correction algorithms assume some kind of explicit smoothness criteria on the field. This sometimes limits the performance of the algorithms if the actual inhomogeneity is not smooth, which is the case at higher field strength. We describe a model-free, non-parametric patch-based approach that uses compressed sensing for the correction. We show that these features enable our algorithm to perform comparably with a current state of the art method N3 on images acquired at low field, while outperforming N3 when the image has non-smooth inhomogeneity, such as 7T images.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Roy</LastName>
+                    <ForeName>Snehashis</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Image Analysis and Communications Laboratory, Electrical and Computer Engineering, The Johns Hopkins University.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Carass</LastName>
+                    <ForeName>Aaron</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Image Analysis and Communications Laboratory, Electrical and Computer Engineering, The Johns Hopkins University.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Prince</LastName>
+                    <ForeName>Jerry L</ForeName>
+                    <Initials>JL</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Image Analysis and Communications Laboratory, Electrical and Computer Engineering, The Johns Hopkins University.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>P41 RR015241</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 NS037747</GrantID>
+                    <Acronym>NS</Acronym>
+                    <Agency>NINDS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 NS056307</GrantID>
+                    <Acronym>NS</Acronym>
+                    <Agency>NINDS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R21 EB012765</GrantID>
+                    <Acronym>EB</Acronym>
+                    <Agency>NIBIB NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Proc IEEE Int Symp Biomed Imaging</MedlineTA>
+            <NlmUniqueID>101492570</NlmUniqueID>
+            <ISSNLinking>1945-7928</ISSNLinking>
+        </MedlineJournalInfo>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">7T</Keyword>
+            <Keyword MajorTopicYN="N">MRI</Keyword>
+            <Keyword MajorTopicYN="N">bias correction</Keyword>
+            <Keyword MajorTopicYN="N">bias field</Keyword>
+            <Keyword MajorTopicYN="N">intensity inhomogeneity</Keyword>
+            <Keyword MajorTopicYN="N">intensity non-uniformity</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>1</Month>
+                <Day>21</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>31</Day>
+                <Hour>0</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2011</Year>
+                <Month>12</Month>
+                <Day>31</Day>
+                <Hour>0</Hour>
+                <Minute>1</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">24443667</ArticleId>
+            <ArticleId IdType="doi">10.1109/ISBI.2011.5872364</ArticleId>
+            <ArticleId IdType="pmc">PMC3892902</ArticleId>
+            <ArticleId IdType="mid">NIHMS377973</ArticleId>
+        </ArticleIdList>
+        <?nihms?>
+        <ReferenceList>
+            <Reference>
+                <Citation>Neuroimage. 2004 Nov;23(3):997-1012</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15528100</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IEEE Trans Med Imaging. 2007 Apr;26(4):487-96</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17427736</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>MAGMA. 1998 Dec;7(2):115-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9951771</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IEEE Trans Med Imaging. 2000 Mar;19(3):153-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10875700</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hum Brain Mapp. 2008 Aug;29(8):958-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17636563</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IEEE Trans Med Imaging. 1998 Feb;17(1):87-97</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9617910</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>AJR Am J Roentgenol. 1987 Feb;148(2):418-20</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3492123</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neuroimage. 2009 Jun;46(2):432-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19233292</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Inf Process Med Imaging. 2005;19:615-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17354730</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>IEEE Trans Med Imaging. 1999 Oct;18(10):897-908</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10628949</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Med Image Anal. 2007 Aug;11(4):336-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17467325</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

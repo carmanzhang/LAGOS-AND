@@ -1,0 +1,140 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">27413027</PMID>
+        <DateCompleted>
+            <Year>2017</Year>
+            <Month>03</Month>
+            <Day>06</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>03</Month>
+            <Day>06</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">1060-3271</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>99</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2016</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Journal of AOAC International</Title>
+                <ISOAbbreviation>J AOAC Int</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Automated Control of the Organic and Inorganic Composition of Aloe vera Extracts Using (1)H NMR Spectroscopy.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1213-8</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.5740/jaoacint.16-0020</ELocationID>
+            <Abstract>
+                <AbstractText>Recent classification of Aloe vera whole-leaf extract by the International Agency for Research and Cancer as a possible carcinogen to humans as well as the continuous adulteration of A. vera's authentic material have generated renewed interest in controlling A. vera. The existing NMR spectroscopic method for the analysis of A. vera, which is based on a routine developed at Spectral Service, was extended. Apart from aloverose, glucose, malic acid, lactic acid, citric acid, whole-leaf material (WLM), acetic acid, fumaric acid, sodium benzoate, and potassium sorbate, the quantification of Mg(2+), Ca(2+), and fructose is possible with the addition of a Cs-EDTA solution to sample. The proposed methodology was automated, which includes phasing, baseline-correction, deconvolution (based on the Lorentzian function), integration, quantification, and reporting. The NMR method was applied to 41 A. vera preparations in the form of liquid A. vera juice and solid A. vera powder. The advantages of the new NMR methodology over the previous method were discussed. Correlation between the new and standard NMR methodologies was significant for aloverose, glucose, malic acid, lactic acid, citric acid, and WLM (P &lt; 0.0001, R(2) = 0.99). NMR was found to be suitable for the automated simultaneous quantitative determination of 13 parameters in A. vera. </AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Monakhova</LastName>
+                    <ForeName>Yulia B</ForeName>
+                    <Initials>YB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Spectral Service AG, Emil-Hoffmann Strasse 33, 50996 Cologne, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Randel</LastName>
+                    <ForeName>Gabriele</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Spectral Service AG, Emil-Hoffmann Strasse 33, 50996 Cologne, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Diehl</LastName>
+                    <ForeName>Bernd W K</ForeName>
+                    <Initials>BW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Spectral Service AG, Emil-Hoffmann Strasse 33, 50996 Cologne, Germany.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2016</Year>
+                <Month>07</Month>
+                <Day>13</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J AOAC Int</MedlineTA>
+            <NlmUniqueID>9215446</NlmUniqueID>
+            <ISSNLinking>1060-3271</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D010936">Plant Extracts</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000504" MajorTopicYN="N">Aloe</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D001331" MajorTopicYN="N">Automation</DescriptorName>
+                <QualifierName UI="Q000379" MajorTopicYN="Y">methods</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D010936" MajorTopicYN="N">Plant Extracts</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName UI="Q000592" MajorTopicYN="Y">standards</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D066244" MajorTopicYN="N">Proton Magnetic Resonance Spectroscopy</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2016</Year>
+                <Month>7</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2016</Year>
+                <Month>7</Month>
+                <Day>15</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>3</Month>
+                <Day>7</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">27413027</ArticleId>
+            <ArticleId IdType="pii">content-jaoacint_160020</ArticleId>
+            <ArticleId IdType="doi">10.5740/jaoacint.16-0020</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

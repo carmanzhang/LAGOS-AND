@@ -1,0 +1,618 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">16284218</PMID>
+        <DateCompleted>
+            <Year>2006</Year>
+            <Month>02</Month>
+            <Day>14</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>12</Month>
+            <Day>03</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">0040-6376</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>61</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2006</Year>
+                        <Month>Feb</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Thorax</Title>
+                <ISOAbbreviation>Thorax</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Survival impact of epidermal growth factor receptor overexpression in patients with non-small cell lung cancer: a meta-analysis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>140-5</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">It is thought that overexpression of epidermal growth factor receptor (EGFR) in non-small cell lung cancer (NSCLC) might compromise patient survival, presumably by promoting tumour growth by an autocrine mechanism. However, conflicting results have been reported from various laboratories, and the clinical importance of EGFR overexpression remains unsettled.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">A meta-analysis of previous studies was performed to quantitatively review the effects of EGFR overexpression on survival in patients with NSCLC using a DerSimonian-Laird random effects model. Eighteen studies including 2972 patients were subjected to final analysis.</AbstractText>
+                <AbstractText Label="RESULTS" NlmCategory="RESULTS">Overall, positivity for EGFR overexpression differed between histological types: 39% in adenocarcinomas, 58% in squamous cell carcinomas, 38% in large cell carcinomas, and 32% in cancers in a miscellaneous category (p&lt;0.0001). The combined hazard ratio (HR) was 1.14 (95% CI 0.97 to 1.34; p = 0.103), indicating that EGFR overexpression has no significant impact on survival. When only the 15 immunohistochemistry based studies were considered, the combined HR was 1.08 (95% CI 0.92 to 1.28; p = 0.356), again suggesting that EGFR overexpression has no impact on survival. Heterogeneity testing indicated that there was heterogeneity between studies but publication bias was absent, which suggests that the summary statistics obtained may approximate the actual average.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">EGFR overexpression was not associated with poorer survival in patients with NSCLC. Specific mutations of the EGFR gene will need further study in terms of survival implications.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Nakamura</LastName>
+                    <ForeName>H</ForeName>
+                    <Initials>H</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Chest Surgery, Atami Hospital, International University of Health and Welfare, 13-1 Higashikaigan-cho, Atami-shi, Shizuoka, 413-0012 Japan. h.nakamura@iuhw.ac.jp</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kawasaki</LastName>
+                    <ForeName>N</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Taguchi</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kabasawa</LastName>
+                    <ForeName>K</ForeName>
+                    <Initials>K</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D017418">Meta-Analysis</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2005</Year>
+                <Month>11</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Thorax</MedlineTA>
+            <NlmUniqueID>0417353</NlmUniqueID>
+            <ISSNLinking>0040-6376</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000970">Antineoplastic Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D047428">Protein Kinase Inhibitors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011799">Quinazolines</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D012333">RNA, Messenger</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>DA87705X9K</RegistryNumber>
+                <NameOfSubstance UI="D000069347">Erlotinib Hydrochloride</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>EC 2.7.10.1</RegistryNumber>
+                <NameOfSubstance UI="D066246">ErbB Receptors</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>S65743JHBS</RegistryNumber>
+                <NameOfSubstance UI="D000077156">Gefitinib</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="CommentIn">
+                <RefSource>Thorax. 2006 Feb;61(2):98-9</RefSource>
+                <PMID Version="1">16443704</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000970" MajorTopicYN="N">Antineoplastic Agents</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D002289" MajorTopicYN="N">Carcinoma, Non-Small-Cell Lung</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000401" MajorTopicYN="Y">mortality</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004797" MajorTopicYN="N">Enzyme-Linked Immunosorbent Assay</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D066246" MajorTopicYN="N">ErbB Receptors</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="Y">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000069347" MajorTopicYN="N">Erlotinib Hydrochloride</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000077156" MajorTopicYN="N">Gefitinib</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008175" MajorTopicYN="N">Lung Neoplasms</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000401" MajorTopicYN="Y">mortality</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011379" MajorTopicYN="N">Prognosis</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D047428" MajorTopicYN="N">Protein Kinase Inhibitors</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011799" MajorTopicYN="N">Quinazolines</DescriptorName>
+                <QualifierName UI="Q000627" MajorTopicYN="N">therapeutic use</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012333" MajorTopicYN="N">RNA, Messenger</DescriptorName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D016019" MajorTopicYN="N">Survival Analysis</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2005</Year>
+                <Month>11</Month>
+                <Day>15</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2006</Year>
+                <Month>2</Month>
+                <Day>16</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2005</Year>
+                <Month>11</Month>
+                <Day>15</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">16284218</ArticleId>
+            <ArticleId IdType="pii">thx.2005.042275</ArticleId>
+            <ArticleId IdType="doi">10.1136/thx.2005.042275</ArticleId>
+            <ArticleId IdType="pmc">PMC2104592</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Lung Cancer. 2003 Aug;41 Suppl 1:S23-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12867059</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lung Cancer. 2003 Sep;41(3):245-58</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12928116</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Oncol. 2003 Oct 15;21(20):3798-807</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12953099</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Oncol. 2004 Jan;15(1):28-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14679115</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 1993 May 15;53(10 Suppl):2379-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7683573</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Cancer. 1993 Jul;68(1):162-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8391303</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Cancer Res Clin Oncol. 1993;119(9):507-10</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8100821</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Thorac Surg. 2000 Mar;69(3):882-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10750777</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Cancer Res. 2004 Jan 1;10(1 Pt 1):136-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14734462</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2004 Jan 30;303(5658):682-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14726596</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Oncol. 2004 Mar 1;22(5):777-84</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14990632</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Oncol. 2004 Mar 1;22(5):785-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14990633</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anticancer Res. 2004 Jan-Feb;24(1):11-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15015570</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mod Pathol. 2004 Apr;17(4):430-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14739904</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acta Oncol. 2004;43(1):80-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15068324</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2004 May 20;350(21):2129-39</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15118073</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2004 Jun 4;304(5676):1497-500</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15118125</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Cancer. 2004 Aug 10;111(1):43-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15185341</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Histochem Cytochem. 2004 Jul;52(7):893-901</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15208356</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Cancer Res. 2004 Jun 15;10(12 Pt 2):4227s-4232s</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15217963</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Cancer Res. 2004 Jun 15;10(12 Pt 2):4238s-4240s</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15217965</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Cancer Res. 2004 Jun 15;10(12 Pt 2):4241s-4244s</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15217966</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Cancer. 2004 Jul 19;91(2):208-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15187994</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Folia Histochem Cytobiol. 2004;42(2):111-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15253134</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Cancer. 2004 Aug 2;91(3):430-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15226769</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Oncol. 2004 Aug 15;22(16):3238-47</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15310767</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2004 Aug 20;305(5687):1163-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15284455</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2004 Sep 7;101(36):13306-11</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15329413</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Cancer Res. 2004 Sep 15;10(18 Pt 1):6006-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15447984</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Cancer. 2004 Oct 4;91(7):1301-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15365565</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer. 2004 Oct 1;101(7):1632-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15378500</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Prog Cardiovasc Dis. 1985 Mar-Apr;27(5):335-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2858114</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Control Clin Trials. 1986 Sep;7(3):177-88</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3802833</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Natl Cancer Inst. 1987 Sep;79(3):403-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3476783</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer. 1987 Dec 1;60(11):2669-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3677003</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Cancer. 1989 May;59(5):746-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2544220</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 1993 Feb 13;341(8842):418-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8094183</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Oncol. 2003 Jun 15;21(12):2237-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12748244</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Psychiatry. 1993 Sep;150(9):1435-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8352370</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Surg Oncol. 1994 Apr;3(2):109-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7952390</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biometrics. 1994 Dec;50(4):1088-101</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7786990</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Cancer. 1996 Jul;74(1):86-91</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8679464</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Pathol. 1996 May;179(1):80-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8691350</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Anticancer Res. 1996 Nov-Dec;16(6B):3819-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9042264</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Oncol. 1997 Aug;15(8):2858-65</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9256129</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMJ. 1997 Sep 13;315(7109):629-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9310563</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Cancer. 1997 Dec 19;74(6):565-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9421349</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Cancer. 1998 Feb;77(4):663-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9484827</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Cancer Res. 1998 Jan;4(1):241-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9516978</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Respir Crit Care Med. 1998 Apr;157(4 Pt 1):1093-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9563724</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Cancer. 1998 Jul;78(1):96-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9662257</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Cancer Res. 1997 Apr;3(4):515-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9815714</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Stat Med. 1998 Dec 30;17(24):2815-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9921604</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Thorac Cardiovasc Surg. 1999 Apr;117(4):736-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10096969</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lung Cancer. 1999 Feb;23(2):143-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10217618</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Cancer Res. 2004 Nov 1;10(21):7311-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15534107</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncol Rep. 2000 May-Jun;7(3):603-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10767376</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Cancer Res. 2000 Oct;6(10):4055-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11051256</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Thorax. 2001 Jul;56(7):561-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11413356</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Br J Cancer. 2001 Jul 6;85(1):14-22</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11437396</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Cancer Res. 2001 Jul;7(7):1850-5</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11448895</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Cancer Res. 2002 Mar;8(3):734-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11895903</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Clin Cancer Res. 2002 Jun;8(6):1843-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12060626</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Eur Respir J. 2002 Oct;20(4):975-81</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12412692</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Chest. 2003 Jan;123(1 Suppl):21S-49S</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12527563</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncol Res. 2003;13(5):289-98</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12688680</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Clin Oncol. 2003 Apr;8(2):79-82</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12720099</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 2003 Jul 5;362(9377):62-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12853203</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

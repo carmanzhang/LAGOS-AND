@@ -1,0 +1,291 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">22586491</PMID>
+        <DateCompleted>
+            <Year>2012</Year>
+            <Month>09</Month>
+            <Day>26</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1932-6203</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>7</Volume>
+                    <Issue>5</Issue>
+                    <PubDate>
+                        <Year>2012</Year>
+                    </PubDate>
+                </JournalIssue>
+                <Title>PloS one</Title>
+                <ISOAbbreviation>PLoS One</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>High adherence is necessary to realize health gains from water quality interventions.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>e36735</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1371/journal.pone.0036735</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">Safe drinking water is critical for health. Household water treatment (HWT) has been recommended for improving access to potable water where existing sources are unsafe. Reports of low adherence to HWT may limit the usefulness of this approach, however.</AbstractText>
+                <AbstractText Label="METHODS AND FINDINGS" NlmCategory="RESULTS">We constructed a quantitative microbial risk model to predict gains in health attributable to water quality interventions based on a range of assumptions about pre-treatment water quality; treatment effectiveness in reducing bacteria, viruses, and protozoan parasites; adherence to treatment interventions; volume of water consumed per person per day; and other variables. According to mean estimates, greater than 500 DALYs may be averted per 100,000 person-years with increased access to safe water, assuming moderately poor pre-treatment water quality that is a source of risk and high treatment adherence (&gt;90% of water consumed is treated). A decline in adherence from 100% to 90% reduces predicted health gains by up to 96%, with sharpest declines when pre-treatment water quality is of higher risk.</AbstractText>
+                <AbstractText Label="CONCLUSIONS" NlmCategory="CONCLUSIONS">Results suggest that high adherence is essential in order to realize potential health gains from HWT.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Brown</LastName>
+                    <ForeName>Joe</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Disease Control, Faculty of Infectious and Tropical Diseases, London School of Hygiene and Tropical Medicine, London, United Kingdom. joe.brown@lshtm.ac.uk</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Clasen</LastName>
+                    <ForeName>Thomas</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2012</Year>
+                <Month>05</Month>
+                <Day>07</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>PLoS One</MedlineTA>
+            <NlmUniqueID>101285081</NlmUniqueID>
+            <ISSNLinking>1932-6203</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D060766">Drinking Water</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D016123" MajorTopicYN="N">Campylobacter jejuni</DescriptorName>
+                <QualifierName UI="Q000472" MajorTopicYN="N">pathogenicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D003458" MajorTopicYN="N">Cryptosporidium</DescriptorName>
+                <QualifierName UI="Q000472" MajorTopicYN="N">pathogenicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D060766" MajorTopicYN="N">Drinking Water</DescriptorName>
+                <QualifierName UI="Q000382" MajorTopicYN="Y">microbiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D005191" MajorTopicYN="N">Family Characteristics</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006262" MajorTopicYN="Y">Health</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008962" MajorTopicYN="N">Models, Theoretical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018570" MajorTopicYN="N">Risk Assessment</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D012401" MajorTopicYN="N">Rotavirus</DescriptorName>
+                <QualifierName UI="Q000472" MajorTopicYN="N">pathogenicity</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018508" MajorTopicYN="Y">Water Purification</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D060753" MajorTopicYN="Y">Water Quality</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2011</Year>
+                <Month>11</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2012</Year>
+                <Month>04</Month>
+                <Day>12</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2012</Year>
+                <Month>5</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2012</Year>
+                <Month>5</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2012</Year>
+                <Month>9</Month>
+                <Day>27</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">22586491</ArticleId>
+            <ArticleId IdType="doi">10.1371/journal.pone.0036735</ArticleId>
+            <ArticleId IdType="pii">PONE-D-11-22368</ArticleId>
+            <ArticleId IdType="pmc">PMC3346738</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>Annu Rev Public Health. 2002;23:115-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11910057</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Med. 2009 Aug;6(8):e1000125</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19688036</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Trop Med Hyg. 2010 Feb;82(2):289-300</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20134007</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2010;5(9):e12613</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20856584</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Environ Res Public Health. 2012 Mar;9(3):880-94</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22690170</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Public Health. 2001 Oct;91(10):1577-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11574310</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Infect Dis. 2001;5(3):144-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11724671</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Appl Environ Microbiol. 1983 Feb;45(2):603-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6830219</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bull World Health Organ. 1985;63(4):757-72</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">3878742</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bull World Health Organ. 1991;69(5):609-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1835675</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>JAMA. 1995 Mar 22-29;273(12):948-53</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7884954</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet Infect Dis. 2005 Jan;5(1):42-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15620560</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Bull World Health Organ. 2005 Feb;83(2):118-26</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15744404</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cochrane Database Syst Rev. 2006;(3):CD004794</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16856059</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Trop Med Hyg. 2007 Feb;76(2):354-64</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17297049</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Water Health. 2007 Sep;5(3):367-74</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17878551</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Environ Sci Technol. 2008 Jun 15;42(12):4255-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18605541</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Trop Med Hyg. 2008 Sep;79(3):394-400</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18784232</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Sci Total Environ. 2009 Apr 1;407(8):2621-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19193396</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Environ Sci Technol. 2009 Feb 15;43(4):986-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19320147</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Trop Med Int Health. 2004 Jan;9(1):106-17</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">14728614</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

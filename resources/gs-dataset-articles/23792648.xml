@@ -1,0 +1,544 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">23792648</PMID>
+        <DateCompleted>
+            <Year>2014</Year>
+            <Month>05</Month>
+            <Day>01</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>12</Month>
+            <Day>02</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1555-8576</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>14</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Jul</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Cancer biology &amp; therapy</Title>
+                <ISOAbbreviation>Cancer Biol. Ther.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Effect of doxorubicin, oxaliplatin, and methotrexate administration on the transcriptional activity of BCL-2 family gene members in stomach cancer cells.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>587-96</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.4161/cbt.24591</ELocationID>
+            <Abstract>
+                <AbstractText>Defective apoptosis comprises the main reason for tumor aggressiveness and chemotherapy tolerance in solid neoplasias. Among the BCL-2 family members, whose mRNA or protein expression varies considerably in different human malignancies, BCL2L12 is the one for which we have recently shown its propitious prognostic value in gastric cancer. The purpose of the current work was to investigate the expression behavior of BCL2L12, BAX, and BCL-2 in human stomach adenocarcinoma cells following their exposure to anti-tumor substances. The 3-(4,5-dimethyl thiazol-2-yl)-2,5-diphenyl tetrazolium bromide and trypan blue methods assessed the impact of doxorubicin, oxaliplatin and methotrexate on AGS cells' viability and growth. Following isolation from cells, total RNA was reverse-transcribed to cDNA. Quantification of target genes' expression was performed with real-time PCR using SYBR Green detection system. The relative changes in their mRNA levels between drug-exposed and untreated cells were calculated with the comparative Ct method (2(-ddCt)). All three drugs, as a result of their administration to AGS cancer cells for particular time intervals, provoked substantial fluctuations in the transcriptional levels of the apoptosis-related genes studied. While BAX was principally upregulated, striking similar were the notable changes regarding BCL-2 and BCL2L12 expression in our cellular system. Our findings indicate the growth suppressive effects of doxorubicin, oxaliplatin and methotrexate treatment on stomach carcinoma cells and the implication of BCL2L12, BAX, and BCL-2 expression profiles in the molecular signaling pathways triggered by chemotherapy.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Florou</LastName>
+                    <ForeName>Dimitra</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biochemistry and Molecular Biology, Faculty of Biology, University of Athens, Athens, Greece.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Patsis</LastName>
+                    <ForeName>Christos</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ardavanis</LastName>
+                    <ForeName>Alexandros</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Scorilas</LastName>
+                    <ForeName>Andreas</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2013</Year>
+                <Month>05</Month>
+                <Day>10</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Cancer Biol Ther</MedlineTA>
+            <NlmUniqueID>101137842</NlmUniqueID>
+            <ISSNLinking>1538-4047</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D009944">Organoplatinum Compounds</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>04ZR38536J</RegistryNumber>
+                <NameOfSubstance UI="D000077150">Oxaliplatin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>80168379AG</RegistryNumber>
+                <NameOfSubstance UI="D004317">Doxorubicin</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>YL5FZ2Y5U1</RegistryNumber>
+                <NameOfSubstance UI="D008727">Methotrexate</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000971" MajorTopicYN="N">Antineoplastic Combined Chemotherapy Protocols</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="Y">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017209" MajorTopicYN="N">Apoptosis</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D045744" MajorTopicYN="N">Cell Line, Tumor</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D049109" MajorTopicYN="N">Cell Proliferation</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004317" MajorTopicYN="N">Doxorubicin</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019254" MajorTopicYN="N">Genes, bcl-2</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="Y">drug effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008727" MajorTopicYN="N">Methotrexate</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D009944" MajorTopicYN="N">Organoplatinum Compounds</DescriptorName>
+                <QualifierName UI="Q000008" MajorTopicYN="N">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000077150" MajorTopicYN="N">Oxaliplatin</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013274" MajorTopicYN="N">Stomach Neoplasms</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="Y">drug therapy</QualifierName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000378" MajorTopicYN="N">metabolism</QualifierName>
+                <QualifierName UI="Q000473" MajorTopicYN="N">pathology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014158" MajorTopicYN="N">Transcription, Genetic</DescriptorName>
+                <QualifierName UI="Q000187" MajorTopicYN="N">drug effects</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">BCL-2family apoptotic genes</Keyword>
+            <Keyword MajorTopicYN="N">anti-cancer drugs</Keyword>
+            <Keyword MajorTopicYN="N">molecular markers</Keyword>
+            <Keyword MajorTopicYN="N">proliferation</Keyword>
+            <Keyword MajorTopicYN="N">real-time PCR analysis</Keyword>
+            <Keyword MajorTopicYN="N">stomach adenocarcinoma AGS cells</Keyword>
+            <Keyword MajorTopicYN="N">viability</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2013</Year>
+                <Month>6</Month>
+                <Day>25</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>5</Month>
+                <Day>3</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">23792648</ArticleId>
+            <ArticleId IdType="pii">24591</ArticleId>
+            <ArticleId IdType="doi">10.4161/cbt.24591</ArticleId>
+            <ArticleId IdType="pmc">PMC3742488</ArticleId>
+        </ArticleIdList>
+        <ReferenceList>
+            <Reference>
+                <Citation>World J Gastroenterol. 2006 May 28;12(20):3237-42</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16718845</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1997 Feb 21;275(5303):1129-32</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9027314</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochem Biophys Res Commun. 2010 Jan 1;391(1):214-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19903463</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Neoplasma. 1999;46(1):25-30</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10355530</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Clin Oncol. 2006 Jun 20;24(18):2903-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16782930</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res Treat. 2011 Sep;43(3):154-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22022292</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Tumour Biol. 2012 Jun;33(3):865-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22238053</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer. 1998 Nov 15;83(10):2054-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9827708</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1997 Dec 12;278(5345):1966-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9395403</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Dev. 2007 Jan 1;21(1):98-111</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17210792</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Thromb Haemost. 2003 Jun;89(6):1081-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12783122</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Mol Med. 2011 Mar-Apr;17(3-4):163-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21152697</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Methods. 2001 Dec;25(4):402-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11846609</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Asian Pac J Cancer Prev. 2007 Jan-Mar;8(1):45-50</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17477770</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Lett. 2007 Mar 8;247(1):48-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16647810</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1998 Aug 28;281(5381):1309-12</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9721092</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cell. 2000 Jan 7;100(1):57-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10647931</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Biol Chem. 2001 Nov 23;276(47):44117-28</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11546793</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genomics. 2001 Mar 1;72(2):217-21</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">11401436</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Colorectal Dis. 2003 Nov;18(6):518-25</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12811476</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genes Dev. 2010 Oct 1;24(19):2194-204</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20837658</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Dig Dis Sci. 2011 Jan;56(1):131-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20503071</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Acta Gastroenterol Belg. 2007 Jul-Sep;70(3):285-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18074738</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Tumour Biol. 2010 Oct;31(5):391-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20514538</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Yonsei Med J. 2012 Mar;53(2):248-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22318810</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Gene Ther. 2000 Jun;7(6):885-92</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10880019</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biol Chem. 2008 Dec;389(12):1467-75</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18844453</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2009 Jul 28;106(30):12448-52</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19617565</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>World J Gastroenterol. 2008 Feb 28;14(8):1149-55</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18300338</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2008 Aug 5;105(31):10703-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18669646</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Exp Clin Cancer Res. 2011;30:87</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21943236</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 1999 Apr 1;59(7):1391-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10197600</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biochim Biophys Acta. 2008 Nov;1782(11):649-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18930135</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 1983 Apr;43(4):1703-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6831414</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>World J Gastroenterol. 2006 Jan 14;12(2):204-13</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16482619</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Immunol Methods. 1983 Dec 16;65(1-2):55-63</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6606682</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann Oncol. 2009 May;20 Suppl 4:34-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19454457</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Treat Rev. 2007 Jun;33(4):315-24</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17376598</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>EMBO J. 1998 Jul 15;17(14):3878-85</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9670005</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Pathol. 1996 Nov;149(5):1449-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">8909234</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cancer Res. 1992 Dec 15;52(24):6940-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">1458483</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Rev Esp Enferm Dig. 2012 Mar;104(3):134-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22449155</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Biol Chem. 2008 Nov;389(11):1427-34</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18783338</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Int J Cancer. 2013 Mar 1;132(5):1133-45</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22752881</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 1984 Nov 30;226(4678):1097-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">6093263</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Hum Cell. 1996 Sep;9(3):223-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9183653</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Jpn J Clin Oncol. 2008 Oct;38(10):661-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">18772168</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1990 Nov 22;348(6299):334-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">2250705</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Carcinogenesis. 2005 Feb;26(2):263-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">15375012</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Adv Hematol. 2012;2012:524308</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21941553</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Oncogene. 2007 Feb 26;26(9):1324-37</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17322918</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Nature. 1997 Feb 13;385(6617):637-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">9024662</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Ann N Y Acad Sci. 2007 Jan;1095:35-44</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">17404015</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Genomics. 1995 Apr 10;26(3):592-4</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">7607685</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Am J Med. 1999 Nov;107(5):489-506</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">10569305</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Crit Rev Clin Lab Sci. 2006;43(1):1-67</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">16531274</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 2003 Jul 26;362(9380):305-15</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">12892963</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Gastric Cancer. 2009;12(3):153-7</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19890695</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>

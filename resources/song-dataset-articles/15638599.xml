@@ -1,0 +1,150 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2019//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_190101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">15638599</PMID>
+        <DateCompleted>
+            <Year>2006</Year>
+            <Month>12</Month>
+            <Day>13</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2013</Year>
+            <Month>11</Month>
+            <Day>21</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0021-9606</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>122</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2005</Year>
+                        <Month>Jan</Month>
+                        <Day>08</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of chemical physics</Title>
+                <ISOAbbreviation>J Chem Phys</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>A nonadditive methanol force field: bulk liquid and liquid-vapor interfacial properties via molecular dynamics simulations using a fluctuating charge model.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>024508</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>We study the bulk and interfacial properties of methanol via molecular dynamics simulations using a CHARMM (Chemistry at HARvard Molecular Mechanics) fluctuating charge force field. We discuss the parametrization of the electrostatic model as part of the ongoing CHARMM development for polarizable protein force fields. The bulk liquid properties are in agreement with available experimental data and competitive with existing fixed-charge and polarizable force fields. The liquid density and vaporization enthalpy are determined to be 0.809 g/cm3 and 8.9 kcal/mol compared to the experimental values of 0.787 g/cm3 and 8.94 kcal/mol, respectively. The liquid structure as indicated by radial distribution functions is in keeping with the most recent neutron diffraction results; the force field shows a slightly more ordered liquid, necessarily arising from the enhanced condensed phase electrostatics (as evidenced by an induced liquid phase dipole moment of 0.7 D), although the average coordination with two neighboring molecules is consistent with the experimental diffraction study as well as with recent density functional molecular dynamics calculations. The predicted surface tension of 19.66+/-1.03 dyn/cm is slightly lower than the experimental value of 22.6 dyn/cm, but still competitive with classical force fields. The interface demonstrates the preferential molecular orientation of molecules as observed via nonlinear optical spectroscopic methods. Finally, via canonical molecular dynamics simulations, we assess the model's ability to reproduce the vapor-liquid equilibrium from 298 to 423 K, the simulation data then used to obtain estimates of the model's critical temperature and density. The model predicts a critical temperature of 470.1 K and critical density of 0.312 g/cm3 compared to the experimental values of 512.65 K and 0.279 g/cm3, respectively. The model underestimates the critical temperature by 8% and overestimates the critical density by 10%, and in this sense is roughly equivalent to the underlying fixed-charge CHARMM22 force field.</AbstractText>
+                <CopyrightInformation>2005 American Institute of Physics.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Patel</LastName>
+                    <ForeName>Sandeep</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Molecular Biology (TPC-6), The Scripps Research Institute, La Jolla, California 92037, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Brooks</LastName>
+                    <ForeName>Charles L</ForeName>
+                    <Initials>CL</Initials>
+                    <Suffix>3rd</Suffix>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>RR06009</GrantID>
+                    <Acronym>RR</Acronym>
+                    <Agency>NCRR NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+                <PublicationType UI="D013487">Research Support, U.S. Gov't, P.H.S.</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Chem Phys</MedlineTA>
+            <NlmUniqueID>0375360</NlmUniqueID>
+            <ISSNLinking>0021-9606</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>059QF0KO0R</RegistryNumber>
+                <NameOfSubstance UI="D014867">Water</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>Y4S76JWI15</RegistryNumber>
+                <NameOfSubstance UI="D000432">Methanol</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D003198" MajorTopicYN="Y">Computer Simulation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D019281" MajorTopicYN="N">Dimerization</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000432" MajorTopicYN="N">Methanol</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008956" MajorTopicYN="Y">Models, Chemical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D044367" MajorTopicYN="Y">Phase Transition</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D055672" MajorTopicYN="N">Static Electricity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013500" MajorTopicYN="N">Surface Tension</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014867" MajorTopicYN="N">Water</DescriptorName>
+                <QualifierName UI="Q000737" MajorTopicYN="N">chemistry</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2005</Year>
+                <Month>1</Month>
+                <Day>11</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2006</Year>
+                <Month>12</Month>
+                <Day>14</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2005</Year>
+                <Month>1</Month>
+                <Day>11</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">15638599</ArticleId>
+            <ArticleId IdType="doi">10.1063/1.1827604</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>
