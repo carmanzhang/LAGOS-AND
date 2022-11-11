@@ -1,8 +1,9 @@
 import time
 
+import numpy as np
 import torch
 from sklearn import metrics
-import numpy as np
+from tqdm import tqdm
 
 
 def train(model, train_loader, criterion, optimizer, epoch, epochs, train_vector, logs_per_epoch=10,
@@ -36,7 +37,7 @@ def train(model, train_loader, criterion, optimizer, epoch, epochs, train_vector
     train_vector.append(train_loss)
 
 
-def validate(model, test_loader, criterion, loss_vector, f1_vector=[], device=torch.device('cuda')):
+def validate(model, test_loader, criterion, loss_vector, f1_vector=[], device=torch.device('cuda'), switch_input=False):
     model.eval()
     val_loss = 0
     metadata = []
@@ -44,27 +45,42 @@ def validate(model, test_loader, criterion, loss_vector, f1_vector=[], device=to
     true_labels = torch.tensor([], device=device)
     print('\nValidating...')
     with torch.no_grad():
-        for (MT, XL, XR, Y) in test_loader:
+        for (MT, XL, XR, Y) in tqdm(test_loader):
             metadata.append(np.array([n.cpu().numpy() for n in MT]))
             # HF, XL, XR, Y = HF.to(device), XL.to(device), XR.to(device), Y.to(device)
             XL, XR, Y = XL.to(device), XR.to(device), Y.to(device)
             # output = model([HF, XL, XR])
-            output = model([XL, XR])
+            if switch_input:
+                output = model([XR, XL])
+            else:
+                output = model([XL, XR])
+
             val_loss += criterion(output, Y).data.item()
-            pred = output.sigmoid()
+
+            if isinstance(criterion, torch.nn.BCEWithLogitsLoss):
+                pred = output.sigmoid()
+
             prediction = torch.cat((prediction, pred))
             true_labels = torch.cat((true_labels, Y))
 
-    true_label_numpy = [int(n[1]) for n in true_labels.cpu().numpy()]
-    pred_label_numpy = [1 if n[1] > 0.5 else 0 for n in prediction.cpu().numpy()]
-    pred_prob = [n[1] for n in prediction.cpu().numpy()]
-
+    if output.size(-1) == 2:
+        true_label_numpy = [int(n[1]) for n in true_labels.cpu().numpy()]
+        pred_label_numpy = [1 if n[1] > 0.5 else 0 for n in prediction.cpu().numpy()]
+        pred_prob = [n[1] for n in prediction.cpu().numpy()]
+    else:
+        true_label_numpy = [int(n) for n in true_labels.cpu().numpy()]
+        pred_label_numpy = [1 if n > 0.5 else 0 for n in prediction.cpu().numpy()]
+        pred_prob = [n[-1] for n in prediction.cpu().numpy()]
+    print(pred_prob[:100])
     accuracy = metrics.accuracy_score(true_label_numpy, pred_label_numpy)
     f1_score = metrics.f1_score(true_label_numpy, pred_label_numpy)
+    macro_f1_score = metrics.f1_score(true_label_numpy, pred_label_numpy, average='macro')
     val_loss /= len(test_loader)
     loss_vector.append(val_loss)
     f1_vector.append(f1_score)
-    print('Validation set: Average loss: {:.4f}\t Accuracy: {:.4f}\t F1-score: {:.4f}\n'.format(val_loss, accuracy,
-                                                                                                f1_score))
+    print('Validation set: Average loss: {:.4f}\t Accuracy: {:.4f}\t F1-score: {:.4f}\t Macro-F1-score: {:.4f}\n'.format(val_loss,
+                                                                                                                         accuracy,
+                                                                                                                         f1_score,
+                                                                                                                         macro_f1_score))
     metadata = np.hstack(metadata)
     return metadata, true_label_numpy, pred_label_numpy, pred_prob

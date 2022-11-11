@@ -2,9 +2,8 @@ import torch
 import torch.nn as nn
 
 
-# Recurrent model
 class MatchGRU(nn.Module):
-    def __init__(self, glove, hidden_dim=64, num_layers=2, num_hand_craft_feature=5, bidirectional=True, output_dim=2):
+    def __init__(self, glove, hidden_dim=64, num_layers=2, num_hand_craft_feature=5, bidirectional=True, output_dim=1):
         super(MatchGRU, self).__init__()
         embedding_dim = len(glove.vectors[0])
         self.embedding = nn.Embedding.from_pretrained(glove.vectors, freeze=True)
@@ -26,26 +25,10 @@ class MatchGRU(nn.Module):
             nn.ReLU(),
             nn.Linear(64, 16),
             nn.ReLU(),
-            nn.Linear(16, 2),
-            nn.ReLU(),
+            nn.Linear(16, 1),
         )
 
-        # # self.ml_hidden_fc = nn.Linear(num_hand_craft_feature + 5, output_dim)
-        # self.ml_hidden_fc = nn.Sequential(
-        #     nn.Linear(num_hand_craft_feature + 1, 6),
-        #     nn.Sigmoid(),
-        #     # nn.Linear(6, 6),
-        #     # nn.ReLU(),
-        #     nn.Linear(6, 6),
-        #     nn.Sigmoid(),
-        #     # nn.Linear(10, 4),
-        #     # nn.ReLU(),
-        #     nn.Linear(6, output_dim)
-        #     # nn.Sigmoid()
-        # )
-
     def forward(self, input):
-        # HF, XL, XR = input
         XL, XR = input
 
         # output: [batch-size, Sequence-len, embedding-dim]
@@ -62,7 +45,11 @@ class MatchGRU(nn.Module):
 
         res = torch.cat([hl, hr], dim=1)
         res = self.match_fc(res)
-        # TODO add hand-craft features
+
+        # convert to 0-1 possibility distribution
+        # res = torch.softmax(res, dim=1)
+
+        # add hand-craft features
         # res = torch.cat([HF, res], dim=1)
         # res = self.ml_hidden_fc(res)
         # print(res.shape)
